@@ -1,8 +1,8 @@
 # How to start
 
-## Open Terminal 
+## Open Terminal
 
-`cd go/src/local/spider/`
+`cd go/src/github.com/fforootd/spider/`
 
 `hugo serve`
 
