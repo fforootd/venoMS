@@ -1,0 +1,83 @@
++++
+title = "2,4-(OH)₂-PhAcAsn5ßAla4Arg"
++++
+
+## Related images
+
+## General Description
+
+| name                         | value             |
+|------------------------------|-------------------|
+| level                        | 2 [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                |
+| first mention                | 1986 / N. pilipes |
+| alternative name(s)          | NSTX 3            |
+| molecular formula            | C₃₀H₅₂N₁₀O₇       |
+| CAS                          | 1190024-26-9      |
+|                              |                   |
+| precursor 1 [M+H]⁺           | 665.40987         |
+| precursor 2 [M+2H]²⁺         | 333.20885         |
+| precursor 3                  |                   |
+|                              |                   |
+| HDX                          | 15                |
+| precursor HDX   [d₁₅-M+D]⁺   | 681.51030         |
+| precursor HDX 2 [d₁₅-M+2D]²⁺ | 341.76220         |
+| precursor HDX 3              |                   |
+|                              |                   |
+| Rt                           |                   |
+| Rt HDX                       |                   |
+
+## MS/MS fragments calculated
+
+| # | a         | b         | c         | ta        | z         | y         | tz        |
+|---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1 | 265.08245 | 247.07189 | 248.05590 | 282.10900 | 228.18244 | 211.15589 | 245.20899 |
+| 2 | 350.17160 | 332.16104 | 333.14505 | 367.19815 | 299.21955 | 282.19300 | 316.24610 |
+| 3 | 421.20871 | 403.19815 | 404.18216 | 438.23526 | 384.30870 | 367.28215 | 401.33525 |
+| 4 | 492.28221 | 474.27165 | 475.25566 | 665.40987 | 498.35163 | 481.32508 | 515.37818 |
+
+## Additional characteristic MS/MS fragments
+
+| m/z       | annotation |
+|-----------|------------|
+|           |            |
+
+## Recorded MS/MS spectra
+
+| pdf | precursor | co-eluting | spider    | source                              |
+|-----|-----------|------------|-----------|-------------------------------------|
+|     |           |            |           |                                     |
+
+## References
+
+| titel                                                                                                                                                                                | reference                                                                                                                                                | spider                    | name       | content                                    | link                                                                                                  |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Chemical characterization of spider toxin, JSTX and NSTX                                                                                                                             | Y. Aramaki, T. Yasuhara, T. Higashijima, M. Yoshioka, A. Miwa, N. Kawai, T. Nakajima, Proc. Jpn. Acad. 1986, 62, 359-362                                 | N. pilipes                | NSTX 3     | NMR, Amino acid analysis                   | [Link](https://www.jstage.jst.go.jp/article/pjab1977/62/9/62_9_359/_article)                          |
+| Chemical characterization of spider toxin, NSTX                                                                                                                                      | Y. Aramaki, T. Yasuhara, T. Higashijima, A. Miwa, N. Kawai, T. Nakajima, Biomed. Res. 1987, 8, 167                                                       | N. pilipes                | NSTX 3     | NMR, Amino acid analysis, Activity-studies | [Link](https://www.jstage.jst.go.jp/article/biomedres/8/3/8_167/_article)                             |
+| Synthesis of a new neurotoxin NSTX-3 of Papua New Guinean spider                                                                                                                     | T. Teshima, T. Wakamiya, Y. Aramaki, T. Nakajima, N. Kawai, T. Shiba, Tetrahedron Letters 1987, 28, 3509-3510                                            | N. pilipes                | NSTX 3     | Synthesis, NMR                             | [Link](https://www.sciencedirect.com/science/article/pii/S0040403900963391)                           |
+| Synthesis of neurotoxic Nephila spider venoms: NSTX-3 and JSTX-3                                                                                                                     | D. M. Nason, V. J. Jasys, P. R. Kelbaugh, D. Philips, N. A. Saccomano, R. A. Volkmann, Tetrahedron Letters 1989, 30, 2337-2340                           |                           | NSTX 3     | Synthesis, NMR                             | [Link](https://www.sciencedirect.com/science/article/pii/S0040403901803920)                           |
+| Characterization of binding sites for spider toxin, [3H]NSTX-3, in the rat brain                                                                                                     | H. Ino, S. Nakade, M. Niinobe, K. Ikenaka, T. Teshima, T. Wakamiya, T. Matsumoto, T. Shiba, N. Kawai, K. Mikoshiba, Neuroscience Research 1990, 8, 29-39 |                           | NSTX 3     | Activity-studies                           | [Link](https://www.sciencedirect.com/science/article/pii/016801029090054I)                            |
+| Spider toxins , NSTX and JSTX block synaptic transmission in insect CNS                                                                                                              | B. Hue, T. Piek, Comparative Biochemistry and Physiology, Part C: Pharmacology, Toxicology & Endocrinology 1990, 95C, 229-232                            |                           | NSTX 3     | Activity-studies                           | [Link](https://www.sciencedirect.com/science/article/pii/074284139090109M)                            |
+| Structure-activity relationship of NSTX-3, spider toxin of Nephila maculata                                                                                                          | T. Teshima, T. Matsumoto, T. Wakamiya, T. Shiba, T. Nakajima, N. Kawai, Tetrahedron 1990, 46, 3813-3818                                                  |                           | NSTX 3     | Activity-studies                           | [Link](https://www.sciencedirect.com/science/article/pii/S0040402001905162)                           |
+| Comparison of some arthropod toxins and toxin fragments as antagonists of excitatory amino acid-induced excitation of rat spinal neurons                                             | M. G. Jones, D. Lodge, European Journal of Pharmacology 1991, 204, 203-209                                                                               |                           | NSTX 3     | Activity-studies                           | [Link](https://www.sciencedirect.com/science/article/pii/001429999190706V)                            |
+| Total synthesis of NSTX-3, spider toxin of Nephila maculata                                                                                                                          | T. Teshima, T. Matsumoto, T. Wakamiya, T. Shiba, Y. Aramaki, T. Nakajima, N. Kawai, Tetrahedron 1991, 47, 3305-3312                                      |                           | NSTX 3 (1) | Synthesis, NMR (ns),                       | [Link](https://www.sciencedirect.com/science/article/pii/S004040200186395X)                           |
+| Antropod toxins as leads for novel insecticides: An assessment of polyamine amides as glutamate antagonists                                                                          | I. S. Blagbrough, P. T. H. Brackley, M. Bruce, B. W. Bycroft, A. J. Mather, S. Millington, H. L. Sudan, P. N. R. Usherwood, Toxicon 1992, 30, 303-322    |                           | NSTX 3     | Review                                     | [Link](https://www.sciencedirect.com/science/article/pii/0041010192908712)                            |
+| Polyamine toxins from spiders and wasps                                                                                                                                              | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125                                                        | N. pilipes                | NSTX 3     | Review                                     | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X)                           |
+| Practical, convergent total synthesis of polyamine amide spider toxin NSTX-3                                                                                                         | I. S. Blagbrough, E. Moya, S. P. Walford, Tetrahedron Letters 1996, 37, 551-554                                                                          |                           | NSTX 3 (1) | Synthesis                                  | [Link](https://www.sciencedirect.com/science/article/pii/0040403995022384)                            |
+| Diversity of Joro spider toxins                                                                                                                                                      | M. Yoshioka,  1997, 117, 700-714                                                                                                                         | N. pilipes                | NSTX 3     | Review                                     | [Link](https://www.jstage.jst.go.jp/article/yakushi1947/117/10-11/117_10-11_700/_article/-char/ja/)   |
+| Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                                            | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                                                                    | N. pilipes                | NSTX 3     | Review                                     | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                     |
+| Novel mechanism of blocking axonal Na+ channels by three macrocyclic polyamine analogues and two spider toxins                                                                       | M. Yakehiro, Y. Furukawa, T. Koike, E. Kimura, T. Nakajima, K. Yamaoka, I. Seyama, British Journal of Pharmacology 2001, 132, 63-72                      |                           | NSTX 3     | Activity-studies                           | [Link](https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1038/sj.bjp.0703765?sid=vendor%3Adatabase) |
+| An efficient and versatile synthesis of acylpolyamine spider toxins                                                                                                                  | K. Nihei, M. J. Kato, T. Yamane, M. S. Palma, K. Konno, Bioorg. Med. Chem. Lett. 2002, 12, 299-302                                                       |                           | NSTX 3     | Synthesis                                  | [Link](https://www.sciencedirect.com/science/article/pii/S0960894X01007338)                           |
+| A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                                                   | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                                                                   | N. borbonica & N. clavata | NSTX 3     | LC-MS                                      | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                     |
+| Spider polyamine toxin                                                                                                                                                               | N. Kawai, Toxicon Review 2005, 24, 273-289                                                                                                               |                           | NSTX 3     | Review                                     | [Link](https://www.tandfonline.com/doi/abs/10.1080/07313830500236721)                                 |
+| An efficient and versatile synthesis of all structural types of acylpolyamine spider toxins                                                                                          | K. Nihei, M. J. Kato, T. Yamane, K. Konno, Tetrahedron 2006, 62, 8335-8350                                                                               |                           | NSTX 3 (6) | Synthesis, NMR, ESI-MS/MS                  | [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                           |
+| General synthesis of beta-alanine-containing spider polyamine toxins and discovery of Nephila polyamine toxins 1 and 8 as highly potent inhibitors of ionotropic glutamate receptors | S. Lucas, M. H. Poulsen, N. G. Norager, A. F. Barslund, T. B. Bach, A. S. Kristensen, K. Strømgaard, J. Med. Chem. 2012, 55, 10297-10301                 |                           | NSTX 3     | Synthesis, NMR, Activity-studies           | [Link](https://pubs.acs.org/doi/abs/10.1021/jm301255m)                                                |
+
+## Spider species
+
+| spider species        | family    | source             |
+|-----------------------|-----------|--------------------|
+| Nephila clavata       | Araneidae | 2005 / M. S. Palma |
+| Nephila pilipes       | Araneidae | 1986 / Y. Aramaki  |
+| Nephilingis borbonica | Araneidae | 2005 / M. S. Palma |
+
+## Comments

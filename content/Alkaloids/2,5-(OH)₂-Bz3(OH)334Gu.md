@@ -1,0 +1,62 @@
++++
+title = "2,5-(OH)₂-Bz3(OH)334Gu"
++++
+
+## Related images
+
+## General Description
+
+| name                       | value                |
+|----------------------------|----------------------|
+| level                      | 4                    |
+| first mention              | 2008 / C. pastoralis |
+| alternative name(s)        | APA 5                |
+| molecular formula          | C₂₁H₃₉N₇O₄           |
+| CAS                        | 1084610-58-1         |
+|                            |                      |
+| precursor 1 [M+H]⁺         | 454.31418            |
+| precursor 2 [M+2H]²⁺       | 227.66100            |
+| precursor 3                |                      |
+|                            |                      |
+| HDX                        | 10                   |
+| precursor HDX   [d-M+D]⁺   | 465.38322            |
+| precursor HDX 2 [d-M+2D]²⁺ | 233.69866            |
+| precursor HDX 3            |                      |
+|                            |                      |
+| Rt                         |                      |
+| Rt HDX                     |                      |
+
+## MS/MS fragments calculated
+
+| # | a         | b         | c         | ta        | z         | y         | tz        |
+|---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1 | 194.08172 | 176.07116 | 177.05517 | 227.10318 | 114.10312 | 97.07657  | 131.12967 |
+| 2 | 267.13448 | 249.12392 | 250.10793 | 284.16103 | 171.16097 | 154.13442 | 188.18752 |
+| 3 | 324.19233 | 306.18177 | 307.16578 | 341.21888 | 228.21882 | 211.19227 | 261.24028 |
+| 4 | 395.26583 | 377.25527 | 378.23928 | 454.31418 | 301.27158 | 284.24503 | 318.29813 |
+
+## Additional characteristic MS/MS fragments
+
+| m/z       | annotation |
+|-----------|------------|
+|           |            |
+
+## Recorded MS/MS spectra
+
+| pdf | precursor | co-eluting | spider    | source                              |
+|-----|-----------|------------|-----------|-------------------------------------|
+|     |           |            |           |                                     |
+
+## References
+
+| titel     | reference   | spider    | name   | content  | link |
+|-----------|-------------|-----------|--------|----------|-----|
+| NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species| F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, PNAS 2008, 105, 14283-14287 | C.  pastoralis | APA 5 | NMR, ESI-MS/MS | [Link](https://www.pnas.org/content/105/38/14283.abstract) |
+
+## Spider species
+
+| spider species      | family     | source                 |
+|---------------------|------------|------------------------|
+| Coelotes pastoralis | Agelenidae | 2008 / F. C. Schroeder |
+
+## Comments

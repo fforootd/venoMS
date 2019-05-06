@@ -1,0 +1,83 @@
++++
+title = "Histamine"
++++
+
+## Related images
+
+![](/img/2.png)
+
+mol file
+
+## General Description
+
+| name                    | value                             |
+|-------------------------|-----------------------------------|
+| Level                   | 2                                 |
+| First mention           | 1957 / L. erythrognatha & P. fera |
+| Alternative name(s)     |                                   |
+| Molecular formula       | C₅H₉N₃                            |
+| CAS                     | 51-45-6                           |
+|                         |                                   |
+| precursor [M+H]⁺        | 112.08747                         |
+|                         |                                   |
+| HDX                     | 3                                 |
+| precursor HDX [d₃-M+D]⁺ | 116.11258                         |
+|                         |                                   |
+| Rt                      |                                   |
+| Rt HDX                  |                                   |
+
+
+
+## MS/MS fragments
+
+| m/z       | molecular formula | annotation        |
+|-----------|-------------------|-------------------|
+
+
+## Recorded MS/MS spectra
+
+| pdf | precursor | co-eluting | spider    | source                       |
+|-----|-----------|------------|-----------|------------------------------|
+
+
+
+## References
+
+| titel                                                                                                                                                        | reference                                                                                                                                                                                     | spider                     | name | content              | link                                                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|------|----------------------|--------------------------------------------------------------------------|
+| The venom of the Brazilian tarantula, Lycosa erythrognatha, and the spider, Phoneutria fera                                                                  | F. G. Fischer, H. Bohn, Hoppe Seylers Z. Physiol. Chem. 1957, 306, 265-268                                                                                                                    | L. erythrognatha & P. fera |      |                      | [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.19576030124)         |
+| Phoneutria nigriventer venom. Pharmacology and biochemistry of its components                                                                                | In: Venomous animals and their venoms (New York: Academic Press, 1973), S. Schenberg, F. A. Pereira-Lima                                                                                      | P. nigriventer             |      |                      |                                                                          |
+| Preliminary studies on the venom of three Indian spider                                                                                                      | G. Ridling Margaret, G. J. Phanuel, Proc. Indian Acad. Sci. 1988, 97, 3, 231-237                                                                                                              | L. indagatrix              |      | paper chromatography | [link](https://www.ias.ac.in/article/fulltext/anml/097/03/0231-0237)             |
+| Determination of biogenic amines in spider venom glands of nine typical Japanese species and chromatographic elution pattern analysis of venomous components | K. Hagiwara, A. Tokita, A. Miwa, N. Kawai, Y. Murata, A. Uchida, T. Nakajima, Jpn. J. Sanit. Zool. 1991, 42, 2, 77-84                                                                         | C. japonicum               |      |                      | [link](https://doi.org/10.7601/mez.42.77)                                        |
+| Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae)                   | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302                                                                                                                        | C. salei                   |      |                      | [link](https://doi.org/10.1016/0041-0101(94)90082-5)                             |
+| Quantity and quality of venom released by a spider (Cupiennius salei, Ctenidae)                                                                              | J.-L. Boeve, L. Kuhn-Nentwig, S. Keller, W. Nentwig, Toxicon 1995, 33, 10, 1347-1357                                                                                                          | C. salei                   |      |                      | [link](https://doi.org/10.1016/0041-0101(95)00066-U)                             |
+| Taurine and histamine: Low molecular compounds in prey hemolymph increase the killing power of spider venom                                                  | L. Kuhn-Nentwig, A. Bücheler, A. Studer, W. Nentwig, Naturwissenschaften 1998, 85, 3, 136-138                                                                                                 |                            |      |                      | [link](https://doi.org/10.1007/s001140050471)                                    |
+| Evidence that histamine is the principal pharmacological component of venom from an Australian wolf spider (Lycosa godeffroyi)                               | L. D. Rash, R. G. King, W. C. Hodgson, Toxicon 1998, 36, 2, 367-375                                                                                                                           | L. godeffroyi              |      |                      | [link](https://doi.org/10.1016/S0041-0101(97)00072-X)                            |
+| Sex differences in the pharmacological activity of venom from the white-tailed spider (Lampona cylindrata)                                                   | L. D. Rash, R. G. King, W. C. Hodgsen, Toxicon 2000, 38, 8, 1111-1127                                                                                                                         | L. cylindrata              |      |                      | [link](https://doi.org/10.1016/S0041-0101(99)00226-3)                            |
+| Spider venom: enhancement of venom efficacy mediated by different synergistic strategies in Cupiennius salei                                                 | B. Wullschleger, W. Nentwig, L. Kuhn-Nentwig, J. Exp. Biol. 2005, 208, 2115-2121                                                                                                              | C. salei                   |      |                      | [link](http://jeb.biologists.org/content/208/11/2115.long)                       |
+| Chromatographic analysis of large numbers of marine bacterial extracts and the venom of the spider Cupiennius salei                                          | K. Böröczky, PhD-Thesis, Technische Universität Carolo-Wilhelmina zu Braunschweig, 2005                                                                                                       | C. salei                   |      | GC-MS                | [link](https://publikationsserver.tu-braunschweig.de/receive/dbbs_mods_00001694) |
+| NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species                       | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, PNAS 2008, 105, 14283-14287                                                                     | div.                       |      | NMR-screening        | [link](https://doi.org/10.1073/pnas.0806840105)                                  |
+| Mass spectrometric characterisation and quantification of selected low molecular mass compounds from the venom of Haplopelma lividum (Theraphosidae)         | S. Moore, W. F. Smyth, V. A. Gault, E. O'Kane, S. McClean, Rapid Commun. Mass. Spectrom. 2009, 23, 1747-1755                                                                                  | C. lividum                 |      |  HPLC-ESI-MS/MS                    | [link](https://doi.org/10.1002/rcm.4063)                                         |
+| Inflammatory events induced by brown spider venom and its recombinant dermonecrotic toxin: A pharmacological investigation                                   | K. S. Paludo, S. M. P. Biscaia, O. M. Chaim, M. F. Otuki, K. Naliwaiko, P. A. Dombrowski, C. R. C. Franco, S. S. Veiga, Comparative Biochemistry and Physiology, Part C 2009, 149, 3, 323-333 | L. intermedia              | name | content              | [link](https://doi.org/10.1016/j.cbpc.2008.08.009)                               |
+
+
+## Spider species
+
+| spider species           | family           | first mention              |
+|--------------------------|------------------|----------------------------|
+| Cheiracanthium japonicum | Cheiracanthiidae | 1991 / K. Hagiwara         |
+| Cupiennius salei         | Cupiennius       | 1994 / L. Kuhn-Nentwig     |
+| Cyriopagopus lividum     | Theraphosidae    | 2008 / F. C. Schroeder     |
+| Eusparassus oculatus     | Sparassidae      | 2008 / F. C. Schroeder     |
+| Lampona cylindrata       | Lamponidae       | 2000 / L. D. Rash          |
+| Loxosceles intermedia    | Sicariidae       | 2009 / K. S. Paludo        |
+| Lycosa erythrognatha     | Lycosidae        | 1957 / F. G. Fischer       |
+| Lycosa godeffroyi        | Lycosidae        | 1998 / L. D. Rash          |
+| Lycosa indagatrix        | Lycosidae        | 1988 / G. Ridling Margaret |
+| Lycosa praegrandis       | Lycosidae        | 2008 / F. C. Schroeder     |
+| Neoscona nautica         | Araneidae        | 1991 / K. Hagiwara         |
+| Phidippus sp.            | Salticidae       | 2008 / F. C. Schroeder     |
+| Phoneutria fera          | Ctenidae         | 1957 / F. G. Fischer       |
+| Phoneutria nigriventer   | Ctenidae         | 1973 / S. Schenberg        |
+
+## Comments
