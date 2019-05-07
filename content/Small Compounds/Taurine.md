@@ -2,12 +2,7 @@
 title = "Taurine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Taurine.png)
 
 ## General Description
 

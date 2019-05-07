@@ -2,12 +2,7 @@
 title = "DOPAC"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/DOPAC.png)
 
 ## General Description
 

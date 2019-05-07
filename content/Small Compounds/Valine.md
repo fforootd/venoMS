@@ -2,11 +2,7 @@
 title = "Valine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/valine.png)
 
 ## General Description
 

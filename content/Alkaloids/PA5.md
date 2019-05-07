@@ -2,11 +2,7 @@
 title = "PA5"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/PA5.png)
 
 ## General Description
 

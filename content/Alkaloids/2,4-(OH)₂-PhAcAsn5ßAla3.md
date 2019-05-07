@@ -2,7 +2,7 @@
 title = "2,4-(OH)₂-PhAcAsn5ßAla3"
 +++
 
-## Related images
+![](/img/2-4-OH2-PhAcAsn5bAla3.png)
 
 ## General Description
 

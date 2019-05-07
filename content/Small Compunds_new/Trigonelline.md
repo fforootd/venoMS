@@ -2,12 +2,7 @@
 title = "Trigonelline"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Trigonelline.png)
 
 ## General Description
 

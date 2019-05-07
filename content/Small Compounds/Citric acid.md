@@ -2,12 +2,7 @@
 title = "Citric acid"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Citric acid.png)
 
 ## General Description
 

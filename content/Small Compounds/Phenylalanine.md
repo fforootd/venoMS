@@ -2,11 +2,7 @@
 title = "Phenylalanine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Phenylalanine.png)
 
 ## General Description
 

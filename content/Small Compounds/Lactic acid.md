@@ -2,11 +2,7 @@
 title = "Lactic acid"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Lactic acid.png)
 
 ## General Description
 

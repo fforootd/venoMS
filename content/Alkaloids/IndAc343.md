@@ -2,11 +2,7 @@
 title = "IndAc343"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/IndAc343.png)
 
 ## General Description
 

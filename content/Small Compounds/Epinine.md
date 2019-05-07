@@ -2,12 +2,7 @@
 title = "Epinine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Epinine.png)
 
 ## General Description
 

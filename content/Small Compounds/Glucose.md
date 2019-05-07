@@ -2,12 +2,7 @@
 title = "Glucose"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Glucose.png)
 
 ## General Description
 

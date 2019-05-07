@@ -2,7 +2,7 @@
 title = "IndAc3(OH)3343"
 +++
 
-## Related images
+![](/img/IndAc3(OH)3343.png)
 
 ## General Description
 

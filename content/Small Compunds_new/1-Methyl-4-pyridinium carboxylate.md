@@ -2,12 +2,7 @@
 title = "1-Methyl-4-pyridinium carboxylate"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/1-Methyl-4-pyridinium carboxylate.png)
 
 ## General Description
 

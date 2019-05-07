@@ -2,11 +2,7 @@
 title = "4-OH-Bz3(OH)343"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/4-OH-Bz3(OH)343.png)
 
 ## General Description
 

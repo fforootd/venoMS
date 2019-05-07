@@ -2,12 +2,7 @@
 title = "Aspartic acid"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Aspartic acid.png)
 
 ## General Description
 

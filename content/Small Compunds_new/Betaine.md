@@ -2,12 +2,7 @@
 title = "Betaine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Betaine.png)
 
 ## General Description
 
@@ -26,8 +21,6 @@ mol file
 |                       |             |
 | Rt                    | 1.15        |
 | Rt HDX                |             |
-
-
 
 ## MS/MS fragments
 

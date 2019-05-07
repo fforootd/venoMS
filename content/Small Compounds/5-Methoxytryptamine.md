@@ -2,12 +2,7 @@
 title = "5-Methoxytryptamine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/5-Methoxy-tryptamine.png)
 
 ## General Description
 

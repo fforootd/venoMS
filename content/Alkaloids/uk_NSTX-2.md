@@ -2,11 +2,7 @@
 title = "NSTX-2"
 +++
 
-## Related images
-
 ![](/img/2.png)
-
-mol file
 
 ## General Description
 

@@ -2,12 +2,7 @@
 title = "5'-Sulfated guanosine, 3'-ß-fucose"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/5-Sulfated guanosine_3-b-fucose.png)
 
 ## General Description
 

@@ -2,12 +2,7 @@
 title = "2',5'-Bissulfated guanosine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/2-5-Bissulfated guanosine.png)
 
 ## General Description
 

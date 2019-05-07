@@ -2,11 +2,7 @@
 title = "Threonine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Threonine.png)
 
 ## General Description
 

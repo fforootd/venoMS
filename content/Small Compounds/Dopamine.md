@@ -2,11 +2,7 @@
 title = "Dopamine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Dopamine.png)
 
 ## General Description
 

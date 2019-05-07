@@ -2,12 +2,7 @@
 title = "Hypoxanthine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Hypoxanthine.png)
 
 ## General Description
 

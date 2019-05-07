@@ -2,11 +2,7 @@
 title = "Glutamic acid"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Glutamic_acid.png)
 
 ## General Description
 

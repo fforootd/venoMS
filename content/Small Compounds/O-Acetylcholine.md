@@ -2,12 +2,7 @@
 title = "O-Acetylcholine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/O-Acetylcholine.png)
 
 ## General Description
 
@@ -27,8 +22,6 @@ mol file
 | Rt                  |             |
 | Rt HDX              |             |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation        |
@@ -39,8 +32,6 @@ mol file
 
 | pdf | precursor | co-eluting | spider    | source                       |
 |-----|-----------|------------|-----------|------------------------------|
-
-
 
 ## References
 

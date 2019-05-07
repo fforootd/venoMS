@@ -2,11 +2,7 @@
 title = "PA4"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/PA4.png)
 
 ## General Description
 

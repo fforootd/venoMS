@@ -1,12 +1,9 @@
 +++
-title = "igriventrine"
+title = "Nigriventrine"
 +++
 
-## Related images
+![](/img/Nigriventrine.png)
 
-![](/img/2.png)
-
-mol file
 ## General Description
 
 | name                    | value                 |

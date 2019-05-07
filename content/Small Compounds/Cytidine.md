@@ -2,12 +2,7 @@
 title = "Cytidine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Cytidine.png)
 
 ## General Description
 

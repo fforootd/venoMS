@@ -2,12 +2,7 @@
 title = "Propinoyl carnitine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Propinoyl carnitine.png)
 
 ## General Description
 

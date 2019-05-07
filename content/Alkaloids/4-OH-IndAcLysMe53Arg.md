@@ -2,7 +2,7 @@
 title = "4-OH-IndAcLysMe53Arg"
 +++
 
-## Related images
+![](/img/4-OH-IndAcLysMe53Arg.png)
 
 ## General Description
 

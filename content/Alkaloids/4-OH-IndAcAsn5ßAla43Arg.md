@@ -2,7 +2,7 @@
 title = "4-OH-IndAcAsn5ßAla43Arg"
 +++
 
-## Related images
+![](/img/4-OH-IndAcAsn5bAla43Arg.png)
 
 ## General Description
 

@@ -2,7 +2,7 @@
 title = "PhAcAsn3(Me)43"
 +++
 
-## Related images
+![](/img/PhAcAsn3(Me)43.png)
 
 ## General Description
 

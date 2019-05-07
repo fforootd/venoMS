@@ -2,12 +2,7 @@
 title = "Guanidinopentyl-gunidinobutyl-oxalamide"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Guanidinopentyl-guanidinobutyl-oxalamide.png)
 
 ## General Description
 

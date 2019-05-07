@@ -2,12 +2,7 @@
 title = "N-Acetylhistamine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/N-Acetylhistamine.png)
 
 ## General Description
 
@@ -26,8 +21,6 @@ mol file
 |                         |             |
 | Rt                      |             |
 | Rt HDX                  |             |
-
-
 
 ## MS/MS fragments
 

@@ -2,7 +2,7 @@
 title = "Arg 480"
 +++
 
-## Related images
+![](/img/2.png)
 
 ## General Description
 

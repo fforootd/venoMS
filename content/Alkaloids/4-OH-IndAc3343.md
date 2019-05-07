@@ -2,7 +2,7 @@
 title = "4-OH-IndAc3343"
 +++
 
-## Related images
+![](/img/4-OH-IndAc3343.png)
 
 ## General Description
 

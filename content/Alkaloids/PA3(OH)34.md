@@ -2,11 +2,7 @@
 title = "PA3(OH)34"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/PA3(OH)34.png)
 
 ## General Description
 

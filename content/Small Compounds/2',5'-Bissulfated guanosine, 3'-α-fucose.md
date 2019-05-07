@@ -2,12 +2,7 @@
 title = "2',5'-Bissulfated guanosine, 3'-α-fucose"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/2-5-bissulfated guanosine_3-a-fucose.png)
 
 ## General Description
 

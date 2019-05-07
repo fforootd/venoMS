@@ -2,12 +2,7 @@
 title = "Tryptamine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Tryptamine.png)
 
 ## General Description
 

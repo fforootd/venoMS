@@ -2,12 +2,7 @@
 title = "Choline"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Choline.png)
 
 ## General Description
 

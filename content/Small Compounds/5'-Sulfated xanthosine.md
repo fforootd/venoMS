@@ -2,12 +2,7 @@
 title = "5'-Sulfated xanthosine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/5-sulfated xanthosine.png)
 
 ## General Description
 

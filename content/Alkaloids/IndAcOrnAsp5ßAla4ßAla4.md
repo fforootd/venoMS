@@ -2,7 +2,7 @@
 title = "IndAcOrnAsp5ßAla4ßAla4"
 +++
 
-## Related images
+![](/img/IndAcOrnAsp5bAla4bAla4.png)
 
 ## General Description
 

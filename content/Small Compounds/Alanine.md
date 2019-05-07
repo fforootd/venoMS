@@ -2,12 +2,7 @@
 title = "Alanine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Alanine.png)
 
 ## General Description
 

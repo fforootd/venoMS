@@ -2,7 +2,7 @@
 title = "4-OH-IndAc3(OH)335(NMe₃)⁺"
 +++
 
-## Related images
+![](/img/4-OH-IndAc3(OH)335(NMe3).png)
 
 ## General Description
 

@@ -2,11 +2,7 @@
 title = "Cysteine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Cysteine.png)
 
 ## General Description
 

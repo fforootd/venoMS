@@ -2,11 +2,7 @@
 title = "Arginine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Arginine.png)
 
 ## General Description
 

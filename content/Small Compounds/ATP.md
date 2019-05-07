@@ -2,11 +2,7 @@
 title = "ATP"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/ATP.png)
 
 ## General Description
 
@@ -25,8 +21,6 @@ mol file
 |                         |                                    |
 | Rt                      |                                    |
 | Rt HDX                  |                                    |
-
-
 
 ## MS/MS fragments
 

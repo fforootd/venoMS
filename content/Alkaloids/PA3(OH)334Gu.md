@@ -2,11 +2,7 @@
 title = "PA3(OH)334Gu"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/PA3(OH)334Gu.png)
 
 ## General Description
 

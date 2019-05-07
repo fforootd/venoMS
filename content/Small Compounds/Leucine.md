@@ -2,12 +2,7 @@
 title = "Leucine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Leucine.png)
 
 ## General Description
 

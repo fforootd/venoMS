@@ -2,14 +2,9 @@
 title = "Proline"
 +++
 
-## Related images
+![](/img/Proline.png)
 
-![](/img/2.png)
-
-mol file
-
-
-## General Description## General Description
+## General Description
 
 | name                    | value              |
 |-------------------------|--------------------|

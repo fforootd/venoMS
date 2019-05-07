@@ -2,11 +2,7 @@
 title = "4-OH-PhLac343"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/4-OH-PhLac343.png)
 
 ## General Description
 

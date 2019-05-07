@@ -2,11 +2,7 @@
 title = "HF-7"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/HF-7.png)
 
 ## General Description
 
@@ -26,13 +22,10 @@ mol file
 | Rt                      |                 |
 | Rt HDX                  |                 |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation        |
 |-----------|-------------------|-------------------|
-
 
 ## Recorded MS/MS spectra
 

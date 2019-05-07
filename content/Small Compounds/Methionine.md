@@ -2,12 +2,7 @@
 title = "Methionine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Methionine.png)
 
 ## General Description
 

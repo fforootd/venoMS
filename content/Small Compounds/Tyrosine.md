@@ -2,11 +2,7 @@
 title = "Tyrosine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Tyrosine.png)
 
 ## General Description
 

@@ -2,7 +2,7 @@
 title = "IndLac4(Me₂)3(Me₂)3²⁺"
 +++
 
-## Related images
+![](/img/IndLac4(Me2)3(Me2)3.png)
 
 ## General Description
 

@@ -2,11 +2,7 @@
 title = "Glutamine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Glutamine.png)
 
 ## General Description
 

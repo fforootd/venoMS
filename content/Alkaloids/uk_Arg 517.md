@@ -2,7 +2,7 @@
 title = "Arg 517"
 +++
 
-## Related images
+![](/img/2.png)
 
 ## General Description
 

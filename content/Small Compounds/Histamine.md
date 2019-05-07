@@ -2,11 +2,7 @@
 title = "Histamine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Histamine.png)
 
 ## General Description
 

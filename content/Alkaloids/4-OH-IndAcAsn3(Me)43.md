@@ -1,8 +1,7 @@
 +++
 title = "4-OH-IndAcAsn3(Me)43"
 +++
-
-## Related images
+![](/img/4-OH-IndAcAsn3(Me)43.png)
 
 ## General Description
 

@@ -2,12 +2,7 @@
 title = "Tryptophan"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Tryptophan.png)
 
 ## General Description
 

@@ -2,12 +2,7 @@
 title = "Lysine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Lysine.png)
 
 ## General Description
 

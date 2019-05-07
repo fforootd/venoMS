@@ -2,12 +2,7 @@
 title = "Pantothenic acid"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Pantothenic acid.png)
 
 ## General Description
 
@@ -27,8 +22,6 @@ mol file
 |                         |                     |
 | Rt                      | 4.57                |
 | Rt HDX                  |                     |
-
-
 
 ## MS/MS fragments
 

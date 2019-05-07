@@ -2,12 +2,7 @@
 title = "Noradrenaline"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Noradrenaline.png)
 
 ## General Description
 

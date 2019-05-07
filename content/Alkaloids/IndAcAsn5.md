@@ -2,11 +2,7 @@
 title = "IndAcAsn5"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/IndAcAsn5.png)
 
 ## General Description
 

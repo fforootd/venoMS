@@ -2,11 +2,7 @@
 title = "Isoleucine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Isoleucine.png)
 
 ## General Description
 

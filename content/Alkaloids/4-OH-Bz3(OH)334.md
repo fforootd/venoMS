@@ -4,7 +4,7 @@ title = "4-OH-Bz3(OH)334"
 
 ## Related images
 
-![](/img/2.png)
+![](/img/4-OH-Bz3(OH)334.png)
 
 mol file
 

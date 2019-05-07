@@ -2,7 +2,7 @@
 title = "4-OH-IndAc3(OH)334Gu"
 +++
 
-## Related images
+![](/img/4-OH-IndAc3(OH)334Gu.png)
 
 ## General Description
 

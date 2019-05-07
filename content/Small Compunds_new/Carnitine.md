@@ -2,12 +2,7 @@
 title = "Carnitine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Carnitine.png)
 
 ## General Description
 

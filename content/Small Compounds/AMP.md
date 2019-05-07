@@ -2,12 +2,7 @@
 title = "AMP"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/AMP.png)
 
 ## General Description
 

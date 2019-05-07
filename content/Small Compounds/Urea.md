@@ -2,12 +2,7 @@
 title = "Urea"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Urea.png)
 
 ## General Description
 

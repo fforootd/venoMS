@@ -2,11 +2,7 @@
 title = "Phosphoric acid"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Phosphoric acid.png)
 
 ## General Description
 

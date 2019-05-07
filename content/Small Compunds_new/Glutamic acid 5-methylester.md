@@ -2,12 +2,7 @@
 title = "Glutamic acid 5-methylester"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Glutamic acid 5-methylester.png)
 
 ## General Description
 

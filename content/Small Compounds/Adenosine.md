@@ -2,12 +2,7 @@
 title = "Adenosine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Adenosine.png)
 
 ## General Description
 

@@ -2,7 +2,7 @@
 title = "NA 687"
 +++
 
-## Related images
+![](/img/2.png)
 
 ## General Description
 

@@ -2,11 +2,7 @@
 title = "APC 600"
 +++
 
-## Related images
-
 ![](/img/2.png)
-
-mol file
 
 ## General Description
 

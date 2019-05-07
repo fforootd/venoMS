@@ -2,12 +2,7 @@
 title = "ADP"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/ADP.png)
 
 ## General Description
 

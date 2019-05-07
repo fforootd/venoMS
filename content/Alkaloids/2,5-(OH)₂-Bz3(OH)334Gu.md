@@ -4,6 +4,8 @@ title = "2,5-(OH)₂-Bz3(OH)334Gu"
 
 ## Related images
 
+![](/img/2-5-OH2-Bz3(OH)334Gu.png)
+
 ## General Description
 
 | name                       | value                |

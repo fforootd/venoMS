@@ -2,12 +2,7 @@
 title = "Acetylcarnitine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Acetylcarnitine.png)
 
 ## General Description
 

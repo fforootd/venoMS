@@ -2,11 +2,7 @@
 title = "5'-Sulfated guanosine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/5-sulfated guanosine.png)
 
 ## General Description
 
@@ -25,8 +21,6 @@ mol file
 |                         |                    |
 | Rt                      | 2.46               |
 | Rt HDX                  | 1.91               |
-
-
 
 ## MS/MS fragments
 

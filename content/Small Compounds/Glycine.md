@@ -2,11 +2,8 @@
 title = "Glycine"
 +++
 
-## Related images
+![](/img/Glycine.png)
 
-![](/img/2.png)
-
-mol file
 
 ## General Description
 

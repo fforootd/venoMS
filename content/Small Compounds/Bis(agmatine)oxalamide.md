@@ -2,12 +2,7 @@
 title = "Bis(agmatine)oxalamide"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Bis(agmatine)oxalamide.png)
 
 ## General Description
 
@@ -26,8 +21,6 @@ mol file
 |                         |                   |
 | Rt                      |                   |
 | Rt HDX                  |                   |
-
-
 
 ## MS/MS fragments
 

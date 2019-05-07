@@ -2,11 +2,7 @@
 title = "PwTx-I"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/PwTx-I.png)
 
 ## General Description
 

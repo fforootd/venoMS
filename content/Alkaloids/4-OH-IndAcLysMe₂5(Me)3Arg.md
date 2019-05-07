@@ -2,7 +2,7 @@
 title = "4-OH-IndAcLysMe₂5(Me)3Arg"
 +++
 
-## Related images
+![](/img/4-OH-IndAcLysMe25(Me)3Arg.png)
 
 ## General Description
 

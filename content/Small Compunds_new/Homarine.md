@@ -2,12 +2,7 @@
 title = "Homarine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Homarine.png)
 
 ## General Description
 

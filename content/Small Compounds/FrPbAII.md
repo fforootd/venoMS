@@ -2,12 +2,7 @@
 title = "FrPbAII"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/FrPbAII.png)
 
 ## General Description
 

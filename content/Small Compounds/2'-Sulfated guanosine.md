@@ -2,11 +2,7 @@
 title = "2'-Sulfated guanosine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/2-Sulfated guanosine.png)
 
 ## General Description
 

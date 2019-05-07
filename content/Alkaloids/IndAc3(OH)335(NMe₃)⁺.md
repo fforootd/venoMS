@@ -2,7 +2,7 @@
 title = "IndAc3(OH)335(NMe₃)⁺"
 +++
 
-## Related images
+![](/img/IndAc3(OH)335(NMe3).png)
 
 ## General Description
 

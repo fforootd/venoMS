@@ -2,12 +2,7 @@
 title = "Adenine"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Adenine.png)
 
 ## General Description
 

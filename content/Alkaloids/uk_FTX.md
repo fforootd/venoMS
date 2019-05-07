@@ -2,12 +2,7 @@
 title = "FTX"
 +++
 
-## Related images
-
 ![](/img/2.png)
-
-mol file
-
 
 ## General Description
 

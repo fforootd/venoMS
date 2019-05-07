@@ -2,12 +2,7 @@
 title = "Uric acid"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/Uric acid.png)
 
 ## General Description
 

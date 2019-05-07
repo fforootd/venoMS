@@ -2,12 +2,7 @@
 title = "GABA"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/GABA.png)
 
 ## General Description
 
