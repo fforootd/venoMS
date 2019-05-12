@@ -8,7 +8,7 @@ title = "Choline"
 
 | name                  | value                              |
 |-----------------------|------------------------------------|
-| Level                 | 2                                  |
+| Level                 | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PR100405)                                 |
 | First mention         | 2008 / A. diadematus & Ariadna sp. |
 | Alternative name(s)   |                                    |
 | Molecular formula     | C₅H₁₄NO                            |
@@ -21,8 +21,6 @@ title = "Choline"
 |                       |                                    |
 | Rt                    |                                    |
 | Rt HDX                |                                    |
-
-
 
 ## MS/MS fragments
 
@@ -41,9 +39,7 @@ title = "Choline"
 
 | titel                                                                                                            | reference                                                         | spider     | name  | content     | link                                         |
 |------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------|-------|-------------|----------------------------------------------|
-| NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species     | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, Proc. Natl. Acad. Sci. U.S.A. 2008, 105, 14283-14287 | A. diadematus & Ariadna sp.   |      | NMR-screening | [link](https://doi.org/10.1073/pnas.0806840105)    |
-
-
+| NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species     | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, Proc. Natl. Acad. Sci. U.S.A. 2008, 105, 14283-14287 | A. diadematus & Ariadna sp.   |      | NMR-screening | [Link](https://doi.org/10.1073/pnas.0806840105)    |
 
 ## Spider species
 

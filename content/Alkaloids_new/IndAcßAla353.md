@@ -2,13 +2,13 @@
 title = "IndAcßAla353"
 +++
 
-## Related images
+![](/img/IndAcbAla353.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / Lachesana sp. |
 | alternative name(s)         | LH 444               |
 | molecular formula           | C₂₄H₄₀N₆O₂           |
@@ -26,7 +26,7 @@ title = "IndAcßAla353"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAcßAla353"
 | 3 | 371.24470 | 353.23414 | 354.21815 | 388.27125 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 428.30255 | 410.29199 | 411.27600 | 445.32910 | 271.24978 | 254.22323 | 288.27633 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

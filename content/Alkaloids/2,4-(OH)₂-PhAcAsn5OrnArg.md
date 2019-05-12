@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn5OrnArg"
 
 | name                         | value             |
 |------------------------------|-------------------|
-| level                        | 5                 |
+| level                        | V                 |
 | first mention                | 1990 / N. clavata |
 | alternative name(s)          | JSTX 4            |
 | molecular formula            | C₂₈H₄₈N₁₀O₇       |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn5OrnArg"
 | Rt                           |                   |
 | Rt HDX                       |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "2,4-(OH)₂-PhAcAsn5OrnArg"
 | 2 | 350.17160 | 332.16104 | 333.14505 | 367.19815 | 356.27740 | 339.25085 | 373.30395 |
 | 3 | 464.25091 | 446.24035 | 447.22436 | 637.37857 | 470.32033 | 453.29378 | 487.34688 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

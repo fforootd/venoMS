@@ -8,7 +8,7 @@ title = "IndAc3(OH)335(NMe₃)⁺"
 
 | name                       | value                                   |
 |----------------------------|-----------------------------------------|
-| level                      | 3                                       |
+| level                      | III                                     |
 | first mention              | 1992 / A. aperta                        |
 | alternative name(s)        | AG 488 / AG 489a / Agel 489 / Agel 489a |
 | molecular formula          | C₂₇H₄₉N₆O₂⁺                             |
@@ -26,7 +26,7 @@ title = "IndAc3(OH)335(NMe₃)⁺"
 | Rt                         |                                         |
 | Rt HDX                     |                                         |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAc3(OH)335(NMe₃)⁺"
 | 3 | 345.22905 | 327.21849 | 328.20250 | 362.25560 | 242.25963 | 223.21743 | 276.28891 |
 | 4 | 430.31820 | 412.30764 | 413.29165 | 489.39170 | 315.31239 | 295.26236 | 333.34676 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

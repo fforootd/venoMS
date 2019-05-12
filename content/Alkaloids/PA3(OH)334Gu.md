@@ -8,7 +8,7 @@ title = "PA3(OH)334Gu"
 
 | name                        | value              |
 |-----------------------------|--------------------|
-| Level                       | 4                  |
+| Level                       | IV                 |
 | First mention               | 2005 / P. luctuosa |
 | Alternative name(s)         | ---                |
 | Molecular formula           | C₁₄H₃₅N₇O          |
@@ -26,7 +26,7 @@ title = "PA3(OH)334Gu"
 | Rt                          |                    |
 | Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "PA3(OH)334Gu"
 | 3 | 188.17629 | 170.16573 | 171.14974 | 205.20284 | 228.21882 | 211.19227 | 261.24028 |
 | 4 | 259.24979 | 241.23923 | 242.22324 | 318.29814 | 301.27158 | 284.24503 | 318.29813 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

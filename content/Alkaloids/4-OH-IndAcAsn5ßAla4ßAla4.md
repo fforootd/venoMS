@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 673 / NPTX 673D |
 | molecular formula            | C₃₃H₅₅N₉O₆           |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "4-OH-IndAcAsn5ßAla4ßAla4"
 | 5 | 586.33530 | 568.32474 | 569.30875 | 603.36185 | 370.31819 | 353.29164 | 387.34474 |
 | 6 | 657.40880 | 639.39824 | 640.38225 | 674.43535 | 484.36112 | 467.33457 | 501.38767 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

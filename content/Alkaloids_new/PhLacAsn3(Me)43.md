@@ -2,13 +2,13 @@
 title = "PhLacAsn3(Me)43"
 +++
 
-## Related images
+![](/img/PhLacAsn3(Me)43.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 478A              |
 | molecular formula           | C₂₄H₄₂N₆O₄           |
@@ -26,7 +26,7 @@ title = "PhLacAsn3(Me)43"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "PhLacAsn3(Me)43"
 | 3 | 405.25018 | 387.23962 | 388.22363 | 422.27673 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 462.30803 | 444.29747 | 445.28148 | 479.33458 | 314.25560 | 297.22905 | 331.28215 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -8,7 +8,7 @@ title = "4-OH-Bz3334Gu"
 
 | name                        | value              |
 |-----------------------------|--------------------|
-| level                       | 4                  |
+| level                       | IV                 |
 | first mention               | 2000 / P. luctuosa |
 | alternative name(s)         | PB 421             |
 | molecular formula           | C₂₁H₃₉N₇O₂         |
@@ -26,7 +26,7 @@ title = "4-OH-Bz3334Gu"
 | Rt                          |                    |
 | Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-Bz3334Gu"
 | 3 | 292.20250 | 274.19194 | 275.17595 | 309.22905 | 228.21882 | 211.19227 | 245.24537 |
 | 4 | 363.27600 | 345.26544 | 346.24945 | 422.32435 | 285.27667 | 268.25012 | 302.30322 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

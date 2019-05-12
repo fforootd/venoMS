@@ -2,13 +2,13 @@
 title = "4-OH-IndAcßAla343"
 +++
 
-## Related images
+![](/img/4-OH-IndAcbAla343.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / Lachesana sp. |
 | alternative name(s)         | LH 446               |
 | molecular formula           | C₂₃H₃₈N₆O₃           |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcßAla343"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAcßAla343"
 | 3 | 373.22396 | 355.21340 | 356.19741 | 390.25051 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 430.28181 | 412.27125 | 413.25526 | 447.30836 | 257.23413 | 240.20758 | 274.26068 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

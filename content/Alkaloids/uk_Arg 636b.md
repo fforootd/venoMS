@@ -8,7 +8,7 @@ title = "Arg 636b"
 
 | name                       | value         |
 |----------------------------|---------------|
-| Level                      | 6             |
+| Level                      | VI            |
 | First mention              | ? / A. lobata |
 | Alternative name(s)        | Arg 636b      |
 | Molecular formula          |               |
@@ -26,12 +26,12 @@ title = "Arg 636b"
 | Rt                         |               |
 | Rt HDX                     |               |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

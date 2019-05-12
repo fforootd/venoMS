@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5ßAla43ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 872 / NPTX 872A |
 | molecular formula            | C₄₃H₇₆N₁₂O₇          |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5ßAla43ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -40,7 +40,7 @@ title = "4-OH-IndAcAsn5ßAla43ßAla4ßAla4"
 | 8 | 785.50376 | 767.49320 | 768.47721 | 802.53031 | 569.48665 | 552.46010 | 586.51320 |
 | 9 | 856.57726 | 838.56670 | 839.55071 | 873.60381 | 683.52958 | 666.50303 | 700.55613 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

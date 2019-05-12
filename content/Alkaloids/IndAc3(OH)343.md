@@ -8,7 +8,7 @@ title = "IndAc3(OH)343"
 
 | name                        | value            |
 |-----------------------------|------------------|
-| level                       | 4                |
+| level                       | IV               |
 | first mention               | 2001 / A. aperta |
 | alternative name(s)         | AG 432f          |
 | molecular formula           | C₂₃H₄₀N₆O₂       |
@@ -26,7 +26,7 @@ title = "IndAc3(OH)343"
 | Rt                          |                  |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAc3(OH)343"
 | 3 | 359.24470 | 341.23414 | 342.21815 | 376.27125 | 186.19702 | 169.17047 | 219.21848 |
 | 4 | 416.30255 | 398.29199 | 399.27600 | 433.32910 | 259.24978 | 242.22323 | 276.27633 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

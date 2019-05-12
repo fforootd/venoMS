@@ -2,13 +2,13 @@
 title = "4-OH-PhAcAsn353"
 +++
 
-## Related images
+![](/img/4-OH-PhAcAsn353.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 464B              |
 | molecular formula           | C₂₃H₄₀N₆O₄           |
@@ -26,7 +26,7 @@ title = "4-OH-PhAcAsn353"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-PhAcAsn353"
 | 3 | 391.23453 | 373.22397 | 374.20798 | 408.26108 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 448.29238 | 430.28182 | 431.26583 | 465.31893 | 314.25560 | 297.22905 | 331.28215 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

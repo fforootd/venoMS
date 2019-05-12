@@ -2,17 +2,13 @@
 title = "4-OH-Bz34(4-OH-Bz)"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/4-OH-Bz34(4-OH-Bz).png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / Drassodes sp. |
 | alternative name(s)         | DR 385               |
 | molecular formula           | C₂₁H₂₇N₃O₄           |
@@ -30,19 +26,14 @@ mol file
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | 1 | 178.08680 | 160.07624 | 161.06025 | 195.11335 | 192.10245 | 175.07591 | 209.12900 |
 | 2 | 249.16030 | 231.14974 | 232.13375 | 386.20798 | 249.16030 | 232.13376 | 266.18685 |
 
-## MS/MS fragments calculated
-
-| # | a         | b         | c         | ta        | z         | y         | tz        |
-|---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

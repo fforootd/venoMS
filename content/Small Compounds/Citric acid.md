@@ -8,7 +8,7 @@ title = "Citric acid"
 
 | name                     | value              |
 |--------------------------|--------------------|
-| Level                    | 2                  |
+| Level                    | II [Link](https://doi.org/10.1007/s11306-012-0487-4)                  |
 | First mention            | 1979 / A. robustus |
 | Alternative name(s)      |                    |
 | Molecular formula        | C₆H₈O₇             |
@@ -24,8 +24,6 @@ title = "Citric acid"
 |                          |                    |
 | Rt                       | 1.81               |
 | Rt HDX                   |                    |
-
-
 
 ## MS/MS fragments
 
@@ -47,17 +45,15 @@ title = "Citric acid"
 |     | 210.06138 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 |     | 215.01677 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
-
 ## References
 
 | titel                                                                                                                                              | reference                                                                                                                                          | spider                 | name    | content       | link                                                                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------|---------------|--------------------------------------------------------------------------|
-| Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry                                   | P. H. Duffield, A. M. Duffield, P. R. Carroll, D. Morgans, Biomed. Mass. Spectrom. 1979, 6, 3, 105-108                                             | A. robustus            |         | GC-MS         | [link](https://doi.org/10.1002/bms.1200060305)                                   |
-| The components of the venom of a spider Scodra griseipes. 1. Analysis of low molecular weight products using gas chromatography/ mass spectrometry | C. Lange, C. Paris, M.-L. Celerier, Rapid Commun. Mass Spectrom. 1992, 6, 289-292                                                                                                                | S. calceatum griseipes |         | GC-MS         | [link](https://doi.org/10.1002/rcm.1290060413)                                   |
-| Arthropod venom citrate inhibits phospholipase A                                                                                                   | A. W. Fenton, P. R. West, G. V. Odell, S. M. Hudiburg, C. L. Ownby, J. N. Mills, B. T. Scroggins, S. B. Shannon, Toxicon 1995, 33, 6, 763-770      | div.                   | citrate | GC-MS         | [link](https://doi.org/10.1016/0041-0101(95)00019-I)                             |
-| Chromatographic analysis of large numbers of marine bacterial extracts and the venom of the spider Cupiennius salei                                | K. Böröczky, PhD-Thesis, Technische Universität Carolo-Wilhelmina zu Braunschweig, 2005                                                            | C. salei               |         | GC-MS         | [link](https://publikationsserver.tu-braunschweig.de/receive/dbbs_mods_00001694) |
-| NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species             | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, PNAS 2008, 105, 14283-14287 | div.                   |         | NMR-screening | [link](https://doi.org/10.1073/pnas.0806840105)                                  |
-
+| Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry                                   | P. H. Duffield, A. M. Duffield, P. R. Carroll, D. Morgans, Biomed. Mass. Spectrom. 1979, 6, 3, 105-108                                             | A. robustus            |         | GC-MS         | [Link](https://doi.org/10.1002/bms.1200060305)                                   |
+| The components of the venom of a spider Scodra griseipes. 1. Analysis of low molecular weight products using gas chromatography/ mass spectrometry | C. Lange, C. Paris, M.-L. Celerier, Rapid Commun. Mass Spectrom. 1992, 6, 289-292                                                                                                                | S. calceatum griseipes |         | GC-MS         | [Link](https://doi.org/10.1002/rcm.1290060413)                                   |
+| Arthropod venom citrate inhibits phospholipase A                                                                                                   | A. W. Fenton, P. R. West, G. V. Odell, S. M. Hudiburg, C. L. Ownby, J. N. Mills, B. T. Scroggins, S. B. Shannon, Toxicon 1995, 33, 6, 763-770      | div.                   | citrate | GC-MS         | [Link](https://doi.org/10.1016/0041-0101(95)00019-I)                             |
+| Chromatographic analysis of large numbers of marine bacterial extracts and the venom of the spider Cupiennius salei                                | K. Böröczky, PhD-Thesis, Technische Universität Carolo-Wilhelmina zu Braunschweig, 2005                                                            | C. salei               |         | GC-MS         | [Link](https://publikationsserver.tu-braunschweig.de/receive/dbbs_mods_00001694) |
+| NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species             | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, PNAS 2008, 105, 14283-14287 | div.                   |         | NMR-screening | [Link](https://doi.org/10.1073/pnas.0806840105)                                  |
 
 ## Spider species
 

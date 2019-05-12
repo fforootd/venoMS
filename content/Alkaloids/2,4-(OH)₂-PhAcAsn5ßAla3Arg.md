@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla3Arg"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | ? / ?                |
 | alternative name(s)          | Arg 650 / NPTX 650 E |
 | molecular formula            | C₂₉H₅₀N₁₀O₇          |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla3Arg"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla3Arg"
 | 3 | 421.20871 | 403.19815 | 404.18216 | 438.23526 | 370.29305 | 353.26650 | 387.31960 |
 | 4 | 478.26656 | 460.25600 | 461.24001 | 651.39422 | 484.33598 | 467.30943 | 501.36253 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

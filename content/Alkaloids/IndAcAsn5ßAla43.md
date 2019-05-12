@@ -8,7 +8,7 @@ title = "IndAcAsn5ßAla43"
 
 | name                         | value                   |
 |------------------------------|-------------------------|
-| level                        | 2                       |
+| level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)               |
 | first mention                | 1988 / N. clavata       |
 | alternative name(s)          | Nephilatoxin 8 / NPTX 8 |
 | molecular formula            | C₂₉H₄₈N₈O₄              |
@@ -26,7 +26,7 @@ title = "IndAcAsn5ßAla43"
 | Rt                           |                         |
 | Rt HDX                       |                         |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -36,7 +36,7 @@ title = "IndAcAsn5ßAla43"
 | 4 | 499.30328 | 481.29272 | 482.27673 | 516.32983 | 285.26543 | 268.23888 | 302.29198 |
 | 5 | 556.36113 | 538.35057 | 539.33458 | 573.38768 | 399.30836 | 382.28181 | 416.33491 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

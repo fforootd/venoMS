@@ -8,7 +8,7 @@ title = "4-OH-IndAcLysMe53Arg"
 
 | name                         | value                  |
 |------------------------------|------------------------|
-| level                        | 5                      |
+| level                        | V                      |
 | first mention                | 1988 / A. lobata       |
 | alternative name(s)          | Arg 630 / Argiopinin 4 |
 | molecular formula            | C₃₁H₅₄N₁₀O₄            |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcLysMe53Arg"
 | Rt                           |                        |
 | Rt HDX                       |                        |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "4-OH-IndAcLysMe53Arg"
 | 2 | 401.25526 | 383.24470 | 384.22871 | 418.28181 | 299.25594 | 282.22939 | 316.28249 |
 | 3 | 458.31311 | 440.30255 | 441.28656 | 631.44077 | 441.36655 | 424.34000 | 458.39310 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

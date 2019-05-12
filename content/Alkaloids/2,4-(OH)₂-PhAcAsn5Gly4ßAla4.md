@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn5Gly4ßAla4"
 
 | name                       | value                |
 |----------------------------|----------------------|
-| level                      | 5                    |
+| level                      | V                    |
 | first mention              | 1997 / N. borbonica  |
 | alternative name(s)        | NPTX 636 / NPTX 636C |
 | molecular formula          | C₃₀H₅₂N₈O₇           |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn5Gly4ßAla4"
 | Rt                         |                      |
 | Rt HDX                     |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "2,4-(OH)₂-PhAcAsn5Gly4ßAla4"
 | 5 | 549.30367 | 531.29311 | 532.27712 | 566.33022 | 356.30254 | 339.27599 | 373.32909 |
 | 6 | 620.37717 | 602.36661 | 603.35062 | 637.40372 | 470.34547 | 453.31892 | 487.37202 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

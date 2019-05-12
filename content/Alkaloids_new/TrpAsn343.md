@@ -2,13 +2,13 @@
 title = "TrpAsn343"
 +++
 
-## Related images
+![](/img/TrpAsn343.png)
 
 ## General Description
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 4                    |
+| level                        | IV                   |
 | first mention                | 2009 / L. patagiatus |
 | alternative name(s)          | LF 502D              |
 | molecular formula            | C₂₅H₄₂N₈O₃           |
@@ -26,7 +26,7 @@ title = "TrpAsn343"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "TrpAsn343"
 | 3 | 429.26142 | 411.25086 | 412.23487 | 446.28797 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 486.31927 | 468.30871 | 469.29272 | 503.34582 | 300.23995 | 283.21340 | 317.26650 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

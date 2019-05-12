@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla43"
 
 | name                         | value             |
 |------------------------------|-------------------|
-| level                        | 2                 |
+| level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)               |
 | first mention                | 1987 / N. clavata |
 | alternative name(s)          | JSTX 3 / JSTX     |
 | molecular formula            | C₂₇H₄₇N₇O₆        |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla43"
 | Rt                           |                   |
 | Rt HDX                       |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -36,7 +36,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla43"
 | 4 | 492.28221 | 474.27165 | 475.25566 | 509.30876 | 285.26543 | 268.23888 | 302.29198 |
 | 5 | 549.34006 | 531.32950 | 532.31351 | 566.36661 | 399.30836 | 382.28181 | 416.33491 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

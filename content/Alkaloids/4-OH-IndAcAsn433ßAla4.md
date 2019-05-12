@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn433ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 631 / NPTX 631B |
 | molecular formula            | C₃₁H₅₃N₉O₅           |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn433ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "4-OH-IndAcAsn433ßAla4"
 | 5 | 544.32474 | 526.31418 | 527.29819 | 561.35129 | 328.30763 | 311.28108 | 345.33418 |
 | 6 | 615.39824 | 597.38768 | 598.37169 | 632.42479 | 442.35056 | 425.32401 | 459.37711 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

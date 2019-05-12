@@ -4,11 +4,13 @@ title = "IndAc3343"
 
 ![](/img/IndAc3343.png)
 
+![](/img_MSMS/417_IndAc3343.png)
+
 ## General Description
 
 | name                        | value                       |
 |-----------------------------|-----------------------------|
-| Level                       | 1                           |
+| Level                       | I                           |
 | First mention               | 1991 / H. curta             |
 | Alternative name(s)         | AG 416 / Agel 416 / HO 416a |
 | Molecular formula           | C₂₃H₄₀N₆O                   |
@@ -26,7 +28,7 @@ title = "IndAc3343"
 | Rt                          | 7.64                        |
 | Rt HDX                      |                             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +37,7 @@ title = "IndAc3343"
 | 3 | 343.24979 | 325.23923 | 326.22324 | 360.27634 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 400.30764 | 382.29708 | 383.28109 | 417.33419 | 243.25487 | 226.22832 | 260.28142 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
@@ -43,12 +45,12 @@ title = "IndAc3343"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
-|     | 417.33419 | pure       | Reference | UZH Bienz lab, CHE           |
-|     | 209.17101 | pure       | Reference | UZH Bienz lab, CHE           |
-|     | 417.33419 | IndAc3334  | A. aperta | Fauna Laboratories Ltd., KAZ |
-|     | 209.17101 | IndAc3334  | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                 | precursor | co-eluting | spider           | source                       |
+|-------------------------------------|-----------|------------|------------------|------------------------------|
+| [Data](/pdf/417_IndAc3343_7-64.pdf) | 417.33419 | pure       | synth. IndAc3343 | UZH Bienz lab, CHE           |
+|                                     | 209.17101 | pure       | synth. IndAc3343 | UZH Bienz lab, CHE           |
+|                                     | 417.33419 | IndAc3334  | A. aperta        | Fauna Laboratories Ltd., KAZ |
+|                                     | 209.17101 | IndAc3334  | A. aperta        | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

@@ -8,7 +8,7 @@ title = "NA 659"
 
 | name                       | value           |
 |----------------------------|-----------------|
-| Level                      | 6               |
+| Level                      | VI              |
 | First mention              | ? / N. arabesca |
 | Alternative name(s)        | NA 659          |
 | Molecular formula          |                 |
@@ -26,12 +26,12 @@ title = "NA 659"
 | Rt                         |                 |
 | Rt HDX                     |                 |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

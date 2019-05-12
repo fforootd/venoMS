@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn433Arg"
 
 | name                         | value                                     |
 |------------------------------|-------------------------------------------|
-| level                        | 5                                         |
+| level                        | V                                         |
 | first mention                | 1997 / N. cruentata                       |
 | alternative name(s)          | Arg 622 / AVTX 622 / NPTX 622 / NPTX 622B |
 | molecular formula            | C₂₈H₅₀N₁₀O₆                               |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn433Arg"
 | Rt                           |                                           |
 | Rt HDX                       |                                           |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "2,4-(OH)₂-PhAcAsn433Arg"
 | 3 | 393.21380 | 375.20324 | 376.18725 | 410.24035 | 342.29814 | 325.27159 | 359.32469 |
 | 4 | 450.27165 | 432.26109 | 433.24510 | 623.39931 | 456.34107 | 439.31452 | 473.36762 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

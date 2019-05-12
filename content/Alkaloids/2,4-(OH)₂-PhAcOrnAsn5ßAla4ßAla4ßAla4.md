@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcOrnAsn5ßAla4ßAla4ßAla4"
 
 | name                         | value             |
 |------------------------------|-------------------|
-| level                        | 5                 |
+| level                        | V                 |
 | first mention                | 2005 / N. clavata |
 | alternative name(s)          | NPTX 906G         |
 | molecular formula            | C₄₃H₇₈N₁₂O₉       |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcOrnAsn5ßAla4ßAla4ßAla4"
 | Rt                           |                   |
 | Rt HDX                       |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -40,7 +40,7 @@ title = "2,4-(OH)₂-PhAcOrnAsn5ßAla4ßAla4ßAla4"
 | 8 | 819.50924 | 801.49868 | 802.48269 | 836.53579 | 626.47173 | 609.44518 | 643.49828 |
 | 9 | 890.58274 | 872.57218 | 873.55619 | 907.60929 | 740.55104 | 723.52449 | 757.57759 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

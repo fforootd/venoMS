@@ -2,17 +2,13 @@
 title = "4-OH-IndAc35"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/4-OH-IndAc35.png)
 
 ## General Description
 
 | name                        | value              |
 |-----------------------------|--------------------|
-| Level                       | 4                  |
+| Level                       | IV                 |
 | First mention               | 2009 / O. lugubris |
 | Alternative name(s)         | OZ 332A            |
 | Molecular formula           | C₁₈H₂₈N₄O₂         |
@@ -30,14 +26,14 @@ mol file
 | Rt                          |                    |
 | Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | 1 | 231.11335 | 213.10279 | 214.08680 | 248.13990 | 86.09697  | 69.07042  | 103.12352 |
 | 2 | 316.20250 | 298.19194 | 299.17595 | 333.22905 | 143.15482 | 126.12827 | 160.18137 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

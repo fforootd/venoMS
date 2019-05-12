@@ -4,11 +4,13 @@ title = "Guanosine"
 
 ![](/img/Guanosine.png)
 
+![](/img_MSMS/284_Guanosine.png)
+
 ## General Description
 
 | name                    | value              |
 |-------------------------|--------------------|
-| Level                   | 1                  |
+| Level                   | I                  |
 | First mention           | 2001 / L. menavodi |
 | Alternative name(s)     |                    |
 | Molecular formula       | C₁₀H₁₃N₅O₅         |
@@ -22,8 +24,6 @@ title = "Guanosine"
 | Rt                      | 2.80               |
 | Rt HDX                  | 2.07               |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation    |
@@ -34,17 +34,16 @@ title = "Guanosine"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
-|     | 284.09949 | pure       | Reference | Sigma Aldrich                |
-|     | 284.09949 |            | A. aperta | Fauna Laboratories Ltd., KZA |
-
+| pdf                                 | precursor | co-eluting | spider    | source                       |
+|-------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/284_Guanosine_2-77.pdf) | 284.09949 | pure       | Reference | Sigma Aldrich                |
+|                                     | 284.09949 |            | A. aperta | Fauna Laboratories Ltd., KZA |
 
 ## References
 
 | titel                                                                                                | reference                                                   | spider      | name | content | link                                                                |
 |------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|------|---------|---------------------------------------------------------------------|
-| The main products of the low molecular mass fraction in the venom of the spider Latrodectus menavodi | A. Horni, D. Weickmann, M. Hesse, Toxicon 2001, 39, 425-428 | L. menavodi |      |         | [link](https://www.sciencedirect.com/science/article/pii/S0041010100001471) |
+| The main products of the low molecular mass fraction in the venom of the spider Latrodectus menavodi | A. Horni, D. Weickmann, M. Hesse, Toxicon 2001, 39, 425-428 | L. menavodi |      |         | [Link](https://www.sciencedirect.com/science/article/pii/S0041010100001471) |
 
 ## Spider species
 | spider species       | family        | first mention        |

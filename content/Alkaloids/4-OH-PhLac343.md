@@ -8,7 +8,7 @@ title = "4-OH-PhLac343"
 
 | name                        | value       |
 |-----------------------------|-------------|
-| Level                       | 4           |
+| Level                       | IV          |
 | First mention               | 2017 / div. |
 | Alternative name(s)         | PA 366      |
 | Molecular formula           | C₁₉H₃₄N₄O₃  |
@@ -26,7 +26,7 @@ title = "4-OH-PhLac343"
 | Rt                          |             |
 | Rt HDX                      |             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "4-OH-PhLac343"
 | 2 | 247.18104 | 229.17048 | 230.15449 | 264.20759 | 129.13917 | 112.11262 | 146.16572 |
 | 3 | 304.23889 | 286.22833 | 287.21234 | 321.26544 | 186.19702 | 169.17047 | 203.22357 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -2,17 +2,13 @@
 title = "4-OH-Bz5"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/4-OH-Bz5.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| Level                       | 4                    |
+| Level                       | IV                   |
 | First mention               | 2009 / Drassodes sp. |
 | Alternative name(s)         | DR 222               |
 | Molecular formula           | C₁₂H₁₈N₂O₂           |
@@ -30,13 +26,13 @@ mol file
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z        | y        | tz        |
 |---|-----------|-----------|-----------|-----------|----------|----------|-----------|
 | 1 | 206.11810 | 188.10754 | 189.09155 | 206.11810 | 86.09697 | 69.07042 | 103.12352 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

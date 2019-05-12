@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5Lys(Me)3Arg"
 
 | name                         | value                  |
 |------------------------------|------------------------|
-| level                        | 5                      |
+| level                        | V                      |
 | first mention                | 1989 / A. lobata       |
 | alternative name(s)          | Arg 744 / Argiopinin 2 |
 | molecular formula            | C₃₅H₆₀N₁₂O₆            |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5Lys(Me)3Arg"
 | Rt                           |                        |
 | Rt HDX                       |                        |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAcAsn5Lys(Me)3Arg"
 | 3 | 501.28254 | 483.27198 | 484.25599 | 532.32474 | 441.36655 | 424.34000 | 458.39310 |
 | 4 | 572.35604 | 554.34548 | 555.32949 | 745.48370 | 555.40948 | 538.38293 | 572.43603 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

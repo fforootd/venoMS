@@ -2,17 +2,13 @@
 title = "IndAc353"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/IndAc353.png)
 
 ## General Description
 
 | name                        | value              |
 |-----------------------------|--------------------|
-| Level                       | 4                  |
+| Level                       | IV                 |
 | First mention               | 2009 / O. lugubris |
 | Alternative name(s)         | OZ 373             |
 | Molecular formula           | C₂₁H₃₅N₅O          |
@@ -30,7 +26,7 @@ mol file
 | Rt                          |                    |
 | Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -38,7 +34,7 @@ mol file
 | 2 | 300.20759 | 282.19703 | 283.18104 | 317.23414 | 143.15482 | 126.12827 | 160.18137 |
 | 3 | 357.26544 | 339.25488 | 340.23889 | 374.29199 | 200.21267 | 183.18612 | 217.23922 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

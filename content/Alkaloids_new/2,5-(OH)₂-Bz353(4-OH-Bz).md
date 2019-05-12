@@ -2,13 +2,13 @@
 title = "2,5-(OH)₂-Bz353(4-OH-Bz)"
 +++
 
-## Related images
+![](/img/2-5-OH2-Bz353(4-OH-Bz).png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / Drassodes sp. |
 | alternative name(s)         | DR 472               |
 | molecular formula           | C₂₅H₃₆N₄O₅           |
@@ -26,7 +26,7 @@ title = "2,5-(OH)₂-Bz353(4-OH-Bz)"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "2,5-(OH)₂-Bz353(4-OH-Bz)"
 | 2 | 279.17087 | 261.16031 | 262.14432 | 296.19742 | 263.17595 | 246.14941 | 280.20250 |
 | 3 | 336.22872 | 318.21816 | 319.20217 | 473.27640 | 320.23380 | 303.20726 | 337.26035 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

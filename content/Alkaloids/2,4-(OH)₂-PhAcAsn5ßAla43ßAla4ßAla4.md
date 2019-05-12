@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla43ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 849 / NPTX 849A |
 | molecular formula            | C₄₁H₇₅N₁₁O₈          |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla43ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -40,7 +40,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla43ßAla4ßAla4"
 | 8 | 762.48778 | 744.47722 | 745.46123 | 779.51433 | 569.48665 | 552.46010 | 586.51320 |
 | 9 | 833.56128 | 815.55072 | 816.53473 | 850.58783 | 683.52958 | 666.50303 | 700.55613 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

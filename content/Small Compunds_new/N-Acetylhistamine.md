@@ -8,7 +8,7 @@ title = "N-Acetylhistamine"
 
 | name                    | value       |
 |-------------------------|-------------|
-| Level                   | 2           |
+| Level                   | II [Link](http://www.massbank.jp/RecordDisplay.jsp?id=KO002234)         |
 | First mention           | 2019 / div. |
 | Alternative name(s)     |             |
 | Molecular formula       | C₇H₁₁N₃O    |
@@ -41,8 +41,6 @@ title = "N-Acetylhistamine"
 
 | titel    | reference | spider | name | content   | link                                                 |
 |----------|-----------|--------|------|-----------|------------------------------------------------------|
-| MassBank | KO002234  |        |      | ESI-MS/MS | http://www.massbank.jp/RecordDisplay.jsp?id=KO002234 |
-
 
 ## Spider species
 

@@ -2,17 +2,13 @@
 title = "2,5-(OH)₂-Bz5"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/2-5-OH2-Bz5.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| Level                       | 4                    |
+| Level                       | IV                   |
 | First mention               | 2009 / Drassodes sp. |
 | Alternative name(s)         | DR 238               |
 | Molecular formula           | C₁₅H₂₁N₂O₃           |
@@ -30,13 +26,13 @@ mol file
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z        | y        | tz        |
 |---|-----------|-----------|-----------|-----------|----------|----------|-----------|
 | 1 | 222.11302 | 204.10246 | 205.08647 | 222.11302 | 86.09697 | 69.07042 | 103.12352 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

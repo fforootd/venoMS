@@ -8,7 +8,7 @@ title = "IndAcAsn5ßAla43ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 856 / NPTX 856A |
 | molecular formula            | C₄₃H₇₆N₁₂O₆          |
@@ -26,7 +26,7 @@ title = "IndAcAsn5ßAla43ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -40,7 +40,7 @@ title = "IndAcAsn5ßAla43ßAla4ßAla4"
 | 8 | 769.50885 | 751.49829 | 752.48230 | 786.53540 | 569.48665 | 552.46010 | 586.51320 |
 | 9 | 840.58235 | 822.57179 | 823.55580 | 857.60890 | 683.52958 | 666.50303 | 700.55613 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

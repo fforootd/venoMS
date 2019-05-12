@@ -8,7 +8,7 @@ title = "IndAc4(OH)3(OH)33"
 
 | name                        | value            |
 |-----------------------------|------------------|
-| level                       | 4                |
+| level                       | IV               |
 | first mention               | 2001 / A. aperta |
 | alternative name(s)         | AG 448c          |
 | molecular formula           | C₂₃H₄₀N₆O₃       |
@@ -26,7 +26,7 @@ title = "IndAc4(OH)3(OH)33"
 | Rt                          |                  |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,8 +35,7 @@ title = "IndAc4(OH)3(OH)33"
 | 3 | 375.23961 | 357.22905 | 358.21306 | 392.26616 | 188.17628 | 171.14973 | 221.19774 |
 | 4 | 432.29746 | 414.28690 | 415.27091 | 449.32401 | 275.24469 | 258.21814 | 292.27124 |
 
-
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

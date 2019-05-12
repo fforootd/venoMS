@@ -4,11 +4,13 @@ title = "Trigonelline"
 
 ![](/img/Trigonelline.png)
 
+![](/img_MSMS/138_Trigonelline.png)
+
 ## General Description
 
 | name                | value       |
 |---------------------|-------------|
-| Level               | 1           |
+| Level               | I           |
 | First mention       | 2019 / div. |
 | Alternative name(s) |             |
 | Molecular formula   | C₇H₈NO₂     |
@@ -22,8 +24,6 @@ title = "Trigonelline"
 | Rt                  | 1.21        |
 | Rt HDX              |             |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation |
@@ -35,17 +35,14 @@ title = "Trigonelline"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider                    | source        |
-|-----|-----------|------------|---------------------------|---------------|
-|     | 138.05550 | pure       | Reference (CAS 6138-41-6) | Sigma Aldrich |
-
-
+| pdf                                    | precursor | co-eluting | spider                    | source        |
+|----------------------------------------|-----------|------------|---------------------------|---------------|
+| [Data](/pdf/138_Trigonelline_1-21.pdf) | 138.05550 | pure       | Reference (CAS 6138-41-6) | Sigma Aldrich |
 
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

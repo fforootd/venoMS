@@ -4,11 +4,13 @@ title = "Acetylcarnitine"
 
 ![](/img/Acetylcarnitine.png)
 
+![](/img_MSMS/204_Acetylcarnitine.png)
+
 ## General Description
 
 | name                  | value       |
 |-----------------------|-------------|
-| Level                 | 1           |
+| Level                 | I           |
 | First mention         | 2019 / div. |
 | Alternative name(s)   |             |
 | Molecular formula     | C₉H₁₈NO₄    |
@@ -22,8 +24,6 @@ title = "Acetylcarnitine"
 | Rt                    | 1.51 / 1.72 |
 | Rt HDX                |             |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation |
@@ -36,16 +36,14 @@ title = "Acetylcarnitine"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider                    | source        |
-|-----|-----------|------------|---------------------------|---------------|
-|     | 204.12358 | pure       | Reference (CAS 5080-50-2) | Sigma Aldrich |
-
+| pdf                                       | precursor | co-eluting | spider                    | source        |
+|-------------------------------------------|-----------|------------|---------------------------|---------------|
+| [Data](/pdf/204_Acetylcarnitine_1-51.pdf) | 204.12358 | pure       | Reference (CAS 5080-50-2) | Sigma Aldrich |
 
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

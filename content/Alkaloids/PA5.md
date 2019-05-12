@@ -8,7 +8,7 @@ title = "PA5"
 
 | name                        | value       |
 |-----------------------------|-------------|
-| Level                       | 5           |
+| Level                       | V           |
 | First mention               | 1980 / div. |
 | Alternative name(s)         | Cadaverine  |
 | Molecular formula           | C₅H₁₄N₂     |
@@ -26,13 +26,13 @@ title = "PA5"
 | Rt                          |             |
 | Rt HDX                      |             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a        | b        | c        | ta       | z        | y        | tz        |
 |---|----------|----------|----------|----------|----------|----------|-----------|
 | 1 | 86.09698 | 68.08642 | 69.07043 | 86.09698 | 86.09697 | 69.07042 | 103.12352 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -2,22 +2,17 @@
 title = "4-OH-Bz3(OH)335(NMe₃)⁺"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
-
+![](/img/4-OH-Bz3(OH)335(NMe3).png)
 
 ## General Description
 
 | name                        | value            |
 |-----------------------------|------------------|
-| Level                       | 4                |
+| Level                       | IV               |
 | First mention               | 2019 / A. aperta |
-| Alternative name(s)         | ---                 |
+| Alternative name(s)         | ---              |
 | Molecular formula           | C₂₄H₄₆N₅O₃⁺      |
-| CAS                         | ---                 |
+| CAS                         | ---              |
 |                             |                  |
 | precursor   M⁺              | 452.36006        |
 | precursor 2 [M+H]²⁺         | 226.68394        |
@@ -31,7 +26,7 @@ mol file
 | Rt                          | 5.21             |
 | Rt HDX                      | 3.88             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -40,8 +35,7 @@ mol file
 | 3 | 308.19741 | 290.18685 | 291.17086 | 325.22396 | 242.25963 | 223.21743 | 276.28891 |
 | 4 | 393.28656 | 375.27600 | 376.26001 | 410.31311 | 315.31239 | 295.26236 | 333.34676 |
 
-
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

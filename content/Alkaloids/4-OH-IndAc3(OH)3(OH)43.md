@@ -6,27 +6,27 @@ title = "4-OH-IndAc3(OH)3(OH)43"
 
 ## General Description
 
-| name                | value            |
-|---------------------|------------------|
-| level               | 4                 |
-| first mention       | ? / A. aperta                 |
-| alternative name(s) | AG 464a / Agel 464                 |
-| molecular formula   | C₂₃H₄₀N₆O₄	 |
-| CAS                 | 389872-65-5                 |
-|                     |                  |
-| precursor 1 [M+H]⁺       | 465.31892      |
-| precursor 2 [M+2H]²⁺        | 233.16337       |
-| precursor 3         |                  |
-|                     |                  |
-| HDX                 | 8                |
-| precursor HDX   [d₈-M+D]⁺      | 474.37541       |
-| precursor HDX 2 [d₈-M+2D]²⁺    | 238.19475        |
-| precursor HDX 3     |                  |
-|                     |                  |
-| Rt                  |                  |
-| Rt HDX              |                  |
+| name                        | value              |
+|-----------------------------|--------------------|
+| level                       | IV                 |
+| first mention               | ? / A. aperta      |
+| alternative name(s)         | AG 464a / Agel 464 |
+| molecular formula           | C₂₃H₄₀N₆O₄         |
+| CAS                         | 389872-65-5        |
+|                             |                    |
+| precursor 1 [M+H]⁺          | 465.31892          |
+| precursor 2 [M+2H]²⁺        | 233.16337          |
+| precursor 3                 |                    |
+|                             |                    |
+| HDX                         | 8                  |
+| precursor HDX   [d₈-M+D]⁺   | 474.37541          |
+| precursor HDX 2 [d₈-M+2D]²⁺ | 238.19475          |
+| precursor HDX 3             |                    |
+|                             |                    |
+| Rt                          |                    |
+| Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAc3(OH)3(OH)43"
 | 3 | 391.23452 | 373.22396 | 374.20797 | 408.26107 | 202.19193 | 185.16538 | 235.21339 |
 | 4 | 448.29237 | 430.28181 | 431.26582 | 465.31892 | 275.24469 | 258.21814 | 292.27124 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

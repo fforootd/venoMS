@@ -8,7 +8,7 @@ title = "CNS 2104"
 
 | name                       | value                   |
 |----------------------------|-------------------------|
-| Level                      | 6                       |
+| Level                      | VI                      |
 | First mention              | 1993 / D. okefinokensis |
 | Alternative name(s)        | CNS 2104                |
 | Molecular formula          |                         |
@@ -26,12 +26,12 @@ title = "CNS 2104"
 | Rt                         |                         |
 | Rt HDX                     |                         |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

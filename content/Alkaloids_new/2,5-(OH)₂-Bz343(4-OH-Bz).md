@@ -2,13 +2,13 @@
 title = "2,5-(OH)₂-Bz343(4-OH-Bz)"
 +++
 
-## Related images
+![](/img/2-5-OH2-Bz343(4-OH-Bz).png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / Drassodes sp. |
 | alternative name(s)         | DR 458               |
 | molecular formula           | C₂₄H₃₄N₄O₅           |
@@ -26,7 +26,7 @@ title = "2,5-(OH)₂-Bz343(4-OH-Bz)"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "2,5-(OH)₂-Bz343(4-OH-Bz)"
 | 2 | 265.15522 | 247.14466 | 248.12867 | 282.18177 | 249.16030 | 232.13376 | 266.18685 |
 | 3 | 322.21307 | 304.20251 | 305.18652 | 459.26075 | 306.21815 | 289.19161 | 323.24470 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

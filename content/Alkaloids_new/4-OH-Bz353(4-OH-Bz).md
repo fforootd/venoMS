@@ -2,13 +2,13 @@
 title = "4-OH-Bz353(4-OH-Bz)"
 +++
 
-## Related images
+![](/img/4-OH-Bz353(4-OH-Bz).png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / Drassodes sp. |
 | alternative name(s)         | DR 456               |
 | molecular formula           | C₂₅H₃₆N₄O₄           |
@@ -26,7 +26,7 @@ title = "4-OH-Bz353(4-OH-Bz)"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "4-OH-Bz353(4-OH-Bz)"
 | 2 | 263.17595 | 245.16539 | 246.14940 | 280.20250 | 263.17595 | 246.14941 | 280.20250 |
 | 3 | 320.23380 | 302.22324 | 303.20725 | 457.28148 | 320.23380 | 303.20726 | 337.26035 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -4,11 +4,13 @@ title = "Arginine"
 
 ![](/img/Arginine.png)
 
+![](/img_MSMS/175_Arginine.png)
+
 ## General Description
 
 | name                    | value           |
 |-------------------------|-----------------|
-| Level                   | 1               |
+| Level                   | I               |
 | First mention           | 1994 / C. salei |
 | Alternative name(s)     |                 |
 | Molecular formula       | C₆H₁₄N₄O₂       |
@@ -21,8 +23,6 @@ title = "Arginine"
 |                         |                 |
 | Rt                      | 1.12            |
 | Rt HDX                  |                 |
-
-
 
 ## MS/MS fragments
 
@@ -43,16 +43,13 @@ title = "Arginine"
 
 | pdf | precursor | co-eluting | spider    | source        |
 |-----|-----------|------------|-----------|---------------|
-|     | 175.11950 | pure       | Reference | Sigma Aldrich |
-
-
+| [Data](/pdf/175_Arginine_1-12.pdf)    | 175.11950 | pure       | Reference | Sigma Aldrich |
 
 ## References
 
 | titel                                                                                                                                      | reference                                                              | spider   | name | content | link                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------|------|---------|----------------------------------------------|
-| Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae) | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302 | C. salei |      |         | [link](https://doi.org/10.1016/0041-0101(94)90082-5) |
-
+| Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae) | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302 | C. salei |      |         | [Link](https://doi.org/10.1016/0041-0101(94)90082-5) |
 
 ## Spider species
 

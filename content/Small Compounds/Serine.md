@@ -8,7 +8,7 @@ title = "Serine"
 
 | name                    | value           |
 |-------------------------|-----------------|
-| Level                   | 2               |
+| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PB000401)             |
 | First mention           | 1994 / C. salei |
 | Alternative name(s)     |                 |
 | Molecular formula       | C₃H₇NO₃         |
@@ -22,8 +22,6 @@ title = "Serine"
 | Rt                      |                 |
 | Rt HDX                  |                 |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation   |
@@ -33,20 +31,16 @@ title = "Serine"
 | 70.02929  | C₃H₄NO            | [M+H-2H₂O]⁺  |
 | 60.04494  | C₂H₆NO            | [M+H-HCOOH]⁺ |
 
-
 ## Recorded MS/MS spectra
 
 | pdf | precursor | co-eluting | spider    | source                       |
 |-----|-----------|------------|-----------|------------------------------|
 
-
-
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-| Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae) | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302 | C. salei |      |         | [link](https://doi.org/10.1016/0041-0101(94)90082-5) |
-
+| Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae) | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302 | C. salei |      |         | [Link](https://doi.org/10.1016/0041-0101(94)90082-5) |
 
 ## Spider species
 

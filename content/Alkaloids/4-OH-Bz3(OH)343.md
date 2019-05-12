@@ -8,7 +8,7 @@ title = "4-OH-Bz3(OH)343"
 
 | name                        | value            |
 |-----------------------------|------------------|
-| Level                       | 4                |
+| Level                       | IV               |
 | First mention               | 2001 / A. aperta |
 | Alternative name(s)         | AG 395           |
 | Molecular formula           | C₂₀H₃₇N₅O₃       |
@@ -26,7 +26,7 @@ title = "4-OH-Bz3(OH)343"
 | Rt                          | 4.28             |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-Bz3(OH)343"
 | 3 | 322.21306 | 304.20250 | 305.18651 | 339.23961 | 186.19702 | 169.17047 | 219.21848 |
 | 4 | 379.27091 | 361.26035 | 362.24436 | 396.29746 | 259.24978 | 242.22323 | 276.27633 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

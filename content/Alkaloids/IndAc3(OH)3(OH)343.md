@@ -8,7 +8,7 @@ title = "IndAc3(OH)3(OH)343"
 
 | name                        | value            |
 |-----------------------------|------------------|
-| level                       | 4                |
+| level                       | IV               |
 | first mention               | 2001 / A. aperta |
 | alternative name(s)         | AG 505b          |
 | molecular formula           | C₂₆H₄₇N₇O₃       |
@@ -26,7 +26,7 @@ title = "IndAc3(OH)3(OH)343"
 | Rt                          |                  |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -36,7 +36,7 @@ title = "IndAc3(OH)3(OH)343"
 | 4 | 432.29746 | 414.28690 | 415.27091 | 449.32401 | 259.24978 | 242.22323 | 292.27124 |
 | 5 | 489.35531 | 471.34475 | 472.32876 | 506.38186 | 332.30254 | 315.27599 | 349.32909 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

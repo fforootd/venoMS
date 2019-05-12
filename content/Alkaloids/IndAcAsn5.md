@@ -8,7 +8,7 @@ title = "IndAcAsn5"
 
 | name                        | value                             |
 |-----------------------------|-----------------------------------|
-| Level                       | 5                                 |
+| Level                       | V                                 |
 | First mention               | ? / A. lobata                     |
 | Alternative name(s)         | Arg 373 / Pseudoargiopinin 3      |
 | Molecular formula           | C₁₉H₂₇N₅O₃                        |
@@ -26,14 +26,14 @@ title = "IndAcAsn5"
 | Rt                          |                                   |
 | Rt HDX                      |                                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | 1 | 272.10352 | 254.09296 | 255.07697 | 289.13007 | 86.09697  | 69.07042  | 103.12352 |
 | 2 | 357.19267 | 339.18211 | 340.16612 | 374.21922 | 200.13990 | 183.11335 | 217.16645 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

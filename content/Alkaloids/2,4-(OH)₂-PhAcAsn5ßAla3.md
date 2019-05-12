@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla3"
 
 | name                         | value                             |
 |------------------------------|-----------------------------------|
-| level                        | 3                                 |
+| level                        | III                               |
 | first mention                | 1994 / N. clavata                 |
 | alternative name(s)          | Spidamine                         |
 | molecular formula            | C₂₃H₃₈N₆O₆                        |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla3"
 | Rt                           |                                   |
 | Rt HDX                       |                                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla3"
 | 3 | 421.20871 | 403.19815 | 404.18216 | 438.23526 | 214.19193 | 197.16538 | 231.21848 |
 | 4 | 478.26656 | 460.25600 | 461.24001 | 495.29311 | 328.23486 | 311.20831 | 345.26141 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

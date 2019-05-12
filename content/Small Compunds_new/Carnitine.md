@@ -4,11 +4,13 @@ title = "Carnitine"
 
 ![](/img/Carnitine.png)
 
+![](/img_MSMS/162_Carnitine.png)
+
 ## General Description
 
 | name                  | value       |
 |-----------------------|-------------|
-| Level                 | 1           |
+| Level                 | I           |
 | First mention         | 2019 / div. |
 | Alternative name(s)   |             |
 | Molecular formula     | C₇H₁₆NO₃    |
@@ -36,14 +38,12 @@ title = "Carnitine"
 
 | pdf | precursor | co-eluting | spider    | source        |
 |-----|-----------|------------|-----------|---------------|
-|     | 162.11302 | pure       | Reference | Sigma Aldrich |
-
+| [Data](/pdf/162_Carnitine_1-18.pdf)    | 162.11302 | pure       | Reference | Sigma Aldrich |
 
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 
@@ -61,6 +61,5 @@ title = "Carnitine"
 | Plectreurys tristis   | Plectreuridae | 2019 / Y. M. Forster |
 | Peucetia viridans     | Oxyopidae     | 2019 / Y. M. Forster |
 | Stegodyphus sp.       | Eresidae      | 2019 / Y. M. Forster |
-
 
 ## Comments

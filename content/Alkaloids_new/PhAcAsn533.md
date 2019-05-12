@@ -2,13 +2,13 @@
 title = "PhAcAsn533"
 +++
 
-## Related images
+![](/img/PhAcAsn533.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 448C              |
 | molecular formula           | C₂₃H₄₀N₆O₃           |
@@ -26,7 +26,7 @@ title = "PhAcAsn533"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "PhAcAsn533"
 | 3 | 375.23962 | 357.22906 | 358.21307 | 392.26617 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 432.29747 | 414.28691 | 415.27092 | 449.32402 | 314.25560 | 297.22905 | 331.28215 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

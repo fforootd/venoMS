@@ -8,7 +8,7 @@ title = "Uric acid"
 
 | name                    | value              |
 |-------------------------|--------------------|
-| Level                   | 5                  |
+| Level                   | V                  |
 | First mention           | 2001 / L. menavodi |
 | Alternative name(s)     |                    |
 | Molecular formula       | C₅H₄N₄O₃           |
@@ -22,26 +22,21 @@ title = "Uric acid"
 | Rt                      |                    |
 | Rt HDX                  |                    |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation        |
 |-----------|-------------------|-------------------|
-
 
 ## Recorded MS/MS spectra
 
 | pdf | precursor | co-eluting | spider    | source                       |
 |-----|-----------|------------|-----------|------------------------------|
 
-
-
 ## References
 
 | titel                                                                                                | reference                                                   | spider      | name | content | link                                                                |
 |------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|------|---------|---------------------------------------------------------------------|
-| The main products of the low molecular mass fraction in the venom of the spider Latrodectus menavodi | A. Horni, D. Weickmann, M. Hesse, Toxicon 2001, 39, 425-428 | L. menavodi |      |         | [link](https://www.sciencedirect.com/science/article/pii/S0041010100001471) |
+| The main products of the low molecular mass fraction in the venom of the spider Latrodectus menavodi | A. Horni, D. Weickmann, M. Hesse, Toxicon 2001, 39, 425-428 | L. menavodi |      |         | [Link](https://www.sciencedirect.com/science/article/pii/S0041010100001471) |
 
 ## Spider species
 

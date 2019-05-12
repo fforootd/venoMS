@@ -8,7 +8,7 @@ title = "IndAcAsn5Lys(Me₂)3Arg⁺"
 
 | name                         | value                         |
 |------------------------------|-------------------------------|
-| level                        | 5                             |
+| level                        | V                             |
 | first mention                | 1989 / A. lobata              |
 | alternative name(s)          | Arg 743 / Pseudioargiopinin 1 |
 | molecular formula            | C₃₆H₆₃N₁₂O₅⁺                  |
@@ -26,7 +26,7 @@ title = "IndAcAsn5Lys(Me₂)3Arg⁺"
 | Rt                           |                               |
 | Rt HDX                       |                               |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAcAsn5Lys(Me₂)3Arg⁺"
 | 3 | 485.28763 | 467.27707 | 468.26108 | 530.34548 | 455.38219 | 439.36347 | 472.40874 |
 | 4 | 570.37677 | 552.36621 | 553.35023 | 743.50444 | 569.42512 | 553.40640 | 586.45167 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

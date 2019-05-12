@@ -8,7 +8,7 @@ title = "Glutamic acid 5-methylester"
 
 | name                    | value          |
 |-------------------------|----------------|
-| Level                   | 1              |
+| Level                   | I              |
 | First mention           | 2019 / div.    |
 | Alternative name(s)     |                |
 | Molecular formula       | C₆H₁₁NO₄       |
@@ -21,8 +21,6 @@ title = "Glutamic acid 5-methylester"
 |                         |                |
 | Rt                      |                |
 | Rt HDX                  |                |
-
-
 
 ## MS/MS fragments
 
@@ -37,19 +35,16 @@ title = "Glutamic acid 5-methylester"
 | 84.04494  | C₄H₆NO            | [M+H-HCOOCH₃-H₂O]⁺ |
 | 56.05002  | C₃H₆N             |                    |
 
-
 ## Recorded MS/MS spectra
 
 | pdf | precursor | co-eluting | spider    | source        |
 |-----|-----------|------------|-----------|---------------|
 |     | 162.07663 | pure       | Reference | Sigma Aldrich |
 
-
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

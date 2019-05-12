@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5ßAla3Arg"
 
 | name                         | value       |
 |------------------------------|-------------|
-| level                        | 5           |
+| level                        | V           |
 | first mention                | ? / ?       |
 | alternative name(s)          | NPTX 673E   |
 | molecular formula            | C₃₁H₅₁N₁₁O₆ |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5ßAla3Arg"
 | Rt                           |             |
 | Rt HDX                       |             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAcAsn5ßAla3Arg"
 | 3 | 444.22469 | 426.21413 | 427.19814 | 461.25124 | 370.29305 | 353.26650 | 387.31960 |
 | 4 | 501.28254 | 483.27198 | 484.25599 | 674.41020 | 484.33598 | 467.30943 | 501.36253 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -4,11 +4,13 @@ title = "IndAc3(OH)334"
 
 ![](/img/IndAc3(OH)334.png)
 
+![](/img_MSMS/433_IndAc3(OH)334.png)
+
 ## General Description
 
 | name                        | value            |
 |-----------------------------|------------------|
-| level                       | 4                |
+| level                       | I                |
 | first mention               | 2001 / A. aperta |
 | alternative name(s)         | AG 432g          |
 | molecular formula           | C₂₃H₄₀N₆O₂       |
@@ -26,7 +28,7 @@ title = "IndAc3(OH)334"
 | Rt                          |                  |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +37,7 @@ title = "IndAc3(OH)334"
 | 3 | 345.22905 | 327.21849 | 328.20250 | 362.25560 | 186.19702 | 169.17047 | 219.21848 |
 | 4 | 416.30255 | 398.29199 | 399.27600 | 433.32910 | 259.24978 | 242.22323 | 276.27633 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
@@ -43,9 +45,9 @@ title = "IndAc3(OH)334"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                     | precursor | co-eluting | spider               | source             |
+|-----------------------------------------|-----------|------------|----------------------|--------------------|
+| [Data](/pdf/433_IndAc3(OH)334_9-06.pdf) | 433.32910 | pure       | synth. IndAc3(OH)334 | UZH Bienz lab, CHE |
 
 ## References
 

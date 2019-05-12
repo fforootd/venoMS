@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5ßAla43ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 730 / NPTX 730A |
 | molecular formula            | C₃₆H₆₂N₁₀O₆          |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5ßAla43ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -38,7 +38,7 @@ title = "4-OH-IndAcAsn5ßAla43ßAla4"
 | 6 | 643.39315 | 625.38259 | 626.36660 | 660.41970 | 427.37604 | 410.34949 | 444.40259 |
 | 7 | 714.46665 | 696.45609 | 697.44010 | 731.49320 | 541.41897 | 524.39242 | 558.44552 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

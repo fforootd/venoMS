@@ -8,7 +8,7 @@ title = "4-OH-IndAcLysMe₂5(Me)3Arg"
 
 | name                         | value                  |
 |------------------------------|------------------------|
-| level                        | 5                      |
+| level                        | V                      |
 | first mention                | 1989 / A. lobata       |
 | alternative name(s)          | Arg 658 / Argiopinin 5 |
 | molecular formula            | C₃₃H₅₈N₁₀O₄            |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcLysMe₂5(Me)3Arg"
 | Rt                           |                        |
 | Rt HDX                       |                        |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "4-OH-IndAcLysMe₂5(Me)3Arg"
 | 2 | 415.27091 | 397.26035 | 398.24436 | 446.31311 | 313.27159 | 296.24504 | 330.29814 |
 | 3 | 486.34441 | 468.33385 | 469.31786 | 659.47207 | 469.39785 | 452.37130 | 486.42440 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

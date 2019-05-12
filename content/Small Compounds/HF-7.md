@@ -8,7 +8,7 @@ title = "HF-7"
 
 | name                    | value           |
 |-------------------------|-----------------|
-| Level                   | 3               |
+| Level                   | III             |
 | First mention           | 1999 / H. curta |
 | Alternative name(s)     |                 |
 | Molecular formula       | C₁₈H₂N₅O₁₅S₂    |
@@ -32,14 +32,11 @@ title = "HF-7"
 | pdf | precursor | co-eluting | spider    | source                       |
 |-----|-----------|------------|-----------|------------------------------|
 
-
-
 ## References
 
 | titel                                                                                                                    | reference                                                                                                                                                       | spider   | name | content | link                                           |
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------|---------|------------------------------------------------|
-| Structure and total synthesis of HF-7, a neuroactive glyconucleoside disulfate from the funnel web spider Hololena curta | J. McComerick, Y. Li, K. McComerick, H. I. Duynstee, A. K. van Engen, G. A. van der Marel, B. Ganem, J. H. van Boom, J. Meinwald, JACS 1999, 121, 24, 5661-5665 | H. curta | HF-7 |         | [link](https://pubs.acs.org/doi/abs/10.1021/ja990274q) |
-
+| Structure and total synthesis of HF-7, a neuroactive glyconucleoside disulfate from the funnel web spider Hololena curta | J. McComerick, Y. Li, K. McComerick, H. I. Duynstee, A. K. van Engen, G. A. van der Marel, B. Ganem, J. H. van Boom, J. Meinwald, JACS 1999, 121, 24, 5661-5665 | H. curta | HF-7 |         | [Link](https://pubs.acs.org/doi/abs/10.1021/ja990274q) |
 
 ## Spider species
 

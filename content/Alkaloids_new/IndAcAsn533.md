@@ -2,13 +2,13 @@
 title = "IndAcAsn533"
 +++
 
-## Related images
+![](/img/IndAcAsn533.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 487C              |
 | molecular formula           | C₂₅H₄₁N₇O₃           |
@@ -26,7 +26,7 @@ title = "IndAcAsn533"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAcAsn533"
 | 3 | 414.25052 | 396.23996 | 397.22397 | 431.27707 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 471.30837 | 453.29781 | 454.28182 | 488.33492 | 314.25560 | 297.22905 | 331.28215 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

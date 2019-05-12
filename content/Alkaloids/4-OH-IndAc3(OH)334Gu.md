@@ -8,7 +8,7 @@ title = "4-OH-IndAc3(OH)334Gu"
 
 | name                         | value              |
 |------------------------------|--------------------|
-| level                        | 4                  |
+| level                        | IV                 |
 | first mention                | 2000 / P. luctuosa |
 | alternative name(s)          | PB 490             |
 | molecular formula            | C₂₄H₄₂N₈O₃         |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc3(OH)334Gu"
 | Rt                           |                    |
 | Rt HDX                       |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAc3(OH)334Gu"
 | 3 | 361.22396 | 343.21340 | 344.19741 | 378.25051 | 228.21882 | 211.19227 | 261.24028 |
 | 4 | 432.29746 | 414.28690 | 415.27091 | 491.34581 | 301.27158 | 284.24503 | 318.29813 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

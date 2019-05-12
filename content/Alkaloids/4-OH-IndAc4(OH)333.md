@@ -8,7 +8,7 @@ title = "4-OH-IndAc4(OH)333"
 
 | name                        | value            |
 |-----------------------------|------------------|
-| level                       | 4                |
+| level                       | IV               |
 | first mention               | 2019 / A. aperta |
 | alternative name(s)         | AG 448b          |
 | molecular formula           | C₂₃H₄₀N₆O₃       |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc4(OH)333"
 | Rt                          |                  |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAc4(OH)333"
 | 3 | 375.23961 | 357.22905 | 358.21306 | 392.26616 | 172.18137 | 155.15482 | 205.20283 |
 | 4 | 432.29746 | 414.28690 | 415.27091 | 449.32401 | 259.24978 | 242.22323 | 276.27633 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -8,7 +8,7 @@ title = "5'-Sulfated guanosine"
 
 | name                    | value              |
 |-------------------------|--------------------|
-| Level                   | 3                  |
+| Level                   | III                |
 | First mention           | 2004 / E. agrestis |
 | Alternative name(s)     |                    |
 | Molecular formula       | C₁₀H₁₃N₅O₈S        |
@@ -28,21 +28,17 @@ title = "5'-Sulfated guanosine"
 |-----------|-------------------|----------------|
 | 152.05723 | C₅H₈N₅O           | [guanidine+H]⁺ |
 
-
 ## Recorded MS/MS spectra
 
 | pdf | precursor | co-eluting | spider      | source                       |
 |-----|-----------|------------|-------------|------------------------------|
 |     | 364.05631 |            | E. agrestis | Fauna Laboratories Ltd., KAZ |
 
-
-
 ## References
 
 | titel                                                                                                                  | reference                                                                  | spider      | name | content | link                                           |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|------|---------|------------------------------------------------|
-| A new approach to natural products discovery exemplified by the identification of sulfated nucleosides in spider venom | A. E. Taggi, J. Meinwald, F. C. Schroeder, JACS 2004, 126, 33, 10364-10369 | E. agrestis |      |         | [link](https://pubs.acs.org/doi/abs/10.1021/ja047416n) |
-
+| A new approach to natural products discovery exemplified by the identification of sulfated nucleosides in spider venom | A. E. Taggi, J. Meinwald, F. C. Schroeder, JACS 2004, 126, 33, 10364-10369 | E. agrestis |      |         | [Link](https://pubs.acs.org/doi/abs/10.1021/ja047416n) |
 
 ## Spider species
 

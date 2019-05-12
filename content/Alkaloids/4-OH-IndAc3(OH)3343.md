@@ -8,7 +8,7 @@ title = "4-OH-IndAc3(OH)3343"
 
 | name                        | value                                     |
 |-----------------------------|-------------------------------------------|
-| level                       | 3                                         |
+| level                       | III                                       |
 | first mention               | 1990 / A. aperta                          |
 | alternative name(s)         | AG 505 / Agatoxin 505 / Agel 505 / HO 505 |
 | molecular formula           | C₂₆H₄₇N₇O₃                                |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc3(OH)3343"
 | Rt                          |                                           |
 | Rt HDX                      |                                           |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -36,7 +36,7 @@ title = "4-OH-IndAc3(OH)3343"
 | 4 | 432.29746 | 414.28690 | 415.27091 | 449.32401 | 243.25487 | 226.22832 | 276.27633 |
 | 5 | 489.35531 | 471.34475 | 472.32876 | 506.38186 | 316.30763 | 299.28108 | 333.33418 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

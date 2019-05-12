@@ -8,7 +8,7 @@ title = "IndAcOrnAsp5ßAla4ßAla4"
 
 | name                         | value                   |
 |------------------------------|-------------------------|
-| level                        | 3                       |
+| level                        | III                     |
 | first mention                | 1988 / N. clavata       |
 | alternative name(s)          | Nephilatoxin 7 / NPTX 7 |
 | molecular formula            | C₃₈H₆₄N₁₀O₇             |
@@ -26,7 +26,7 @@ title = "IndAcOrnAsp5ßAla4ßAla4"
 | Rt                           |                         |
 | Rt HDX                       |                         |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -38,7 +38,7 @@ title = "IndAcOrnAsp5ßAla4ßAla4"
 | 6 | 685.40371 | 667.39315 | 668.37716 | 702.43026 | 485.34513 | 468.31858 | 502.37168 |
 | 7 | 756.47721 | 738.46665 | 739.45066 | 773.50376 | 599.42444 | 582.39789 | 616.45099 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

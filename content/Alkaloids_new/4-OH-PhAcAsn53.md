@@ -2,13 +2,13 @@
 title = "4-OH-PhAcAsn53"
 +++
 
-## Related images
+![](/img/4-OH-PhAcAsn53.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 407F              |
 | molecular formula           | C₂₀H₃₃N₅O₄           |
@@ -26,7 +26,7 @@ title = "4-OH-PhAcAsn53"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "4-OH-PhAcAsn53"
 | 2 | 334.17668 | 316.16612 | 317.15013 | 351.20323 | 143.15482 | 126.12827 | 160.18137 |
 | 3 | 391.23453 | 373.22397 | 374.20798 | 408.26108 | 257.19775 | 240.17120 | 274.22430 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

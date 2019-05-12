@@ -8,7 +8,7 @@ title = "IndAcOrnAsn5ßAla4ßAla4ßAla4"
 
 | name                         | value             |
 |------------------------------|-------------------|
-| level                        | 5                 |
+| level                        | V                 |
 | first mention                | 2005 / N. clavata |
 | alternative name(s)          | NPTX 913G         |
 | molecular formula            | C₄₅H₇₉N₁₃O₇       |
@@ -26,7 +26,7 @@ title = "IndAcOrnAsn5ßAla4ßAla4ßAla4"
 | Rt                           |                   |
 | Rt HDX                       |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -40,7 +40,7 @@ title = "IndAcOrnAsn5ßAla4ßAla4ßAla4"
 | 8 | 826.53031 | 808.51975 | 809.50376 | 843.55686 | 626.47173 | 609.44518 | 643.49828 |
 | 9 | 897.60381 | 879.59325 | 880.57726 | 914.63036 | 740.55104 | 723.52449 | 757.57759 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

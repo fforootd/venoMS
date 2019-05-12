@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn533Arg"
 
 | name                         | value                                                        |
 |------------------------------|--------------------------------------------------------------|
-| level                        | 3                                                            |
+| level                        | III                                                          |
 | first mention                | 1987 / A. aurantia                                           |
 | alternative name(s)          | AR 659 / Arg 659 / Argiopinin 3 / Argiotoxin 659 / ArgTX 659 |
 | molecular formula            | C₃₁H₅₃N₁₁O₅                                                  |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn533Arg"
 | Rt                           |                                                              |
 | Rt HDX                       |                                                              |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAcAsn533Arg"
 | 3 | 430.24543 | 412.23487 | 413.21888 | 447.27198 | 356.31379 | 339.28724 | 373.34034 |
 | 4 | 487.30328 | 469.29272 | 470.27673 | 660.43094 | 470.35672 | 453.33017 | 487.38327 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

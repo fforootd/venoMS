@@ -8,7 +8,7 @@ title = "IndAc433"
 
 | name                        | value          |
 |-----------------------------|----------------|
-| Level                       | 4              |
+| Level                       | IV             |
 | First mention               | 1991 / H.curta |
 | Alternative name(s)         | HO 359         |
 | Molecular formula           | C₂₀H₃₃N₅O      |
@@ -26,7 +26,7 @@ title = "IndAc433"
 | Rt                          | 9.02           |
 | Rt HDX                      | 7.52           |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "IndAc433"
 | 2 | 286.19194 | 268.18138 | 269.16539 | 303.21849 | 115.12352 | 98.09697  | 132.15007 |
 | 3 | 343.24979 | 325.23923 | 326.22324 | 360.27634 | 186.19702 | 169.17047 | 203.22357 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

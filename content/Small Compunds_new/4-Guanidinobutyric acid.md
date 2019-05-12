@@ -8,7 +8,7 @@ title = "4-Guanidinobutyric acid"
 
 | name                    | value                             |
 |-------------------------|-----------------------------------|
-| Level                   | 2                                 |
+| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=ML001501)                               |
 | First mention           | 2019 / P. bistriata & P. viridans |
 | Alternative name(s)     |                                   |
 | Molecular formula       | C₅H₁₁N₃O₂                         |
@@ -45,7 +45,6 @@ title = "4-Guanidinobutyric acid"
 
 | titel    | reference | spider | name | content   | link                                                 |
 |----------|-----------|--------|------|-----------|------------------------------------------------------|
-| MassBank | ML001501  |        |      | ESI-MS/MS | http://www.massbank.jp/RecordDisplay.jsp?id=ML001501 |
 
 ## Spider species
 

@@ -8,7 +8,7 @@ title = "IndLac353"
 
 | name                        | value               |
 |-----------------------------|---------------------|
-| level                       | 5                   |
+| level                       | V                   |
 | first mention               | 1990 / H. theveneti |
 | alternative name(s)         | Het 403             |
 | molecular formula           | C₂₂H₃₇N₅O₂          |
@@ -26,7 +26,7 @@ title = "IndLac353"
 | Rt                          |                     |
 | Rt HDX                      |                     |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "IndLac353"
 | 2 | 330.21815 | 312.20759 | 313.19160 | 347.24470 | 143.15482 | 126.12827 | 160.18137 |
 | 3 | 387.27600 | 369.26544 | 370.24945 | 404.30255 | 200.21267 | 183.18612 | 217.23922 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

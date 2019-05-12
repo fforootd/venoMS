@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5ßAla4Arg"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. cruentata  |
 | alternative name(s)          | NPTX 687 / NPTX 687D |
 | molecular formula            | C₃₂H₅₃N₁₁O₆          |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5ßAla4Arg"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAcAsn5ßAla4Arg"
 | 3 | 444.22469 | 426.21413 | 427.19814 | 461.25124 | 384.30870 | 367.28215 | 401.33525 |
 | 4 | 515.29819 | 497.28763 | 498.27164 | 688.42585 | 498.35163 | 481.32508 | 515.37818 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

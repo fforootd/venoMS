@@ -8,7 +8,7 @@ title = "IndAc3334Gu"
 
 | name                        | value              |
 |-----------------------------|--------------------|
-| level                       | 4                  |
+| level                       | IV                 |
 | first mention               | 2013 / P. luctuosa |
 | alternative name(s)         | ---                |
 | molecular formula           | C₂₄H₄₂N₈O₁         |
@@ -26,7 +26,7 @@ title = "IndAc3334Gu"
 | Rt                          |                    |
 | Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAc3334Gu"
 | 3 | 329.23414 | 311.22358 | 312.20759 | 346.26069 | 228.21882 | 211.19227 | 245.24537 |
 | 4 | 400.30764 | 382.29708 | 383.28109 | 459.35599 | 285.27667 | 268.25012 | 302.30322 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

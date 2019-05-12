@@ -2,17 +2,13 @@
 title = "PA3(Me)43"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/PA3(Me)43.png)
 
 ## General Description
 
 | name                        | value              |
 |-----------------------------|--------------------|
-| Level                       | 4                  |
+| Level                       | IV                 |
 | First mention               | 2019 / L. cornutus |
 | Alternative name(s)         |                    |
 | Molecular formula           | C₁₁H₂₈N₄           |
@@ -30,7 +26,7 @@ mol file
 | Rt                          |                    |
 | Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -38,7 +34,7 @@ mol file
 | 2 | 143.15483 | 125.14427 | 126.12828 | 160.18138 | 129.13917 | 112.11262 | 160.18137 |
 | 3 | 200.21268 | 182.20212 | 183.18613 | 217.23923 | 200.21267 | 183.18612 | 217.23922 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

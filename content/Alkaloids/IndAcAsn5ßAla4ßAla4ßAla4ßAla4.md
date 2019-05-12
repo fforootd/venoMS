@@ -8,7 +8,7 @@ title = "IndAcAsn5ßAla4ßAla4ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 941 / NPTX 941D |
 | molecular formula            | C₄₇H₈₃N₁₃O₇          |
@@ -26,7 +26,7 @@ title = "IndAcAsn5ßAla4ßAla4ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | #  | a         | b         | c         | ta        | z         | y         | tz        |
 |----|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -41,7 +41,7 @@ title = "IndAcAsn5ßAla4ßAla4ßAla4ßAla4"
 | 9  | 854.56161 | 836.55105 | 837.53506 | 871.58816 | 654.53941 | 637.51286 | 671.56596 |
 | 10 | 925.63511 | 907.62455 | 908.60856 | 942.66166 | 768.58234 | 751.55579 | 785.60889 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -12,7 +12,7 @@ mol file
 
 | name                       | value               |
 |----------------------------|---------------------|
-| Level                      | 6                   |
+| Level                      | VI                  |
 | First mention              | 1990 / A. chalcodes |
 | Alternative name(s)        | APC 728             |
 | Molecular formula          |                     |
@@ -30,12 +30,12 @@ mol file
 | Rt                         |                     |
 | Rt HDX                     |                     |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

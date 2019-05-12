@@ -8,7 +8,7 @@ title = "Glutamine"
 
 | name                    | value                |
 |-------------------------|----------------------|
-| Level                   | 2                    |
+| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PB000467)                  |
 | First mention           | 1988 / L. indagatrix |
 | Alternative name(s)     |                      |
 | Molecular formula       | C₅H₁₀N₂O₃            |
@@ -21,8 +21,6 @@ title = "Glutamine"
 |                         |                      |
 | Rt                      |                      |
 | Rt HDX                  |                      |
-
-
 
 ## MS/MS fragments
 
@@ -39,18 +37,16 @@ title = "Glutamine"
 | pdf | precursor | co-eluting | spider    | source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 
-
 ## References
 
 | titel                                                                                                                                                | reference                                                                                                                                          | spider          | name | content              | link                                                             |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------|----------------------|------------------------------------------------------------------|
-| Preliminary studies on the venom of three Indian spider                                                                                    | G. Ridling Margaret, G. J. Phanuel, Proc. Indian Acad. Sci. 1988, 97, 3, 231-237 | L. indagatrix |      | paper chromatography | [link](https://www.ias.ac.in/article/fulltext/anml/097/03/0231-0237) |
+| Preliminary studies on the venom of three Indian spider                                                                                    | G. Ridling Margaret, G. J. Phanuel, Proc. Indian Acad. Sci. 1988, 97, 3, 231-237 | L. indagatrix |      | paper chromatography | [Link](https://www.ias.ac.in/article/fulltext/anml/097/03/0231-0237) |
 
 ## Spider species
 
 | spider species    | family    | first mention              |
 |-------------------|-----------|----------------------------|
 | Lycosa indagatrix | Lycosidae | 1988 / G. Ridling Margaret |
-
 
 ## Comments

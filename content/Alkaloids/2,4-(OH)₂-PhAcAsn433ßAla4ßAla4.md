@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn433ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 750 / NPTX 750B |
 | molecular formula            | C₃₆H₆₆N₁₀O₇          |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn433ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -39,7 +39,7 @@ title = "2,4-(OH)₂-PhAcAsn433ßAla4ßAla4"
 | 7 | 663.41937 | 645.40881 | 646.39282 | 680.44592 | 470.41824 | 453.39169 | 487.44479 |
 | 8 | 734.49287 | 716.48231 | 717.46632 | 751.51942 | 584.46117 | 567.43462 | 601.48772 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

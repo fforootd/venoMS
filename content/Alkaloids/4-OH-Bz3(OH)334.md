@@ -6,13 +6,13 @@ title = "4-OH-Bz3(OH)334"
 
 ![](/img/4-OH-Bz3(OH)334.png)
 
-mol file
+![](/img_MSMS/396_4-OH-Bz3(OH)334.png)
 
 ## General Description
 
 | name                        | value            |
 |-----------------------------|------------------|
-| Level                       | 1                |
+| Level                       | I                |
 | First mention               | 2001 / A. aperta |
 | Alternative name(s)         | AG 395a          |
 | Molecular formula           | C₂₀H₃₇N₅O₃       |
@@ -30,7 +30,7 @@ mol file
 | Rt                          | 4.14             |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -39,19 +39,20 @@ mol file
 | 3 | 308.19741 | 290.18685 | 291.17086 | 325.22396 | 186.19702 | 169.17047 | 219.21848 |
 | 4 | 379.27091 | 361.26035 | 362.24436 | 396.29746 | 259.24978 | 242.22323 | 276.27633 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
+| 121.02895 | a0         |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting      | spider    | source                       |
-|-----|-----------|-----------------|-----------|------------------------------|
-| pdf | 396.29746 | pure            | Reference | UZH Bienz lab, CHE           |
-| pdf | 198.65264 | pure            | Reference | UZH Bienz lab, CHE           |
-| pdf | 396.29746 | 4-OH-Bz3(OH)343 | A. aperta | Fauna Laboratories Ltd., KAZ |
-| pdf | 198.65264 | 4-OH-Bz3(OH)343 | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                       | precursor | co-eluting      | spider                 | source                       |
+|-------------------------------------------|-----------|-----------------|------------------------|------------------------------|
+| [Data](/pdf/396_4-OH-Bz3(OH)334_4-14.pdf) | 396.29746 | pure            | synth. 4-OH-Bz3(OH)334 | UZH Bienz lab, CHE           |
+|                                           | 198.65264 | pure            | synth. 4-OH-Bz3(OH)334 | UZH Bienz lab, CHE           |
+|                                           | 396.29746 | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ |
+|                                           | 198.65264 | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

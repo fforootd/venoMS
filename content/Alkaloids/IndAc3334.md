@@ -8,7 +8,7 @@ title = "IndAc3334"
 
 | name                        | value            |
 |-----------------------------|------------------|
-| Level                       | 2                |
+| Level                       | II [Link](https://doi.org/10.1016/j.tet.2003.12.066)              |
 | First mention               | 2001 / A. aperta |
 | Alternative name(s)         | AG 416a          |
 | Molecular formula           | C₂₃H₄₀N₆O        |
@@ -26,7 +26,7 @@ title = "IndAc3334"
 | Rt                          | 7.59             |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAc3334"
 | 3 | 329.23414 | 311.22358 | 312.20759 | 346.26069 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 400.30764 | 382.29708 | 383.28109 | 417.33419 | 243.25487 | 226.22832 | 260.28142 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
@@ -52,7 +52,7 @@ title = "IndAc3334"
 
 | titel                                                                                                        | reference|spider|name|content|link                                                                                                                                                  |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| The acylpolyamines from the venom of the spider Agelenopsis aperta                                           | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197|A. aperta|AG 416a|APCI-MS/MS|[Link](XXX)                                                                      |
+| The acylpolyamines from the venom of the spider Agelenopsis aperta                                           | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197|A. aperta|AG 416a|APCI-MS/MS| ??? [Link](XXX)                                                                      |
 | Solid-phase synthesis of polyamine spider toxins and correlation with natural products by HPLC-MS/MS         | N. Manov, M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Helv. Chim. Acta 2002, 85, 2827-2846|A. aperta||Synthesis, NMR, APCI-MS/MS|[Link](https://doi.org/10.1016/j.tet.2003.12.066) |
 | Tandem mass spectrometric investigation of acylpolyamines of spider venoms and their 15N-labeled derivatives | M. Tzouros, N. Manov, S. Bienz, L. Bigler, J. Am. Soc. Mass Spectrom. 2004, 15, 1636-1643|||APCI-MS/MS|[Link](https://doi.org/10.1016/j.jasms.2004.07.020)                          |
 | A template approach for the characterization of linear polyamines and derivatives in spider venom            | M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Eur. J. Mass Spectrom. 2013, 19, 1, 57-69|A. aperta|AG 416a|APCI-MS/MS|[Link](https://doi.org/10.1255/ejms.1213)                       |

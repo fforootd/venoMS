@@ -8,7 +8,7 @@ title = "4-OH-IndAcOrnAsn5ßAla4ßAla4"
 
 | name                         | value                   |
 |------------------------------|-------------------------|
-| level                        | 5                       |
+| level                        | V                       |
 | first mention                | 1996 / N. clavata       |
 | alternative name(s)          | Nephilatoxin 3 / NPTX 3 |
 | molecular formula            | C₃₈H₆₅N₁₁O₇             |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcOrnAsn5ßAla4ßAla4"
 | Rt                           |                         |
 | Rt HDX                       |                         |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -38,7 +38,7 @@ title = "4-OH-IndAcOrnAsn5ßAla4ßAla4"
 | 6 | 700.41461 | 682.40405 | 683.38806 | 717.44116 | 484.36112 | 467.33457 | 501.38767 |
 | 7 | 771.48811 | 753.47755 | 754.46156 | 788.51466 | 598.44043 | 581.41388 | 615.46698 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

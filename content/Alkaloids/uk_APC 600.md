@@ -8,7 +8,7 @@ title = "APC 600"
 
 | name                       | value               |
 |----------------------------|---------------------|
-| Level                      | 6                   |
+| Level                      | VI                  |
 | First mention              | 1990 / A. chalcodes |
 | Alternative name(s)        | APC 600             |
 | Molecular formula          |                     |
@@ -26,12 +26,12 @@ title = "APC 600"
 | Rt                         |                     |
 | Rt HDX                     |                     |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

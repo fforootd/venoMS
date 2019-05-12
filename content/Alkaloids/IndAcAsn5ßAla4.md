@@ -8,7 +8,7 @@ title = "IndAcAsn5ßAla4"
 
 | name                        | value                                |
 |-----------------------------|--------------------------------------|
-| level                       | 3                                    |
+| level                       | III                                  |
 | first mention               | 1988 / N. clavata                    |
 | alternative name(s)         | Nephilatoxin 12 / NPTX 12 / NPTX 515 |
 | molecular formula           | C₂₆H₄₁N₇O₄                           |
@@ -26,7 +26,7 @@ title = "IndAcAsn5ßAla4"
 | Rt                          |                                      |
 | Rt HDX                      |                                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAcAsn5ßAla4"
 | 3 | 428.22978 | 410.21922 | 411.20323 | 445.25633 | 228.20758 | 211.18103 | 245.23413 |
 | 4 | 499.30328 | 481.29272 | 482.27673 | 516.32983 | 342.25051 | 325.22396 | 359.27706 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn433Arg"
 
 | name                         | value                          |
 |------------------------------|--------------------------------|
-| level                        | 5                              |
+| level                        | V                              |
 | first mention                | 1997 / N. borbonica            |
 | alternative name(s)          | Arg 645 / NPTX 645 / NPTX 645B |
 | molecular formula            | C₃₀H₅₁N₁₁O₅                    |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn433Arg"
 | Rt                           |                                |
 | Rt HDX                       |                                |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAcAsn433Arg"
 | 3 | 416.22978 | 398.21922 | 399.20323 | 433.25633 | 342.29814 | 325.27159 | 359.32469 |
 | 4 | 473.28763 | 455.27707 | 456.26108 | 646.41529 | 456.34107 | 439.31452 | 473.36762 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

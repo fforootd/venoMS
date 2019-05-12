@@ -1,0 +1,62 @@
++++
+title = "IndAc5333"
++++
+
+![](/img/IndAc5333.png)
+
+## General Description
+
+| name                        | value            |
+|-----------------------------|------------------|
+| level                       | IV               |
+| first mention               | 2019 / A. aperta |
+| alternative name(s)         | ---              |
+| molecular formula           | C₂₄H₄₂N₆O₁       |
+| CAS                         | ---              |
+|                             |                  |
+| precursor 1 [M+H]⁺          | 431.34984        |
+| precursor 2 [M+2H]²⁺        | 216.17883        |
+| precursor 3                 |                  |
+|                             |                  |
+| HDX                         | 7                |
+| precursor HDX   [d₇-M+D]⁺   | 439.40005        |
+| precursor HDX 2 [d₇-M+2D]²⁺ | 220.70708        |
+| precursor HDX 3             |                  |
+|                             |                  |
+| Rt                          |                  |
+| Rt HDX                      |                  |
+
+## Calculated MS/MS fragments
+
+| # | a         | b         | c         | ta        | z         | y         | tz        |
+|---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1 | 243.14974 | 225.13918 | 226.12319 | 260.17629 | 58.06567  | 41.03912  | 75.09222  |
+| 2 | 300.20759 | 282.19703 | 283.18104 | 317.23414 | 115.12352 | 98.09697  | 132.15007 |
+| 3 | 357.26544 | 339.25488 | 340.23889 | 374.29199 | 172.18137 | 155.15482 | 189.20792 |
+| 4 | 414.32329 | 396.31273 | 397.29674 | 431.34984 | 257.27052 | 240.24397 | 274.29707 |
+
+## Additional MS/MS fragments
+
+| m/z       | annotation |
+|-----------|------------|
+|           |            |
+
+## Recorded MS/MS spectra
+
+| pdf | precursor | co-eluting | spider    | source                              |
+|-----|-----------|------------|-----------|-------------------------------------|
+|     |           |            |           |                                     |
+
+## References
+
+| titel     | reference   | spider    | name   | content  | link |
+|-----------|-------------|-----------|--------|----------|-----|
+|           |             |           |        |          |     |
+
+## Spider species
+
+| spider species     | family     | source               |
+|--------------------|------------|----------------------|
+| Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
+
+## Comments

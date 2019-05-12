@@ -8,7 +8,7 @@ title = "4-OH-IndAc3(OH)3(OH)343"
 
 | name                        | value             |
 |-----------------------------|-------------------|
-| level                       | 4                 |
+| level                       | IV                |
 | first mention               | ? / A. aperta     |
 | alternative name(s)         | AG 521 / Agel 521 |
 | molecular formula           | C₂₆H₄₇N₇O₄        |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc3(OH)3(OH)343"
 | Rt                          |                   |
 | Rt HDX                      |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -36,7 +36,7 @@ title = "4-OH-IndAc3(OH)3(OH)343"
 | 4 | 448.29237 | 430.28181 | 431.26582 | 465.31892 | 259.24978 | 242.22323 | 292.27124 |
 | 5 | 505.35022 | 487.33966 | 488.32367 | 522.37677 | 332.30254 | 315.27599 | 349.32909 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

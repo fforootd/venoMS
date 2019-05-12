@@ -8,7 +8,7 @@ title = "Valerobetaine"
 
 | name                | value               |
 |---------------------|---------------------|
-| Level               | 4                   |
+| Level               | IV                  |
 | First mention       | 2019 / P. bistriata |
 | Alternative name(s) |                     |
 | Molecular formula   | C₈H₁₈NO₂            |
@@ -40,7 +40,6 @@ title = "Valerobetaine"
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

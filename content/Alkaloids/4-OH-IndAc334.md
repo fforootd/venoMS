@@ -8,7 +8,7 @@ title = "4-OH-IndAc334"
 
 | name                        | value            |
 |-----------------------------|------------------|
-| Level                       | 4                |
+| Level                       | IV               |
 | First mention               | 2019 / A. aperta |
 | Alternative name(s)         | ---              |
 | Molecular formula           | C₂₀H₃₃N₅O₂       |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc334"
 | Rt                          | 5.69             |
 | Rt HDX                      | 4.52             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "4-OH-IndAc334"
 | 2 | 288.17120 | 270.16064 | 271.14465 | 305.19775 | 129.13917 | 112.11262 | 146.16572 |
 | 3 | 359.24470 | 341.23414 | 342.21815 | 376.27125 | 186.19702 | 169.17047 | 203.22357 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -2,13 +2,13 @@
 title = "IndLacAsn353"
 +++
 
-## Related images
+![](/img/IndLacAsn353.png)
 
 ## General Description
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 4                    |
+| level                        | IV                   |
 | first mention                | 2009 / L. patagiatus |
 | alternative name(s)          | LF 517B              |
 | molecular formula            | C₂₆H₄₃N₇O₄           |
@@ -26,7 +26,7 @@ title = "IndLacAsn353"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndLacAsn353"
 | 3 | 444.26108 | 426.25052 | 427.23453 | 461.28763 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 501.31893 | 483.30837 | 484.29238 | 518.34548 | 314.25560 | 297.22905 | 331.28215 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

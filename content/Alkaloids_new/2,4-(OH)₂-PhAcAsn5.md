@@ -2,17 +2,13 @@
 title = "2,4-(OH)₂-PhAcAsn5"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/2-4-OH2-PhAcAsn5.png)
 
 ## General Description
 
 | name                        | value               |
 |-----------------------------|---------------------|
-| Level                       | 4                   |
+| Level                       | IV                  |
 | First mention               | 2019 / P. bistriata |
 | Alternative name(s)         | ---                 |
 | Molecular formula           | C₁₇H₂₆N₄O₅          |
@@ -30,14 +26,14 @@ mol file
 | Rt                          |                     |
 | Rt HDX                      |                     |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | 1 | 265.08245 | 247.07189 | 248.05590 | 282.10900 | 86.09697  | 69.07042  | 103.12352 |
 | 2 | 350.17160 | 332.16104 | 333.14505 | 367.19815 | 200.13990 | 183.11335 | 217.16645 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

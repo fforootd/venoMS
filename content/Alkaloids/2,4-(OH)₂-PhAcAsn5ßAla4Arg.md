@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4Arg"
 
 | name                         | value             |
 |------------------------------|-------------------|
-| level                        | 2 [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                |
+| level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)               |
 | first mention                | 1986 / N. pilipes |
 | alternative name(s)          | NSTX 3            |
 | molecular formula            | C₃₀H₅₂N₁₀O₇       |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4Arg"
 | Rt                           |                   |
 | Rt HDX                       |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4Arg"
 | 3 | 421.20871 | 403.19815 | 404.18216 | 438.23526 | 384.30870 | 367.28215 | 401.33525 |
 | 4 | 492.28221 | 474.27165 | 475.25566 | 665.40987 | 498.35163 | 481.32508 | 515.37818 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -8,7 +8,7 @@ title = "4-OH-PhAcAsn5ßAla3"
 
 | name                        | value                             |
 |-----------------------------|-----------------------------------|
-| level                       | 2                                 |
+| level                       | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                                |
 | first mention               | 1994 / N. clavata                 |
 | alternative name(s)         | Joramine / Joroamine              |
 | molecular formula           | C₂₃H₃₈N₆O₅                        |
@@ -26,7 +26,7 @@ title = "4-OH-PhAcAsn5ßAla3"
 | Rt                          |                                   |
 | Rt HDX                      |                                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-PhAcAsn5ßAla3"
 | 3 | 405.21379 | 387.20323 | 388.18724 | 422.24034 | 214.19193 | 197.16538 | 231.21848 |
 | 4 | 462.27164 | 444.26108 | 445.24509 | 479.29819 | 328.23486 | 311.20831 | 345.26141 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

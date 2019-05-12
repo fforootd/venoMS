@@ -8,7 +8,7 @@ title = "IndAcAsn433ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 757 / NPTX 757B |
 | molecular formula            | C₃₈H₆₇N₁₁O₅          |
@@ -26,7 +26,7 @@ title = "IndAcAsn433ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -39,7 +39,7 @@ title = "IndAcAsn433ßAla4ßAla4"
 | 7 | 670.44044 | 652.42988 | 653.41389 | 687.46699 | 470.41824 | 453.39169 | 487.44479 |
 | 8 | 741.51394 | 723.50338 | 724.48739 | 758.54049 | 584.46117 | 567.43462 | 601.48772 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

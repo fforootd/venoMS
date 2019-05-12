@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5ßAla3ßAla4ßAla4ßAla4"
 
 | name                         | value             |
 |------------------------------|-------------------|
-| level                        | 5                 |
+| level                        | V                 |
 | first mention                | 1998 / N. clavata |
 | alternative name(s)          | NPTX 943E         |
 | molecular formula            | C₄₆H₈₁N₁₃O₈       |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5ßAla3ßAla4ßAla4ßAla4"
 | Rt                           |                   |
 | Rt HDX                       |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | #  | a         | b         | c         | ta        | z         | y         | tz        |
 |----|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -41,7 +41,7 @@ title = "4-OH-IndAcAsn5ßAla3ßAla4ßAla4ßAla4"
 | 9  | 856.54087 | 838.53031 | 839.51432 | 873.56742 | 640.52376 | 623.49721 | 657.55031 |
 | 10 | 927.61437 | 909.60381 | 910.58782 | 944.64092 | 754.56669 | 737.54014 | 771.59324 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

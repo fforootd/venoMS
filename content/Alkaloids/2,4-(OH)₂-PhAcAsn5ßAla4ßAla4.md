@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4ßAla4"
 
 | name                         | value             |
 |------------------------------|-------------------|
-| level                        | 5                 |
+| level                        | V                 |
 | first mention                | 1990 / N. clavata |
 | alternative name(s)          | JSTX 2 / NPTX 650 |
 | molecular formula            | C₃₁H₅₄N₈O₇        |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4ßAla4"
 | Rt                           |                   |
 | Rt HDX                       |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4ßAla4"
 | 5 | 563.31932 | 545.30876 | 546.29277 | 580.34587 | 370.31819 | 353.29164 | 387.34474 |
 | 6 | 634.39282 | 616.38226 | 617.36627 | 651.41937 | 484.36112 | 467.33457 | 501.38767 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -1,5 +1,5 @@
 +++
-title = "NSTX-2"
+title = "NSTX 2"
 +++
 
 ![](/img/2.png)
@@ -8,9 +8,9 @@ title = "NSTX-2"
 
 | name                       | value             |
 |----------------------------|-------------------|
-| Level                      | 6                 |
+| Level                      | VI                |
 | First mention              | 1987 / N. pilipes |
-| Alternative name(s)        | NSTX-2            |
+| Alternative name(s)        | NSTX 2            |
 | Molecular formula          |                   |
 | CAS                        |                   |
 |                            |                   |
@@ -26,12 +26,12 @@ title = "NSTX-2"
 | Rt                         |                   |
 | Rt HDX                     |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

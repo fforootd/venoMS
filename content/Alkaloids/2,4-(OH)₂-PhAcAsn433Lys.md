@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn433Lys"
 
 | name                         | value                                    |
 |------------------------------|------------------------------------------|
-| level                        | 4                                        |
+| level                        | IV                                       |
 | first mention                | 2001 / N. clavipes & N. madagascariensis |
 | alternative name(s)          | NPTX 594                                 |
 | molecular formula            | C₂₈H₅₀N₈O₆                               |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn433Lys"
 | Rt                           |                                          |
 | Rt HDX                       |                                          |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "2,4-(OH)₂-PhAcAsn433Lys"
 | 3 | 393.21380 | 375.20324 | 376.18725 | 410.24035 | 314.29199 | 297.26544 | 331.31854 |
 | 4 | 450.27165 | 432.26109 | 433.24510 | 595.39316 | 428.33492 | 411.30837 | 445.36147 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

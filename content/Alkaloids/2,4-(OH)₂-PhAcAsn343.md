@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn343"
 
 | name                         | value             |
 |------------------------------|-------------------|
-| level                        | 4                 |
+| level                        | IV                |
 | first mention                | 1990 / N. clavata |
 | alternative name(s)          | JSTX-1 / LF 466D  |
 | molecular formula            | C₂₂H₃₈N₆O₅        |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn343"
 | Rt                           |                   |
 | Rt HDX                       |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "2,4-(OH)₂-PhAcAsn343"
 | 3 | 393.21380 | 375.20324 | 376.18725 | 410.24035 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 450.27165 | 432.26109 | 433.24510 | 467.29820 | 300.23995 | 283.21340 | 317.26650 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
@@ -61,8 +61,7 @@ title = "2,4-(OH)₂-PhAcAsn343"
 | Structural characterization of glutaminergic blocker spider toxins by high-energy collision charge-remote fragmentations | T. Fujita, Y. Itagaki, H. Naoki, T. Nakajima, Rapid Commun. Mass Spectrom. 1995, 9, 365-371                           |               | JSTX-1     | CID of [M+Na]⁺                     | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcm.1290090502)                              |
 | Diversity of Joro spider toxins                                                                                          | M. Yoshioka,  1997, 117, 700-714                                                                                      |               | JSTX-1     | Review                             | [Link](https://www.jstage.jst.go.jp/article/yakushi1947/117/10-11/117_10-11_700/_article/-char/ja/) |
 | Structural characterization of a new acylpolyaminetoxin from the venom of Brazilian garden spider Nephilenys cruentata   | M. S. Palma, Y. Itagaki, T. Fujita, H. Naoki, T. Nakajima, Toxicon 1998, 36, 485-493                                  | N. cruentata  | JSTX-1     | Frit-FAB-MS                        | [Link](https://www.sciencedirect.com/science/article/pii/S0041010197001396)                         |
-| Structural characterization of a new acylpolyaminetoxin from the venom of Brazilian garden spider Nephilenys cruentata   | M. S. Palma, Y. Itagaki, T. Fujita, H. Naoki, T. Nakajima, Toxicon 1998, 36, 485-493                                  | L. patagiatus | LF 466D    | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.sciencedirect.com/science/article/pii/S0041010197001396)                         | 
-
+| Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins| S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | L. patagiatus | LF 466D    | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) | 
 ## Spider species
 
 | spider species         | family    | source                 |

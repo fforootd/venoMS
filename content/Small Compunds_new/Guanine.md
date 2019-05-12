@@ -8,7 +8,7 @@ title = "Guanine"
 
 | name                    | value               |
 |-------------------------|---------------------|
-| Level                   | 1                   |
+| Level                   | I                   |
 | First mention           | 2019 / P. bistriata |
 | Alternative name(s)     |                     |
 | Molecular formula       | C₅H₅N₅O             |
@@ -34,12 +34,10 @@ title = "Guanine"
 |-----|-----------|------------|-----------|--------|
 |     | 152.05723 |            | Reference | Merck  |
 
-
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

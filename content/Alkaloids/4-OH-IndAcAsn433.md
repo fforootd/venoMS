@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn433"
 
 | name                         | value                          |
 |------------------------------|--------------------------------|
-| level                        | 4                              |
+| level                        | IV                              |
 | first mention                | 1997 / N. borbonica            |
 | alternative name(s)          | LF 489E / NPTX 489 / NPTX 489B |
 | molecular formula            | C₂₄H₃₉N₇O₄                     |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn433"
 | Rt                           |                                |
 | Rt HDX                       |                                |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAcAsn433"
 | 3 | 416.22978 | 398.21922 | 399.20323 | 433.25633 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 473.28763 | 455.27707 | 456.26108 | 490.31418 | 300.23995 | 283.21340 | 317.26650 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

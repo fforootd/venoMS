@@ -8,7 +8,7 @@ title = "Epinine"
 
 | name                    | value           |
 |-------------------------|-----------------|
-| Level                   | 5               |
+| Level                   | V               |
 | First mention           | 1987 / A. gemma |
 | Alternative name(s)     |                 |
 | Molecular formula       | C₉H₁₃NO₂        |
@@ -22,26 +22,21 @@ title = "Epinine"
 | Rt                      |                 |
 | Rt HDX                  |                 |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation        |
 |-----------|-------------------|-------------------|
-
 
 ## Recorded MS/MS spectra
 
 | pdf | precursor | co-eluting | spider    | source                       |
 |-----|-----------|------------|-----------|------------------------------|
 
-
-
 ## References
 
 | titel                                                                                             | reference                                                  | spider   | name | content | link                                         |
 |---------------------------------------------------------------------------------------------------|------------------------------------------------------------|----------|------|---------|----------------------------------------------|
-| Presence of proteins and glutamate as major constituents of the venom of the spider Araneus gemma | S. L. Early, E. K. Michaelis, Toxicon 1987, 25, 4, 433-442 | A. gemma |      | HPLC    | [link](https://doi.org/10.1016/0041-0101(87)90077-8) |
+| Presence of proteins and glutamate as major constituents of the venom of the spider Araneus gemma | S. L. Early, E. K. Michaelis, Toxicon 1987, 25, 4, 433-442 | A. gemma |      | HPLC    | [Link](https://doi.org/10.1016/0041-0101(87)90077-8) |
 
 ## Spider species
 

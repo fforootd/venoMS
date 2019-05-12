@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 508 / NPTX 508D |
 | molecular formula            | C₂₄H₄₀N₆O₆           |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4"
 | 3 | 421.20871 | 403.19815 | 404.18216 | 438.23526 | 228.20758 | 211.18103 | 245.23413 |
 | 4 | 492.28221 | 474.27165 | 475.25566 | 509.30876 | 342.25051 | 325.22396 | 359.27706 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

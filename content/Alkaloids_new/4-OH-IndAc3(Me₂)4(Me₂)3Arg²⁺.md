@@ -2,13 +2,13 @@
 title = "4-OH-IndAc3(Me₂)4(Me₂)3Arg²⁺"
 +++
 
-## Related images
+![](/img/4-OH-IndAc3(Me2)4(Me2)3Arg.png)
 
 ## General Description
 
 | name                             | value               |
 |----------------------------------|---------------------|
-| level                            | 4                   |
+| level                            | IV                  |
 | first mention                    | 2019 / P. bistriata |
 | alternative name(s)              | Parawixin10         |
 | molecular formula                | C₃₀H₅₅N₉O₃²⁺        |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc3(Me₂)4(Me₂)3Arg²⁺"
 | Rt                               |                     |
 | Rt HDX                           |                     |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "4-OH-IndAc3(Me₂)4(Me₂)3Arg²⁺"
 | 2 | 330.21814 | 312.20758 | 313.19160 | 375.27600 | 313.27157 | 297.25285 | 358.32943 |
 | 3 | 415.30729 | 397.29673 | 398.28074 | 588.43495 | 398.36073 | 383.34983 | 415.38728 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

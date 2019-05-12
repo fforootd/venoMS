@@ -2,13 +2,13 @@
 title = "2,4-(OH)₂-PhAcAsn3(Me)43"
 +++
 
-## Related images
+![](/img/2-4-OH2-PhAcAsn3(Me)43.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 480A              |
 | molecular formula           | C₂₃H₄₀N₆O₅           |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn3(Me)43"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "2,4-(OH)₂-PhAcAsn3(Me)43"
 | 3 | 407.22945 | 389.21889 | 390.20290 | 424.25600 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 464.28730 | 446.27674 | 447.26075 | 481.31385 | 314.25560 | 297.22905 | 331.28215 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

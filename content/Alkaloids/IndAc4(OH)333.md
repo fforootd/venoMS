@@ -8,7 +8,7 @@ title = "IndAc4(OH)333"
 
 | name                        | value            |
 |-----------------------------|------------------|
-| level                       | 4                |
+| level                       | IV               |
 | first mention               | --- / --- |
 | alternative name(s)         | AG 432h          |
 | molecular formula           | C₂₃H₄₀N₆O₂       |
@@ -26,7 +26,7 @@ title = "IndAc4(OH)333"
 | Rt                          |                  |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAc4(OH)333"
 | 3 | 359.24470 | 341.23414 | 342.21815 | 376.27125 | 172.18137 | 155.15482 | 205.20283 |
 | 4 | 416.30255 | 398.29199 | 399.27600 | 433.32910 | 259.24978 | 242.22323 | 276.27633 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
@@ -61,4 +61,4 @@ title = "IndAc4(OH)333"
 | Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
 
 ## Comments
-IndAc43(OH)33 was described for A. aperta by Chesnov in 2001 (AG 432i). Eichenberger showed in 2009 that the described structure was an artefact (APCI reduction).
+IndAc4(OH)333 was described for A. aperta by Chesnov in 2001 (AG 432i). Eichenberger showed in 2009 that the described structure was an artefact (APCI reduction).

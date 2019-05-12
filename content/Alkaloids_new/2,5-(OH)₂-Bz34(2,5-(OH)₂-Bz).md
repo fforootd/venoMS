@@ -2,13 +2,13 @@
 title = "2,5-(OH)₂-Bz34(2,5-(OH)₂-Bz)"
 +++
 
-## Related images
+![](/img/2-5-OH2-Bz34(2-5-OH2-Bz).png)
 
 ## General Description
 
 | name                        | value               |
 |-----------------------------|---------------------|
-| level                       | 4                   |
+| level                       | IV                  |
 | first mention               | 2019 / P. bistriata |
 | alternative name(s)         | Mygalin             |
 | molecular formula           | C₂₁H₂₇N₃O₆          |
@@ -26,14 +26,14 @@ title = "2,5-(OH)₂-Bz34(2,5-(OH)₂-Bz)"
 | Rt                          |                     |
 | Rt HDX                      |                     |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | 1 | 194.08172 | 176.07116 | 177.05517 | 211.10827 | 208.09737 | 191.07082 | 225.12392 |
 | 2 | 265.15522 | 247.14466 | 248.12867 | 418.19781 | 265.15522 | 248.12867 | 282.18177 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

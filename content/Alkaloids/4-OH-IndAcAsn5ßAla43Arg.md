@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5ßAla43Arg"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. cruentata  |
 | alternative name(s)          | NPTX 744 / NPTX 744A |
 | molecular formula            | C₃₅H₆₀N₁₂O₆          |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5ßAla43Arg"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -36,7 +36,7 @@ title = "4-OH-IndAcAsn5ßAla43Arg"
 | 4 | 515.29819 | 497.28763 | 498.27164 | 532.32474 | 441.36655 | 424.34000 | 458.39310 |
 | 5 | 572.35604 | 554.34548 | 555.32949 | 745.48370 | 555.40948 | 538.38293 | 572.43603 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

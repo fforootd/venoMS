@@ -8,7 +8,7 @@ title = "PA4"
 
 | name                        | value       |
 |-----------------------------|-------------|
-| Level                       | 5           |
+| Level                       | V           |
 | First mention               | 1980 / div. |
 | Alternative name(s)         | Putrescine  |
 | Molecular formula           | C₄H₁₂N₂     |
@@ -26,13 +26,13 @@ title = "PA4"
 | Rt                          |             |
 | Rt HDX                      |             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a        | b        | c        | ta       | z        | y        | tz       |
 |---|----------|----------|----------|----------|----------|----------|----------|
 | 1 | 72.08133 | 54.07077 | 55.05478 | 72.08133 | 72.08132 | 55.05477 | 89.10787 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

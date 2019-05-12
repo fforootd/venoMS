@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5Gly4ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 801 / NPTX 801C |
 | molecular formula            | C₃₉H₆₇N₁₁O₇          |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5Gly4ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -39,7 +39,7 @@ title = "4-OH-IndAcAsn5Gly4ßAla4ßAla4"
 | 7 | 714.43026 | 696.41970 | 697.40371 | 731.45681 | 498.41315 | 481.38660 | 515.43970 |
 | 8 | 785.50376 | 767.49320 | 768.47721 | 802.53031 | 612.45608 | 595.42953 | 629.48263 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

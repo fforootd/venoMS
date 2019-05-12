@@ -8,7 +8,7 @@ title = "Tryptamine"
 
 | name                    | value              |
 |-------------------------|--------------------|
-| Level                   | 1                  |
+| Level                   | I                  |
 | First mention           | 2019 / P. viridans |
 | Alternative name(s)     |                    |
 | Molecular formula       | C₁₀H₁₂N₂            |
@@ -22,8 +22,6 @@ title = "Tryptamine"
 | Rt                      |                    |
 | Rt HDX                  |                    |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation |
@@ -36,13 +34,10 @@ title = "Tryptamine"
 |-----|-----------|------------|-----------|--------|
 |     | 161.10787 | pure       | Reference | Fluka  |
 
-
-
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

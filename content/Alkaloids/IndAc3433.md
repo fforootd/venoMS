@@ -4,11 +4,13 @@ title = "IndAc3433"
 
 ![](/img/IndAc3433.png)
 
+![](/img_MSMS/417_IndAc3433.png)
+
 ## General Description
 
 | name                        | value            |
 |-----------------------------|------------------|
-| Level                       | 2                |
+| Level                       | I                |
 | First mention               | 2002 / A. aperta |
 | Alternative name(s)         | ---              |
 | Molecular formula           | C₂₃H₄₀N₆O        |
@@ -26,7 +28,7 @@ title = "IndAc3433"
 | Rt                          | 7.82             |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,18 +37,20 @@ title = "IndAc3433"
 | 3 | 343.24979 | 325.23923 | 326.22324 | 360.27634 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 400.30764 | 382.29708 | 383.28109 | 417.33419 | 243.25487 | 226.22832 | 260.28142 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
+| 112.11262 | y2'        |
 | 130.06568 | a'         |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
-|     | 417.33419 | IndAc3334  | A. aperta | Fauna Laboratories Ltd., KAZ |
-|     | 209.17101 | IndAc3334  | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                 | precursor | co-eluting | spider           | source                       |
+|-------------------------------------|-----------|------------|------------------|------------------------------|
+| [Data](/pdf/417_IndAc3343_7-82.pdf) | 417.33419 | pure       | synth. IndAc3433 | UZH Bienz lab, CHE           |
+|                                     | 417.33419 | IndAc3334  | A. aperta        | Fauna Laboratories Ltd., KAZ |
+|                                     | 209.17101 | IndAc3334  | A. aperta        | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

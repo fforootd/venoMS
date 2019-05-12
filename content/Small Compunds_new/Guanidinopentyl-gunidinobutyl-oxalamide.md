@@ -8,7 +8,7 @@ title = "Guanidinopentyl-gunidinobutyl-oxalamide"
 
 | name                    | value             |
 |-------------------------|-------------------|
-| Level                   | 4                 |
+| Level                   | IV                |
 | First mention           | 2019 / P. tristis |
 | Alternative name(s)     |                   |
 | Molecular formula       | C₁₃H₂₈N₈O₂        |
@@ -40,12 +40,10 @@ title = "Guanidinopentyl-gunidinobutyl-oxalamide"
 |-----|-----------|------------|------------|-------------------|
 |     | 329.24135 |            | P. tristis | Spider Pharm, USA |
 
-
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

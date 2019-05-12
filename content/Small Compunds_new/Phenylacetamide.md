@@ -8,7 +8,7 @@ title = "Phenylacetamide"
 
 | name                    | value       |
 |-------------------------|-------------|
-| Level                   | 4           |
+| Level                   | IV          |
 | First mention           | 2019 / div. |
 | Alternative name(s)     |             |
 | Molecular formula       | C₈H₉NO      |
@@ -56,6 +56,5 @@ title = "Phenylacetamide"
 | Lycosa sp.            | Lycosidae     | 2019 / Y. M. Forster |
 | Pireneitega luctuosa  | Agelenidae    | 2019 / Y. M. Forster |
 | Plectreurys tristis   | Plectreuridae | 2019 / Y. M. Forster |
-
 
 ## Comments

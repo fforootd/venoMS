@@ -4,11 +4,13 @@ title = "Betaine"
 
 ![](/img/Betaine.png)
 
+![](/img_MSMS/118_Betaine.png)
+
 ## General Description
 
 | name                  | value       |
 |-----------------------|-------------|
-| Level                 | 1           |
+| Level                 | I           |
 | First mention         | 2019 / div. |
 | Alternative name(s)   |             |
 | Molecular formula     | C₅H₁₂NO₂    |
@@ -32,16 +34,14 @@ title = "Betaine"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source |
-|-----|-----------|------------|-----------|--------|
-|     | 118.08680 | pure       | Reference | Acros  |
-
+| pdf                               | precursor | co-eluting | spider    | source |
+|-----------------------------------|-----------|------------|-----------|--------|
+| [Data](/pdf/118_Betaine_1-15.pdf) | 118.08680 | pure       | Reference | Acros  |
 
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

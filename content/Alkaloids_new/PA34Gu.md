@@ -2,17 +2,13 @@
 title = "PA34Gu"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/PA34Gu.png)
 
 ## General Description
 
 | name                        | value              |
 |-----------------------------|--------------------|
-| Level                       | 4                  |
+| Level                       | IV                 |
 | First mention               | 2019 / E. agrestis |
 | Alternative name(s)         |                    |
 | Molecular formula           | C₈H₂₁N₅            |
@@ -30,14 +26,14 @@ mol file
 | Rt                          |                    |
 | Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | 1 | 58.06568  | 40.05512  | 41.03913  | 75.09223  | 114.10312 | 97.07657  | 131.12967 |
 | 2 | 129.13918 | 111.12862 | 112.11263 | 188.18753 | 171.16097 | 154.13442 | 188.18752 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

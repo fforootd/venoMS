@@ -8,7 +8,7 @@ title = "IndAcAsn5Orn"
 
 | name                         | value                     |
 |------------------------------|---------------------------|
-| level                        | 3                         |
+| level                        | III                       |
 | first mention                | 1988 / N. clavata         |
 | alternative name(s)          | Nephilatoxin 11 / NPTX 11 |
 | molecular formula            | C₂₄H₃₇N₇O₄                |
@@ -26,7 +26,7 @@ title = "IndAcAsn5Orn"
 | Rt                           |                           |
 | Rt HDX                       |                           |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "IndAcAsn5Orn"
 | 2 | 357.19267 | 339.18211 | 340.16612 | 374.21922 | 200.17628 | 183.14973 | 217.20283 |
 | 3 | 471.27198 | 453.26142 | 454.24543 | 488.29853 | 314.21921 | 297.19266 | 331.24576 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

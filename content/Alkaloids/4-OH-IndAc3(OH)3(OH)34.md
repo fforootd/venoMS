@@ -8,7 +8,7 @@ title = "4-OH-IndAc3(OH)3(OH)34"
 
 | name                        | value            |
 |-----------------------------|------------------|
-| level                       | 4                |
+| level                       | IV               |
 | first mention               | 2001 / A. aperta |
 | alternative name(s)         | AG 464a          |
 | molecular formula           | C₂₃H₄₀N₆O₄       |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc3(OH)3(OH)34"
 | Rt                          |                  |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAc3(OH)3(OH)34"
 | 3 | 377.21887 | 359.20831 | 360.19232 | 394.24542 | 202.19193 | 185.16538 | 235.21339 |
 | 4 | 448.29237 | 430.28181 | 431.26582 | 465.31892 | 275.24469 | 258.21814 | 292.27124 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -4,11 +4,13 @@ title = "Propinoyl carnitine"
 
 ![](/img/Propinoyl carnitine.png)
 
+![](/img_MSMS/218_Propinoylcarnitine.png)
+
 ## General Description
 
 | name                  | value               |
 |-----------------------|---------------------|
-| Level                 | 1                   |
+| Level                 | I                   |
 | First mention         | 2019 / P. bistriata |
 | Alternative name(s)   |                     |
 | Molecular formula     | C₁₀H₂₀NO₄           |
@@ -37,14 +39,12 @@ title = "Propinoyl carnitine"
 
 | pdf | precursor | co-eluting | spider    | source        |
 |-----|-----------|------------|-----------|---------------|
-|     | 218.13923 | pure       | Reference | Sigma Aldrich |
-
+| [Data](/pdf/218_Propinoylcarnitine_3-12.pdf)    | 218.13923 | pure       | Reference | Sigma Aldrich |
 
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 
@@ -52,6 +52,5 @@ title = "Propinoyl carnitine"
 |---------------------|------------|----------------------|
 | Eratigena agrestis  | Agelenidae | 2019 / Y. M. Forster |
 | Parawixia bistriata | Araneidae  | 2019 / Y. M. Forster |
-
 
 ## Comments

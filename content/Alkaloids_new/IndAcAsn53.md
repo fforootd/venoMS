@@ -2,13 +2,13 @@
 title = "IndAcAsn53"
 +++
 
-## Related images
+![](/img/IndAcAsn53.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 430F              |
 | molecular formula           | C₂₂H₃₄N₆O₃           |
@@ -26,7 +26,7 @@ title = "IndAcAsn53"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "IndAcAsn53"
 | 2 | 357.19267 | 339.18211 | 340.16612 | 374.21922 | 143.15482 | 126.12827 | 160.18137 |
 | 3 | 414.25052 | 396.23996 | 397.22397 | 431.27707 | 257.19775 | 240.17120 | 274.22430 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

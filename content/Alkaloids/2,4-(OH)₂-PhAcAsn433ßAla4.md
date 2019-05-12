@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn433ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 608 / NPTX 608B |
 | molecular formula            | C₂₉H₅₂N₈O₆           |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn433ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "2,4-(OH)₂-PhAcAsn433ßAla4"
 | 5 | 521.30876 | 503.29820 | 504.28221 | 538.33531 | 328.30763 | 311.28108 | 345.33418 |
 | 6 | 592.38226 | 574.37170 | 575.35571 | 609.40881 | 442.35056 | 425.32401 | 459.37711 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

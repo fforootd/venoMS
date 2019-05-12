@@ -4,11 +4,13 @@ title = "1-Methyl-4-pyridinium carboxylate"
 
 ![](/img/1-Methyl-4-pyridinium carboxylate.png)
 
+![](/img_MSMS/138_1-Methyl-4-pyridinium-carboxylate.png)
+
 ## General Description
 
 | name                | value      |
 |---------------------|------------|
-| Level               | 1          |
+| Level               | I          |
 | First mention       | --- / none |
 | Alternative name(s) |            |
 | Molecular formula   | C₇H₈NO₂    |
@@ -22,8 +24,6 @@ title = "1-Methyl-4-pyridinium carboxylate"
 | Rt                  | 1.19       |
 | Rt HDX              |            |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation |
@@ -35,17 +35,14 @@ title = "1-Methyl-4-pyridinium carboxylate"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider                     | source                                 |
-|-----|-----------|------------|----------------------------|----------------------------------------|
-|     | 138.05550 | pure       | Reference (CAS 36455-39-7) | Dominique Kamber, University of Zurich |
-
-
+| pdf                                                         | precursor | co-eluting | spider                     | source                                 |
+|-------------------------------------------------------------|-----------|------------|----------------------------|----------------------------------------|
+| [Data](/pdf/138_1-Methyl-4-pyridinium-carboxylate_1-19.pdf) | 138.05550 | pure       | Reference (CAS 36455-39-7) | Dominique Kamber, University of Zurich |
 
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

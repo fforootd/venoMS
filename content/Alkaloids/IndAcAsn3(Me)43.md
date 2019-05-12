@@ -4,11 +4,13 @@ title = "IndAcAsn3(Me)43"
 
 ![](/img/IndAcAsn3(Me)43.png)
 
+![](/img_MSMS/488_IndAcAsn3(Me)43.png)
+
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 1                    |
+| level                       | I                    |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 487A              |
 | molecular formula           | C₂₅H₄₁N₇O₃           |
@@ -26,7 +28,7 @@ title = "IndAcAsn3(Me)43"
 | Rt                          | 7.08                 |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,17 +37,23 @@ title = "IndAcAsn3(Me)43"
 | 3 | 414.25052 | 396.23996 | 397.22397 | 431.27707 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 471.30837 | 453.29781 | 454.28182 | 488.33492 | 314.25560 | 297.22905 | 331.28215 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 130.06568 | a0         |
+| 138.05550 | Asn3-2NH₃  |
+| 155.08205 | Asn3-NH₃   |
+| 172.10860 | Asn3       |
+| 342.19399 | ta2-H₂O    |
+| 343.17702 | ta2--NH₃   |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                       | precursor | co-eluting | spider           | source             |
+|-------------------------------------------|-----------|------------|------------------|--------------------|
+| [Data](/pdf/488_IndAcAsn3(Me)43_7-08.pdf) | 488.33492 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
+|                                           | 244.67137 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
 
 ## References
 

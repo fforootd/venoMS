@@ -8,7 +8,7 @@ title = "4-OH-IndAc3(OH)335(NMe₃)⁺"
 
 | name                        | value                        |
 |-----------------------------|------------------------------|
-| level                       | 4                            |
+| level                       | IV                           |
 | first mention               | 1992 / A. aperta             |
 | alternative name(s)         | AG 504 / AG 505a / Agel 505a |
 | molecular formula           | C₂₇H₄₉N₆O₃⁺                  |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc3(OH)335(NMe₃)⁺"
 | Rt                          |                              |
 | Rt HDX                      |                              |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAc3(OH)335(NMe₃)⁺"
 | 3 | 361.22396 | 343.21340 | 344.19741 | 378.25051 | 242.25963 | 223.21743 | 276.28891 |
 | 4 | 446.31311 | 428.30255 | 429.28656 | 505.38661 | 315.31239 | 295.26236 | 333.34676 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

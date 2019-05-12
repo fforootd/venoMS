@@ -8,7 +8,7 @@ title = "Hypoxanthine"
 
 | name                    | value               |
 |-------------------------|---------------------|
-| Level                   | 2                   |
+| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=MT000055)                  |
 | First mention           | 2019 / P. bistriata |
 | Alternative name(s)     |                     |
 | Molecular formula       | C₅H₅N₄O             |
@@ -21,8 +21,6 @@ title = "Hypoxanthine"
 |                         |                     |
 | Rt                      |                     |
 | Rt HDX                  |                     |
-
-
 
 ## MS/MS fragments
 
@@ -40,8 +38,7 @@ title = "Hypoxanthine"
 | titel                                                                                                                                             | reference                                                                                                                                                                     | spider | name | content                                            | link                                                 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|------|----------------------------------------------------|------------------------------------------------------|
 | MassBank                                                                                                                                          | MT000055                                                                                                                                                                      |        |      | ESI-MS/MS                                          | http://www.massbank.jp/RecordDisplay.jsp?id=MT000055 |
-| Relationship between physiological characteristics and trace metal body burdens of banded garden spiders Argiope trifasciata (Araneae, Araneidae) | M. G. Ramirez, J. E. B. McCallum, J. M. Landry, V. A. Vallin, S. A. Fukui, H. E. Gergus, J. D. Torres, C. L. Sy, Ecotoxicology and Enviromental Safety 2011, 74, 4, 1081-1088 |        |      | found in the fecal sample of A. trifasciata (HPLC) | https://doi.org/10.1016/j.ecoenv.2011.02.003         |
-
+| Relationship between physiological characteristics and trace metal body burdens of banded garden spiders Argiope trifasciata (Araneae, Araneidae) | M. G. Ramirez, J. E. B. McCallum, J. M. Landry, V. A. Vallin, S. A. Fukui, H. E. Gergus, J. D. Torres, C. L. Sy, Ecotoxicology and Enviromental Safety 2011, 74, 4, 1081-1088 |        |      | found in the fecal sample of A. trifasciata (HPLC) | [Link](https://doi.org/10.1016/j.ecoenv.2011.02.003)         |
 
 ## Spider species
 

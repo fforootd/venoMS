@@ -2,17 +2,13 @@
 title = "4-OH-Bz3"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/4-OH-Bz3.png)
 
 ## General Description
 
 | name                        | value            |
 |-----------------------------|------------------|
-| Level                       | 4                |
+| Level                       | IV               |
 | First mention               | 2019 / A. aperta |
 | Alternative name(s)         | ---              |
 | Molecular formula           | C₁₀H₁₄N₂O₂       |
@@ -30,13 +26,13 @@ mol file
 | Rt                          | 3.68             |
 | Rt HDX                      |                  |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z        | y        | tz       |
 |---|-----------|-----------|-----------|-----------|----------|----------|----------|
 | 1 | 178.08680 | 160.07624 | 161.06025 | 178.08680 | 58.06567 | 41.03912 | 75.09222 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4AlaGlyArg"
 
 | name                         | value             |
 |------------------------------|-------------------|
-| level                        | 3                 |
+| level                        | III               |
 | first mention                | 1990 / N. clavata |
 | alternative name(s)          | Clavamine         |
 | molecular formula            | C₃₅H₆₀N₁₂O₉       |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4AlaGlyArg"
 | Rt                           |                   |
 | Rt HDX                       |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4AlaGlyArg"
 | 5 | 563.31932 | 545.30876 | 546.29277 | 580.34587 | 512.36727 | 495.34072 | 529.39382 |
 | 6 | 620.34078 | 602.33022 | 603.31423 | 793.46844 | 626.41020 | 609.38365 | 643.43675 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

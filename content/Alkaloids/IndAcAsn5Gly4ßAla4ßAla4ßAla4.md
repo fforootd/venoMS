@@ -8,7 +8,7 @@ title = "IndAcAsn5Gly4ßAla4ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 917 / NPTX 927C |
 | molecular formula            | C₄₆H₈₁N₁₃O₇          |
@@ -26,7 +26,7 @@ title = "IndAcAsn5Gly4ßAla4ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | #  | a         | b         | c         | ta        | z         | y         | tz        |
 |----|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -41,7 +41,7 @@ title = "IndAcAsn5Gly4ßAla4ßAla4ßAla4"
 | 9  | 840.54596 | 822.53540 | 823.51941 | 857.57251 | 640.52376 | 623.49721 | 657.55031 |
 | 10 | 911.61946 | 893.60890 | 894.59291 | 928.64601 | 754.56669 | 737.54014 | 771.59324 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

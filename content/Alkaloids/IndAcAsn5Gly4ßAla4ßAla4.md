@@ -8,7 +8,7 @@ title = "IndAcAsn5Gly4ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 785 / NPTX 785C |
 | molecular formula            | C₃₉H₆₇N₁₁O₆          |
@@ -26,7 +26,7 @@ title = "IndAcAsn5Gly4ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -39,7 +39,7 @@ title = "IndAcAsn5Gly4ßAla4ßAla4"
 | 7 | 698.43535 | 680.42479 | 681.40880 | 715.46190 | 498.41315 | 481.38660 | 515.43970 |
 | 8 | 769.50885 | 751.49829 | 752.48230 | 786.53540 | 612.45608 | 595.42953 | 629.48263 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

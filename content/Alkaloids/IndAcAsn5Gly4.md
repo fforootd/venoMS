@@ -8,7 +8,7 @@ title = "IndAcAsn5Gly4"
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 2                    |
+| level                       | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                    |
 | first mention               | 1997 / N. borbonica  |
 | alternative name(s)         | NPTX 501 / NPTX 501C |
 | molecular formula           | C₂₅H₃₉N₇O₄           |
@@ -26,7 +26,7 @@ title = "IndAcAsn5Gly4"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAcAsn5Gly4"
 | 3 | 414.21413 | 396.20357 | 397.18758 | 431.24068 | 214.19193 | 197.16538 | 231.21848 |
 | 4 | 485.28763 | 467.27707 | 468.26108 | 502.31418 | 328.23486 | 311.20831 | 345.26141 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -8,7 +8,7 @@ title = "4-OH-IndAc3334Gu"
 
 | name                         | value              |
 |------------------------------|--------------------|
-| level                        | 4                  |
+| level                        | IV                 |
 | first mention                | 2002 / P. luctuosa |
 | alternative name(s)          | PB 474             |
 | molecular formula            | C₂₄H₄₂N₈O₂         |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc3334Gu"
 | Rt                           |                    |
 | Rt HDX                       |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAc3334Gu"
 | 3 | 345.22905 | 327.21849 | 328.20250 | 362.25560 | 228.21882 | 211.19227 | 245.24537 |
 | 4 | 416.30255 | 398.29199 | 399.27600 | 475.35090 | 285.27667 | 268.25012 | 302.30322 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

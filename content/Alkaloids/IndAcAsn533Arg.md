@@ -8,7 +8,7 @@ title = "IndAcAsn533Arg"
 
 | name                         | value       |
 |------------------------------|-------------|
-| level                        | 5           |
+| level                        | V           |
 | first mention                | ? / ?       |
 | alternative name(s)          | NTPX 643F   |
 | molecular formula            | C₃₁H₅₃N₁₁O₄ |
@@ -26,7 +26,7 @@ title = "IndAcAsn533Arg"
 | Rt                           |             |
 | Rt HDX                       |             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAcAsn533Arg"
 | 3 | 414.25052 | 396.23996 | 397.22397 | 431.27707 | 356.31379 | 339.28724 | 373.34034 |
 | 4 | 471.30837 | 453.29781 | 454.28182 | 644.43603 | 470.35672 | 453.33017 | 487.38327 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

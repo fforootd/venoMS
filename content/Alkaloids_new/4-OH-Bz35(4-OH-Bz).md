@@ -2,13 +2,13 @@
 title = "4-OH-Bz35(4-OH-Bz)"
 +++
 
-## Related images
+![](/img/4-OH-Bz35(4-OH-Bz).png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / Drassodes sp. |
 | alternative name(s)         | DR 399               |
 | molecular formula           | C₂₂H₂₉N₃O₄           |
@@ -26,14 +26,14 @@ title = "4-OH-Bz35(4-OH-Bz)"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | 1 | 178.08680 | 160.07624 | 161.06025 | 195.11335 | 206.11810 | 189.09156 | 223.14465 |
 | 2 | 263.17595 | 245.16539 | 246.14940 | 400.22363 | 263.17595 | 246.14941 | 280.20250 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

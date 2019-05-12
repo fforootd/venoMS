@@ -4,11 +4,13 @@ title = "Pantothenic acid"
 
 ![](/img/Pantothenic acid.png)
 
+![](/img_MSMS/220_Pantothenic_acid.png)
+
 ## General Description
 
 | name                    | value               |
 |-------------------------|---------------------|
-| Level                   | 1                   |
+| Level                   | I                   |
 | First mention           | 2019 / P. bistriata |
 | Alternative name(s)     |                     |
 | Molecular formula       | C₉H₁₇NO₅            |
@@ -40,9 +42,9 @@ title = "Pantothenic acid"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider                     | source |
-|-----|-----------|------------|----------------------------|--------|
-|     | 220.11850 | pure       | Reference (CAS 63409-48-3) | Fluka  |
+| pdf                                        | precursor | co-eluting | spider                     | source |
+|--------------------------------------------|-----------|------------|----------------------------|--------|
+| [Data](/pdf/220_Pantothenic-acid_4-57.pdf) | 220.11850 | pure       | Reference (CAS 63409-48-3) | Fluka  |
 
 ## References
 

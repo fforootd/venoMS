@@ -8,7 +8,7 @@ title = "2,4-(OH)₂-PhAcAsn433"
 
 | name                         | value                          |
 |------------------------------|--------------------------------|
-| level                        | 4                              |
+| level                        | IV                             |
 | first mention                | 1997 / N. borbonica            |
 | alternative name(s)          | NPTX 466 / NPTX 466B / LF 466E |
 | molecular formula            | C₂₂H₃₈N₆O₅                     |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn433"
 | Rt                           |                                |
 | Rt HDX                       |                                |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "2,4-(OH)₂-PhAcAsn433"
 | 3 | 393.21380 | 375.20324 | 376.18725 | 410.24035 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 450.27165 | 432.26109 | 433.24510 | 467.29820 | 300.23995 | 283.21340 | 317.26650 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -8,7 +8,7 @@ title = "IndAcAsn5ßAla4ßAla4"
 
 | name                         | value                 |
 |------------------------------|-----------------------|
-| level                        | 5                     |
+| level                        | V                     |
 | first mention                | 1997 / N. borbonica   |
 | alternative name(s)          | NPTX 657 / NPTZX 657D |
 | molecular formula            | C₃₃H₅₅N₉O₅            |
@@ -26,7 +26,7 @@ title = "IndAcAsn5ßAla4ßAla4"
 | Rt                           |                       |
 | Rt HDX                       |                       |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "IndAcAsn5ßAla4ßAla4"
 | 5 | 570.34039 | 552.32983 | 553.31384 | 587.36694 | 370.31819 | 353.29164 | 387.34474 |
 | 6 | 641.41389 | 623.40333 | 624.38734 | 658.44044 | 484.36112 | 467.33457 | 501.38767 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

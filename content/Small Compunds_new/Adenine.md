@@ -8,7 +8,7 @@ title = "Adenine"
 
 | name                    | value               |
 |-------------------------|---------------------|
-| Level                   | 1                   |
+| Level                   | I                   |
 | First mention           | 2019 / P. bistriata |
 | Alternative name(s)     |                     |
 | Molecular formula       | C₅H₅N₅              |
@@ -22,8 +22,6 @@ title = "Adenine"
 | Rt                      |                     |
 | Rt HDX                  |                     |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation |
@@ -36,12 +34,10 @@ title = "Adenine"
 |-----|-----------|------------|-----------|--------|
 |     | 136.06232 | pure       | Reference | Fluka  |
 
-
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

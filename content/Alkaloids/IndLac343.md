@@ -8,7 +8,7 @@ title = "IndLac343"
 
 | name                        | value                                   |
 |-----------------------------|-----------------------------------------|
-| level                       | 3                                       |
+| level                       | III                                     |
 | first mention               | 1990 / H. theveneti & Harpactirella sp. |
 | alternative name(s)         | Het 389                                 |
 | molecular formula           | C₂₁H₃₅N₅O₂                              |
@@ -26,7 +26,7 @@ title = "IndLac343"
 | Rt                          |                                         |
 | Rt HDX                      |                                         |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "IndLac343"
 | 2 | 316.20250 | 298.19194 | 299.17595 | 333.22905 | 129.13917 | 112.11262 | 146.16572 |
 | 3 | 373.26035 | 355.24979 | 356.23380 | 390.28690 | 186.19702 | 169.17047 | 203.22357 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

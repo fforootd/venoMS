@@ -8,7 +8,7 @@ title = "IndAcAsn5Gly4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 643 / NPTX 643C |
 | molecular formula            | C₃₂H₅₃N₉O₅           |
@@ -26,7 +26,7 @@ title = "IndAcAsn5Gly4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "IndAcAsn5Gly4ßAla4"
 | 5 | 556.32474 | 538.31418 | 539.29819 | 573.35129 | 356.30254 | 339.27599 | 373.32909 |
 | 6 | 627.39824 | 609.38768 | 610.37169 | 644.42479 | 470.34547 | 453.31892 | 487.37202 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -2,13 +2,13 @@
 title = "4-OH-IndAcAsn53"
 +++
 
-## Related images
+![](/img/4-OH-IndAcAsn53.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 446F              |
 | molecular formula           | C₂₂H₃₄N₆O₄           |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn53"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "4-OH-IndAcAsn53"
 | 2 | 373.18758 | 355.17702 | 356.16103 | 390.21413 | 143.15482 | 126.12827 | 160.18137 |
 | 3 | 430.24543 | 412.23487 | 413.21888 | 447.27198 | 257.19775 | 240.17120 | 274.22430 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

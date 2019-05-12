@@ -2,17 +2,13 @@
 title = "Ac4"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/Ac4.png)
 
 ## General Description
 
 | name                        | value               |
 |-----------------------------|---------------------|
-| Level                       | 4                   |
+| Level                       | IV                  |
 | First mention               | 2019 / P. bistriata |
 | Alternative name(s)         |                     |
 | Molecular formula           | C₆H₁₄N₂O            |
@@ -30,13 +26,13 @@ mol file
 | Rt                          |                     |
 | Rt HDX                      |                     |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b        | c        | ta        | z        | y        | tz       |
 |---|-----------|----------|----------|-----------|----------|----------|----------|
 | 1 | 114.09189 | 96.08133 | 97.06534 | 114.09189 | 72.08132 | 55.05477 | 89.10787 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

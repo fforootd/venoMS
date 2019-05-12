@@ -8,7 +8,7 @@ title = "4-OH-IndAc3433"
 
 | name                        | value             |
 |-----------------------------|-------------------|
-| level                       | 4                 |
+| level                       | IV                |
 | first mention               | 2010 / A. aperta  |
 | alternative name(s)         | --- |
 | molecular formula           | C₂₃H₄₀N₆O₂        |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc3433"
 | Rt                          |                   |
 | Rt HDX                      |                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAc3433"
 | 3 | 359.24470 | 341.23414 | 342.21815 | 376.27125 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 416.30255 | 398.29199 | 399.27600 | 433.32910 | 243.25487 | 226.22832 | 260.28142 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

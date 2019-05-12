@@ -4,11 +4,13 @@ title = "Serotonin"
 
 ![](/img/Serotonin.png)
 
+![](/img_MSMS/177_Serotonin.png)
+
 ## General Description
 
 | name                    | value                      |
 |-------------------------|----------------------------|
-| Level                   | 1                          |
+| Level                   | I                          |
 | First mention           | 1963 / div.                |
 | Alternative name(s)     | 5-Hydroxytryptamine / 5-HT |
 | Molecular formula       | C₁₀H₁₂N₂O                  |
@@ -23,8 +25,6 @@ title = "Serotonin"
 | Rt                      | 4.31                       |
 | Rt HDX                  |                            |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation |
@@ -35,21 +35,20 @@ title = "Serotonin"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider             | source                       |
-|-----|-----------|------------|--------------------|------------------------------|
-
-
+| pdf                                 | precursor | co-eluting | spider    | source |
+|-------------------------------------|-----------|------------|-----------|--------|
+| [Data](/pdf/177_Serotonin_4-31.pdf) | 203.22358 | pure       | Reference | Fluka  |
 
 ## References
 
 | titel                                                                                                                  | reference                                                                  | spider      | name | content | link                                           |
 |------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-------------|------|---------|----------------------------------------------------------------|
-| 5-Hydroxytryptamine content of some arthropod venoms and venom-containing parts  | J. H. Welsh, C. S. Batty, Toxicon 1963, 1, 165-173 | div.  | 5-Hydroxytryptamine | paper-chromatography | [link](https://doi.org/10.1016/0041-0101(63)90002-3) |
-| 5-Hydroxytryptamine content of Latrodectus mactans tredecimguttatus venom from gland extracts  | M. C. Pansa, G. M. Natalizi, S. Bettini, Toxicon 1972, 10, 85-86 | L. tredecimguttatus | 5-Hydroxytryptamine |  | [link](https://www.sciencedirect.com/journal/toxicon/vol/10/issue/1) |
+| 5-Hydroxytryptamine content of some arthropod venoms and venom-containing parts  | J. H. Welsh, C. S. Batty, Toxicon 1963, 1, 165-173 | div.  | 5-Hydroxytryptamine | paper-chromatography | [Link](https://doi.org/10.1016/0041-0101(63)90002-3) |
+| 5-Hydroxytryptamine content of Latrodectus mactans tredecimguttatus venom from gland extracts  | M. C. Pansa, G. M. Natalizi, S. Bettini, Toxicon 1972, 10, 85-86 | L. tredecimguttatus | 5-Hydroxytryptamine |  | [Link](https://www.sciencedirect.com/journal/toxicon/vol/10/issue/1) |
 | Phoneutria nigriventer venom. Pharmacology and biochemistry of its components  | In: Venomous animals and their venoms (New York: Academic Press, 1973), S. Schenberg, F. A. Pereira-Lima  | P. nigriventer |  |  | |
-| Determination of biogenic amines in spider venom glands of nine typical Japanese species and chromatographic elution pattern analysis of venomous components | K. Hagiwara, A. Tokita, A. Miwa, N. Kawai, Y. Murata, A. Uchida, T. Nakajima, Jpn. J. Sanit. Zool. 1991, 42, 2, 77-84 | C. japonicum |      |         | [link](https://doi.org/10.7601/mez.42.77)            |
-| Identification of noradrenaline in venom from the funnel-web spider Hololena curta                | R. Frew, M. G. Hamilton, P. M. Lundy, Toxicon 1994, 32, 4, 511-515 | H. curta |      | HPLC    | [link](https://doi.org/10.1016/0041-0101(94)90303-4) |
-| Sex differences in the pharmacological activity of venom from the white-tailed spider (Lampona cylindrata)  |L. D. Rash, R. G. King, W. C. Hodgsen, Toxicon 2000, 38, 8, 1111-1127 | L. cylindrata |  | | [link](https://doi.org/10.1016/S0041-0101(99)00226-3) |
+| Determination of biogenic amines in spider venom glands of nine typical Japanese species and chromatographic elution pattern analysis of venomous components | K. Hagiwara, A. Tokita, A. Miwa, N. Kawai, Y. Murata, A. Uchida, T. Nakajima, Jpn. J. Sanit. Zool. 1991, 42, 2, 77-84 | C. japonicum |      |         | [Link](https://doi.org/10.7601/mez.42.77)            |
+| Identification of noradrenaline in venom from the funnel-web spider Hololena curta                | R. Frew, M. G. Hamilton, P. M. Lundy, Toxicon 1994, 32, 4, 511-515 | H. curta |      | HPLC    | [Link](https://doi.org/10.1016/0041-0101(94)90303-4) |
+| Sex differences in the pharmacological activity of venom from the white-tailed spider (Lampona cylindrata)  |L. D. Rash, R. G. King, W. C. Hodgsen, Toxicon 2000, 38, 8, 1111-1127 | L. cylindrata |  | | [Link](https://doi.org/10.1016/S0041-0101(99)00226-3) |
 
 ## Spider species
 

@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5Gly4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 517 / NPTX 517C |
 | molecular formula            | C₂₅H₃₉N₇O₅           |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5Gly4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAcAsn5Gly4"
 | 3 | 430.20904 | 412.19848 | 413.18249 | 447.23559 | 214.19193 | 197.16538 | 231.21848 |
 | 4 | 501.28254 | 483.27198 | 484.25599 | 518.30909 | 328.23486 | 311.20831 | 345.26141 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

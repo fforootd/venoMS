@@ -2,17 +2,13 @@
 title = "IndAc4"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/IndAc4.png)
 
 ## General Description
 
 | name                        | value       |
 |-----------------------------|-------------|
-| Level                       | 4           |
+| Level                       | IV          |
 | First mention               | 2019 / div. |
 | Alternative name(s)         |             |
 | Molecular formula           | C₁₄H₁₉N₃O   |
@@ -30,13 +26,13 @@ mol file
 | Rt                          |             |
 | Rt HDX                      |             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z        | y        | tz       |
 |---|-----------|-----------|-----------|-----------|----------|----------|----------|
 | 1 | 229.13409 | 211.12353 | 212.10754 | 229.13409 | 72.08132 | 55.05477 | 89.10787 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

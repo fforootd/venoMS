@@ -8,7 +8,7 @@ title = "PA3(OH)43"
 
 | name                        | value                       |
 |-----------------------------|-----------------------------|
-| Level                       | 4                           |
+| Level                       | IV                          |
 | First mention               | 2005 / A. aperta & H. curta |
 | Alternative name(s)         | ---                         |
 | Molecular formula           | C₁₀H₂₆N₄O                   |
@@ -26,7 +26,7 @@ title = "PA3(OH)43"
 | Rt                          |                             |
 | Rt HDX                      |                             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "PA3(OH)43"
 | 2 | 145.13409 | 127.12353 | 128.10754 | 162.16064 | 129.13917 | 112.11262 | 162.16063 |
 | 3 | 202.19194 | 184.18138 | 185.16539 | 219.21849 | 202.19193 | 185.16538 | 219.21848 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

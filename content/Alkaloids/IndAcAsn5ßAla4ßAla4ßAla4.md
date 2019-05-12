@@ -8,7 +8,7 @@ title = "IndAcAsn5ßAla4ßAla4ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 799 / NPTX 799D |
 | molecular formula            | C₄₀H₆₉N₁₁O₆          |
@@ -26,7 +26,7 @@ title = "IndAcAsn5ßAla4ßAla4ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -39,7 +39,7 @@ title = "IndAcAsn5ßAla4ßAla4ßAla4"
 | 7 | 712.45100 | 694.44044 | 695.42445 | 729.47755 | 512.42880 | 495.40225 | 529.45535 |
 | 8 | 783.52450 | 765.51394 | 766.49795 | 800.55105 | 626.47173 | 609.44518 | 643.49828 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

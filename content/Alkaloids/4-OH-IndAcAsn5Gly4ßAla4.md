@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5Gly4ßAla4"
 
 | name                         | value                 |
 |------------------------------|-----------------------|
-| level                        | 5                     |
+| level                        | V                     |
 | first mention                | 1997 / N. borbonica   |
 | alternative name(s)          | NPTX 659 / NPTX 6459C |
 | molecular formula            | C₃₂H₅₃N₉O₆            |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5Gly4ßAla4"
 | Rt                           |                       |
 | Rt HDX                       |                       |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "4-OH-IndAcAsn5Gly4ßAla4"
 | 5 | 572.31965 | 554.30909 | 555.29310 | 589.34620 | 356.30254 | 339.27599 | 373.32909 |
 | 6 | 643.39315 | 625.38259 | 626.36660 | 660.41970 | 470.34547 | 453.31892 | 487.37202 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

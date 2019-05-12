@@ -4,11 +4,13 @@ title = "Homarine"
 
 ![](/img/Homarine.png)
 
+![](/img_MSMS/138_Homarine.png)
+
 ## General Description
 
 | name                | value               |
 |---------------------|---------------------|
-| Level               | 1                   |
+| Level               | I                   |
 | First mention       | 2019 / P. bistriata |
 | Alternative name(s) |                     |
 | Molecular formula   | C₇H₈NO₂             |
@@ -22,8 +24,6 @@ title = "Homarine"
 | Rt                  | 1.22                |
 | Rt HDX              |                     |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation  |
@@ -36,17 +36,14 @@ title = "Homarine"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider                    | source                                 |
-|-----|-----------|------------|---------------------------|----------------------------------------|
-|     | 138.05550 | pure       | Reference (CAS 6253-06-1) | Dominique Kamber, University of Zurich |
-
-
+| pdf                                | precursor | co-eluting | spider                    | source                                 |
+|------------------------------------|-----------|------------|---------------------------|----------------------------------------|
+| [Data](/pdf/138_Homarine_1-22.pdf) | 138.05550 | pure       | Reference (CAS 6253-06-1) | Dominique Kamber, University of Zurich |
 
 ## References
 
 | titel  | reference | spider | name | content | link |
 |--------|-----------|--------|------|---------|------|
-
 
 ## Spider species
 

@@ -8,7 +8,7 @@ title = "IndAcAsn433"
 
 | name                        | value                          |
 |-----------------------------|--------------------------------|
-| level                       | 2                              |
+| level                       | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                              |
 | first mention               | 1997 / N. borbonica            |
 | alternative name(s)         | LF 473E / NPTX 473 / NPTX 473B |
 | molecular formula           | C₂₄H₃₉N₇O₃                     |
@@ -26,7 +26,7 @@ title = "IndAcAsn433"
 | Rt                          |                                |
 | Rt HDX                      |                                |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAcAsn433"
 | 3 | 400.23487 | 382.22431 | 383.20832 | 417.26142 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 457.29272 | 439.28216 | 440.26617 | 474.31927 | 300.23995 | 283.21340 | 317.26650 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

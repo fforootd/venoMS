@@ -8,7 +8,7 @@ title = "Arg 517"
 
 | name                       | value                              |
 |----------------------------|------------------------------------|
-| Level                      | 6                                  |
+| Level                      | VI                                 |
 | First mention              | 1988 / A. florida & A. trifasciata |
 | Alternative name(s)        | Arg 517                            |
 | Molecular formula          |                                    |
@@ -26,12 +26,12 @@ title = "Arg 517"
 | Rt                         |                                    |
 | Rt HDX                     |                                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

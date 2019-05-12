@@ -2,13 +2,13 @@
 title = "4-OH-IndAc353"
 +++
 
-## Related images
+![](/img/4-OH-IndAc353.png)
 
 ## General Description
 
 | name                        | value              |
 |-----------------------------|--------------------|
-| level                       | 4                  |
+| level                       | IV                 |
 | first mention               | 2009 / O. lugubris |
 | alternative name(s)         | OZ 389             |
 | molecular formula           | C₂₁H₃₅N₅O₂         |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc353"
 | Rt                          |                    |
 | Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "4-OH-IndAc353"
 | 2 | 316.20250 | 298.19194 | 299.17595 | 333.22905 | 143.15482 | 126.12827 | 160.18137 |
 | 3 | 373.26035 | 355.24979 | 356.23380 | 390.28690 | 200.21267 | 183.18612 | 217.23922 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

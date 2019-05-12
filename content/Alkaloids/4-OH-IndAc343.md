@@ -8,7 +8,7 @@ title = "4-OH-IndAc343"
 
 | name                        | value              |
 |-----------------------------|--------------------|
-| Level                       | 4                  |
+| Level                       | IV                 |
 | First mention               | 2009 / O. lugubris |
 | Alternative name(s)         | OZ 375             |
 | Molecular formula           | C₂₀H₃₃N₅O₂         |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc343"
 | Rt                          |                    |
 | Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "4-OH-IndAc343"
 | 2 | 249.16030 | 231.14974 | 232.13375 | 266.18685 | 129.13917 | 112.11262 | 146.16572 |
 | 3 | 306.21815 | 288.20759 | 289.19160 | 323.24470 | 186.19702 | 169.17047 | 203.22357 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

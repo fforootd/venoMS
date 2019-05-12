@@ -8,7 +8,7 @@ title = "IndAcAsn433ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 615 / NPTX 615B |
 | molecular formula            | C₃₁H₅₃N₉O₄           |
@@ -26,7 +26,7 @@ title = "IndAcAsn433ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "IndAcAsn433ßAla4"
 | 5 | 528.32983 | 510.31927 | 511.30328 | 545.35638 | 328.30763 | 311.28108 | 345.33418 |
 | 6 | 599.40333 | 581.39277 | 582.37678 | 616.42988 | 442.35056 | 425.32401 | 459.37711 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

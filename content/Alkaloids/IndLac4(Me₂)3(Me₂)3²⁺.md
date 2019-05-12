@@ -8,7 +8,7 @@ title = "IndLac4(Me₂)3(Me₂)3²⁺"
 
 | name                            | value                             |
 |---------------------------------|-----------------------------------|
-| level                           | 3                                 |
+| level                           | III                               |
 | first mention                   | 2004 / M. gigas                   |
 | alternative name(s)             | MG 30                             |
 | molecular formula               | C₂₅H₄₅N₅O₂²⁺                      |
@@ -26,7 +26,7 @@ title = "IndLac4(Me₂)3(Me₂)3²⁺"
 | Rt                              |                                   |
 | Rt HDX                          |                                   |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "IndLac4(Me₂)3(Me₂)3²⁺"
 | 2 | 344.23379 | 326.22323 | 327.20725 | 389.29165 | 143.15481 | 127.13608 | 188.21266 |
 | 3 | 429.32294 | 411.31238 | 412.29639 | 446.34949 | 242.25961 | 227.24871 | 259.28616 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

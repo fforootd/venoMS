@@ -8,7 +8,7 @@ title = "AN 622"
 
 | name                       | value        |
 |----------------------------|--------------|
-| Level                      | 6            |
+| Level                      | VI           |
 | First mention              | ? / A. gemma |
 | Alternative name(s)        | AN 622       |
 | Molecular formula          |              |
@@ -26,12 +26,12 @@ title = "AN 622"
 | Rt                         |              |
 | Rt HDX                     |              |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

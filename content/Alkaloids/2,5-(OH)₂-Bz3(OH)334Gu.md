@@ -10,7 +10,7 @@ title = "2,5-(OH)₂-Bz3(OH)334Gu"
 
 | name                       | value                |
 |----------------------------|----------------------|
-| level                      | 4                    |
+| level                      | IV                   |
 | first mention              | 2008 / C. pastoralis |
 | alternative name(s)        | APA 5                |
 | molecular formula          | C₂₁H₃₉N₇O₄           |
@@ -28,7 +28,7 @@ title = "2,5-(OH)₂-Bz3(OH)334Gu"
 | Rt                         |                      |
 | Rt HDX                     |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -37,7 +37,7 @@ title = "2,5-(OH)₂-Bz3(OH)334Gu"
 | 3 | 324.19233 | 306.18177 | 307.16578 | 341.21888 | 228.21882 | 211.19227 | 261.24028 |
 | 4 | 395.26583 | 377.25527 | 378.23928 | 454.31418 | 301.27158 | 284.24503 | 318.29813 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

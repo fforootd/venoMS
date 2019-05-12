@@ -8,7 +8,7 @@ title = "5'-Sulfated guanosine, 3'-α-fucose"
 
 | name                    | value              |
 |-------------------------|--------------------|
-| Level                   | 3                  |
+| Level                   | III                |
 | First mention           | 2004 / E. agrestis |
 | Alternative name(s)     |                    |
 | Molecular formula       | C₁₆H₂₃N₅O₁₂S₂      |
@@ -22,27 +22,21 @@ title = "5'-Sulfated guanosine, 3'-α-fucose"
 | Rt                      |                    |
 | Rt HDX                  |                    |
 
-
-
 ## MS/MS fragments
 
 | m/z       | molecular formula | annotation      |
 |-----------|-------------------|-----------------|
-
 
 ## Recorded MS/MS spectra
 
 | pdf | precursor | co-eluting | spider             | source                       |
 |-----|-----------|------------|--------------------|------------------------------|
 
-
-
 ## References
 
 | titel                                                                                                                  | reference                                                                  | spider      | name | content | link                                           |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|------|---------|------------------------------------------------|
-| A new approach to natural products discovery exemplified by the identification of sulfated nucleosides in spider venom | A. E. Taggi, J. Meinwald, F. C. Schroeder, JACS 2004, 126, 33, 10364-10369 | E. agrestis |      |         | [link](https://pubs.acs.org/doi/abs/10.1021/ja047416n) |
-
+| A new approach to natural products discovery exemplified by the identification of sulfated nucleosides in spider venom | A. E. Taggi, J. Meinwald, F. C. Schroeder, JACS 2004, 126, 33, 10364-10369 | E. agrestis |      |         | [Link](https://pubs.acs.org/doi/abs/10.1021/ja047416n) |
 
 ## Spider species
 

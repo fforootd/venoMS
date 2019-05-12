@@ -2,13 +2,13 @@
 title = "TrpAsn3(Me)43"
 +++
 
-## Related images
+![](/img/TrpAsn3(Me)43.png)
 
 ## General Description
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 4                    |
+| level                        | IV                   |
 | first mention                | 2009 / L. patagiatus |
 | alternative name(s)          | LF 516A              |
 | molecular formula            | C₂₆H₄₄N₈O₃           |
@@ -26,7 +26,7 @@ title = "TrpAsn3(Me)43"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "TrpAsn3(Me)43"
 | 3 | 443.27707 | 425.26651 | 426.25052 | 460.30362 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 500.33492 | 482.32436 | 483.30837 | 517.36147 | 314.25560 | 297.22905 | 331.28215 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

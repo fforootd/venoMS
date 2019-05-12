@@ -8,7 +8,7 @@ title = "IndAc3(OH)3343"
 
 | name                        | value                                     |
 |-----------------------------|-------------------------------------------|
-| level                       | 3                                         |
+| level                       | III                                       |
 | first mention               | 1990 / A. aperta                          |
 | alternative name(s)         | AG 489 / Agatoxin 489 / Agel 489 / HO 489 |
 | molecular formula           | C₂₆H₄₇N₇O₂                                |
@@ -26,7 +26,7 @@ title = "IndAc3(OH)3343"
 | Rt                          |                                           |
 | Rt HDX                      |                                           |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -36,7 +36,7 @@ title = "IndAc3(OH)3343"
 | 4 | 416.30255 | 398.29199 | 399.27600 | 433.32910 | 243.25487 | 226.22832 | 276.27633 |
 | 5 | 473.36040 | 455.34984 | 456.33385 | 490.38695 | 316.30763 | 299.28108 | 333.33418 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

@@ -8,7 +8,7 @@ title = "Arg 503"
 
 | name                       | value                              |
 |----------------------------|------------------------------------|
-| Level                      | 6                                  |
+| Level                      | VI                                 |
 | First mention              | 1988 / A. florida & A. trifasciata |
 | Alternative name(s)        | Arg 503                            |
 | Molecular formula          |                                    |
@@ -26,12 +26,12 @@ title = "Arg 503"
 | Rt                         |                                    |
 | Rt HDX                     |                                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

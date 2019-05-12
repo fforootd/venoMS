@@ -2,17 +2,13 @@
 title = "4-OH-Bz343(4-OH-Bz)"
 +++
 
-## Related images
-
-![](/img/2.png)
-
-mol file
+![](/img/4-OH-Bz343(4-OH-Bz).png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / Drassodes sp. |
 | alternative name(s)         | DR 442               |
 | molecular formula           | C₂₁H₂₇N₃O₄           |
@@ -30,7 +26,7 @@ mol file
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -38,12 +34,7 @@ mol file
 | 2 | 249.16030 | 231.14974 | 232.13375 | 266.18685 | 249.16030 | 232.13376 | 266.18685 |
 | 3 | 306.21815 | 288.20759 | 289.19160 | 443.26583 | 306.21815 | 289.19161 | 323.24470 |
 
-## MS/MS fragments calculated
-
-| # | a         | b         | c         | ta        | z         | y         | tz        |
-|---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

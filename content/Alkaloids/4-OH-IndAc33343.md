@@ -8,7 +8,7 @@ title = "4-OH-IndAc33343"
 
 | name                        | value       |
 |-----------------------------|-------------|
-| level                       | 4           |
+| level                       | IV          |
 | first mention               | - / -       |
 | alternative name(s)         | AG 489b     |
 | molecular formula           | C₂₆H₄₇N₇O₂  |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc33343"
 | Rt                          |             |
 | Rt HDX                      |             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -36,7 +36,7 @@ title = "4-OH-IndAc33343"
 | 4 | 416.30255 | 398.29199 | 399.27600 | 433.32910 | 243.25487 | 226.22832 | 260.28142 |
 | 5 | 473.36040 | 455.34984 | 456.33385 | 490.38695 | 300.31272 | 283.28617 | 317.33927 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

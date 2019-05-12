@@ -8,7 +8,7 @@ title = "IndAcAsn5ßAla3Arg"
 
 | name                         | value                      |
 |------------------------------|----------------------------|
-| level                        | 5                          |
+| level                        | V                          |
 | first mention                | 1997 / N. madagascariensis |
 | alternative name(s)          | NPTX 657 / NPTX 657E       |
 | molecular formula            | C₃₁H₅₁N₁₁O₅                |
@@ -26,7 +26,7 @@ title = "IndAcAsn5ßAla3Arg"
 | Rt                           |                            |
 | Rt HDX                       |                            |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAcAsn5ßAla3Arg"
 | 3 | 428.22978 | 410.21922 | 411.20323 | 445.25633 | 370.29305 | 353.26650 | 387.31960 |
 | 4 | 485.28763 | 467.27707 | 468.26108 | 658.41529 | 484.33598 | 467.30943 | 501.36253 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

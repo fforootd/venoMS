@@ -8,7 +8,7 @@ title = "O-Acetylcholine"
 
 | name                | value       |
 |---------------------|-------------|
-| Level               | 3           |
+| Level               | III         |
 | First mention       | 2008 / div. |
 | Alternative name(s) |             |
 | Molecular formula   | C₇H₁₆NO₂    |
@@ -27,7 +27,6 @@ title = "O-Acetylcholine"
 | m/z       | molecular formula | annotation        |
 |-----------|-------------------|-------------------|
 
-
 ## Recorded MS/MS spectra
 
 | pdf | precursor | co-eluting | spider    | source                       |
@@ -37,8 +36,7 @@ title = "O-Acetylcholine"
 
 | titel                                                                                                                                  | reference                                                                                                                 | spider | name | content       | link                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------|------|---------------|-----------------------------------------|
-| NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, PNAS 2008, 105, 14283-14287 | div.   |      | NMR-screening | [link](https://doi.org/10.1073/pnas.0806840105) |
-
+| NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, PNAS 2008, 105, 14283-14287 | div.   |      | NMR-screening | [Link](https://doi.org/10.1073/pnas.0806840105) |
 
 ## Spider species
 
@@ -53,7 +51,4 @@ title = "O-Acetylcholine"
 | Eusparassus oculatus               | Sparassidae   | 2008 / F. C. Schroeder |
 | Micrommata virescens virvirescenes | Sparassidae   | 2008 / F. C. Schroeder |
 
-
 ## Comments
-
-H. albostriatum / H. lividum / H. schmidti / M. virescens

@@ -4,11 +4,13 @@ title = "PhAcAsn3(Me)43"
 
 ![](/img/PhAcAsn3(Me)43.png)
 
+![](/img_MSMS/449_PhAcAsn3(Me)43.png)
+
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 1                    |
+| level                       | I                    |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 448A              |
 | molecular formula           | C₂₃H₄₀N₆O₃           |
@@ -26,7 +28,7 @@ title = "PhAcAsn3(Me)43"
 | Rt                          | 4.83                 |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,17 +37,23 @@ title = "PhAcAsn3(Me)43"
 | 3 | 375.23962 | 357.22906 | 358.21307 | 392.26617 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 432.29747 | 414.28691 | 415.27092 | 449.32402 | 314.25560 | 297.22905 | 331.28215 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 91.05478  | a'         |
+| 138.05550 | Asn3-2NH₃  |
+| 155.08205 | Asn3-NH₃   |
+| 172.10860 | Asn3       |
+| 303.18210 | ta2-H₂O    |
+| 304.1612  | ta2-NH₃    |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                      | precursor | co-eluting | spider           | source             |
+|------------------------------------------|-----------|------------|------------------|--------------------|
+| [Data](/pdf/449_PhAcAsn3(Me)43_4-83.pdf) | 449.32402 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
+|                                          | 225.16592 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
 
 ## References
 

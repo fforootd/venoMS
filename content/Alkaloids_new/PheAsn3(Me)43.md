@@ -2,13 +2,13 @@
 title = "PheAsn3(Me)43"
 +++
 
-## Related images
+![](/img/PheAsn3(Me)43.png)
 
 ## General Description
 
 | name                        | value                |
 |-----------------------------|----------------------|
-| level                       | 4                    |
+| level                       | IV                   |
 | first mention               | 2009 / L. patagiatus |
 | alternative name(s)         | LF 477A              |
 | molecular formula           | C₂₄H₄₃N₇O₃           |
@@ -26,7 +26,7 @@ title = "PheAsn3(Me)43"
 | Rt                          |                      |
 | Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "PheAsn3(Me)43"
 | 3 | 404.26617 | 386.25561 | 387.23962 | 421.29272 | 200.21267 | 183.18612 | 217.23922 |
 | 4 | 461.32402 | 443.31346 | 444.29747 | 478.35057 | 314.25560 | 297.22905 | 331.28215 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

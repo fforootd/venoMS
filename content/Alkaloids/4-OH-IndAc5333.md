@@ -8,7 +8,7 @@ title = "4-OH-IndAc5333"
 
 | name                        | value                   |
 |-----------------------------|-------------------------|
-| level                       | 3                       |
+| level                       | IV                      |
 | first mention               | 1993 / D. okefinokensis |
 | alternative name(s)         | CNS 2103                |
 | molecular formula           | C₂₄H₄₂N₆O₂              |
@@ -26,7 +26,7 @@ title = "4-OH-IndAc5333"
 | Rt                          |                         |
 | Rt HDX                      |                         |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAc5333"
 | 3 | 373.26035 | 355.24979 | 356.23380 | 390.28690 | 172.18137 | 155.15482 | 189.20792 |
 | 4 | 430.31820 | 412.30764 | 413.29165 | 447.34475 | 257.27052 | 240.24397 | 274.29707 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

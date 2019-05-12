@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn3(Me)4(Me)3Arg"
 
 | name                         | value               |
 |------------------------------|---------------------|
-| level                        | 3                   |
+| level                        | III                 |
 | first mention                | 1987 / A. aurantia  |
 | alternative name(s)          | AR 673 / Arg 673 / ArgTX 673 |
 | molecular formula            | C₃₂H₅₅N₁₁O₅         |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn3(Me)4(Me)3Arg"
 | Rt                           |                     |
 | Rt HDX                       |                     |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAcAsn3(Me)4(Me)3Arg"
 | 3 | 430.24543 | 412.23487 | 413.21888 | 461.28763 | 370.32944 | 353.30289 | 387.35599 |
 | 4 | 501.31893 | 483.30837 | 484.29238 | 674.44659 | 484.37237 | 467.34582 | 501.39892 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

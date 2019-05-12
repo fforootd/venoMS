@@ -6,27 +6,27 @@ title = "IndAcAsn343"
 
 ## General Description
 
-| name                        | value                          |
-|-----------------------------|--------------------------------|
-| level                       | 4                              |
-| first mention               | 2009 / L. patagiatus            |
-| alternative name(s)         | LF 473D |
-| molecular formula           | C₂₄H₃₉N₇O₃                     |
-| CAS                         | ---                    |
-|                             |                                |
-| precursor 1 [M+H]⁺          | 474.31927                      |
-| precursor 2 [M+2H]²⁺        | 237.66355                      |
-| precursor 3                 |                                |
-|                             |                                |
-| HDX                         | 9                              |
-| precursor HDX   [d₉-M+D]⁺   | 484.38203                      |
-| precursor HDX 2 [d₉-M+2D]²⁺ | 243.19807                      |
-| precursor HDX 3             |                                |
-|                             |                                |
-| Rt                          |                                |
-| Rt HDX                      |                                |
+| name                        | value                |
+|-----------------------------|----------------------|
+| level                       | IV                   |
+| first mention               | 2009 / L. patagiatus |
+| alternative name(s)         | LF 473D              |
+| molecular formula           | C₂₄H₃₉N₇O₃           |
+| CAS                         | ---                  |
+|                             |                      |
+| precursor 1 [M+H]⁺          | 474.31927            |
+| precursor 2 [M+2H]²⁺        | 237.66355            |
+| precursor 3                 |                      |
+|                             |                      |
+| HDX                         | 9                    |
+| precursor HDX   [d₉-M+D]⁺   | 484.38203            |
+| precursor HDX 2 [d₉-M+2D]²⁺ | 243.19807            |
+| precursor HDX 3             |                      |
+|                             |                      |
+| Rt                          |                      |
+| Rt HDX                      |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "IndAcAsn343"
 | 3 | 400.23487 | 382.22431 | 383.20832 | 417.26142 | 186.19702 | 169.17047 | 203.22357 |
 | 4 | 457.29272 | 439.28216 | 440.26617 | 474.31927 | 300.23995 | 283.21340 | 317.26650 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

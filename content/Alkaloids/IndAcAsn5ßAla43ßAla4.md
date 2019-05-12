@@ -8,7 +8,7 @@ title = "IndAcAsn5ßAla43ßAla4"
 
 | name                         | value                |
 |------------------------------|----------------------|
-| level                        | 5                    |
+| level                        | V                    |
 | first mention                | 1997 / N. borbonica  |
 | alternative name(s)          | NPTX 714 / NPTX 714A |
 | molecular formula            | C₃₆H₆₂N₁₀O₅          |
@@ -26,7 +26,7 @@ title = "IndAcAsn5ßAla43ßAla4"
 | Rt                           |                      |
 | Rt HDX                       |                      |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -38,7 +38,7 @@ title = "IndAcAsn5ßAla43ßAla4"
 | 6 | 627.39824 | 609.38768 | 610.37169 | 644.42479 | 427.37604 | 410.34949 | 444.40259 |
 | 7 | 698.47174 | 680.46118 | 681.44519 | 715.49829 | 541.41897 | 524.39242 | 558.44552 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

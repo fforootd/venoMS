@@ -6,9 +6,9 @@ title = "2,4-(OH)₂-PhAcAsn533Arg"
 
 ## General Description
 
-| name                | value            |
-|---------------------|------------------|
-| level               | 2 [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811                 |
+| name                         | value            |
+|---------------------         |------------------|
+| level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811                 |
 | first mention                | 1986 / A. lobata |
 | alternative name(s)          | AR 636 / Arg 636 / Argiopine / Argiotoxin 636 / ArgTX 636 / ATX / AVTX 636                |
 | molecular formula            | C₂₉H₅₂N₁₀O₆ |
@@ -26,7 +26,7 @@ title = "2,4-(OH)₂-PhAcAsn533Arg"
 | Rt                           |             |
 | Rt HDX                       |             |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "2,4-(OH)₂-PhAcAsn533Arg"
 | 3 | 407.22945 | 389.21889 | 390.20290 | 424.25600 | 356.31379 | 339.28724 | 373.34034 |
 | 4 | 464.28730 | 446.27674 | 447.26075 | 637.41496 | 470.35672 | 453.33017 | 487.38327 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

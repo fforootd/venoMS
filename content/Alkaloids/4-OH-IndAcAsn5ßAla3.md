@@ -8,7 +8,7 @@ title = "4-OH-IndAcAsn5ßAla3"
 
 | name                         | value                      |
 |------------------------------|----------------------------|
-| level                        | 5                          |
+| level                        | V                          |
 | first mention                | 1997 / N. madagascariensis |
 | alternative name(s)          | NPTX 517 / NPTX 517E       |
 | molecular formula            | C₂₅H₃₉N₇O₅                 |
@@ -26,7 +26,7 @@ title = "4-OH-IndAcAsn5ßAla3"
 | Rt                           |                            |
 | Rt HDX                       |                            |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -35,7 +35,7 @@ title = "4-OH-IndAcAsn5ßAla3"
 | 3 | 444.22469 | 426.21413 | 427.19814 | 461.25124 | 214.19193 | 197.16538 | 231.21848 |
 | 4 | 501.28254 | 483.27198 | 484.25599 | 518.30909 | 328.23486 | 311.20831 | 345.26141 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|

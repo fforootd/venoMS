@@ -8,7 +8,7 @@ title = "IndAc343"
 
 | name                        | value              |
 |-----------------------------|--------------------|
-| Level                       | 4                  |
+| Level                       | IV                 |
 | First mention               | 2009 / O. lugubris |
 | Alternative name(s)         | HO 359b / OZ 359   |
 | Molecular formula           | C₂₀H₃₃N₅O          |
@@ -26,7 +26,7 @@ title = "IndAc343"
 | Rt                          |                    |
 | Rt HDX                      |                    |
 
-## MS/MS fragments calculated
+## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,7 +34,7 @@ title = "IndAc343"
 | 2 | 286.19194 | 268.18138 | 269.16539 | 303.21849 | 129.13917 | 112.11262 | 146.16572 |
 | 3 | 343.24979 | 325.23923 | 326.22324 | 360.27634 | 186.19702 | 169.17047 | 203.22357 |
 
-## Additional characteristic MS/MS fragments
+## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
