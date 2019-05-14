@@ -23,8 +23,8 @@ title = "IndAc3(OH)334Gu"
 | precursor HDX 2 [d₉-M+2D]²⁺ | 243.71388        |
 | precursor HDX 3             |                  |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 10.56            |
+| Rt HDX                      | 8.74             |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,10 @@ title = "IndAc3(OH)334Gu"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                  | precursor | co-eluting | spider    | source                       |
+|------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/475_IndAc3(OH)334Gu_Aa.pdf)     | 475.35090 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/475_IndAc3(OH)334Gu_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

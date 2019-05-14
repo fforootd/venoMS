@@ -34,10 +34,11 @@ title = "Cytidine"
 
 ## Recorded MS/MS spectra
 
-| pdf                                | precursor | co-eluting | spider    | source                       |
-|------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/244_Cytidine_1-42.pdf) | 244.09334 | pure       | Reference | Fluka                        |
-|                                    | 244.09334 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                           | precursor | co-eluting | spider    | source                       |
+|-----------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/244_Cytidine_1-42.pdf)            | 244.09334 |            | Reference | Fluka                        |
+| [Data](/pdf/A-aperta/244_Cytidine_Aa.pdf)     | 244.09334 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/244_Cytidine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

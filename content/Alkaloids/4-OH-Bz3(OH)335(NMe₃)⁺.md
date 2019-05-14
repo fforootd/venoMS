@@ -14,17 +14,17 @@ title = "4-OH-Bz3(OH)335(NMe₃)⁺"
 | molecular formula           | C₂₄H₄₆N₅O₃⁺      |
 | CAS                         | ---              |
 |                             |                  |
-| precursor 1 [M+H]⁺          | 452.36006        |
-| precursor 2 [M+2H]²⁺        | 226.68394        |
-| precursor 3                 |                  |
+| precursor 1 M⁺              | 452.36006        |
+| precursor 2 [M+H]²⁺         | 226.68394        |
+| precursor 3 [M+TFA]⁺        | 566.35293        |
 |                             |                  |
 | HDX                         | 5                |
-| precursor HDX   [d₅-M+D]⁺   | 457.39144        |
-| precursor HDX 2 [d₅-M+2D]²⁺ | 229.70277        |
-| precursor HDX 3             |                  |
+| precursor HDX   d₅-M⁺       | 457.39144        |
+| precursor HDX 2 [d₅-M+D]²⁺  | 229.70277        |
+| precursor HDX 3 [d₅-M+TFA]⁺ | 572.39059        |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 5.21             |
+| Rt HDX                      | 3.88             |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,12 @@ title = "4-OH-Bz3(OH)335(NMe₃)⁺"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                        | precursor | co-eluting | spider    | source                       |
+|------------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/452_4-OH-Bz3(OH)335(NMe3)_Aa.pdf)     | 452.36006 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/452_4-OH-Bz3(OH)335(NMe3)_Aa_2.pdf)   | 226.68394 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/452_4-OH-Bz3(OH)33(5NMe3)_Aa_3.pdf)   | 566.35293 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/452_4-OH-Bz3(OH)33(5NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

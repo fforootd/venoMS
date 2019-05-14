@@ -24,7 +24,7 @@ title = "4-OH-Bz3(OH)343"
 | precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 4.28             |
-| Rt HDX                      |                  |
+| Rt HDX                      | 3.05             |
 
 ## Calculated MS/MS fragments
 
@@ -42,10 +42,11 @@ title = "4-OH-Bz3(OH)343"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting      | spider    | source                       |
-|-----|-----------|-----------------|-----------|------------------------------|
-| pdf | 396.29746 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ |
-| pdf | 198.65264 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                                  | precursor | co-eluting      | spider    | source                       |
+|----------------------------------------------------------------------|-----------|-----------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa.pdf)     | 396.29746 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_2.pdf)   | 198.65264 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_HDX.pdf) | HDX       | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

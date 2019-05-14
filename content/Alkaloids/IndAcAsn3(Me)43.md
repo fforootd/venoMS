@@ -50,10 +50,10 @@ title = "IndAcAsn3(Me)43"
 
 ## Recorded MS/MS spectra
 
-| pdf                                       | precursor | co-eluting | spider           | source             |
-|-------------------------------------------|-----------|------------|------------------|--------------------|
-| [Data](/pdf/488_IndAcAsn3(Me)43_7-08.pdf) | 488.33492 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
-|                                           | 244.67137 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
+| pdf                                         | precursor | co-eluting | spider           | source             |
+|---------------------------------------------|-----------|------------|------------------|--------------------|
+| [Data](/pdf/488_IndAcAsn3(Me)43_7-08.pdf)   | 488.33492 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
+| [Data](/pdf/488_IndAcAsn3(Me)43_7-08_2.pdf) | 244.67137 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
 
 ## References
 

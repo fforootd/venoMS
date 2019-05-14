@@ -28,7 +28,7 @@ title = "4-OH-Bz3(OH)334"
 | precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 4.14             |
-| Rt HDX                      |                  |
+| Rt HDX                      | 3.05             |
 
 ## Calculated MS/MS fragments
 
@@ -47,12 +47,13 @@ title = "4-OH-Bz3(OH)334"
 
 ## Recorded MS/MS spectra
 
-| pdf                                       | precursor | co-eluting      | spider                 | source                       |
-|-------------------------------------------|-----------|-----------------|------------------------|------------------------------|
-| [Data](/pdf/396_4-OH-Bz3(OH)334_4-14.pdf) | 396.29746 | pure            | synth. 4-OH-Bz3(OH)334 | UZH Bienz lab, CHE           |
-|                                           | 198.65264 | pure            | synth. 4-OH-Bz3(OH)334 | UZH Bienz lab, CHE           |
-|                                           | 396.29746 | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ |
-|                                           | 198.65264 | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ |
+| pdf                                                                  | precursor | co-eluting      | spider                 | source                       |
+|----------------------------------------------------------------------|-----------|-----------------|------------------------|------------------------------|
+| [Data](/pdf/396_4-OH-Bz3(OH)334_4-14.pdf)                            | 396.29746 | pure            | synth. 4-OH-Bz3(OH)334 | UZH Bienz lab, CHE           |
+| [Data](/pdf/396_4-OH-Bz3(OH)334_4-14_2.pdf)                          | 198.65264 | pure            | synth. 4-OH-Bz3(OH)334 | UZH Bienz lab, CHE           |
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa.pdf)     | 396.29746 | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_2.pdf)   | 198.65264 | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_HDX.pdf) | HDX       | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

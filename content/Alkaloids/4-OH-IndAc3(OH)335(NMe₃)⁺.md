@@ -6,25 +6,25 @@ title = "4-OH-IndAc3(OH)335(NMe₃)⁺"
 
 ## General Description
 
-| name                        | value                        |
-|-----------------------------|------------------------------|
-| level                       | IV                           |
-| first mention               | 1992 / A. aperta             |
-| alternative name(s)         | AG 504 / AG 505a / Agel 505a |
-| molecular formula           | C₂₇H₄₉N₆O₃⁺                  |
-| CAS                         | 129724-54-5                  |
-|                             |                              |
-| precursor 1 [M+H]⁺          | 505.38661                    |
-| precursor 2 [M+2H]²⁺        | 253.19722                    |
-| precursor 3                 |                              |
-|                             |                              |
-| HDX                         | 6                            |
-| precursor HDX   [d₆-M+D]⁺   | 511.42427                    |
-| precursor HDX 2 [d₆-M+2D]²⁺ | 256.71919                    |
-| precursor HDX 3             |                              |
-|                             |                              |
-| Rt                          |                              |
-| Rt HDX                      |                              |
+| name                         | value                        |
+|------------------------------|------------------------------|
+| level                        | IV                           |
+| first mention                | 1992 / A. aperta             |
+| alternative name(s)          | AG 504 / AG 505a / Agel 505a |
+| molecular formula            | C₂₇H₄₉N₆O₃⁺                  |
+| CAS                          | 129724-54-5                  |
+|                              |                              |
+| precursor 1 M⁺               | 505.38661                    |
+| precursor 2 [M+H]²⁺          | 253.19722                    |
+| precursor 3 [M+TFA]⁺         | 619.37948                    |
+|                              |                              |
+| HDX                          | 6                            |
+| precursor HDX   d₆-M⁺        | 511.42427                    |
+| precursor HDX 2 [d₆-M+D]²⁺   | 256.71919                    |
+| precursor HDX 3 [d₆-M+TFA]²⁺ | 626.42342                    |
+|                              |                              |
+| Rt                           | 8.10                         |
+| Rt HDX                       | 6.43                         |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,11 @@ title = "4-OH-IndAc3(OH)335(NMe₃)⁺"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                           | precursor | co-eluting | spider    | source                       |
+|---------------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/505_4-OH-IndAc3(OH)335(NMe3)_Aa.pdf)     | 505.38661 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/505_4-OH-IndAc3(OH)335(NMe3)_Aa_2.pdf)   | 253.19722 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/505_4-OH-IndAc3(OH)335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

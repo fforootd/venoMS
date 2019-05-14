@@ -23,8 +23,8 @@ title = "IndLac4333"
 | precursor HDX 2 [d₈-M+2D]²⁺ | 229.20767        |
 | precursor HDX 3             |                  |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 8.44             |
+| Rt HDX                      | 7.06             |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,10 @@ title = "IndLac4333"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                             | precursor | co-eluting | spider    | source                       |
+|-------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/447_IndLac4333_Aa.pdf)     | 447.34475 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/447_IndLac4333_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

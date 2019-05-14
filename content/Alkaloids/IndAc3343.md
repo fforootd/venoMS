@@ -26,7 +26,7 @@ title = "IndAc3343"
 | precursor HDX 3             |                             |
 |                             |                             |
 | Rt                          | 7.64                        |
-| Rt HDX                      |                             |
+| Rt HDX                      | 6.21                        |
 
 ## Calculated MS/MS fragments
 
@@ -45,12 +45,13 @@ title = "IndAc3343"
 
 ## Recorded MS/MS spectra
 
-| pdf                                 | precursor | co-eluting | spider           | source                       |
-|-------------------------------------|-----------|------------|------------------|------------------------------|
-| [Data](/pdf/417_IndAc3343_7-64.pdf) | 417.33419 | pure       | synth. IndAc3343 | UZH Bienz lab, CHE           |
-|                                     | 209.17101 | pure       | synth. IndAc3343 | UZH Bienz lab, CHE           |
-|                                     | 417.33419 | IndAc3334  | A. aperta        | Fauna Laboratories Ltd., KAZ |
-|                                     | 209.17101 | IndAc3334  | A. aperta        | Fauna Laboratories Ltd., KAZ |
+| pdf                                                                | precursor | co-eluting            | spider           | source                       |
+|--------------------------------------------------------------------|-----------|-----------------------|------------------|------------------------------|
+| [Data](/pdf/417_IndAc3343_7-64.pdf)                                | 417.33419 | pure                  | synth. IndAc3343 | UZH Bienz lab, CHE           |
+| [Data](/pdf/417_IndAc3343_7-64_2.pdf)                              | 209.17101 | pure                  | synth. IndAc3343 | UZH Bienz lab, CHE           |
+| [Data](/pdf/A-aperta/417_IndAc3343_Aa.pdf)                         | 417.33419 |                       | A. aperta        | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/417_IndAc3343_Aa_2.pdf)                       | 209.17101 |                       | A. aperta        | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/417_IndAc3334_IndAc3343_IndAc3433_Aa_HDX.pdf) | HDX       | IndAc3334 / IndAc3433 | A. aperta        | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

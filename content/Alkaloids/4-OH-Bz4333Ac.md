@@ -23,8 +23,8 @@ title = "4-OH-Bz4333Ac"
 | precursor HDX 2 [d₅-M+2D]²⁺ | 215.18244        |
 | precursor HDX 3             |                  |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 5.35             |
+| Rt HDX                      | 4.27             |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,10 @@ title = "4-OH-Bz4333Ac"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                | precursor | co-eluting | spider    | source                       |
+|----------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/422_4-OH-Bz4333Ac_Aa.pdf)     | 422.31311 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/422_4-OH-Bz4333Ac_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

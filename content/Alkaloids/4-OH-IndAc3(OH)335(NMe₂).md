@@ -23,8 +23,8 @@ title = "4-OH-IndAc3(OH)335(NMe₂)"
 | precursor HDX 2 [d₆-M+2D]²⁺ | 250.21450        |
 | precursor HDX 3             |                  |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 8.32             |
+| Rt HDX                      | 6.61             |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,11 @@ title = "4-OH-IndAc3(OH)335(NMe₂)"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                           | precursor | co-eluting | spider    | source                       |
+|---------------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/491_4-OH-IndAc3(OH)335(NMe2)_Aa.pdf)     | 491.37096 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/491_4-OH-IndAc3(OH)335(NMe2)_Aa_2.pdf)   | 246.18939 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/491_4-OH-IndAc3(OH)335(NMe2)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

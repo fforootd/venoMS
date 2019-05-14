@@ -23,8 +23,8 @@ title = "4-OH-IndAc3(OH)3(OH)343"
 | precursor HDX 2 [d₉-M+2D]²⁺ | 267.22682         |
 | precursor HDX 3             |                   |
 |                             |                   |
-| Rt                          |                   |
-| Rt HDX                      |                   |
+| Rt                          | 7.99              |
+| Rt HDX                      | 6.38              |
 
 ## Calculated MS/MS fragments
 
@@ -44,9 +44,11 @@ title = "4-OH-IndAc3(OH)3(OH)343"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                     | precursor | co-eluting | spider    | source                       |
+|---------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/522_IndAc3(OH)3(OH)343_Aa.pdf)     | 522.37677 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/522_IndAc3(OH)3(OH)343_Aa_2.pdf)   | 261.69230 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/522_IndAc3(OH)3(OH)343_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

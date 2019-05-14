@@ -41,13 +41,13 @@ title = "IndAc433"
 | 130.06568 | a'         |
 | 158.06059 | a0         |
 | 342.26577 | bw         |
-| 360.27634 | w          |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     | 360.27634 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                           | precursor | co-eluting | spider    | source                       |
+|-----------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/360_IndAc433_Aa.pdf)     | 360.27634 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/360_IndAc433_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

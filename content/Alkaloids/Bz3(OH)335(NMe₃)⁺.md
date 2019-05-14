@@ -14,17 +14,17 @@ title = "Bz3(OH)335(NMe₃)⁺"
 | molecular formula           | C₂₄H₄₆N₅O₂⁺      |
 | CAS                         | ---              |
 |                             |                  |
-| precursor 1 [M+H]⁺          | 436.36515        |
-| precursor 2 [M+2H]²⁺        | 218.68649        |
-| precursor 3                 |                  |
+| precursor 1 M⁺              | 436.36515        |
+| precursor 2 [M+H]²⁺         | 218.68649        |
+| precursor 3 [M+TFA]⁺        | 550.35801        |
 |                             |                  |
 | HDX                         | 4                |
-| precursor HDX   [d₄-M+D]⁺   | 440.39026        |
-| precursor HDX 2 [d₄-M+2D]²⁺ | 221.20218        |
-| precursor HDX 3             |                  |
+| precursor HDX   d₄-M⁺       | 440.39026        |
+| precursor HDX 2 [d₄-M+D]²⁺  | 221.20218        |
+| precursor HDX 3 [d₄-M+TFA]⁺ | 555.38940        |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 7.43             |
+| Rt HDX                      | 6.08             |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,11 @@ title = "Bz3(OH)335(NMe₃)⁺"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                   | precursor | co-eluting | spider    | source                       |
+|-------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/436_Bz3(OH)335(NMe3)_Aa.pdf)     | 436.36515 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/436_Bz3(OH)335(NMe3)_Aa_2.pdf)   | 218.68649 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/436_Bz3(OH)335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

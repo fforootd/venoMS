@@ -50,10 +50,10 @@ title = "PhAcAsn3(Me)43"
 
 ## Recorded MS/MS spectra
 
-| pdf                                      | precursor | co-eluting | spider           | source             |
-|------------------------------------------|-----------|------------|------------------|--------------------|
-| [Data](/pdf/449_PhAcAsn3(Me)43_4-83.pdf) | 449.32402 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
-|                                          | 225.16592 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
+| pdf                                        | precursor | co-eluting | spider           | source             |
+|--------------------------------------------|-----------|------------|------------------|--------------------|
+| [Data](/pdf/449_PhAcAsn3(Me)43_4-83.pdf)   | 449.32402 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
+| [Data](/pdf/449_PhAcAsn3(Me)43_4-83_2.pdf) | 225.16592 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
 
 ## References
 

@@ -23,8 +23,8 @@ title = "4-OH-Bz3335(NMe₃)⁺"
 | precursor HDX 2 [d₅-M+2D]²⁺ | 221.70532        |
 | precursor HDX 3             |                  |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 3.78             |
+| Rt HDX                      | 2.84             |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,10 @@ title = "4-OH-Bz3335(NMe₃)⁺"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                    | precursor | co-eluting | spider    | source                       |
+|--------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/436_4-OH-Bz3335(NMe3)_Aa_2.pdf)   | 218.68649 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/436_4-OH-Bz3335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

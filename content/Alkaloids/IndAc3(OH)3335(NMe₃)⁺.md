@@ -14,17 +14,17 @@ title = "IndAc3(OH)3335(NMe₃)⁺"
 | molecular formula           | C₃₀H₅₆N₇O₂⁺      |
 | CAS                         | ---              |
 |                             |                  |
-| precursor 1 [M+H]⁺          | 546.44955        |
-| precursor 2 [M+2H]²⁺        | 273.72869        |
-| precursor 3                 |                  |
+| precursor 1 M+⁺             | 546.44955        |
+| precursor 2 [M+H]²⁺         | 273.72869        |
+| precursor 3 [M+TFA]⁺        | 660.44241        |
 |                             |                  |
 | HDX                         | 6                |
-| precursor HDX   [d₆-M+D]⁺   | 552.48721        |
-| precursor HDX 2 [d₆-M+2D]²⁺ | 277.25066        |
-| precursor HDX 3             |                  |
+| precursor HDX   d₆-M⁺       | 552.48721        |
+| precursor HDX 2 [d₆-M+D]²⁺  | 277.25066        |
+| precursor HDX 3 [d₆-M+TFA]⁺ | 667.48635        |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 10.10            |
+| Rt HDX                      | 8.42             |
 
 ## Calculated MS/MS fragments
 
@@ -44,9 +44,11 @@ title = "IndAc3(OH)3335(NMe₃)⁺"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                       | precursor | co-eluting | spider    | source                       |
+|-----------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa.pdf)     | 546.44955 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa_2.pdf)   | 273.72869 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

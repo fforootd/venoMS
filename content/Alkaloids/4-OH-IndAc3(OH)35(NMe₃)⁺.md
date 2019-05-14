@@ -14,17 +14,17 @@ title = "4-OH-IndAc3(OH)35(NMe₃)⁺"
 | molecular formula           | C₂₄H₄₂N₅O₃⁺      |
 | CAS                         | ---              |
 |                             |                  |
-| precursor 1 [M+H]⁺          | 448.32876        |
-| precursor 2 [M+2H]²⁺        | 224.66829        |
-| precursor 3                 |                  |
+| precursor 1 M⁺              | 448.32876        |
+| precursor 2 [M+H]²⁺         | 224.66829        |
+| precursor 3 [M+TFA]⁺        | 562.32163        |
 |                             |                  |
 | HDX                         | 5                |
-| precursor HDX   [d₅-M+D]⁺   | 453.36014        |
-| precursor HDX 2 [d₅-M+2D]²⁺ | 227.68712        |
-| precursor HDX 3             |                  |
+| precursor HDX   d₅-M⁺       | 453.36014        |
+| precursor HDX 2 [d₅-M+D]²⁺  | 227.68712        |
+| precursor HDX 3 [d₅-M+TFA]⁺ | 568.35929        |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 8.67             |
+| Rt HDX                      | 6.87             |
 
 ## Calculated MS/MS fragments
 
@@ -42,9 +42,10 @@ title = "4-OH-IndAc3(OH)35(NMe₃)⁺"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                          | precursor | co-eluting | spider    | source                       |
+|--------------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/448_4-OH-IndAc3(OH)35(NMe3)_Aa.pdf)     | 448.32876 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/448_4-OH-IndAc3(OH)35(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

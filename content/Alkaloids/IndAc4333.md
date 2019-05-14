@@ -26,7 +26,7 @@ title = "IndAc4333"
 | precursor HDX 3             |                   |
 |                             |                   |
 | Rt                          | 9.00              |
-| Rt HDX                      |                   |
+| Rt HDX                      | 7.32              |
 
 ## Calculated MS/MS fragments
 
@@ -45,11 +45,13 @@ title = "IndAc4333"
 
 ## Recorded MS/MS spectra
 
-| pdf                                 | precursor | co-eluting | spider           | source                       |
-|-------------------------------------|-----------|------------|------------------|------------------------------|
-| [Data](/pdf/417_IndAc4333_9-00.pdf) | 417.33419 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE           |
-|                                     | 417.33419 | IndAc3334  | A. aperta        | Fauna Laboratories Ltd., KAZ |
-|                                     | 209.17101 | IndAc3334  | A. aperta        | Fauna Laboratories Ltd., KAZ |
+| pdf                                            | precursor | co-eluting | spider           | source                       |
+|------------------------------------------------|-----------|------------|------------------|------------------------------|
+| [Data](/pdf/417_IndAc4333_9-00.pdf)            | 417.33419 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE           |
+| [Data](/pdf/417_IndAc4333_9-00_2.pdf)          | 417.33419 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE           |
+| [Data](/pdf/A-aperta/417_IndAc4333_Aa.pdf)     | 417.33419 |            | A. aperta        | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/417_IndAc4333_Aa_2.pdf)   | 209.17101 |            | A. aperta        | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/417_IndAc4333_Aa_HDX.pdf) | HDX       |            | A. aperta        | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

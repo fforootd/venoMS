@@ -41,13 +41,13 @@ title = "4-OH-IndAc334"
 | 146.06059 | a'         |
 | 174.05550 | a0         |
 | 358.26069 | bw         |
-| 376.27125 | w          |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
-|     | 376.27125 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                              | precursor | co-eluting    | spider    | source                       |
+|------------------------------------------------------------------|-----------|---------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/376_4-OH-IndAc334_4-OH-IndAc343_Aa.pdf)     | 376.27125 | 4-OH-IndAc343 | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/376_4-OH-IndAc334_4-OH-IndAc343_Aa_HDX.pdf) | HDX       | 4-OH-IndAc343 | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

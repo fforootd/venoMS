@@ -34,10 +34,11 @@ title = "Guanosine"
 
 ## Recorded MS/MS spectra
 
-| pdf                                 | precursor | co-eluting | spider    | source                       |
-|-------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/284_Guanosine_2-77.pdf) | 284.09949 | pure       | Reference | Sigma Aldrich                |
-|                                     | 284.09949 |            | A. aperta | Fauna Laboratories Ltd., KZA |
+| pdf                                            | precursor | co-eluting | spider    | source                       |
+|------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/284_Guanosine_2-77.pdf)            | 284.09949 |            | Reference | Sigma Aldrich                |
+| [Data](/pdf/A-aperta/284_Guanosine_Aa.pdf)     | 284.09949 |            | A. aperta | Fauna Laboratories Ltd., KZA |
+| [Data](/pdf/A-aperta/284_Guanosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KZA |
 
 ## References
 

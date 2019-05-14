@@ -23,8 +23,8 @@ title = "IndAc3(OH)335(NMe)"
 | precursor HDX 2 [d₆-M+2D]²⁺ | 235.20922        |
 | precursor HDX 3             |                  |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 10.10            |
+| Rt HDX                      | 8.39             |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,10 @@ title = "IndAc3(OH)335(NMe)"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                     | precursor | co-eluting | spider    | source                       |
+|---------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/461_IndAc3(OH)335(NMe)_Aa.pdf)     | 461.36040 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/461_IndAc3(OH)335(NMe)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

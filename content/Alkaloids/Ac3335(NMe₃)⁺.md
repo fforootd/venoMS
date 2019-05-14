@@ -14,17 +14,17 @@ title = "Ac3335(NMe₃)⁺"
 | molecular formula           | C₁₉H₄₄N₅O₁⁺      |
 | CAS                         | ---              |
 |                             |                  |
-| precursor 1 [M+H]⁺          | 358.35459        |
-| precursor 2 [M+2H]²⁺        | 179.68121        |
-| precursor 3                 |                  |
+| precursor 1 M⁺              | 358.35459        |
+| precursor 2 [M+H]²⁺         | 179.68121        |
+| precursor 3 [M+TFA]⁺        | 472.34745        |
 |                             |                  |
 | HDX                         | 4                |
-| precursor HDX   [d₄-M+D]⁺   | 362.37970        |
-| precursor HDX 2 [d₄-M+2D]²⁺ | 182.19690        |
-| precursor HDX 3             |                  |
+| precursor HDX   d₄-M⁺       | 362.37970        |
+| precursor HDX 2 [d₄-M+D]²⁺  | 182.19690        |
+| precursor HDX 3 [d₄-M+TFA]⁺ | 477.37883        |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 1.25             |
+| Rt HDX                      | 1.17             |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,10 @@ title = "Ac3335(NMe₃)⁺"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                               | precursor | co-eluting | spider    | source                       |
+|---------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/358_Ac3335(NMe3)_Aa.pdf)     | 358.35459 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/358_Ac3335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

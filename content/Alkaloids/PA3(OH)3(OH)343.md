@@ -23,8 +23,8 @@ title = "PA3(OH)3(OH)343"
 | precursor HDX 2 [d₈-M+2D]²⁺ | 180.19984        |
 | precursor HDX 3             |                  |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 1.11             |
+| Rt HDX                      | 1.07             |
 
 ## Calculated MS/MS fragments
 
@@ -44,9 +44,10 @@ title = "PA3(OH)3(OH)343"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                  | precursor | co-eluting | spider    | source                       |
+|------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/349_PA3(OH)3(OH)343_Aa.pdf)     | 349.32910 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/349_PA3(OH)3(OH)343_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

@@ -1,0 +1,63 @@
++++
+title = "IndAc3(OH)335"
++++
+
+![](/img/IndAc3(OH)335.png)
+
+## General Description
+
+| name                        | value            |
+|-----------------------------|------------------|
+| level                       | IV               |
+| first mention               | 2019 / A. aperta |
+| alternative name(s)         | ---              |
+| molecular formula           | C₂₄H₄₂N₆O₂       |
+| CAS                         | ---              |
+|                             |                  |
+| precursor 1 [M+H]⁺          | 447.34475        |
+| precursor 2 [M+2H]²⁺        | 224.17629        |
+| precursor 3                 |                  |
+|                             |                  |
+| HDX                         | 7                |
+| precursor HDX   [d₇-M+D]⁺   | 455.39496        |
+| precursor HDX 2 [d₇-M+2D]²⁺ | 228.70453        |
+| precursor HDX 3             |                  |
+|                             |                  |
+| Rt                          | 9.60             |
+| Rt HDX                      | 7.83             |
+
+## Calculated MS/MS fragments
+
+| # | a         | b         | c         | ta        | z         | y         | tz        |
+|---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1 | 215.11844 | 197.10788 | 198.09189 | 248.13990 | 86.09697  | 69.07042  | 103.12352 |
+| 2 | 288.17120 | 270.16064 | 271.14465 | 305.19775 | 143.15482 | 126.12827 | 160.18137 |
+| 3 | 345.22905 | 327.21849 | 328.20250 | 362.25560 | 200.21267 | 183.18612 | 233.23413 |
+| 4 | 430.31820 | 412.30764 | 413.29165 | 447.34475 | 273.26543 | 256.23888 | 290.29198 |
+
+## Additional MS/MS fragments
+
+| m/z       | annotation |
+|-----------|------------|
+|           |            |
+
+## Recorded MS/MS spectra
+
+| pdf                                                | precursor | co-eluting | spider    | source                       |
+|----------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/447_IndAc3(OH)335_Aa.pdf)     | 447.34475 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/447_IndAc3(OH)335_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+
+## References
+
+| titel     | reference   | spider    | name   | content  | link |
+|-----------|-------------|-----------|--------|----------|-----|
+|           |             |           |        |          |     |
+
+## Spider species
+
+| spider species     | family     | source               |
+|--------------------|------------|----------------------|
+| Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
+
+## Comments

@@ -6,25 +6,25 @@ title = "IndAc335(NMe₃)⁺"
 
 ## General Description
 
-| name                        | value            |
-|-----------------------------|------------------|
-| level                       | IV               |
-| first mention               | 2019 / A. aperta |
-| alternative name(s)         | ---              |
-| molecular formula           | C₂₄H₄₂N₅O₁⁺      |
-| CAS                         | ---              |
-|                             |                  |
-| precursor 1 [M+H]⁺          | 416.33894        |
-| precursor 2 [M+2H]²⁺        | 208.67338        |
-| precursor 3                 |                  |
-|                             |                  |
-| HDX                         | 4                |
-| precursor HDX   [d₄-M+D]⁺   | 420.36405        |
-| precursor HDX 2 [d₄-M+2D]²⁺ | 211.18907        |
-| precursor HDX 3             |                  |
-|                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| name                       | value            |
+|----------------------------|------------------|
+| level                      | IV               |
+| first mention              | 2019 / A. aperta |
+| alternative name(s)        | ---              |
+| molecular formula          | C₂₄H₄₂N₅O₁⁺      |
+| CAS                        | ---              |
+|                            |                  |
+| precursor 1 M⁺             | 416.33894        |
+| precursor 2 [M+H]²⁺        | 208.67338        |
+| precursor 3 [M+TFA]⁺       | 530.33180        |
+|                            |                  |
+| HDX                        | 4                |
+| precursor HDX   d₄-M⁺      | 420.36405        |
+| precursor HDX 2 [d₄-M+D]²⁺ | 211.18907        |
+| precursor HDX 3 [d₄-M+D]²⁺ | 535.36318        |
+|                            |                  |
+| Rt                         | 8.92             |
+| Rt HDX                     | 7.61             |
 
 ## Calculated MS/MS fragments
 
@@ -42,15 +42,16 @@ title = "IndAc335(NMe₃)⁺"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                 | precursor | co-eluting | spider    | source                       |
+|-----------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/416_IndAc335(NMe3)_Aa.pdf)     | 416.33894 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/416_IndAc335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
-|-----------|-------------|-----------|--------|----------|-----|
-|           |             |           |        |          |     |
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

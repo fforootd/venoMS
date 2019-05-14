@@ -23,7 +23,7 @@ title = "Citric acid"
 | precursor HDX [d₄-M+Na]⁺ | 219.04188          |
 |                          |                    |
 | Rt                       | 1.81               |
-| Rt HDX                   |                    |
+| Rt HDX                   | 1.67               |
 
 ## MS/MS fragments
 
@@ -40,10 +40,10 @@ title = "Citric acid"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
-|     | 210.06138 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-|     | 215.01677 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                              | precursor | co-eluting | spider    | source                       |
+|--------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/193_Citric-acid_Aa.pdf)     | 210.06138 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/193_Citric-acid_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

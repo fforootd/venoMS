@@ -6,25 +6,25 @@ title = "2,5-(OH)₂-Bz3335(NMe₃)⁺"
 
 ## General Description
 
-| name                        | value            |
-|-----------------------------|------------------|
-| level                       | IV               |
-| first mention               | 2019 / A. aperta |
-| alternative name(s)         | ---              |
-| molecular formula           | C₂₄H₄₆N₅O₃⁺      |
-| CAS                         | ---              |
-|                             |                  |
-| precursor 1 [M+H]⁺          | 452.36007        |
-| precursor 2 [M+2H]²⁺        | 226.68395        |
-| precursor 3                 |                  |
-|                             |                  |
-| HDX                         | 6                |
-| precursor HDX   [d₆-M+D]⁺   | 458.39773        |
-| precursor HDX 2 [d₆-M+2D]²⁺ | 230.20592        |
-| precursor HDX 3             |                  |
-|                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| name                         | value            |
+|------------------------------|------------------|
+| level                        | IV               |
+| first mention                | 2019 / A. aperta |
+| alternative name(s)          | ---              |
+| molecular formula            | C₂₄H₄₆N₅O₃⁺      |
+| CAS                          | ---              |
+|                              |                  |
+| precursor 1 M+⁺              | 452.36007        |
+| precursor 2 [M+H]²⁺          | 226.68395        |
+| precursor 3 [M+TFA]⁺         | 566.35293        |
+|                              |                  |
+| HDX                          | 6                |
+| precursor HDX   d₆-M⁺        | 458.39773        |
+| precursor HDX 2 [d₆-M+D]²⁺   | 230.20592        |
+| precursor HDX 3 [d₆-M+TFA]⁺  | 573.39687        |
+|                              |                  |
+| Rt                           | 5.50             |
+| Rt HDX                       | 4.20             |
 
 ## Calculated MS/MS fragments
 
@@ -43,9 +43,10 @@ title = "2,5-(OH)₂-Bz3335(NMe₃)⁺"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf                                                       | precursor | co-eluting | spider    | source                       |
+|-----------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/452_2-5-OH2-Bz3335(NMe3)_Aa_2.pdf)   | 226.68394 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/452_2-5-OH2-Bz3335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

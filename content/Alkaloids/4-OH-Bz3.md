@@ -24,7 +24,7 @@ title = "4-OH-Bz3"
 | precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 3.68             |
-| Rt HDX                      |                  |
+| Rt HDX                      | 2.95             |
 
 ## Calculated MS/MS fragments
 
@@ -39,8 +39,10 @@ title = "4-OH-Bz3"
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting  | spider    | source                       |
-|-----|-----------|-------------|-----------|------------------------------|
+| pdf                                           | precursor | co-eluting | spider    | source                       |
+|-----------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/195_4-OH-Bz3_Aa.pdf)     | 195.11335 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/195_4-OH-Bz3_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

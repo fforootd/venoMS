@@ -25,8 +25,8 @@ title = "IndAc3(OH)334"
 | precursor HDX 2 [d₇-M+2D]²⁺ | 221.69671        |
 | precursor HDX 3             |                  |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 9.06             |
+| Rt HDX                      | 7.42             |
 
 ## Calculated MS/MS fragments
 
@@ -45,9 +45,13 @@ title = "IndAc3(OH)334"
 
 ## Recorded MS/MS spectra
 
-| pdf                                     | precursor | co-eluting | spider               | source             |
-|-----------------------------------------|-----------|------------|----------------------|--------------------|
-| [Data](/pdf/433_IndAc3(OH)334_9-06.pdf) | 433.32910 | pure       | synth. IndAc3(OH)334 | UZH Bienz lab, CHE |
+| pdf                                                              | precursor | co-eluting    | spider               | source                       |
+|------------------------------------------------------------------|-----------|---------------|----------------------|------------------------------|
+| [Data](/pdf/433_IndAc3(OH)334_9-06.pdf)                          | 433.32910 | pure          | synth. IndAc3(OH)334 | UZH Bienz lab, CHE           |
+| [Data](/pdf/433_IndAc3(OH)334_9-06_2.pdf)                        | 217.16846 | pure          | synth. IndAc3(OH)334 | UZH Bienz lab, CHE           |
+| [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa.pdf)     | 433.32910 | IndAc3(OH)343 | A. aperta            | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa_2.pdf)   | 217.16846 | IndAc3(OH)343 | A. aperta            | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa_HDX.pdf) | HDX       | IndAc3(OH)343 | A. aperta            | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

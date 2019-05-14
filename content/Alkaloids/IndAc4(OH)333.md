@@ -9,7 +9,7 @@ title = "IndAc4(OH)333"
 | name                        | value            |
 |-----------------------------|------------------|
 | level                       | IV               |
-| first mention               | --- / --- |
+| first mention               | --- / ---        |
 | alternative name(s)         | AG 432h          |
 | molecular formula           | C₂₃H₄₀N₆O₂       |
 | CAS                         | 389872-75-7      |
