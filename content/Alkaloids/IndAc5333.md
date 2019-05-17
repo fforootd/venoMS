@@ -4,6 +4,8 @@ title = "IndAc5333"
 
 ![](/img/IndAc5333.png)
 
+![](/img_MSMS/431_IndAc5333_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -39,7 +41,7 @@ title = "IndAc5333"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 130.06568 | a'         |
 
 ## Recorded MS/MS spectra
 

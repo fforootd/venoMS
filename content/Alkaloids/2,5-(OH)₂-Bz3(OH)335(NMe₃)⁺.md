@@ -4,6 +4,8 @@ title = "2,5-(OH)₂-Bz3(OH)335(NMe₃)⁺"
 
 ![](/img/2-5-OH2-Bz3(OH)335(NMe3).png)
 
+![](/img_MSMS/468_2-5-OH2-Bz3(OH)335(NMe3)_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -39,7 +41,10 @@ title = "2,5-(OH)₂-Bz3(OH)335(NMe₃)⁺"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 126.12827 | z2-NMe₃    |
+| 137.02387 | a0         |
+| 183.18612 | z3-NMe₃    |
+| 273.26544 | tz4-NMe₃   |
 
 ## Recorded MS/MS spectra
 

@@ -4,6 +4,8 @@ title = "IndAc3335(NMe₃)⁺"
 
 ![](/img/IndAc3335(NMe3).png)
 
+![](/img_MSMS/473_IndAc3335(NMe3)_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -39,7 +41,11 @@ title = "IndAc3335(NMe₃)⁺"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 98.09697  | y2'        |
+| 130.06568 | a'         |
+| 126.12827 | z2-NMe₃    |
+| 183.18612 | z3-NMe₃    |
+| 214.13442 | ta1-H₂O    |
 
 ## Recorded MS/MS spectra
 

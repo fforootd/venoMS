@@ -4,6 +4,8 @@ title = "4-OH-Bz4333Ac"
 
 ![](/img/4-OH-Bz4333Ac.png)
 
+![](/img_MSMS/422_4-OH-Bz4333Ac_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -39,7 +41,8 @@ title = "4-OH-Bz4333Ac"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 98.09697  | y2'        |
+| 112.11262 | y2'        |
 
 ## Recorded MS/MS spectra
 

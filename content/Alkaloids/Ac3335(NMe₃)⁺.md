@@ -4,6 +4,8 @@ title = "Ac3335(NMe₃)⁺"
 
 ![](/img/Ac3335(NMe3).png)
 
+![](/img_MSMS/358_Ac3335(NMe3)_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -11,7 +13,7 @@ title = "Ac3335(NMe₃)⁺"
 | level                       | IV               |
 | first mention               | 2019 / A. aperta |
 | alternative name(s)         | ---              |
-| molecular formula           | C₁₉H₄₄N₅O₁⁺      |
+| molecular formula           | C₁₉H₄₄N₅O⁺       |
 | CAS                         | ---              |
 |                             |                  |
 | precursor 1 M⁺              | 358.35459        |
@@ -39,7 +41,10 @@ title = "Ac3335(NMe₃)⁺"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 98.09697  | y2'        |
+| 99.09222  | ta1-H₂O    |
+| 126.12827 | z2-NMe₃    |
+| 183.18612 | z3-NMe₃    |
 
 ## Recorded MS/MS spectra
 

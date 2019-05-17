@@ -4,6 +4,8 @@ title = "IndAc3(OH)3343Ac"
 
 ![](/img/IndAc3(OH)3343Ac.png)
 
+![](/img_MSMS/532_IndAc3(OH)3343Ac_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -40,7 +42,11 @@ title = "IndAc3(OH)3343Ac"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 98.09697  | y2'        |
+| 112.11262 | y2'        |
+| 115.12352 | z2'        |
+| 130.06568 | a'         |
+| 169.17147 | y3'        |
 
 ## Recorded MS/MS spectra
 

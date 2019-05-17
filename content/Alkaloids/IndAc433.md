@@ -4,6 +4,8 @@ title = "IndAc433"
 
 ![](/img/IndAc433.png)
 
+![](/img_MSMS/360_IndAc433_Aa.png)
+
 ## General Description
 
 | name                        | value          |
@@ -38,6 +40,9 @@ title = "IndAc433"
 
 | m/z       | annotation |
 |-----------|------------|
+| 72.08132  | z1'        |
+| 112.11262 | y2'        |
+| 129.13917 | z2'        |
 | 130.06568 | a'         |
 | 158.06059 | a0         |
 | 342.26577 | bw         |

@@ -4,6 +4,8 @@ title = "4-OH-IndAc4333"
 
 ![](/img/4-OH-IndAc4333.png)
 
+![](/img_MSMS/433_4-OH-IndAc4333_Aa.png)
+
 ## General Description
 
 | name                        | value             |
@@ -39,7 +41,9 @@ title = "4-OH-IndAc4333"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 112.11262 | y2'        |
+| 129.13917 | z2'        |
+| 146.06059 | a'         |
 
 ## Recorded MS/MS spectra
 

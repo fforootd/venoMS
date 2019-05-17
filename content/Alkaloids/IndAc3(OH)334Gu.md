@@ -4,6 +4,8 @@ title = "IndAc3(OH)334Gu"
 
 ![](/img/IndAc3(OH)334Gu.png)
 
+![](/img_MSMS/475_IndAc3(OH)334Gu_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -39,7 +41,11 @@ title = "IndAc3(OH)334Gu"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 72.08132  | tz1-Gu     |
+| 98.09697  | y2'        |
+| 112.11262 | z2-Gu      |
+| 130.06568 | a'         |
+| 169.17017 | z3-Gu      |
 
 ## Recorded MS/MS spectra
 

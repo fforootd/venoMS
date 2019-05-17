@@ -4,6 +4,8 @@ title = "PA3(OH)3(OH)343"
 
 ![](/img/PA3(OH)3(OH)343.png)
 
+![](/img_MSMS/349_PA3(OH)3(OH)343_Aa.png)
+
 ## General Description
 
 | name                        | value            |

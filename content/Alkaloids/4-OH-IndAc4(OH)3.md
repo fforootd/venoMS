@@ -37,14 +37,14 @@ title = "4-OH-IndAc4(OH)3"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 146.06059 | a'         |
 
 ## Recorded MS/MS spectra
 
-| pdf                                                   | precursor | co-eluting | spider    | source                       |
-|-------------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/335_4-OH-IndAc4(OH)3_Aa.pdf)     | 335.20831 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/335_4-OH-IndAc4(OH)3_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                                    | precursor | co-eluting       | spider    | source                       |
+|------------------------------------------------------------------------|-----------|------------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/335_4-OH-IndAc3(OH)4_4-OH-IndAc4(OH)3_Aa.pdf)     | 335.20831 | 4-OH-IndAc3(OH)4 | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/335_4-OH-IndAc3(OH)4_4-OH-IndAc4(OH)3_Aa_HDX.pdf) | HDX       | 4-OH-IndAc3(OH)4 | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

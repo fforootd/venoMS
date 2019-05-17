@@ -4,6 +4,8 @@ title = "4-OH-IndAc3(OH)335(NMe₂)"
 
 ![](/img/4-OH-IndAc3(OH)335(NMe2).png)
 
+![](/img_MSMS/491_4-OH-IndAc3(OH)335(NMe2)_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -39,7 +41,13 @@ title = "4-OH-IndAc3(OH)335(NMe₂)"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 86.09697  | tz1-NMe₃   |
+| 98.09697  | y2'        |
+| 126.12827 | z2-NMe₃    |
+| 143.15482 | tz2-NMe₃   |
+| 146.06059 | a'         |
+| 183.18612 | z3-NMe₃    |
+| 273.26544 | tz4-NMe₃   |
 
 ## Recorded MS/MS spectra
 

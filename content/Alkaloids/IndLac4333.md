@@ -4,6 +4,8 @@ title = "IndLac4333"
 
 ![](/img/IndLac4333.png)
 
+![](/img_MSMS/447_IndLac4333_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -39,7 +41,7 @@ title = "IndLac4333"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 112.11262 | y2'        |
 
 ## Recorded MS/MS spectra
 

@@ -3,6 +3,8 @@ title = "IndAc3333"
 +++
 ![](/img/IndAc3333.png)
 
+![](/img_MSMS/403_IndAc3333_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -38,7 +40,8 @@ title = "IndAc3333"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 130.06568 | a'         |
+| 214.13442 | ta1-H₂O    |
 
 ## Recorded MS/MS spectra
 

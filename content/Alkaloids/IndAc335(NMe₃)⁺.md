@@ -4,6 +4,8 @@ title = "IndAc335(NMe₃)⁺"
 
 ![](/img/IndAc335(NMe3).png)
 
+![](/img_MSMS/416_IndAc335(NMe3)_Aa.png)
+
 ## General Description
 
 | name                       | value            |
@@ -38,7 +40,9 @@ title = "IndAc335(NMe₃)⁺"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 98.09697  | y2'        |
+| 126.12827 | z2-NMe₃    |
+| 130.06568 | a'         |
 
 ## Recorded MS/MS spectra
 

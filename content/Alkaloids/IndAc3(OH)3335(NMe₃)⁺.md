@@ -2,7 +2,9 @@
 title = "IndAc3(OH)3335(NMe₃)⁺"
 +++
 
- ![](/img/IndAc3(OH)3335(NMe3).png)
+![](/img/IndAc3(OH)3335(NMe3).png)
+
+![](/img_MSMS/546_IndAc3(OH)3335(NMe3)_Aa.png)
 
 ## General Description
 
@@ -40,7 +42,12 @@ title = "IndAc3(OH)3335(NMe₃)⁺"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 98.09697  | y2'        |
+| 114.09189 | y2'        |
+| 130.06568 | a'         |
+| 126.12827 | z2-NMe₃    |
+| 183.18612 | z3-NMe₃    |
+| 240.24397 | z4-NMe₃    |
 
 ## Recorded MS/MS spectra
 

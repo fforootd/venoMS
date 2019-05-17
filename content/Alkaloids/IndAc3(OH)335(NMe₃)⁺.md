@@ -4,6 +4,8 @@ title = "IndAc3(OH)335(NMe₃)⁺"
 
 ![](/img/IndAc3(OH)335(NMe3).png)
 
+![](/img_MSMS/489_IndAc3(OH)335(NMe3)_Aa.png)
+
 ## General Description
 
 | name                        | value                                   |
@@ -42,6 +44,8 @@ title = "IndAc3(OH)335(NMe₃)⁺"
 | 130.06568 | a'         |
 | 126.12827 | z2-NMe₃    |
 | 183.18612 | z3-NMe₃    |
+| 216.20759 | tz3-NMe₃   |
+| 273.26544 | tz4-NMe₃   |
 
 ## Recorded MS/MS spectra
 

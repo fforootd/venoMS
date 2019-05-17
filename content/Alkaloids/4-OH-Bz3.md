@@ -4,6 +4,8 @@ title = "4-OH-Bz3"
 
 ![](/img/4-OH-Bz3.png)
 
+![](/img_MSMS/195_4-OH-Bz3_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -36,6 +38,7 @@ title = "4-OH-Bz3"
 
 | m/z       | annotation |
 |-----------|------------|
+| 121.02895 | a0         |
 
 ## Recorded MS/MS spectra
 

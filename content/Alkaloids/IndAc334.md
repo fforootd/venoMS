@@ -4,6 +4,8 @@ title = "IndAc334"
 
 ![](/img/IndAc334.png)
 
+![](/img_MSMS/360_IndAc334_Aa.png)
+
 ## General Description
 
 | name                        | value            |
@@ -11,7 +13,7 @@ title = "IndAc334"
 | level                       | IV               |
 | first mention               | 2019 / A. aperta |
 | alternative name(s)         | ---              |
-| molecular formula           | C₂₀H₃₃N₅O₁       |
+| molecular formula           | C₂₀H₃₃N₅O        |
 | CAS                         | ---              |
 |                             |                  |
 | precursor 1 [M+H]⁺          | 360.27634        |
@@ -38,7 +40,9 @@ title = "IndAc334"
 
 | m/z       | annotation |
 |-----------|------------|
-|           |            |
+| 130.06568 | a'         |
+| 214.13442 | ta1-H₂O    |
+| 271.19227 | ta2-H₂O    |
 
 ## Recorded MS/MS spectra
 
