@@ -1,5 +1,6 @@
 +++
 title = "Pantothenic acid"
+draft = true
 +++
 
 ![](/img/Pantothenic acid.png)

@@ -1,5 +1,6 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5"
+draft = true
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5.png)

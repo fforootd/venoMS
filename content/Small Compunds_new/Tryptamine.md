@@ -1,5 +1,6 @@
 +++
 title = "Tryptamine"
+draft = true
 +++
 
 ![](/img/Tryptamine.png)

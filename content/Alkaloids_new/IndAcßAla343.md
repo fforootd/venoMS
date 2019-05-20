@@ -1,5 +1,6 @@
 +++
 title = "IndAcßAla343"
+draft = true
 +++
 
 ![](/img/IndAcbAla343.png)

@@ -1,5 +1,6 @@
 +++
 title = "Guanine"
+draft = true
 +++
 
 ![](/img/Guanine.png)

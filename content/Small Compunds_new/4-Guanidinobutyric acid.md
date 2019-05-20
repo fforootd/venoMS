@@ -1,5 +1,6 @@
 +++
 title = "4-Guanidinobutyric acid"
+draft = true
 +++
 
 ![](/img/4-Guanidinobutyric acid.png)

@@ -1,5 +1,6 @@
 +++
 title = "Guanidinopentyl-gunidinobutyl-oxalamide"
+draft = true
 +++
 
 ![](/img/Guanidinopentyl-guanidinobutyl-oxalamide.png)

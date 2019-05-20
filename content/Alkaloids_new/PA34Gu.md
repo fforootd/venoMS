@@ -1,5 +1,6 @@
 +++
 title = "PA34Gu"
+draft = true
 +++
 
 ![](/img/PA34Gu.png)
