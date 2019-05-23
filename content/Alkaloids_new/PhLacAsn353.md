@@ -1,5 +1,6 @@
 +++
 title = "PhLacAsn353"
+tags = ["C24H42N6O4","P479","D240","HDX489"]
 draft = true
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Valerobetaine"
+tags = ["C8H18NO2","P160","HDX161"]
 draft = true
 +++
 

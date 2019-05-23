@@ -1,5 +1,6 @@
 +++
 title = "Glutamic acid 5-methylester"
+tags = ["C6H11NO4","P162","HDX166"]
 draft = true
 +++
 

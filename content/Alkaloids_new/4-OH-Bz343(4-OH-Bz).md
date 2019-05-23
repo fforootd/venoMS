@@ -1,5 +1,6 @@
 +++
 title = "4-OH-Bz343(4-OH-Bz)"
+tags = ["C21H27N3O4","P443","D222","HDX450"]
 draft = true
 +++
 

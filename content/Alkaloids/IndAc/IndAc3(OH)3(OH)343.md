@@ -1,0 +1,77 @@
++++
+title = "IndAc3(OH)3(OH)343"
+tags = ["C26H47N7O3","P506","D253","HDX515"]
++++
+
+![](/img/IndAc3(OH)3(OH)343.png)
+
+![](/img_MSMS/506_IndAc3(OH)3(OH)343_Aa.png?classes=border)
+
+![](/img_MSMS/506_IndAc3(OH)3(OH)343_Aa_2.png?classes=border)
+
+## General Description
+
+| name                        | value            |
+|-----------------------------|------------------|
+| level                       | IV               |
+| first mention               | 2001 / A. aperta |
+| alternative name(s)         | AG 505b          |
+| molecular formula           | C₂₆H₄₇N₇O₃       |
+| CAS                         | 389872-46-2      |
+|                             |                  |
+| precursor 1 [M+H]⁺          | 506.38186        |
+| precursor 2 [M+2H]²⁺        | 253.69484        |
+| precursor 3                 |                  |
+|                             |                  |
+| HDX                         | 8                |
+| precursor HDX   [d₈-M+D]⁺   | 515.43835        |
+| precursor HDX 2 [d₈-M+2D]²⁺ | 258.72622        |
+| precursor HDX 3             |                  |
+|                             |                  |
+| Rt                          | 10.26            |
+| Rt HDX                      | 8.58             |
+
+## Calculated MS/MS fragments
+
+| # | a         | b         | c         | ta        | z         | y         | tz        |
+|---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1 | 215.11844 | 197.10788 | 198.09189 | 248.13990 | 58.06567  | 41.03912  | 75.09222  |
+| 2 | 288.17120 | 270.16064 | 271.14465 | 321.19266 | 129.13917 | 112.11262 | 146.16572 |
+| 3 | 361.22396 | 343.21340 | 344.19741 | 378.25051 | 186.19702 | 169.17047 | 219.21848 |
+| 4 | 432.29746 | 414.28690 | 415.27091 | 449.32401 | 259.24978 | 242.22323 | 292.27124 |
+| 5 | 489.35531 | 471.34475 | 472.32876 | 506.38186 | 332.30254 | 315.27599 | 349.32909 |
+
+## Additional MS/MS fragments
+
+| m/z       | annotation |
+|-----------|------------|
+| 98.09697  | y2'        |
+| 114.09189 | y2'        |
+| 128.10754 | y2'        |
+| 130.06568 | a'         |
+| 131.11844 | z2'        |
+| 145.13409 | z2'        |
+| 158.06059 | a0         |
+| 275.28109 | tz4-NH₃    |
+
+## Recorded MS/MS spectra
+
+| pdf                                                     | precursor | co-eluting | spider    | source                       |
+|---------------------------------------------------------|-----------|------------|-----------|------------------------------|
+| [Data](/pdf/A-aperta/506_IndAc3(OH)3(OH)343_Aa.pdf)     | 506.38186 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/506_IndAc3(OH)3(OH)343_Aa_2.pdf)   | 253.69484 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/506_IndAc3(OH)3(OH)343_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+
+## References
+
+| titel                                                              | reference                                                             | spider    | name    | content    | link                                                                                                                          |
+|--------------------------------------------------------------------|-----------------------------------------------------------------------|-----------|---------|------------|-------------------------------------------------------------------------------------------------------------------------------|
+| The acylpolyamines from the venom of the spider Agelenopsis aperta | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197 | A. aperta | AG 505b | APCI-MS/MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N) |
+
+## Spider species
+
+| spider species     | family     | source            |
+|--------------------|------------|-------------------|
+| Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov |
+
+## Comments

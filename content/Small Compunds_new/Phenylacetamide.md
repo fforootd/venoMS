@@ -1,5 +1,6 @@
 +++
 title = "Phenylacetamide"
+tags = ["C8H9NO","P136","HDX139"]
 draft = true
 +++
 

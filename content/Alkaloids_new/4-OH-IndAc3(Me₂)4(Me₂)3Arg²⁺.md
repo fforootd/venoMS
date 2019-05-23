@@ -1,5 +1,6 @@
 +++
 title = "4-OH-IndAc3(Me₂)4(Me₂)3Arg²⁺"
+tags = ["C30H55N9O3","D294"]
 draft = true
 +++
 
@@ -22,7 +23,7 @@ draft = true
 | HDX                              | 10                  |
 | precursor HDX   d₁₀-M²⁺          | 299.75277           |
 | precursor HDX 2 [d₁₀-M+D+TFA]²⁺  | 357.25235           |
-| precursor HDX 3 [d₁₀-M+D+2TFA]²⁺ | 827.48973           |
+| precursor HDX 3 [d₁₀-M+D+2TFA]⁺  | 827.48973           |
 |                                  |                     |
 | Rt                               |                     |
 | Rt HDX                           |                     |

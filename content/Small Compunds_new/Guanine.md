@@ -1,5 +1,6 @@
 +++
 title = "Guanine"
+tags = ["C5H5N5O","P152","HDX157"]
 draft = true
 +++
 

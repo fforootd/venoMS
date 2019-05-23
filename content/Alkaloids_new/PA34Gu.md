@@ -1,5 +1,6 @@
 +++
 title = "PA34Gu"
+tags = ["C8H21N5","P188","D94","HDX196"]
 draft = true
 +++
 

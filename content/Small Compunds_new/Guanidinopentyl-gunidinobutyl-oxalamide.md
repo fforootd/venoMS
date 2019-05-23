@@ -1,5 +1,6 @@
 +++
 title = "Guanidinopentyl-gunidinobutyl-oxalamide"
+tags = ["C13H28N8O2","P329","HDX338"]
 draft = true
 +++
 

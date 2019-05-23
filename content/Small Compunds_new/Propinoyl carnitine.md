@@ -1,5 +1,6 @@
 +++
 title = "Propinoyl carnitine"
+tags = ["C10H20NO4","P218","HDX219"]
 draft = true
 +++
 

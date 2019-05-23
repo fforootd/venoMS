@@ -1,5 +1,6 @@
 +++
 title = "4-Guanidinobutyric acid"
+tags = ["C5H11N3O2","P146","HDX152"]
 draft = true
 +++
 

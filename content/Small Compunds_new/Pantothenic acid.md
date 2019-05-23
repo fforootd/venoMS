@@ -1,5 +1,6 @@
 +++
 title = "Pantothenic acid"
+tags = ["C9H17NO5","P220","HDX225"]
 draft = true
 +++
 

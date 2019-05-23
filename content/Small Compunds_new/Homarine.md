@@ -1,5 +1,6 @@
 +++
 title = "Homarine"
+tags = ["7H8NO2C","P138","HDX138"]
 draft = true
 +++
 

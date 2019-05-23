@@ -1,5 +1,6 @@
 +++
 title = "Acetylcarnitine"
+tags = ["C9H18NO4","P204","HDX205"]
 draft = true
 +++
 

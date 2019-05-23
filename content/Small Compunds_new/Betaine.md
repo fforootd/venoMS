@@ -1,5 +1,6 @@
 +++
 title = "Betaine"
+tags = ["C5H12NO2","P118","HDX119"]
 draft = true
 +++
 

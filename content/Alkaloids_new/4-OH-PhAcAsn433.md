@@ -1,5 +1,6 @@
 +++
 title = "4-OH-PhAcAsn433"
+tags = ["C22H38N6O4","P451","D226","HDX461"]
 draft = true
 +++
 

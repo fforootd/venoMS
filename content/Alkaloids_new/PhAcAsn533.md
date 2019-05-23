@@ -1,5 +1,6 @@
 +++
 title = "PhAcAsn533"
+tags = ["C23H40N6O3","P449","D225","HDX458"]
 draft = true
 +++
 
@@ -50,8 +51,8 @@ draft = true
 
 ## References
 
-| titel                                                                                                      | reference                                                     | spider        | name    | content       | link                                                               |
-|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------|---------|---------------|--------------------------------------------------------------------|
+| titel                                                                                                      | reference                                                     | spider        | name    | content                            | link                                                               |
+|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------|---------|------------------------------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | L. patagiatus | LF 448C | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
 
 ## Spider species
@@ -59,3 +60,5 @@ draft = true
 | spider species         | family    | source                 |
 |------------------------|-----------|------------------------|
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
+
+## Comments
