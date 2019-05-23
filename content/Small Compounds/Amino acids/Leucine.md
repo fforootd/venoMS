@@ -36,7 +36,7 @@ tags = ["C6H13NO2","P132","HDX136"]
 
 | pdf                               | precursor | co-eluting | spider    | source |
 |-----------------------------------|-----------|------------|-----------|--------|
-| [Data](/pdf/132_Leucine_2-88.pdf) | 132.10245 | pure       | Reference | Fluka  |
+| [Data](/pdf/132_Leucine_2-88.pdf) | 132.10245 |            | L-Leucine | Fluka  |
 
 ## References
 

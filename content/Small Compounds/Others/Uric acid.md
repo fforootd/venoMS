@@ -25,13 +25,15 @@ tags = ["C5H4N4O3","P169","HDX174"]
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation        |
-|-----------|-------------------|-------------------|
+| m/z | molecular formula | annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
+| pdf | precursor | co-eluting | spider | source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 

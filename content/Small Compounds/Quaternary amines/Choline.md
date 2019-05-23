@@ -25,16 +25,15 @@ tags = ["C5H14NO","P104","HDX105"]
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation         |
-|-----------|-------------------|--------------------|
-
+| m/z | molecular formula | annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source        |
-|-----|-----------|------------|-----------|---------------|
-
-
+| pdf      | precursor | co-eluting | spider                              | source        |
+|----------|-----------|------------|-------------------------------------|---------------|
+| [Data]() | 104.10754 |            | Choline, 45% in MeOH (CAS 123-41-1) | Sigma Aldrich |
 
 ## References
 

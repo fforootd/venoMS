@@ -33,8 +33,9 @@ tags = ["C10H15N5O10P2","P428","HDX436"]
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
+| pdf | precursor | co-eluting | spider | source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 

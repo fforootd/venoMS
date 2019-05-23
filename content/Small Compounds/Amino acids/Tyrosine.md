@@ -40,8 +40,9 @@ tags = ["C9H11NO3","P182","HDX187"]
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
+| pdf      | precursor | co-eluting | spider     | source        |
+|----------|-----------|------------|------------|---------------|
+| [Data]() | 182.08172 |            | L-Tyrosine | Sigma Aldrich |
 
 ## References
 

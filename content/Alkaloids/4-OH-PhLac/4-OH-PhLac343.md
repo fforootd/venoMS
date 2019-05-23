@@ -37,13 +37,15 @@ tags = ["C19H34N4O3","P321","D161","HDX329"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
-|-----------|------------|
+| m/z | annotation |
+|-----|------------|
+|     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting  | spider    | source                       |
-|-----|-----------|-------------|-----------|------------------------------|
+| pdf | precursor | co-eluting | spider | source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 

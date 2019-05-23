@@ -35,8 +35,9 @@ tags = ["C5H10N2O3","P147","HDX153"]
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
+| pdf      | precursor | co-eluting | spider      | source |
+|----------|-----------|------------|-------------|--------|
+| [Data]() | 147.07697 |            | L-Glutamine | Fluka  |
 
 ## References
 

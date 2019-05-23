@@ -26,13 +26,15 @@ tags = ["C8H11NO","P138","HDX142"]
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation     |
-|-----------|-------------------|----------------|
+| m/z | molecular formula | annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source |
-|-----|-----------|------------|-----------|--------|
+| pdf      | precursor | co-eluting | spider   | source        |
+|----------|-----------|------------|----------|---------------|
+| [Data]() | 138.09189 |            | Tyramine | Sigma Aldrich |
 
 ## References
 

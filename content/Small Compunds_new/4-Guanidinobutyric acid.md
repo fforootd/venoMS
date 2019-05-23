@@ -39,14 +39,15 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                                 |
-|-----|-----------|------------|-----------|----------------------------------------|
-|     | 138.05550 | pure       | Reference | Dominique Kamber, University of Zurich |
+| pdf | precursor | co-eluting | spider | source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 
-| titel    | reference | spider | name | content   | link                                                 |
-|----------|-----------|--------|------|-----------|------------------------------------------------------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

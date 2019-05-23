@@ -36,13 +36,15 @@ tags = ["C18H27N5O3","P374","D187","HDX382"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
-|-----------|------------|
+| m/z | annotation |
+|-----|------------|
+|     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting  | spider    | source                       |
-|-----|-----------|-------------|-----------|------------------------------|
+| pdf | precursor | co-eluting | spider | source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 

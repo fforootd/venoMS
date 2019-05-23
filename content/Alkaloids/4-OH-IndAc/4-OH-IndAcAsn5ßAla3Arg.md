@@ -3,7 +3,7 @@ title = "4-OH-IndAcAsn5ßAla3Arg"
 tags = ["C31H51N11O6","P674","D337","HDX690"]
 +++
 
-![](/img/4-OH-IndAcAsn5ßAla3Arg.png)
+![](/img/4-OH-IndAcAsn5bAla3Arg.png)
 
 ## General Description
 

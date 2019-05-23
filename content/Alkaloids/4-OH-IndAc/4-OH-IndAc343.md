@@ -37,8 +37,9 @@ tags = ["C20H33N5O2","P323","D162","HDX330"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
-|-----------|------------|
+| m/z | annotation |
+|-----|------------|
+|     |            |
 
 ## Recorded MS/MS spectra
 

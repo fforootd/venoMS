@@ -25,13 +25,15 @@ tags = ["C5H9NO2","P116","HDX118"]
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation        |
-|-----------|-------------------|-------------------|
+| m/z | molecular formula | annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
+| pdf      | precursor | co-eluting | spider    | source         |
+|----------|-----------|------------|-----------|----------------|
+| [Data]() | 116.07115 |            | L-Proline | Acros Organics |
 
 ## References
 

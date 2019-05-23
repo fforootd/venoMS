@@ -25,13 +25,15 @@ tags = ["C12H26N8O2","P315","HDX324"]
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation         |
-|-----------|-------------------|--------------------|
+| m/z | molecular formula | annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source        |
-|-----|-----------|------------|-----------|---------------|
+| pdf | precursor | co-eluting | spider | source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 

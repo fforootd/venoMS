@@ -1,5 +1,5 @@
 +++
-title = "4-OH-Bz3(OH)335(NMe₂)"
+title = "4-OH-Bz3(OH)335(NMe₂) "
 tags = ["C23H43N5O3","P438","D219","HDX444"]
 +++
 

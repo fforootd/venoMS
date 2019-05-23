@@ -55,8 +55,8 @@ tags = ["C23H40N6O3","P449","D225","HDX457"]
 
 | pdf                                        | precursor | co-eluting | spider           | source             |
 |--------------------------------------------|-----------|------------|------------------|--------------------|
-| [Data](/pdf/449_PhAcAsn3(Me)43_4-83.pdf)   | 449.32402 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
-| [Data](/pdf/449_PhAcAsn3(Me)43_4-83_2.pdf) | 225.16592 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE |
+| [Data](/pdf/449_PhAcAsn3(Me)43_4-83.pdf)   | 449.32402 |        | synth. IndAc4333 | UZH Bienz lab, CHE |
+| [Data](/pdf/449_PhAcAsn3(Me)43_4-83_2.pdf) | 225.16592 |       | synth. IndAc4333 | UZH Bienz lab, CHE |
 
 ## References
 

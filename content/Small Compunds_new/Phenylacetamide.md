@@ -35,13 +35,15 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider                     | source |
-|-----|-----------|------------|----------------------------|--------|
+| pdf | precursor | co-eluting | spider | source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 
-| titel    | reference | spider | name | content   | link  |
-|----------|-----------|--------|------|-----------|------------------------------------------------------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

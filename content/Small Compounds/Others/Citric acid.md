@@ -41,10 +41,11 @@ tags = ["C6H8O7","P193","HDX198"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                              | precursor | co-eluting | spider    | source                       |
-|--------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/193_Citric-acid_Aa.pdf)     | 210.06138 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/193_Citric-acid_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                              | precursor | co-eluting | spider                          | source                       |
+|--------------------------------------------------|-----------|------------|---------------------------------|------------------------------|
+| [Data]()                                         | 210.06138 |            | Citric acid H₂O (CAS 5949-29-1) | Acros Organics               |
+| [Data](/pdf/A-aperta/193_Citric-acid_Aa.pdf)     | 210.06138 |            | A. aperta                       | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/193_Citric-acid_Aa_HDX.pdf) | HDX       |            | A. aperta                       | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

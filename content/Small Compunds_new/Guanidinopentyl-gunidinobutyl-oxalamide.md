@@ -44,8 +44,9 @@ draft = true
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

@@ -55,8 +55,8 @@ tags = ["C25H41N7O3","P488","D244","HDX497"]
 
 | pdf                                         | precursor | co-eluting | spider              | source             |
 |---------------------------------------------|-----------|------------|---------------------|--------------------|
-| [Data](/pdf/488_IndAcAsn3(Me)43_7-08.pdf)   | 488.33492 | pure       | synth. IndAc3(Me)43 | UZH Bienz lab, CHE |
-| [Data](/pdf/488_IndAcAsn3(Me)43_7-08_2.pdf) | 244.67137 | pure       | synth. IndAc3(Me)43 | UZH Bienz lab, CHE |
+| [Data](/pdf/488_IndAcAsn3(Me)43_7-08.pdf)   | 488.33492 |        | synth. IndAc3(Me)43 | UZH Bienz lab, CHE |
+| [Data](/pdf/488_IndAcAsn3(Me)43_7-08_2.pdf) | 244.67137 |       | synth. IndAc3(Me)43 | UZH Bienz lab, CHE |
 
 ## References
 

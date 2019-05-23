@@ -33,9 +33,9 @@ tags = ["C10H12N4O5","P269","HDX274"]
 
 ## Recorded MS/MS spectra
 
-| pdf                               | precursor | co-eluting | spider    | source        |
-|-----------------------------------|-----------|------------|-----------|---------------|
-| [Data](/pdf/269_Inosine_2-83.pdf) | 269.08859 | pure       | Reference | Sigma Aldrich |
+| pdf                               | precursor | co-eluting | spider  | source        |
+|-----------------------------------|-----------|------------|---------|---------------|
+| [Data](/pdf/269_Inosine_2-83.pdf) | 269.08859 |            | Inosine | Sigma Aldrich |
 
 ## References
 

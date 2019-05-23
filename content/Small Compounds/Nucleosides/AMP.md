@@ -25,13 +25,15 @@ tags = ["C10H14N5O7P","P348","HDX355"]
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation   |
-|-----------|-------------------|--------------|
+| m/z | molecular formula | annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
+| pdf      | precursor | co-eluting | spider                                                    | source |
+|----------|-----------|------------|-----------------------------------------------------------|--------|
+| [Data]() | 348.07091 |            | Adenosine-5'-monophosphate, disodium salt (CAS 4578-31-8) | Fluka  |
 
 ## References
 

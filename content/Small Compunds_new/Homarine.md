@@ -40,12 +40,13 @@ draft = true
 
 | pdf                                | precursor | co-eluting | spider                    | source                                 |
 |------------------------------------|-----------|------------|---------------------------|----------------------------------------|
-| [Data](/pdf/138_Homarine_1-22.pdf) | 138.05550 | pure       | Reference (CAS 6253-06-1) | Dominique Kamber, University of Zurich |
+| [Data](/pdf/138_Homarine_1-22.pdf) | 138.05550 |            | Homarine (CAS 6253-06-1) | Dominique Kamber, University of Zurich |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

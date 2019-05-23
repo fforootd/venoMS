@@ -34,8 +34,9 @@ tags = ["C3H7NO3","P106","HDX111"]
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
+| pdf      | precursor | co-eluting | spider   | source        |
+|----------|-----------|------------|----------|---------------|
+| [Data]() | 106.05042 |            | L-Serine | Sigma Aldrich |
 
 ## References
 

@@ -39,14 +39,15 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source        |
-|-----|-----------|------------|-----------|---------------|
-|     | 162.07663 | pure       | Reference | Sigma Aldrich |
+| pdf | precursor | co-eluting | spider                        | source        |
+|-----|-----------|------------|-------------------------------|---------------|
+|     | 162.07663 |            | L-Glutamic acid 5-methylester | Sigma Aldrich |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

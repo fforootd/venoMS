@@ -42,9 +42,9 @@ tags = ["C6H14N4O2","P175","HDX183"]
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source        |
-|-----|-----------|------------|-----------|---------------|
-| [Data](/pdf/175_Arginine_1-12.pdf)    | 175.11950 | pure       | Reference | Sigma Aldrich |
+| pdf                                | precursor | co-eluting | spider                         | source        |
+|------------------------------------|-----------|------------|--------------------------------|---------------|
+| [Data](/pdf/175_Arginine_1-12.pdf) | 175.11950 |            | L-Arginine HCl (CAS 1119-34-2) | Sigma Aldrich |
 
 ## References
 

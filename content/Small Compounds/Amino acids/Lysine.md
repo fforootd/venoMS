@@ -25,13 +25,15 @@ tags = ["C6H14N2O2","P147","HDX153"]
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation        |
-|-----------|-------------------|-------------------|
+| m/z | molecular formula | annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
+| pdf      | precursor | co-eluting | spider   | source |
+|----------|-----------|------------|----------|--------|
+| [Data]() | 147.11335 |            | L-Lysine | Fluka  |
 
 ## References
 

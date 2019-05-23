@@ -39,9 +39,9 @@ tags = ["C9H11NO2","P166","HDX170"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                     | precursor | co-eluting | spider    | source |
-|-----------------------------------------|-----------|------------|-----------|--------|
-| [Data](/pdf/166_Phenylalanine_4-84.pdf) | 166.08680 | pure       | Reference | Fluka  |
+| pdf                                     | precursor | co-eluting | spider        | source |
+|-----------------------------------------|-----------|------------|---------------|--------|
+| [Data](/pdf/166_Phenylalanine_4-84.pdf) | 166.08680 |            | Phenylalanine | Fluka  |
 
 ## References
 

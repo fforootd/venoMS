@@ -39,14 +39,15 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source        |
-|-----|-----------|------------|-----------|---------------|
-| [Data](/pdf/218_Propinoylcarnitine_3-12.pdf)    | 218.13923 | pure       | Reference | Sigma Aldrich |
+| pdf                                          | precursor | co-eluting | spider                | source        |
+|----------------------------------------------|-----------|------------|-----------------------|---------------|
+| [Data](/pdf/218_Propinoylcarnitine_3-12.pdf) | 218.13923 |            | Propinoyl-L-carnitine | Sigma Aldrich |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

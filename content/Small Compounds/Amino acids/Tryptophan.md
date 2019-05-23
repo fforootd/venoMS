@@ -43,9 +43,9 @@ tags = ["C11H12N2O2","P205","HDX210"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                  | precursor | co-eluting | spider    | source |
-|--------------------------------------|-----------|------------|-----------|--------|
-| [Data](/pdf/205_Tryptophan_9-38.pdf) | 205.09770 | pure       | Reference | Merck  |
+| pdf                                  | precursor | co-eluting | spider       | source |
+|--------------------------------------|-----------|------------|--------------|--------|
+| [Data](/pdf/205_Tryptophan_9-38.pdf) | 205.09770 |            | L-Tryptophan | Merck  |
 
 ## References
 

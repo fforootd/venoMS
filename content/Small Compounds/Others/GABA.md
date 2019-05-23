@@ -13,7 +13,7 @@ tags = ["C4H9NO2","P104","HDX108"]
 | First mention           | 1957 / div. |
 | Alternative name(s)     |            |
 | Molecular formula       | C₄H₉NO₂    |
-| CAS                     |            |
+| CAS                     | 56-12-2    |
 |                         |            |
 | precursor [M+H]⁺        | 104.07115  |
 |                         |            |
@@ -34,8 +34,9 @@ tags = ["C4H9NO2","P104","HDX108"]
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
+| pdf      | precursor | co-eluting | spider              | source        |
+|----------|-----------|------------|---------------------|---------------|
+| [Data]() | 104.07115 |            | γ-Aminobutyric acid | Sigma Aldrich |
 
 ## References
 

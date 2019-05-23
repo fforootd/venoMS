@@ -28,18 +28,21 @@ title = "APC 600"
 
 ## Calculated MS/MS fragments
 
-| # | a         | b         | c         | ta        | z         | y         | tz        |
-|---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| # | a | b | c | ta | z | y | tz |
+|---|---|---|---|----|---|---|----|
+|   |   |   |   |    |   |   |    |
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
-|-----------|------------|
+| m/z | annotation |
+|-----|------------|
+|     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting  | spider    | source                       |
-|-----|-----------|-------------|-----------|------------------------------|
+| pdf | precursor | co-eluting | spider | source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 

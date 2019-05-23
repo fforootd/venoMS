@@ -25,13 +25,15 @@ tags = ["C2H7NO3S","P126","HDX130"]
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation        |
-|-----------|-------------------|-------------------|
+| m/z | molecular formula | annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
+| pdf      | precursor | co-eluting | spider  | source        |
+|----------|-----------|------------|---------|---------------|
+| [Data]() | 126.02249 |            | Taurine | Sigma Aldrich |
 
 ## References
 

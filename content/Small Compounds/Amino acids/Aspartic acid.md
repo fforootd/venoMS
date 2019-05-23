@@ -35,8 +35,9 @@ tags = ["C4H7NO4","P134","HDX134"]
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source        |
-|-----|-----------|------------|-----------|---------------|
+| pdf      | precursor | co-eluting | spider          | source        |
+|----------|-----------|------------|-----------------|---------------|
+| [Data]() | 134.04533 |            | L-Aspartic acid | Sigma Aldrich |
 
 ## References
 

@@ -50,8 +50,8 @@ tags = ["C23H40N6O2","P433","D217","HDX441"]
 
 | pdf                                                              | precursor | co-eluting    | spider               | source                       |
 |------------------------------------------------------------------|-----------|---------------|----------------------|------------------------------|
-| [Data](/pdf/433_IndAc3(OH)334_9-06.pdf)                          | 433.32910 | pure          | synth. IndAc3(OH)334 | UZH Bienz lab, CHE           |
-| [Data](/pdf/433_IndAc3(OH)334_9-06_2.pdf)                        | 217.16846 | pure          | synth. IndAc3(OH)334 | UZH Bienz lab, CHE           |
+| [Data](/pdf/433_IndAc3(OH)334_9-06.pdf)                          | 433.32910 |          | synth. IndAc3(OH)334 | UZH Bienz lab, CHE           |
+| [Data](/pdf/433_IndAc3(OH)334_9-06_2.pdf)                        | 217.16846 |           | synth. IndAc3(OH)334 | UZH Bienz lab, CHE           |
 | [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa.pdf)     | 433.32910 | IndAc3(OH)343 | A. aperta            | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa_2.pdf)   | 217.16846 | IndAc3(OH)343 | A. aperta            | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa_HDX.pdf) | HDX       | IndAc3(OH)343 | A. aperta            | Fauna Laboratories Ltd., KAZ |

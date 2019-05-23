@@ -25,13 +25,15 @@ tags = ["C10H13N5O11S2","P444","HDX451"]
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation      |
-|-----------|-------------------|-----------------|
+| m/z | molecular formula | annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider             | source                       |
-|-----|-----------|------------|--------------------|------------------------------|
+| pdf | precursor | co-eluting | spider | source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 

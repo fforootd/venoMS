@@ -38,8 +38,9 @@ tags = ["C20H37N5O3","P396","D198","HDX404"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
-|-----------|------------|
+| m/z | annotation |
+|-----|------------|
+|     |            |
 
 ## Recorded MS/MS spectra
 
@@ -53,7 +54,7 @@ tags = ["C20H37N5O3","P396","D198","HDX404"]
 
 | titel                                                                                                                                                            | reference                                                             | spider    | name    | content                 | link                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------|---------|-------------------------|----------------------------------------------------------------------------------------|
-| The acylpolyamines from the venom of the spider Agelenopsis aperta                                                                                               | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197 | A. aperta | AG 395a | APCI-MS/MS              | [Link](XXX)                                                                            |
+| The acylpolyamines from the venom of the spider Agelenopsis aperta                                                                                               | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197 | A. aperta | AG 395a | APCI-MS/MS              | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N)                                                                            |
 
 ## Spider species
 

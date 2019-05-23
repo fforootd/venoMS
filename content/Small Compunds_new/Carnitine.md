@@ -38,14 +38,15 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source        |
-|-----|-----------|------------|-----------|---------------|
-| [Data](/pdf/162_Carnitine_1-18.pdf)    | 162.11302 | pure       | Reference | Sigma Aldrich |
+| pdf                                 | precursor | co-eluting | spider                          | source        |
+|-------------------------------------|-----------|------------|---------------------------------|---------------|
+| [Data](/pdf/162_Carnitine_1-18.pdf) | 162.11302 |            | L-Carnitine HCl (CAS 6645-46-1) | Sigma Aldrich |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

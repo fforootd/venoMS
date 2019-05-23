@@ -37,7 +37,7 @@ tags = ["C10H13N5O4","P268","HDX274"]
 
 | pdf                                            | precursor | co-eluting | spider    | source                       |
 |------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/268_Adenosine_2-29.pdf)            | 268.10457 |            | Reference | Sigma Aldrich                |
+| [Data](/pdf/268_Adenosine_2-29.pdf)            | 268.10457 |            | Adenosine | Sigma Aldrich                |
 | [Data](/pdf/A-aperta/268_Adenosine_Aa.pdf)     | 268.10457 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/268_Adenosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 

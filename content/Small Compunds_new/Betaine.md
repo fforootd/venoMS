@@ -38,12 +38,13 @@ draft = true
 
 | pdf                               | precursor | co-eluting | spider    | source |
 |-----------------------------------|-----------|------------|-----------|--------|
-| [Data](/pdf/118_Betaine_1-15.pdf) | 118.08680 | pure       | Reference | Acros  |
+| [Data](/pdf/118_Betaine_1-15.pdf) | 118.08680 |            | Betaine   | Acros  |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

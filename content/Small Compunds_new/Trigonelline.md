@@ -37,14 +37,15 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                    | precursor | co-eluting | spider                    | source        |
-|----------------------------------------|-----------|------------|---------------------------|---------------|
-| [Data](/pdf/138_Trigonelline_1-21.pdf) | 138.05550 | pure       | Reference (CAS 6138-41-6) | Sigma Aldrich |
+| pdf                                    | precursor | co-eluting | spider                           | source        |
+|----------------------------------------|-----------|------------|----------------------------------|---------------|
+| [Data](/pdf/138_Trigonelline_1-21.pdf) | 138.05550 |            | Trigonelline HCl (CAS 6138-41-6) | Sigma Aldrich |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

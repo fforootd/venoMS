@@ -38,14 +38,15 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                       | precursor | co-eluting | spider                    | source        |
-|-------------------------------------------|-----------|------------|---------------------------|---------------|
-| [Data](/pdf/204_Acetylcarnitine_1-51.pdf) | 204.12358 | pure       | Reference (CAS 5080-50-2) | Sigma Aldrich |
+| pdf                                       | precursor | co-eluting | spider                               | source        |
+|-------------------------------------------|-----------|------------|--------------------------------------|---------------|
+| [Data](/pdf/204_Acetylcarnitine_1-51.pdf) | 204.12358 |            | O-Acetyl-L-carnitine (CAS 5080-50-2) | Sigma Aldrich |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

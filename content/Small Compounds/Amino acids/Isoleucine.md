@@ -35,9 +35,9 @@ tags = ["C6H13NO2","P132","HDX136"]
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source |
-|-----|-----------|------------|-----------|--------|
-| [Data](/pdf/132_Isoeucine_2-65.pdf)    | 132.10245 | pure       | Reference | Fluka  |
+| pdf                                 | precursor | co-eluting | spider       | source |
+|-------------------------------------|-----------|------------|--------------|--------|
+| [Data](/pdf/132_Isoeucine_2-65.pdf) | 132.10245 |            | L-Isoleucine | Fluka  |
 
 ## References
 

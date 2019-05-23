@@ -37,19 +37,21 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                                         | precursor | co-eluting | spider                     | source                                 |
-|-------------------------------------------------------------|-----------|------------|----------------------------|----------------------------------------|
-| [Data](/pdf/138_1-Methyl-4-pyridinium-carboxylate_1-19.pdf) | 138.05550 | pure       | Reference (CAS 36455-39-7) | Dominique Kamber, University of Zurich |
+| pdf                                                         | precursor | co-eluting | spider                                             | source                                 |
+|-------------------------------------------------------------|-----------|------------|----------------------------------------------------|----------------------------------------|
+| [Data](/pdf/138_1-Methyl-4-pyridinium-carboxylate_1-19.pdf) | 138.05550 |            | 1-Methyl-4-pyridinium carboxylate (CAS 36455-39-7) | Dominique Kamber, University of Zurich |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species                     | family        | first mention          |
-|------------------------------------|---------------|------------------------|
+| spider species | family | first mention |
+|----------------|--------|---------------|
+|                |        |               |
 
 ## Comments
 1-Methyl-4-pyridinium carboxylate and trigonelline can not be destinguished by Rt nor MS/MS.

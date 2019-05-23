@@ -44,14 +44,15 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                        | precursor | co-eluting | spider                     | source |
-|--------------------------------------------|-----------|------------|----------------------------|--------|
-| [Data](/pdf/220_Pantothenic-acid_4-57.pdf) | 220.11850 | pure       | Reference (CAS 63409-48-3) | Fluka  |
+| pdf                                        | precursor | co-eluting | spider                                | source |
+|--------------------------------------------|-----------|------------|---------------------------------------|--------|
+| [Data](/pdf/220_Pantothenic-acid_4-57.pdf) | 220.11850 |            | Calcium pantothenate (CAS 63409-48-3) | Fluka  |
 
 ## References
 
-| titel    | reference | spider | name | content   | link  |
-|----------|-----------|--------|------|-----------|------------------------------------------------------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

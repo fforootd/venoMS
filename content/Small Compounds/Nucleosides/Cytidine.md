@@ -37,7 +37,7 @@ tags = ["C9H13N3O5","P244","HDX250"]
 
 | pdf                                           | precursor | co-eluting | spider    | source                       |
 |-----------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/244_Cytidine_1-42.pdf)            | 244.09334 |            | Reference | Fluka                        |
+| [Data](/pdf/244_Cytidine_1-42.pdf)            | 244.09334 |            | Cytidine | Fluka                        |
 | [Data](/pdf/A-aperta/244_Cytidine_Aa.pdf)     | 244.09334 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/244_Cytidine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 

@@ -50,8 +50,8 @@ tags = ["C23H40N6O","P417","D209","HDX425"]
 
 | pdf                                            | precursor | co-eluting | spider           | source                       |
 |------------------------------------------------|-----------|------------|------------------|------------------------------|
-| [Data](/pdf/417_IndAc4333_9-00.pdf)            | 417.33419 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE           |
-| [Data](/pdf/417_IndAc4333_9-00_2.pdf)          | 417.33419 | pure       | synth. IndAc4333 | UZH Bienz lab, CHE           |
+| [Data](/pdf/417_IndAc4333_9-00.pdf)            | 417.33419 |       | synth. IndAc4333 | UZH Bienz lab, CHE           |
+| [Data](/pdf/417_IndAc4333_9-00_2.pdf)          | 417.33419 |        | synth. IndAc4333 | UZH Bienz lab, CHE           |
 | [Data](/pdf/A-aperta/417_IndAc4333_Aa.pdf)     | 417.33419 |            | A. aperta        | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/417_IndAc4333_Aa_2.pdf)   | 209.17101 |            | A. aperta        | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/417_IndAc4333_Aa_HDX.pdf) | HDX       |            | A. aperta        | Fauna Laboratories Ltd., KAZ |

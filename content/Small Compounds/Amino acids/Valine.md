@@ -3,7 +3,7 @@ title = "Valine"
 tags = ["C5H11NO2","P118","HDX122"]
 +++
 
-![](/img/valine.png)
+![](/img/Valine.png)
 
 ## General Description
 
@@ -25,13 +25,15 @@ tags = ["C5H11NO2","P118","HDX122"]
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation        |
-|-----------|-------------------|-------------------|
+| m/z | molecular formula | annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
+| pdf      | precursor | co-eluting | spider   | source |
+|----------|-----------|------------|----------|--------|
+| [Data]() | 118.08680 |            | L-Valine | Fluka  |
 
 ## References
 

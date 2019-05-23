@@ -32,14 +32,15 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source |
-|-----|-----------|------------|-----------|--------|
-|     | 152.05723 |            | Reference | Merck  |
+| pdf | precursor | co-eluting | spider  | source |
+|-----|-----------|------------|---------|--------|
+|     | 152.05723 |            | Guanine | Merck  |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

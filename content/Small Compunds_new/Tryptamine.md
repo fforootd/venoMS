@@ -32,14 +32,15 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source |
-|-----|-----------|------------|-----------|--------|
-|     | 161.10787 | pure       | Reference | Fluka  |
+| pdf | precursor | co-eluting | spider     | source |
+|-----|-----------|------------|------------|--------|
+|     | 161.10787 |            | Tryptamine | Fluka  |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
+| titel | reference | spider | name | content | link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

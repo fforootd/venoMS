@@ -35,8 +35,9 @@ tags = ["C5H9NO4","P148","HDX153"]
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
+| pdf      | precursor | co-eluting | spider          | source |
+|----------|-----------|------------|-----------------|--------|
+| [Data]() | 148.06098 |            | L-Glutamic acid | Fluka  |
 
 ## References
 

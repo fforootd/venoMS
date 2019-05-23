@@ -36,9 +36,9 @@ tags = ["C10H12N2O","P177","HDX182"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                 | precursor | co-eluting | spider    | source |
-|-------------------------------------|-----------|------------|-----------|--------|
-| [Data](/pdf/177_Serotonin_4-31.pdf) | 203.22358 | pure       | Reference | Fluka  |
+| pdf                                 | precursor | co-eluting | spider                       | source |
+|-------------------------------------|-----------|------------|------------------------------|--------|
+| [Data](/pdf/177_Serotonin_4-31.pdf) | 203.22358 |            | Serotonin HCl (CAS 153-98-0) | Fluka  |
 
 ## References
 

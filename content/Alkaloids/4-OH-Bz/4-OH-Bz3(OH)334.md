@@ -52,8 +52,8 @@ tags = ["C20H37N5O3","P396","D198","HDX404"]
 
 | pdf                                                                  | precursor | co-eluting      | spider                 | source                       |
 |----------------------------------------------------------------------|-----------|-----------------|------------------------|------------------------------|
-| [Data](/pdf/396_4-OH-Bz3(OH)334_4-14.pdf)                            | 396.29746 | pure            | synth. 4-OH-Bz3(OH)334 | UZH Bienz lab, CHE           |
-| [Data](/pdf/396_4-OH-Bz3(OH)334_4-14_2.pdf)                          | 198.65264 | pure            | synth. 4-OH-Bz3(OH)334 | UZH Bienz lab, CHE           |
+| [Data](/pdf/396_4-OH-Bz3(OH)334_4-14.pdf)                            | 396.29746 |             | synth. 4-OH-Bz3(OH)334 | UZH Bienz lab, CHE           |
+| [Data](/pdf/396_4-OH-Bz3(OH)334_4-14_2.pdf)                          | 198.65264 |           | synth. 4-OH-Bz3(OH)334 | UZH Bienz lab, CHE           |
 | [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa.pdf)     | 396.29746 | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_2.pdf)   | 198.65264 | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_HDX.pdf) | HDX       | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ |
@@ -62,7 +62,7 @@ tags = ["C20H37N5O3","P396","D198","HDX404"]
 
 | titel                                                                                                                                                            | reference                                                             | spider    | name    | content                 | link                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------|---------|-------------------------|----------------------------------------------------------------------------------------|
-| The acylpolyamines from the venom of the spider Agelenopsis aperta                                                                                               | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197 | A. aperta | AG 395a | APCI-MS/MS              | [Link](XXX)                                                                            |
+| The acylpolyamines from the venom of the spider Agelenopsis aperta                                                                                               | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197 | A. aperta | AG 395a | APCI-MS/MS              | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N)                                                                            |
 | Regioselective solid-phase synthesisof N-mono-hydroxylated and N-mono-methylated acylpolyamine spider toxins using a 2-(ortho-nitrophenyl)ethanal modified resin | D. Pauli, S. Bienz, Org. Biomol. Chem. 2015, 13, 15, 4473-4485        | A. aperta | AG 395a | Synthesis, NMR, APCI-MS/MS | [Link](https://pubs.rsc.org/en/Content/ArticleLanding/2015/OB/C5OB00108K#!divAbstract) |
 
 ## Spider species

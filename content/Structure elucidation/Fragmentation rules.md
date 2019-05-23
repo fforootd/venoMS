@@ -1,10 +1,10 @@
 +++
 title = "Fragmentation rules"
-draft = true
+weight = 10
+draft = false
 +++
 
-
-## General Description
+## The seven charcteristic fragment ions for (acyl)polyamines
 
 | Fragment type | description | picture |
 |---------------|-------------|---------|
@@ -15,17 +15,3 @@ draft = true
 | tz            | text        |         |
 | y             | text        |         |
 | z             | text        |         |
-
-
-## Additional rules
-
-| Fragment type | description | picture |
-|---------------|-------------|---------|
-| a'            | text        |         |
-|               | text        |         |
-
-## References
-
-| Titel                                                                                             | Reference                                                                           | spider | name | content | DOI |
-|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------|------|---------|-----|
-| A template approach for the characterization of linear polyamines and derivatives in spider venom | M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Eur. J. Mass Spectrom. 2013, 19, 57-69 |        |      |         |     |

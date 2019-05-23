@@ -46,7 +46,7 @@ tags = ["C6H14N4O2","P175", "HDX183"]
 
 | pdf                               | precursor | co-eluting | spider    | source   |
 |-----------------------------------|-----------|------------|-----------|----------|
-| [Data](/pdf/175_FrPbAII_1-15.pdf) | 175.11950 | pure       | Reference | Biotrend |
+| [Data](/pdf/175_FrPbAII_1-15.pdf) | 175.11950 |            | FrPbAII   | Biotrend |
 
 ## References
 
