@@ -1,6 +1,13 @@
 +++
 title = "Homarine"
-tags = ["7H8NO2C","P138","HDX138"]
+categories = ["7H8NO2C","P138","HDX138"]
+tags = ["Alopecosa sp.",
+"Desertosa sp.",
+"Eratigena agrestis",
+"Geolycosa sp.",
+"Heteropoda davidbowie","Hippocosa sp.",
+"Larinioides cornutus","Latrodectus mactans","Lycosa praegrandis","Lycosa sp.",
+"Parawixia bistriata","Peucetia viridans","Pireneitega luctuosa"]
 draft = true
 +++
 

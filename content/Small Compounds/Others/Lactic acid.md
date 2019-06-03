@@ -1,6 +1,7 @@
 +++
 title = "Lactic acid"
-tags = ["C3H6O3","P91","HDX94"]
+categories = ["C3H6O3","P91","HDX94"]
+tags = ["Atrax robustus","Stromatopelma calceatum griseipes"]
 +++
 
 ![](/img/Lactic acid.png)

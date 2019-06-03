@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn5Gly4ßAla4ßAla4ßAla4"
-tags = ["C46H81N13O8","P944","D472","HDX961"]
+categories = ["C46H81N13O8","P944","D472","HDX961"]
+tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5Gly4bAla4bAla4bAla4.png)

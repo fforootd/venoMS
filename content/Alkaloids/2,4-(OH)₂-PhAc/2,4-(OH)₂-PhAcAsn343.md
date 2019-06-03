@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn343"
-tags = ["C22H38N6O5","P467","D234","HDX478"]
+categories = ["C22H38N6O5","P467","D234","HDX478"]
+tags = ["Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn343.png)
@@ -63,6 +64,7 @@ tags = ["C22H38N6O5","P467","D234","HDX478"]
 | Diversity of Joro spider toxins                                                                                          | M. Yoshioka,  1997, 117, 700-714                                                                                      |               | JSTX-1     | Review                             | [Link](https://www.jstage.jst.go.jp/article/yakushi1947/117/10-11/117_10-11_700/_article/-char/ja/) |
 | Structural characterization of a new acylpolyaminetoxin from the venom of Brazilian garden spider Nephilenys cruentata   | M. S. Palma, Y. Itagaki, T. Fujita, H. Naoki, T. Nakajima, Toxicon 1998, 36, 485-493                                  | N. cruentata  | JSTX-1     | Frit-FAB-MS                        | [Link](https://www.sciencedirect.com/science/article/pii/S0041010197001396)                         |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins| S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | L. patagiatus | LF 466D    | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) | 
+
 ## Spider species
 
 | spider species         | family    | source                 |

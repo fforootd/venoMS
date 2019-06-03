@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcLysMe53Arg"
-tags = ["C31H54N10O4","P631","D316","HDX645"]
+categories = ["C31H54N10O4","P631","D316","HDX645"]
+tags = ["Argiope lobata"]
 +++
 
 ![](/img/4-OH-IndAcLysMe53Arg.png)

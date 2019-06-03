@@ -1,6 +1,7 @@
 +++
 title = "Lysine"
-tags = ["C6H14N2O2","P147","HDX153"]
+categories = ["C6H14N2O2","P147","HDX153]
+tags = ["Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Phoneutria fera"]
 +++
 
 ![](/img/Lysine.png)

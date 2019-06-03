@@ -1,6 +1,7 @@
 +++
 title = "2',5'-Bissulfated guanosine"
-tags = ["C10H13N5O11S2","P444","HDX451"]
+categories = ["C10H13N5O11S2","P444","HDX451"]
+tags =["Coelotes pastoralis","Loxosceles sp."]
 +++
 
 ![](/img/2-5-Bissulfated guanosine.png)

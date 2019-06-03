@@ -1,6 +1,7 @@
 +++
 title = "2,5-(OH)₂-Bz34(2,5-(OH)₂-Bz)"
-tags = ["C21H27N3O6","P418","D209","HDX426"]
+categories = ["C21H27N3O6","P418","D209","HDX426"]
+tags = ["Parawixia bistriata"]
 draft = true
 +++
 

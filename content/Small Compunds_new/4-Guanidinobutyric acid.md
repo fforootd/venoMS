@@ -1,6 +1,7 @@
 +++
 title = "4-Guanidinobutyric acid"
-tags = ["C5H11N3O2","P146","HDX152"]
+categories = ["C5H11N3O2","P146","HDX152"]
+tags = ["Parawixia bistriata","Peucetia viridans"]
 draft = true
 +++
 

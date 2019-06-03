@@ -1,6 +1,7 @@
 +++
 title = "AMP"
-tags = ["C10H14N5O7P","P348","HDX355"]
+categories = ["C10H14N5O7P","P348","HDX355"]
+tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodora sp."]
 +++
 
 ![](/img/AMP.png)

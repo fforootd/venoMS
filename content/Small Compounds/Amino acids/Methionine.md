@@ -1,6 +1,7 @@
 +++
 title = "Methionine"
-tags = ["C5H11NO2S","P150","HDX154"]
+categories = ["C5H11NO2S","P150","HDX154"]
+tags = ["Cupiennius salei","Lycosa indagatrix"]
 +++
 
 ![](/img/Methionine.png)

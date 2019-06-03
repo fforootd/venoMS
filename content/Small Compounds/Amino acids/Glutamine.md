@@ -1,6 +1,7 @@
 +++
 title = "Glutamine"
-tags = ["C5H10N2O3","P147","HDX153"]
+categories = ["C5H10N2O3","P147","HDX153"]
+tags = ["Lycosa indagatrix"]
 +++
 
 ![](/img/Glutamine.png)

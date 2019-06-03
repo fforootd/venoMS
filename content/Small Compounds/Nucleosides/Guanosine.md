@@ -1,6 +1,7 @@
 +++
 title = "Guanosine"
-tags = ["C10H13N5O5","P284","HDX291"]
+categories = ["C10H13N5O5","P284","HDX291"]
+tags = ["Agelenopsis aperta","Latrodectus menavodi"]
 +++
 
 ![](/img/Guanosine.png)

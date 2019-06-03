@@ -1,6 +1,7 @@
 +++
 title = "Cysteine"
-tags = ["C3H7NO2S","P122","HDX127"]
+categories = ["C3H7NO2S","P122","HDX127"]
+tags = ["Cupiennius salei","Lycosa indagatrix"]
 +++
 
 ![](/img/Cysteine.png)

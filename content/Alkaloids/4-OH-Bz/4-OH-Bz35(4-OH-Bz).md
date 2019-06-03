@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz35(4-OH-Bz)"
-tags = ["C22H29N3O4","P400","D200","HDX406"]
+categories = ["C22H29N3O4","P400","D200","HDX406"]
+tags = ["Drassodes sp."]
 +++
 
 ![](/img/4-OH-Bz35(4-OH-Bz).png)

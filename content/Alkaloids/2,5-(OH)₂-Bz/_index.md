@@ -1,5 +1,6 @@
 +++
 title = "2,5-(OH)₂-Bz"
+weight = 20
 +++
 
 ![](/img/2-5-OH2-Bz.png?classes=border)

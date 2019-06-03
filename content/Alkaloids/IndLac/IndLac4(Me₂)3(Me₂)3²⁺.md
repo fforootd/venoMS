@@ -1,5 +1,7 @@
 +++
 title = "IndLac4(Me₂)3(Me₂)3²⁺"
+categories = ["C25H45N5O2","D223"]
+tags = ["Macrothele gigas"]
 +++
 
 ![](/img/IndLac4(Me2)3(Me2)3.png)
@@ -57,6 +59,5 @@ title = "IndLac4(Me₂)3(Me₂)3²⁺"
 | spider species   | family        | source           |
 |------------------|---------------|------------------|
 | Macrothele gigas | Macrothelidae | 2004 / N. Yamaji |
-
 
 ## Comments

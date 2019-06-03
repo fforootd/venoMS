@@ -1,6 +1,7 @@
 +++
 title = "Dopamine"
-tags = ["C8H11NO2","P154","HDX159"]
+categories = ["C8H11NO2","P154","HDX159"]
+tags = ["Araneus gemma","Hololena curta"]
 +++
 
 ![](/img/Dopamine.png)

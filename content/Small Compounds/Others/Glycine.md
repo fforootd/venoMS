@@ -1,6 +1,7 @@
 +++
 title = "Glycine"
-tags = ["C2H5NO2","P76","HDX80"]
+categories = ["C2H5NO2","P76","HDX80"]
+tags = ["Atrax robustus","Cupiennius salei"]
 +++
 
 ![](/img/Glycine.png)

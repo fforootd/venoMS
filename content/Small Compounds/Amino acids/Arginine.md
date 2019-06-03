@@ -1,6 +1,7 @@
 +++
 title = "Arginine"
-tags = ["C6H14N4O2","P175","HDX183"]
+categories = ["C6H14N4O2","P175","HDX183"]
+tags = ["Cupiennius salei"]
 +++
 
 ![](/img/Arginine.png)

@@ -1,5 +1,6 @@
 +++
 title = "4-OH-Bz"
+weight = 30
 +++
 
 ![](/img/4-OH-Bz.png?classes=border)

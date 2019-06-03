@@ -1,6 +1,7 @@
 +++
 title = "Serine"
-tags = ["C3H7NO3","P106","HDX111"]
+categories = ["C3H7NO3","P106","HDX111"]
+tags = ["Cupiennius salei"]
 +++
 
 ![](/img/Serine.png)

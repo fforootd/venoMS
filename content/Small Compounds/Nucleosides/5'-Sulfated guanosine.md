@@ -1,6 +1,7 @@
 +++
 title = "5'-Sulfated guanosine"
-tags = ["C10H13N5O8S","P364","HDX371"]
+categories = ["C10H13N5O8S","P364","HDX371"]
+tags = ["Eratigena agrestis"]
 +++
 
 ![](/img/5-sulfated guanosine.png)

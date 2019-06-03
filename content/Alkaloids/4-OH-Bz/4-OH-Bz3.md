@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz3"
-tags = ["C10H14N2O2","P195","D98","HDX200"]
+categories = ["C10H14N2O2","P195","D98","HDX200"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-Bz3.png)
@@ -59,7 +60,5 @@ tags = ["C10H14N2O2","P195","D98","HDX200"]
 | spider species      | family     | first mention        |
 |---------------------|------------|----------------------|
 | Agelenopsis aperta  | Agelenidae | 2019 / Y. M. Forster |
-| Agelenopsis potteri | Agelenidae | 2019 / Y. M. Forster |
-| Eratigena agrestis  | Agelenidae | 2019 / Y. M. Forster |
 
 ## Comments

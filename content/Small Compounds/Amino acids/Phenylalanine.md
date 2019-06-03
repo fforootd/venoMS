@@ -1,6 +1,7 @@
 +++
 title = "Phenylalanine"
-tags = ["C9H11NO2","P166","HDX170"]
+categories = ["C9H11NO2","P166","HDX170"]
+tags = ["Cupiennius salei"]
 +++
 
 ![](/img/Phenylalanine.png)

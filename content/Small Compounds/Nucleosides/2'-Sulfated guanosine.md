@@ -1,6 +1,7 @@
 +++
 title = "2'-Sulfated guanosine"
-tags = ["C10H13N5O8S","P364","HDX371"]
+categories = ["C10H13N5O8S","P364","HDX371"]
+tags = ["Coelotes pastoralis","Loxosceles sp."]
 +++
 
 ![](/img/2-Sulfated guanosine.png)

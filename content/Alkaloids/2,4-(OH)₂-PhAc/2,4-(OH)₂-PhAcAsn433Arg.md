@@ -1,6 +1,8 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn433Arg"
-tags = ["C28H50N10O6","P623","D312","HDX639"]
+categories = ["C28H50N10O6","P623","D312","HDX639"]
+tags = ["Araneus ventricosus","Argiope florida","Argiope trifasciata",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn433Arg.png)

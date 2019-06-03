@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz3(OH)334"
-tags = ["C20H37N5O3","P396","D198","HDX404"]
+categories = ["C20H37N5O3","P396","D198","HDX404"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ## Related images

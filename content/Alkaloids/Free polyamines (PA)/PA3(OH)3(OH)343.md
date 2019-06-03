@@ -1,6 +1,7 @@
 +++
 title = "PA3(OH)3(OH)343"
-tags = ["C16H40N6O2","P349","D175","HDX358"]
+categories = ["C16H40N6O2","P349","D175","HDX358"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/PA3(OH)3(OH)343.png)

@@ -1,6 +1,7 @@
 +++
 title = "PA34Gu"
-tags = ["C8H21N5","P188","D94","HDX196"]
+categories = ["C8H21N5","P188","D94","HDX196"]
+tags = ["Eratigena agrestis"]
 draft = true
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn433Lys"
-tags = ["C28H50N8O6","P595","D298","HDX609"]
+categories = ["C28H50N8O6","P595","D298","HDX609"]
+tags = ["Nephila clavipes","Nephila inaurata madagascariensis"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn433Lys.png)

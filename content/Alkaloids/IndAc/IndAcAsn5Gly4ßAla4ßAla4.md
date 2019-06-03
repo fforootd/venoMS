@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5Gly4ßAla4ßAla4"
-tags = ["C39H67N11O6","P786","D393","HDX800"]
+categories = ["C39H67N11O6","P786","D393","HDX800"]
+tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn5Gly4bAla4bAla4.png)

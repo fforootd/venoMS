@@ -1,6 +1,7 @@
 +++
 title = "Guanine"
-tags = ["C5H5N5O","P152","HDX157"]
+categories = ["C5H5N5O","P152","HDX157"]
+tags = ["Agelenopsis potteri","Parawixia bistriata"]
 draft = true
 +++
 

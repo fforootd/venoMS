@@ -1,6 +1,7 @@
 +++
 title = "Adenosine"
-tags = ["C10H13N5O4","P268","HDX274"]
+categories = ["C10H13N5O4","P268","HDX274"]
+tags = ["Agelenopsis aperta","Cyriopagopus lividum","Latrodectus menavodi" ]
 +++
 
 ![](/img/Adenosine.png)

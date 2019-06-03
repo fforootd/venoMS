@@ -1,6 +1,7 @@
 +++
 title = "Epinine"
-tags = ["C9H13NO2","P168","HDX172"]
+categories = ["C9H13NO2","P168","HDX172"]
+tags = ["Araneus gemma"]
 +++
 
 ![](/img/Epinine.png)

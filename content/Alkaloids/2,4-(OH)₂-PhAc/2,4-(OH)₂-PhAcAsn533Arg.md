@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn533Arg"
-tags = ["C29H52N10O6","P637","D319","HDX653"]
+categories = ["C29H52N10O6","P637","D319","HDX653"]
+tags = ["Araneus gemma","Araneus ventricosus","Argiope aurantia","Argiope florida","Argiope lobata","Argiope sp.","Argiope trifasciata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn533Arg.png)

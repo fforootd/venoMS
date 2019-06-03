@@ -1,6 +1,7 @@
 +++
 title = "PwTx-I"
-tags = ["C15H21N5O","P288","HDX296"]
+categories = ["C15H21N5O","P288","HDX296"]
+tags = ["Parawixia bistriata"]
 +++
 
 ![](/img/PwTx-I.png)

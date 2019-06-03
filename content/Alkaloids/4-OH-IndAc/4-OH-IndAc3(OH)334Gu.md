@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3(OH)334Gu"
-tags = ["C24H42N8O3","P491","D246","HDX502"]
+categories = ["C24H42N8O3","P491","D246","HDX502"]
+tags = ["Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)334Gu.png)

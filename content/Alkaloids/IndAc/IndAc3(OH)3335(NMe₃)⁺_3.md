@@ -1,11 +1,14 @@
 +++
-title = "4-OH-IndAc3335(NMe₃)⁺"
-tags = ["C27H49N6O2","P489","D245","HDX495"]
+title = "IndAc3(OH)3335(NMe₃)⁺"
+categories = ["C30H56N7O2","P546","D273","HDX552"]
+tags = ["Agelenopsis aperta"]
 +++
 
-![](/img/4-OH-IndAc3335(NMe3).png)
+![](/img/IndAc3(OH)3335(NMe3).png)
 
-![](/img_MSMS/489_4-OH-IndAc3335(NMe3)_Aa_2.png?classes=border)
+![](/img_MSMS/546_IndAc3(OH)3335(NMe3)_Aa.png?classes=border)
+
+![](/img_MSMS/546_IndAc3(OH)3335(NMe3)_Aa_2.png?classes=border)
 
 ## General Description
 
@@ -14,48 +17,54 @@ tags = ["C27H49N6O2","P489","D245","HDX495"]
 | level                       | IV               |
 | first mention               | 2019 / A. aperta |
 | alternative name(s)         | ---              |
-| molecular formula           | C₂₇H₄₉N₆O₂⁺      |
+| molecular formula           | C₃₀H₅₆N₇O₂⁺      |
 | CAS                         | ---              |
 |                             |                  |
-| precursor 1 M⁺              | 489.39170        |
-| precursor 2 [M+H]²⁺         | 245.19976        |
-| precursor 3 [M+TFA]⁺        | 603.38456        |
+| precursor 1 M+⁺             | 546.44955        |
+| precursor 2 [M+H]²⁺         | 273.72869        |
+| precursor 3 [M+TFA]⁺        | 660.44241        |
 |                             |                  |
 | HDX                         | 6                |
-| precursor HDX   d₆-M⁺       | 495.42936        |
-| precursor HDX 2 [d₆-M+D]²⁺  | 248.72173        |
-| precursor HDX 3 [d₆-M+TFA]⁺ | 610.42850        |
+| precursor HDX   d₆-M⁺       | 552.48721        |
+| precursor HDX 2 [d₆-M+D]²⁺  | 277.25066        |
+| precursor HDX 3 [d₆-M+TFA]⁺ | 667.48635        |
 |                             |                  |
-| Rt                          | 6.67             |
-| Rt HDX                      | 5.45             |
+| Rt                          | 10.10            |
+| Rt HDX                      | 8.42             |
 
 ## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 231.11335 | 213.10279 | 214.08680 | 248.13990 | 128.14393 | 111.11738 | 146.17830 |
+| 1 | 215.11844 | 197.10788 | 198.09189 | 248.13990 | 128.14393 | 111.11738 | 146.17830 |
 | 2 | 288.17120 | 270.16064 | 271.14465 | 305.19775 | 185.20178 | 167.16740 | 203.23615 |
 | 3 | 345.22905 | 327.21849 | 328.20250 | 362.25560 | 242.25963 | 223.21743 | 260.29400 |
-| 4 | 430.31820 | 412.30764 | 413.29165 | 489.39170 | 299.31748 | 279.26745 | 317.35185 |
+| 4 | 402.28690 | 384.27634 | 385.26035 | 419.31345 | 299.31748 | 279.26745 | 333.34676 |
+| 5 | 487.37605 | 469.36549 | 470.34950 | 546.44955 | 372.37024 | 351.31239 | 390.40461 |
 
 ## Additional MS/MS fragments
 
 | m/z       | annotation |
 |-----------|------------|
+| 86.09697  | tz1-NMe₃   |
+| 98.09697  | y2'        |
+| 114.09189 | y2'        |
+| 130.06568 | a'         |
 | 126.12827 | z2-NMe₃    |
 | 143.15482 | tz2-NMe₃   |
-| 146.06059 | a'         |
-| 174.05550 | a0         |
 | 183.18612 | z3-NMe₃    |
 | 200.21267 | tz3-NMe₃   |
-| 257.27052 | tz4-NMe₃   |
+| 240.24397 | z4-NMe₃    |
+| 273.26544 | tz4-NMe₃   |
+| 330.32329 | tz5-NMe₃   |
 
 ## Recorded MS/MS spectra
 
 | pdf                                                       | precursor | co-eluting | spider    | source                       |
 |-----------------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/489_4-OH-IndAc3335(NMe3)_Aa_2.pdf)   | 245.19976 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/489_4-OH-IndAc3335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa.pdf)     | 546.44955 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa_2.pdf)   | 273.72869 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 

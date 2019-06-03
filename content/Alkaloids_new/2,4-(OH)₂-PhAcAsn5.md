@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5"
-tags = ["C17H26N4O5","P367","D184","HDX374"]
+categories = ["C17H26N4O5","P367","D184","HDX374"]
+tags = ["Parawixia bistriata"]
 draft = true
 +++
 

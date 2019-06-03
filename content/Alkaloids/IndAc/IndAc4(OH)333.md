@@ -1,6 +1,7 @@
 +++
 title = "IndAc4(OH)333"
-tags = ["C23H40N6O2","P433","D217","HDX441"]
+categories = ["C23H40N6O2","P433","D217","HDX441"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc4(OH)333.png)
@@ -10,7 +11,7 @@ tags = ["C23H40N6O2","P433","D217","HDX441"]
 | name                        | value            |
 |-----------------------------|------------------|
 | level                       | IV               |
-| first mention               | --- / ---        |
+| first mention               | 2019 / A. aperta |
 | alternative name(s)         | AG 432h          |
 | molecular formula           | C₂₃H₄₀N₆O₂       |
 | CAS                         | 389872-75-7      |

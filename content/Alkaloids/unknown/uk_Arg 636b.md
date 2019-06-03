@@ -1,5 +1,6 @@
 +++
 title = "Arg 636b"
+tags = ["Argiope lobata"]
 +++
 
 ![](/img/2.png)

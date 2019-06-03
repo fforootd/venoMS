@@ -1,6 +1,10 @@
 +++
 title = "Acetylcarnitine"
-tags = ["C9H18NO4","P204","HDX205"]
+categories = ["C9H18NO4","P204","HDX205"]
+tags = ["Alopecosa sp.",
+"Larinioides cornutus","Lycosa sp.",
+"Nephila clavipes",
+"Peucetia viridans"]
 draft = true
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Valerobetaine"
-tags = ["C8H18NO2","P160","HDX161"]
+categories = ["C8H18NO2","P160","HDX161"]
+tags = ["Parawixia bistriata"]
 draft = true
 +++
 

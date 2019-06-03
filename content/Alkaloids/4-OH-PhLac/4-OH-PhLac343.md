@@ -1,6 +1,10 @@
 +++
 title = "4-OH-PhLac343"
-tags = ["C19H34N4O3","P321","D161","HDX329"]
+categories = ["C19H34N4O3","P321","D161","HDX329"]
+tags = ["Acanthoscurria geniculata","Atrax robustus",
+"Chilobrachys sp.",
+"Psalmopoeus irminia",
+"Selenocosmia sp."]
 +++
 
 ![](/img/4-OH-PhLac343.png)

@@ -1,6 +1,7 @@
 +++
 title = "IndAc3334Gu"
-tags = ["C24H42N8O","P459","D230","HDX469"]
+categories = ["C24H42N8O","P459","D230","HDX469"]
+tags = ["Pireneitega luctuosa"]
 +++
 
 ![](/img/IndAc3334Gu.png)

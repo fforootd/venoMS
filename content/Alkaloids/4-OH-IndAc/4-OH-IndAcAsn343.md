@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn343"
-tags = ["C24H39N7O4","P490","D245","HDX501"]
+categories = ["C24H39N7O4","P490","D245","HDX501"]
+tags = ["Larinioides patagiatus"]
 +++
 
 ![](/img/4-OH-IndAcAsn343.png)

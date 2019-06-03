@@ -1,6 +1,7 @@
 +++
 title = "Adenine"
-tags = ["C5H5N5","P136","HDX141"]
+categories = ["C5H5N5","P136","HDX141"]
+tags = ["Parawixia bistriata"]
 draft = true
 +++
 

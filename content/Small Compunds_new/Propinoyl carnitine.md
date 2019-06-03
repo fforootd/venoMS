@@ -1,6 +1,7 @@
 +++
 title = "Propinoyl carnitine"
-tags = ["C10H20NO4","P218","HDX219"]
+categories = ["C10H20NO4","P218","HDX219"]
+tags = ["Eratigena agrestis","Parawixia bistriata"]
 draft = true
 +++
 

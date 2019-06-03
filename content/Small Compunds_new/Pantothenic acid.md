@@ -1,6 +1,7 @@
 +++
 title = "Pantothenic acid"
-tags = ["C9H17NO5","P220","HDX225"]
+categories = ["C9H17NO5","P220","HDX225"]
+tags = ["Eratigena agrestis","Parawixia bistriata"]
 draft = true
 +++
 

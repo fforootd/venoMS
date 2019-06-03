@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3(OH)3(OH)343"
-tags = ["C26H47N7O4","P522","D261","HDX532"]
+categories = ["C26H47N7O4","P522","D261","HDX532"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)3(OH)343.png)

@@ -1,6 +1,11 @@
 +++
 title = "Histamine"
-tags = ["C5H9N3","P112","HDX116"]
+categories = ["C5H9N3","P112","HDX116"]
+tags = ["Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
+"Eusparassus oculatus",
+"Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa godeffroyi","Lycosa indagatrix","Lycosa praegrandis",
+"Neoscona nautica",
+"Phidippus sp.","Phoneutria fera","Phoneutria nigriventer"]
 +++
 
 ![](/img/Histamine.png)
@@ -9,7 +14,7 @@ tags = ["C5H9N3","P112","HDX116"]
 
 | name                    | value                             |
 |-------------------------|-----------------------------------|
-| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=KO003129)                               |
+| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=KO003129) |
 | First mention           | 1957 / L. erythrognatha & P. fera |
 | Alternative name(s)     |                                   |
 | Molecular formula       | C₅H₉N₃                            |

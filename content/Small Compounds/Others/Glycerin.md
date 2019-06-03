@@ -1,6 +1,7 @@
 +++
 title = "Glycerin"
-tags = ["C3H8O3","P93","HDX97"]
+categories = ["C3H8O3","P93","HDX97"]
+tags = ["Atrax robustus"]
 +++
 
 ![](/img/Glycerin.png)

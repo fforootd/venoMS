@@ -1,6 +1,12 @@
 +++
 title = "Glutamic acid 5-methylester"
-tags = ["C6H11NO4","P162","HDX166"]
+categories = ["C6H11NO4","P162","HDX166"]
+tags = ["Alopecosa sp.",
+"Drassodes sp.",
+"Eresus sp.",
+"Hippocosa sp.",
+"Lycosa praegrandis","Lycosa sp.",
+"Stegodyphus sp."]
 draft = true
 +++
 

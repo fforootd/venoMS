@@ -1,6 +1,7 @@
 +++
 title = "IndAc4(OH)33"
-tags = ["C20H33N5O2","P376","D188","HDX383"]
+categories = ["C20H33N5O2","P376","D188","HDX383"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc4(OH)33.png)

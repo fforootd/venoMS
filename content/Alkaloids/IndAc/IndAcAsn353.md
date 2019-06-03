@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn353"
-tags = ["C25H41N7O3","P448","D244","HDX498"]
+categories = ["C25H41N7O3","P448","D244","HDX498"]
+tags = ["Larinioides patagiatus"]
 +++
 
 ![](/img/IndAcAsn353.png)

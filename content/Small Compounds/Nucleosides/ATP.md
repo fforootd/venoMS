@@ -1,6 +1,7 @@
 +++
 title = "ATP"
-tags = ["C10H16N5O13P3","P508","HDX517"]
+categories = ["C10H16N5O13P3","P508","HDX517"]
+tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum"]
 +++
 
 ![](/img/ATP.png)

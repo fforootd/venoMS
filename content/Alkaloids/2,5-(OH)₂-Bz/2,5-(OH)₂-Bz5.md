@@ -1,6 +1,7 @@
 +++
 title = "2,5-(OH)₂-Bz5"
-tags = ["C15H21N2O3","P239","D120","HDX245"]
+categories = ["C15H21N2O3","P239","D120","HDX245"]
+tags = ["Drassodes sp."]
 +++
 
 ![](/img/2-5-OH2-Bz5.png)

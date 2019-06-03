@@ -1,5 +1,6 @@
 +++
 title = "VdTX 1"
+tags = ["Vitalius dubius"]
 +++
 
 ![](/img/2.png)

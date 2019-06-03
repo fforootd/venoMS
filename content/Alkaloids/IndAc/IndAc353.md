@@ -1,6 +1,7 @@
 +++
 title = "IndAc353"
-tags = ["C21H35N5O","P374","D187","HDX381"]
+categories = ["C21H35N5O","P374","D187","HDX381"]
+tags = ["Ozyptila lugubris"]
 +++
 
 ![](/img/IndAc353.png)
@@ -57,7 +58,6 @@ tags = ["C21H35N5O","P374","D187","HDX381"]
 
 | spider species       | family     | first mention          |
 |----------------------|------------|------------------------|
-| Larinioides cornutus | Araneidae  | 2019 / Y. M. Forster   |
 | Ozyptila lugubris    | Thomisidae | 2009 / S. Eichenberger |
 
 ## Comments

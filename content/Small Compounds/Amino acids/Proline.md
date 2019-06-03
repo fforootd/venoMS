@@ -1,6 +1,7 @@
 +++
 title = "Proline"
-tags = ["C5H9NO2","P116","HDX118"]
+categories = ["C5H9NO2","P116","HDX118"]
+tags = ["Cupiennius salei","Lycosa indagatrix"]
 +++
 
 ![](/img/Proline.png)

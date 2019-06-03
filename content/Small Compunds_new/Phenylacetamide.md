@@ -1,6 +1,12 @@
 +++
 title = "Phenylacetamide"
-tags = ["C8H9NO","P136","HDX139"]
+categories = ["C8H9NO","P136","HDX139"]
+tags = ["Alopecosa sp.","Atrax robustus",
+"Desertosa sp.","Drassodes sp.",
+"Eratigena agrestis",
+"Heteropoda davidbowie","Hippocosa sp.",
+"Lycosa praegrandis","Lycosa sp.",
+"Pireneitega luctuosa","Plectreurys tristis"]
 draft = true
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc343"
-tags = ["C20H33N5O2","P323","D162","HDX330"]
+categories = ["C20H33N5O2","P323","D162","HDX330"]
+tags = ["Agelenopsis aperta","Ozyptila lugubris"]
 +++
 
 ![](/img/4-OH-IndAc343.png)

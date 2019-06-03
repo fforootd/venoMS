@@ -1,6 +1,13 @@
 +++
 title = "Octopamine"
-tags = ["C8H11NO2","P154","HDX159"]
+categories = ["C8H11NO2","P154","HDX159"]
+tags = ["Atrax robustus",
+"Ceratogyrus marshalli cornuatus","Cheiracanthium japonicum",
+"Delena cancerides",
+"Eusparassus oculatus",
+"Psalmopoeus cambridgei",
+"Raveniola micrura",
+"Tegenaria domestica"]
 +++
 
 ![](/img/Octopamine.png)

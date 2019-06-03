@@ -1,6 +1,7 @@
 +++
 title = "Valine"
-tags = ["C5H11NO2","P118","HDX122"]
+categories = ["C5H11NO2","P118","HDX122"]
+tags = ["Cupiennius salei"]
 +++
 
 ![](/img/Valine.png)

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-PhAcAsn343"
-tags = ["C22H38N6O4","P451","D226","HDX461"]
+categories = ["C22H38N6O4","P451","D226","HDX461"]
+tags = ["Larinioides patagiatus"]
 +++
 
 ![](/img/4-OH-PhAcAsn343.png)

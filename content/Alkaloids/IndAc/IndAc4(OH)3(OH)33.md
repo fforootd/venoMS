@@ -1,6 +1,7 @@
 +++
 title = "IndAc4(OH)3(OH)33"
-tags = ["C23H40N6O3","P449","D225","HDX457"]
+categories = ["C23H40N6O3","P449","D225","HDX457"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc4(OH)3(OH)33.png)
@@ -69,6 +70,5 @@ tags = ["C23H40N6O3","P449","D225","HDX457"]
 | spider species     | family     | source            |
 |--------------------|------------|-------------------|
 | Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov |
-
 
 ## Comments

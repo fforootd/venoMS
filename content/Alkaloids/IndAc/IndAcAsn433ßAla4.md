@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn433ßAla4"
-tags = ["C31H53N9O4","P616","D308","HDX628"]
+categories = ["C31H53N9O4","P616","D308","HDX628"]
+tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn433bAla4.png)
@@ -66,6 +67,5 @@ tags = ["C31H53N9O4","P616","D308","HDX628"]
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
 | Nephilingis borbonica             | Araneidae | 1997 / Y. Itagaki  |
 | Nephilingis cruentata             | Araneidae | 2005 / M. S. Palma |
-
 
 ## Comments

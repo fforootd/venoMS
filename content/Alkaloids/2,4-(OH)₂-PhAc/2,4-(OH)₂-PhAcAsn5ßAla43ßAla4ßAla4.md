@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla43ßAla4ßAla4"
-tags = ["C41H75N11O8","P850","D425","HDX866"]
+categories = ["C41H75N11O8","P850","D425","HDX866"]
+tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla43bAla4bAla4.png)

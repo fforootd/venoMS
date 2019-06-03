@@ -1,5 +1,9 @@
 +++
 title = "IndLac343"
+categories = ["C21H35N5O2","P390","D195","HDX398"]
+tags = ["Atrax robustus",
+"Ceratogyrus darlingi",
+"Harpactirella sp.","Hebestatis theveneti"]
 +++
 
 ![](/img/IndLac343.png)

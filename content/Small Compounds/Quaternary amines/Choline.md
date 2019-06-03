@@ -1,6 +1,7 @@
 +++
 title = "Choline"
-tags = ["C5H14NO","P104","HDX105"]
+categories = ["C5H14NO","P104","HDX105"]
+tags = ["Araneus diadematus","Ariadna sp."]
 +++
 
 ![](/img/Choline.png)

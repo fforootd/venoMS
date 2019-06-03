@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5"
-tags = ["C18H27N5O3","P374","D187","HDX382"]
+categories = ["C18H27N5O3","P374","D187","HDX382"]
+tags = ["Argiope lobata"]
 +++
 
 ![](/img/IndAcAsn5.png)
@@ -65,6 +66,5 @@ tags = ["C18H27N5O3","P374","D187","HDX382"]
 | spider species      | family    | first mention        |
 |---------------------|-----------|----------------------|
 | Argiope lobata      | Araneidae | ? / ?                |
-| Parawixia bistriata | Araneidae | 2019 / Y. M. Forster |
 
 ## Comments

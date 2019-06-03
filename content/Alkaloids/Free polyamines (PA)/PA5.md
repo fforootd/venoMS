@@ -1,6 +1,10 @@
 +++
 title = "PA5"
-tags = ["C5H14N2","P103","D52","HDX108"]
+categories = ["C5H14N2","P103","D52","HDX108"]
+tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope bruennichi",
+"Cupiennius salei",
+"Neoscona nautica",
+"Stromatopelma calceatum griseipe"]
 +++
 
 ![](/img/PA5.png)

@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn3(Me)43"
-tags = ["C25H41N7O3","P488","D244","HDX497"]
+categories = ["C25H41N7O3","P488","D244","HDX497"]
+tags = ["Larinioides patagiatus"]
 +++
 
 ![](/img/IndAcAsn3(Me)43.png)

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcßAla343"
-tags = ["C23H38N6O3","P447","D224","HDX456"]
+categories = ["C23H38N6O3","P447","D224","HDX456"]
+tags = ["Lachesana sp.*"]
 +++
 
 ![](/img/4-OH-IndAcbAla343.png)

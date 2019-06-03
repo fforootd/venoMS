@@ -1,6 +1,12 @@
 +++
 title = "Serotonin"
-tags = ["C10H12N2O","P177","HDX182"]
+categories = ["C10H12N2O","P177","HDX182"]
+tags = ["Acanthoscurria paulensis","Acanthoscurria sternalis",
+"Cheiracanthium japonicum",
+"Hololena curta",
+"Lampona cylindrata","Lasiodora klugi","Latrodectus tredecimguttatus","Lycosa erythrognatha",
+"Phoneutria fera","Phoneutria nigriventer",
+"Vitalius roseus","Vitalius vellutinus"]
 +++
 
 ![](/img/Serotonin.png)
@@ -60,8 +66,8 @@ tags = ["C10H12N2O","P177","HDX182"]
 | Cheiracanthium japonicum     | Cheiracanthiidae | 1991 / K. Hagiwara  |
 | Hololena curta               | Agelenidae       | 1994 / R. Frew      |
 | Lampona cylindrata           | Lamponidae       | 2000 / L. D. Rash   |
-| Latrodectus tredecimguttatus | Theridiidae      | 1972 / M. C. Pansa  |
 | Lasiodora klugi              | Theraphosidae    | 1963 / J. H. Welsh  |
+| Latrodectus tredecimguttatus | Theridiidae      | 1972 / M. C. Pansa  |
 | Lycosa erythrognatha         | Lycosidae        | 1963 / J. H. Welsh  |
 | Phoneutria fera              | Ctenidae         | 1963 / J. H. Welsh  |
 | Phoneutria nigriventer       | Ctenidae         | 1973 / S. Schenberg |

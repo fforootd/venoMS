@@ -1,6 +1,7 @@
 +++
 title = "IndAc3343"
-tags = ["C23H40N6O","P417","D209","HDX425"]
+categories = ["C23H40N6O","P417","D209","HDX425"]
+tags = ["Agelenopsis aperta","Hololena curta"]
 +++
 
 ![](/img/IndAc3343.png)
@@ -66,7 +67,7 @@ tags = ["C23H40N6O","P417","D209","HDX425"]
 | Solid-phase synthesis of Agel 416; a novel approach to modified polyamines                                                              | N. D: Hone, L. J. Payne, Tetrahedron Letters 2000, 41, 32, 6149-6152                                                                                                       |                      | Agel 416                    | Synthesis, NMR                   | [Link](https://doi.org/10.1016/S0040-4039(00)00995-3)    |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                               | Y. Itagaki, T. Nakajima, Toxin Rev. 2000, 19, 1, 23-52                                                                                                                     | A. aperta & H. curta | AG 416 / Agel 416 / HO 416a | Review                           | [Link](https://doi.org/10.1081/TXR-100100314)            |
 | The acylpolyamines from the venom of the spider Agelenopsis aperta                                                                      | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197                                                                                                      | A. aperta            | AG 416                      | APCI-MS/MS                       | [Link](XXX)                                              |
-| Solid-phase synthesis of polyamine spider toxins and correlation with natural products by HPLC-MS/MS                                    | N. Manov, M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Helv. Chim. Acta 2002, 85, 2827-2846                                                                                | A. aperta            |                             | Synthesis, NMR, APCI-MS/MS       | [Link](https://doi.org/10.1016/j.tet.2003.12.066)        |
+| Solid-phase synthesis of polyamine spider toxins and correlation with natural products by HPLC-MS/MS                                    | N. Manov, M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Helv. Chim. Acta 2002, 85, 2827-2846                                                                                | A. aperta            |                             | Synthesis, NMR, APCI-MS/MS       | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%28200209%2985%3A9%3C2827%3A%3AAID-HLCA2827%3E3.0.CO%3B2-5))        |
 | Tandem mass spectrometric investigation of acylpolyamines of spider venoms and their 15N-labeled derivatives                            | M. Tzouros, N. Manov, S. Bienz, L. Bigler, J. Am. Soc. Mass Spectrom. 2004, 15, 1636-1643                                                                                  |                      |                             | APCI-MS/MS                       | [Link](https://doi.org/10.1016/j.jasms.2004.07.020)      |
 
 ## Spider species

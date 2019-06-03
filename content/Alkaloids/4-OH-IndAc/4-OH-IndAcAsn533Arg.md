@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn533Arg"
-tags = ["C31H53N11O5","P660","D330","HDX676"]
+categories = ["C31H53N11O5","P660","D330","HDX676"]
+tags = ["Argiope aurantia","Argiope florida","Argiope lobata","Argiope trifasciata"]
 +++
 
 ![](/img/4-OH-IndAcAsn533Arg.png)

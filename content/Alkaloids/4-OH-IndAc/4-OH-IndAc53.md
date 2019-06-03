@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc53"
-tags = ["C18H28N4O2","P333","D167","HDX340"]
+categories = ["C18H28N4O2","P333","D167","HDX340"]
+tags = ["Ozyptila lugubris"]
 +++
 
 ![](/img/4-OH-IndAc53.png)
@@ -57,6 +58,5 @@ tags = ["C18H28N4O2","P333","D167","HDX340"]
 | spider species       | family     | first mention          |
 |----------------------|------------|------------------------|
 | Ozyptila lugubris    | Thomisidae | 2009 / S. Eichenberger |
-| Pireneitega luctuosa | Agelenidae | 2019 / Y. M. Forster   |
 
 ## Comments

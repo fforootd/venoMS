@@ -1,6 +1,7 @@
 +++
 title = "Threonine"
-tags = ["C4H9NO3","P120","HDX125"]
+categories = ["C4H9NO3","P120","HDX125"]
+tags = ["Cupiennius salei"]
 +++
 
 ![](/img/Threonine.png)

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn3(Me)4(Me)3Arg"
-tags = ["C32H55N11O5","P674","D337","HDX688"]
+categories = ["C32H55N11O5","P674","D337","HDX688"]
+tags = ["Argiope aurantia","Argiope florida","Argiope trifasciata"]
 +++
 
 ![](/img/4-OH-IndAcAsn3(Me)4(Me)3Arg.png)

@@ -1,6 +1,7 @@
 +++
 title = "Bis(agmatine)oxalamide"
-tags = ["C12H26N8O2","P315","HDX324"]
+categories = ["C12H26N8O2","P315","HDX324"]
+tags = ["Plectreurys tristis"]
 +++
 
 ![](/img/Bis(agmatine)oxalamide.png)

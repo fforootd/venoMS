@@ -1,6 +1,7 @@
 +++
 title = "HF-7"
-tags = ["C18H25N5O15S2","P616","HDX623"]
+categories = ["C18H25N5O15S2","P616","HDX623"]
+tags = ["Hololena curta"]
 +++
 
 ![](/img/HF-7.png)

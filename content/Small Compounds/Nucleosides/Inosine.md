@@ -1,6 +1,7 @@
 +++
 title = "Inosine"
-tags = ["C10H12N4O5","P269","HDX274"]
+categories = ["C10H12N4O5","P269","HDX274"]
+tags = ["Cyriopagopus hainanus","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata"]
 +++
 
 ![](/img/Inosine.png)

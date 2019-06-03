@@ -1,6 +1,7 @@
 +++
 title = "IndAc3(OH)335(NMe₃)⁺"
-tags = ["C27H49N6O2","P489","D245","HDX494"]
+categories = ["C27H49N6O2","P489","D245","HDX494"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc3(OH)335(NMe3).png)

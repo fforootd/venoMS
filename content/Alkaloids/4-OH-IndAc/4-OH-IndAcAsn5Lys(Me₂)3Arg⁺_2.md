@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn5Lys(Me₂)3Arg⁺"
-tags = ["C36H63N12O6","P759","D380","HDX775"]
+categories = ["C36H63N12O6","P759","D380","HDX775"]
+tags = ["Argiope lobata"]
 +++
 ![](/img/4-OH-IndAcAsn5Lys(Me2)3Arg.png)
 

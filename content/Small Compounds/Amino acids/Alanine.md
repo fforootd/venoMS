@@ -1,6 +1,7 @@
 +++
 title = "Alanine"
-tags = ["C3H7NO2","P90","HDX94"]
+categories = ["C3H7NO2","P90","HDX94"]
+tags = ["Cupiennius salei"]
 +++
 
 ![](/img/Alanine.png)

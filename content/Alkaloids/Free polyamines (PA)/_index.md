@@ -1,5 +1,6 @@
 +++
 title = "Free polyamines (PA)"
+weight = 300
 +++
 
 ![](/img/PA.png?classes=border)

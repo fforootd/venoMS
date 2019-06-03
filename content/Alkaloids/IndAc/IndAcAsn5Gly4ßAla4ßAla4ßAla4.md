@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5Gly4ßAla4ßAla4ßAla4"
-tags = ["C46H81N13O7","P928","D464","HDX944"]
+categories = ["C46H81N13O7","P928","D464","HDX944"]
+tags = ["Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn5Gly4bAla4bAla4bAla4.png)

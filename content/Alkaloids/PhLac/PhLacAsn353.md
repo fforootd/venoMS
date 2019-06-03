@@ -1,6 +1,7 @@
 +++
 title = "PhLacAsn353"
-tags = ["C24H42N6O4","P479","D240","HDX489"]
+categories = ["C24H42N6O4","P479","D240","HDX489"]
+tags = ["Larinioides patagiatus"]
 +++
 
 ![](/img/PhLacAsn353.png)
@@ -59,6 +60,5 @@ tags = ["C24H42N6O4","P479","D240","HDX489"]
 | spider species         | family    | source                 |
 |------------------------|-----------|------------------------|
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
-
 
 ## Comments

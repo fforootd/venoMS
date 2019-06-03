@@ -1,6 +1,7 @@
 +++
 title = "IndAcßAla353"
-tags = ["C24H40N6O2","P445","D223","HDX453"]
+categories = ["C24H40N6O2","P445","D223","HDX453"]
+tags = ["Lachesana sp.*"]
 +++
 
 ![](/img/IndAcbAla353.png)

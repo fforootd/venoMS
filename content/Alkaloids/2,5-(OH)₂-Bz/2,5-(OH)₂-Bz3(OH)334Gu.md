@@ -1,6 +1,7 @@
 +++
 title = "2,5-(OH)₂-Bz3(OH)334Gu"
-tags = ["C21H39N7O4","P454","D227","HDX465"]
+categories = ["C21H39N7O4","P454","D227","HDX465"]
+tags = ["Coelotes pastoralis"]
 +++
 
 ![](/img/2-5-OH2-Bz3(OH)334Gu.png)

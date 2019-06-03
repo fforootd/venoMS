@@ -1,6 +1,13 @@
 +++
 title = "Carnitine"
-tags = ["C7H16NO3","P162","HDX164"]
+categories = ["C7H16NO3","P162","HDX164"]
+tags = ["Alopecosa sp.",
+"Diguetia canities","Desertosa sp.",
+"Heteropoda davidbowie",
+"Larinioides cornutus","Lycosa sp.",
+"Nephila clavipes",
+"Parawixia bistriata","Physocyclus mexicanus","Plectreurys tristis","Peucetia viridans",
+"Stegodyphus sp."]
 draft = true
 +++
 

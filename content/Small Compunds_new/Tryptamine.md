@@ -1,6 +1,7 @@
 +++
 title = "Tryptamine"
-tags = ["C10H12N2","P161","HDX165"]
+categories = ["C10H12N2","P161","HDX165"]
+tags = ["Peucetia viridans"]
 draft = true
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Ornithine"
-tags = ["C5H12N2O2","P133","HDX139"]
+categories = ["C5H12N2O2","P133","HDX139"]
+tags =["Cupiennius salei"]
 +++
 
 ![](/img/Ornithine.png)

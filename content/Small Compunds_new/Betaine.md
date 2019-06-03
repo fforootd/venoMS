@@ -1,6 +1,14 @@
 +++
 title = "Betaine"
-tags = ["C5H12NO2","P118","HDX119"]
+categories = ["C5H12NO2","P118","HDX119"]
+tags = ["Alopecosa sp.","Ariadna sp.","Atrax robustus",
+"Diguetia canities","Desertosa sp.","Drassodes sp.",
+"Eresus sp.",
+"Geolycosa sp.",
+"Heteropoda davidbowie","Hippocosa sp.","Hogna carolinensis",
+"Latrodectus mactans","Lycosa praegrandis","Lycosa sp.",
+"Parawixia bistriata","Physocyclus mexicanus","Plectreurys tristis","Peucetia viridans",
+"Steatoda grossa","Stegodyphus sp."]
 draft = true
 +++
 
@@ -70,6 +78,5 @@ draft = true
 | Peucetia viridans     | Oxyopidae     | 2019 / Y. M. Forster |
 | Steatoda grossa       | Theridiidae   | 2019 / Y. M. Forster |
 | Stegodyphus sp.       | Eresidae      | 2019 / Y. M. Forster |
-
 
 ## Comments

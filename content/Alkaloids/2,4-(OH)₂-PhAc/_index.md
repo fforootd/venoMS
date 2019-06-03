@@ -1,5 +1,6 @@
 +++
 title = "2,4-(OH)₂-PhAc"
+weight = 10
 +++
 
 ![](/img/2-4-OH2-PhAc.png?classes=border)

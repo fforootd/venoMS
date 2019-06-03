@@ -1,6 +1,6 @@
 +++
-title = "Analytical approach"
+title = "Structure elucidation tools"
 weight = 30
 +++
 
-Small compounds in spider venoms can be nucleosides, amino acids and others.
+Text

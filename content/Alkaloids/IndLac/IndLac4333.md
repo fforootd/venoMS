@@ -1,5 +1,7 @@
 +++
 title = "IndLac4333"
+categories = ["C24H42N6O2","P447","D224","HDX456"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/IndLac4333.png)

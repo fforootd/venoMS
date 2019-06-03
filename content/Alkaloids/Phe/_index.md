@@ -1,5 +1,6 @@
 +++
 title = "Phe"
+weight = 120
 +++
 
 ![](/img/Phe.png?classes=border)

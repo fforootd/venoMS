@@ -1,6 +1,7 @@
 +++
 title = "TrpAsn343"
-tags = ["C25H42N8O3","P503","D252","HDX515"]
+categories = ["C25H42N8O3","P503","D252","HDX515"]
+tags = ["Larinioides patagiatus"]
 +++
 
 ![](/img/TrpAsn343.png)

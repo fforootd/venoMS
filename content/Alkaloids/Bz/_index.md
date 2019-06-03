@@ -1,5 +1,6 @@
 +++
 title = "Bz"
+weight = 80
 +++
 
 ![](/img/Bz.png?classes=border)

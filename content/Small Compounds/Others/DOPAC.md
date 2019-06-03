@@ -1,6 +1,7 @@
 +++
 title = "DOPAC"
-tags = ["C8H8O4","P169","HDX173"]
+categories = ["C8H8O4","P169","HDX173"]
+tags = ["Araneus gemma"]
 +++
 
 ![](/img/DOPAC.png)

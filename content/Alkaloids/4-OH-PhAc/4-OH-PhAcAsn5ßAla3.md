@@ -1,6 +1,7 @@
 +++
 title = "4-OH-PhAcAsn5ßAla3"
-tags = ["C23H38N6O5","P479","D240","HDX489"]
+categories = ["C23H38N6O5","P479","D240","HDX489"]
+tags = ["Nephila clavata"]
 +++
 
 ![](/img/4-OH-PhAcAsn5bAla3.png)

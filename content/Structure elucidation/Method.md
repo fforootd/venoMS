@@ -1,11 +1,11 @@
 +++
-title = "Analytical method"
+title = "Analytical Method"
 weight = 30
 draft = false
 +++
 
-## UHPLC method
+##### UHPLC method
 
-## HR-MS and MS/MS
+##### HR-MS and MS/MS
 
-## Hydrogen/Deuterium exchange
+##### Hydrogen/Deuterium exchange

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc5333"
-tags = ["C24H42N6O2","P447","D224","HDX456"]
+categories = ["C24H42N6O2","P447","D224","HDX456"]
+tags = ["Dolomedes okefinokensis"]
 +++
 
 ![](/img/4-OH-IndAc5333.png)

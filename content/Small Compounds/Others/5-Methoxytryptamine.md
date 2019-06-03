@@ -1,6 +1,7 @@
 +++
 title = "5-Methoxytryptamine"
-tags = ["C11H14N2O","P191","HDX195"]
+categories = ["C11H14N2O","P191","HDX195"]
+tags = ["Atrax robustus"]
 +++
 
 ![](/img/5-Methoxy-tryptamine.png)

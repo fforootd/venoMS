@@ -1,6 +1,7 @@
 +++
 title = "2',5'-Bissulfated guanosine, 3'-α-fucose"
-tags = ["C16H23N5O15S2","P590","HDX599"]
+categories = ["C16H23N5O15S2","P590","HDX599"]
+tags = ["Eratigena agrestis"]
 +++
 
 ![](/img/2-5-bissulfated guanosine_3-a-fucose.png)
@@ -10,7 +11,7 @@ tags = ["C16H23N5O15S2","P590","HDX599"]
 | name                    | value                                 |
 |-------------------------|---------------------------------------|
 | Level                   | III                                   |
-| First mention           | 2004 / E. agrestis |
+| First mention           | 2004 / E. agrestis                    |
 | Alternative name(s)     |                                       |
 | Molecular formula       | C₁₆H₂₃N₅O₁₅S₂                         |
 | CAS                     | 760215-12-1                           |

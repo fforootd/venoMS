@@ -1,6 +1,7 @@
 +++
 title = "Taurine"
-tags = ["C2H7NO3S","P126","HDX130"]
+categories = ["C2H7NO3S","P126","HDX130"]
+tags = ["Cupiennius salei"]
 +++
 
 ![](/img/Taurine.png)

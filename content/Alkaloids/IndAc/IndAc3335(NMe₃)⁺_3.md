@@ -1,6 +1,7 @@
 +++
 title = "IndAc3335(NMe₃)⁺"
-tags = ["C27H49N6O","P473","D237","HDX478"]
+categories = ["C27H49N6O","P473","D237","HDX478"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc3335(NMe3).png)

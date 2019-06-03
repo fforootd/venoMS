@@ -1,5 +1,6 @@
 +++
 title = "APC 728"
+tags = ["Aphonopelma chalcodes"]
 +++
 
 ![](/img/2.png)

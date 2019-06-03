@@ -1,6 +1,7 @@
 +++
 title = "Guanidinopentyl-gunidinobutyl-oxalamide"
-tags = ["C13H28N8O2","P329","HDX338"]
+categories = ["C13H28N8O2","P329","HDX338"]
+tags = ["Plectreurys tristis"]
 draft = true
 +++
 

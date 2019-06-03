@@ -1,6 +1,7 @@
 +++
 title = "Tryptophan"
-tags = ["C11H12N2O2","P205","HDX210"]
+categories = ["C11H12N2O2","P205","HDX210"]
+tags = ["Lycosa indagatrix"]
 +++
 
 ![](/img/Tryptophan.png)

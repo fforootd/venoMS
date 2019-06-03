@@ -1,6 +1,7 @@
 +++
 title = "IndAc4"
-tags = ["C14H19N3O","P246","D123","HDX251"]
+categories = ["C14H19N3O","P246","D123","HDX251"]
+tags = ["Agelenopsis potteri","Hololena curta","Hololena sp."]
 draft = true
 +++
 

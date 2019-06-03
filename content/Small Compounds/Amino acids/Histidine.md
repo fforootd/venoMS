@@ -1,6 +1,7 @@
 +++
 title = "Histidine"
-tags = ["C6H9N3O2","P156","HDX161"]
+categories = ["C6H9N3O2","P156","HDX161"]
+tags = ["Cupiennius salei"]
 +++
 
 ![](/img/Histidine.png)

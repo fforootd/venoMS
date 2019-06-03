@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc43"
-tags = ["C17H26N4O2","P319","D160","HDX326"]
+categories = ["C17H26N4O2","P319","D160","HDX326"]
+tags = ["Ozyptila lugubris"]
 +++
 
 ![](/img/4-OH-IndAc43.png)

@@ -1,6 +1,7 @@
 +++
 title = "Nigriventrine"
-tags = ["C12H14N4O13","P423","HDX430"]
+categories = ["C12H14N4O13","P423","HDX430"]
+tags = ["Phoneutria nigriventer"]
 +++
 
 ![](/img/Nigriventrine.png)

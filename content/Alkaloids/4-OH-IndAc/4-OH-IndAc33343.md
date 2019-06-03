@@ -1,6 +1,6 @@
 +++
 title = "4-OH-IndAc33343"
-tags = ["C26H47N7O2","P490","D245","HDX500"]
+categories = ["C26H47N7O2","P490","D245","HDX500"]
 +++
 
 ![](/img/4-OH-IndAc33343.png)
@@ -59,8 +59,9 @@ tags = ["C26H47N7O2","P490","D245","HDX500"]
 
 ## Spider species
 
-| spider species     | family      | source      |
-|--------------------|-------------|-------------|
+| spider species | family | source |
+|----------------|--------|--------|
+|                |        |        |
 
 ## Comments
 The presence of AG 489b in the venom of Agelenopsis aperta (Chesnov, 2001) was refuted (Eichenberger, 2009).

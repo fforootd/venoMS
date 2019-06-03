@@ -1,6 +1,7 @@
 +++
 title = "Cytidine"
-tags = ["C9H13N3O5","P244","HDX250"]
+categories = ["C9H13N3O5","P244","HDX250"]
+tags = ["Agelenopsis aperta","Eratigena agrestis"]
 +++
 
 ![](/img/Cytidine.png)

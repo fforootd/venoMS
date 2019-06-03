@@ -1,5 +1,6 @@
 +++
 title = "Trp"
+weight = 140
 +++
 
 ![](/img/Tyr.png?classes=border)

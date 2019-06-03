@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz4(OH)3(OH)33"
-tags = ["C20H37N5O4","P412","D206","HDX420"]
+categories = ["C20H37N5O4","P412","D206","HDX420"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-Bz4(OH)3(OH)33.png)
@@ -61,9 +62,8 @@ tags = ["C20H37N5O4","P412","D206","HDX420"]
 
 ## Spider species
 
-| spider species     | family      | source      |
-|--------------------|-------------|-------------|
-| Agelenopsis aperta | Agelenidae |             |
-
+| spider species     | family     | source               |
+|--------------------|------------|----------------------|
+| Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
 
 ## Comments

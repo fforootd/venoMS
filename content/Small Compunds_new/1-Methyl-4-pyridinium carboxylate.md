@@ -1,6 +1,6 @@
 +++
 title = "1-Methyl-4-pyridinium carboxylate"
-tags = ["C7H8NO2","P138","HDX138"]
+categories = ["C7H8NO2","P138","HDX138"]
 draft = true
 +++
 

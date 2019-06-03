@@ -1,6 +1,7 @@
 +++
 title = "ADP"
-tags = ["C10H15N5O10P2","P428","HDX436"]
+categories = ["C10H15N5O10P2","P428","HDX436"]
+tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodora sp."]
 +++
 
 ![](/img/ADP.png)

@@ -1,6 +1,7 @@
 +++
 title = "Tyrosine"
-tags = ["C9H11NO3","P182","HDX187"]
+categories = ["C9H11NO3","P182","HDX187"]
+tags= ["Cupiennius salei"]
 +++
 
 ![](/img/Tyrosine.png)

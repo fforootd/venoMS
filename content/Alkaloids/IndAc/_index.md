@@ -1,5 +1,6 @@
 +++
 title = "IndAc"
+weight = 90
 +++
 
 ![](/img/IndAc.png?classes=border)

@@ -1,6 +1,12 @@
 +++
 title = "Aspartic acid"
-tags = ["C4H7NO4","P134","HDX134"]
+categories = ["C4H7NO4","P134","HDX134"]
+tags = ["Aphonopelma hentzi","Araneus gemma",
+"Cupiennius salei",
+"Eurypelma californicum",
+"Lycosa erythrognatha",
+"Phoneutria fera",
+"Vitalius dubius"]
 +++
 
 ![](/img/Aspartic acid.png)
@@ -50,7 +56,6 @@ tags = ["C4H7NO4","P134","HDX134"]
 | Biochemical analysis of tarantula venom (Eurypelma californicum)                                  | A. Savel-Niemann, D. Roth, Naturwissenschaften 1989, 76, 5, 212-213                                                                                                                                             | E. californicum             |      |         | [Link](https://link.springer.com/article/10.1007/BF00627688) |
 | Tarantula (Eurypelma californicum) venom, a multicomponent system                                 | A. Savel-Niemann, Biol. Chem. 1989, 370, 1, 485-498                                                                                                                                                             | E. californicum             |      |         | [Link](https://doi.org/10.1515/bchm3.1989.370.1.485)         |
 | Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae) | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302 | C. salei |      |         | [Link](https://doi.org/10.1016/0041-0101(94)90082-5) |
-
 
 ## Spider species
 

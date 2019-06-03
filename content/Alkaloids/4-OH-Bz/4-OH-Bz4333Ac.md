@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz4333Ac"
-tags = ["C22H39N5O3","P422","D211","HDX428"]
+categories = ["C22H39N5O3","P422","D211","HDX428"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-Bz4333Ac.png)

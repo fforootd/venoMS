@@ -1,6 +1,7 @@
 +++
 title = "IndAc433"
-tags = ["C20H33N5O","P360","D180","HDX367"]
+categories = ["C20H33N5O","P360","D180","HDX367"]
+tags = ["Agelenopsis aperta","Hololena curta"]
 +++
 
 ![](/img/IndAc433.png)

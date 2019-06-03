@@ -1,6 +1,21 @@
 +++
 title = "Citric acid"
-tags = ["C6H8O7","P193","HDX198"]
+categories = ["C6H8O7","P193","HDX198"]
+tags = ["Aculepeira sp.","Agelenopsis aperta","Aphonopelma hentzi","Aphonopelma seemnani","Aphonopelma sp.","Araneus diadematus","Araneus tartaricus","Ariadna sp.","Atrax robustus",
+"Brachypelma emilia","Brachypelma smithi",
+"Ceratogyrus marshalli cornuatus","Chilobrachys sp.","Coelotes pastoralis","Cupiennius salei","Cyriopagopus albostriatus","Cyriopagopus hainanus","Cyriopagopus lividum","Cyriopagopus schmidti",
+"Dolomedes gertschi","Dolomedes tenebrosus",
+"Eratigena agrestis","Eriophora edax",
+"Hogna sp.","Holconia flindersi","Hololena curta",
+"Grammostola rosea",
+"Isopedella canberrensus","Isopedella leai",
+"Lachesana sp.","Larinioides cornutus","Loxosceles reclusa","Lycosa proegrandis",
+"Micrommata virescens virvirescenes","Misumena vatia",
+"Neosparassus diana",
+"Palpimanus sp.","Pelinobius muticus","Phidippus sp.","Phormictopus cancerides","Pireneitega luctuosa","Psalmopoeus cambridgei",
+"Rabidosa sp.","Raveniola micrura",
+"Stromatopelma calceatum griseipes",
+"Titanoeca sp."]
 +++
 
 ![](/img/Citric acid.png)

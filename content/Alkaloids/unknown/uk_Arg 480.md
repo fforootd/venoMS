@@ -1,5 +1,6 @@
 +++
 title = "Arg 480"
+tags = ["Argiope florida","Argiope trifasciata"]
 +++
 
 ![](/img/2.png)

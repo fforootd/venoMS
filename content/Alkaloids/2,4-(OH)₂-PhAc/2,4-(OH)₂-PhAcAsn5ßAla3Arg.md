@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla3Arg"
-tags = ["C29H50N10O7","P651","D326","HDX667"]
+categories = ["C29H50N10O7","P651","D326","HDX667"]
+tags = ["Argiope florida","Argiope trifasciata","Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla3Arg.png)

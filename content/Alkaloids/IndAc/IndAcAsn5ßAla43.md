@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5ßAla43"
-tags = ["C29H48N8O4","P573","D287","HDX584"]
+categories = ["C29H48N8O4","P573","D287","HDX584"]
+tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn5bAla43.png)

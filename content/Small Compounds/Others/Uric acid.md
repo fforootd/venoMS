@@ -1,6 +1,7 @@
 +++
 title = "Uric acid"
-tags = ["C5H4N4O3","P169","HDX174"]
+categories = ["C5H4N4O3","P169","HDX174"]
+tags = ["Latrodectus menavodi"]
 +++
 
 ![](/img/Uric acid.png)

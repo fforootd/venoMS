@@ -1,6 +1,8 @@
 +++
 title = "4-OH-IndAcAsn433Arg"
-tags = ["C30H51N11O5","P646","D323","HDX662"]
+categories = ["C30H51N11O5","P646","D323","HDX662"]
+tags = ["Argiope florida","Argiope trifasciata",
+"Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn433Arg.png)

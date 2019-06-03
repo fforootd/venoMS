@@ -1,6 +1,7 @@
 +++
 title = "Hypoxanthine"
-tags = ["C5H5N4O","P137","HDX140"]
+categories = ["C5H5N4O","P137","HDX140"]
+tags = ["Atrax robustus","Diguetia canities","Parawixia bistriata"]
 draft = true
 +++
 

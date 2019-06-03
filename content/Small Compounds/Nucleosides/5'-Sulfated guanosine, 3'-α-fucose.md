@@ -1,6 +1,7 @@
 +++
 title = "5'-Sulfated guanosine, 3'-α-fucose"
-tags = ["C16H23N5O12S2","P510","HDX519"]
+categories = ["C16H23N5O12S2","P510","HDX519"]
+tags = ["Eratigena agrestis"]
 +++
 
 ![](/img/5-sulfated guanosine_3-a-fucose.png)

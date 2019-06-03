@@ -1,6 +1,7 @@
 +++
 title = "Leucine"
-tags = ["C6H13NO2","P132","HDX136"]
+categories = ["C6H13NO2","P132","HDX136"]
+tags = ["Cupiennius salei"]
 +++
 
 ![](/img/Leucine.png)

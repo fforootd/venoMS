@@ -1,6 +1,7 @@
 +++
 title = "IndAcOrnAsp5ßAla4ßAla4"
-tags = ["C38H64N10O7","P773","D387","HDX788"]
+categories = ["C38H64N10O7","P773","D387","HDX788"]
+tags = ["Nephila clavata"]
 +++
 
 ![](/img/IndAcOrnAsp5bAla4bAla4.png)

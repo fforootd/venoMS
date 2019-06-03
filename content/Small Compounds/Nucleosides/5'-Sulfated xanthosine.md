@@ -1,6 +1,7 @@
 +++
 title = "5'-Sulfated xanthosine"
-tags = ["C10H12N4O9S","P365","HDX371"]
+categories = ["C10H12N4O9S","P365","HDX371"]
+tags = ["Eratigena agrestis"]
 +++
 
 ![](/img/5-sulfated xanthosine.png)
@@ -40,7 +41,6 @@ tags = ["C10H12N4O9S","P365","HDX371"]
 | titel                                                                                                                  | reference                                                                  | spider      | name | content | link                                           |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|------|---------|------------------------------------------------|
 | A new approach to natural products discovery exemplified by the identification of sulfated nucleosides in spider venom | A. E. Taggi, J. Meinwald, F. C. Schroeder, JACS 2004, 126, 33, 10364-10369 | E. agrestis |      |         | [Link](https://pubs.acs.org/doi/abs/10.1021/ja047416n) |
-
 
 ## Spider species
 

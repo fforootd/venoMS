@@ -1,6 +1,7 @@
 +++
 title = "PA3(OH)334Gu"
-tags = ["C14H35N7O","P318","D159","HDX328"]
+categories = ["C14H35N7O","P318","D159","HDX328"]
+tags = ["Pireneitega luctuosa"]
 +++
 
 ![](/img/PA3(OH)334Gu.png)

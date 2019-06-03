@@ -1,6 +1,7 @@
 +++
 title = "PheAsn353"
-tags = ["C24H43N7O3","P478","D239","HDX489"]
+categories = ["C24H43N7O3","P478","D239","HDX489"]
+tags = ["Larinioides patagiatus"]
 +++
 
 ![](/img/PheAsn353.png)

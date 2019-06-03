@@ -1,6 +1,7 @@
 +++
 title = "Tyramine"
-tags = ["C8H11NO","P138","HDX142"]
+categories = ["C8H11NO","P138","HDX142"]
+tags = ["Atrax robustus"]
 +++
 
 ![](/img/Tyramine.png)

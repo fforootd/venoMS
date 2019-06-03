@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn433ßAla4"
-tags = ["C31H53N9O5","P632","D316","HDX645"]
+categories = ["C31H53N9O5","P632","D316","HDX645"]
+tags = ["Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn433bAla4.png)

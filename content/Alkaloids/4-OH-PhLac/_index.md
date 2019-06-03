@@ -1,5 +1,6 @@
 +++
 title = "4-OH-PhLac"
+weight = 60
 +++
 
  ![](/img/4-OH-PhLac.png?classes=border)

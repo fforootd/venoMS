@@ -1,6 +1,7 @@
 +++
 title = "Glucose"
-tags = ["C6H12O6","P181","HDX187"]
+categories = ["C6H12O6","P181","HDX187"]
+tags = ["Atrax robustus","Eurypelma californicum"]
 +++
 
 ![](/img/Glucose.png)

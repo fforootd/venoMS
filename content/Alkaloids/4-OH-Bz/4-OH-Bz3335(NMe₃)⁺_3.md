@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz3335(NMe₃)⁺"
-tags = ["C24H46N5O2","P436","D218","HDX441"]
+categories = ["C24H46N5O2","P436","D218","HDX441"]
+tags = ["Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-Bz3335(NMe3).png)

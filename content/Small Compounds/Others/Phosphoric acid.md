@@ -1,6 +1,7 @@
 +++
 title = "Phosphoric acid"
-tags = ["H3O4P","P98","HDX103"]
+categories = ["H3O4P","P98","HDX103"]
+tags = ["Atrax robustus","Stromatopelma calceatum griseipes"]
 +++
 
 ![](/img/Phosphoric acid.png)

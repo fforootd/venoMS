@@ -1,6 +1,7 @@
 +++
 title = "FrPbAII"
-tags = ["C6H14N4O2","P175", "HDX183"]
+categories = ["C6H14N4O2","P175","HDX183"]
+tags = ["Parawixia bistriata"]
 +++
 
 ![](/img/FrPbAII.png)

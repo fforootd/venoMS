@@ -1,6 +1,7 @@
 +++
 title = "1-Guanidino-6-hydroxy-3,5-dihydro-ß-carboline"
-tags = ["C12H15N5O","P246","HDX254"]
+categories = ["C12H15N5O","P246","HDX254"]
+tags = ["Parawixia bistriata"]
 +++
 
 ![](/img/1-Guanidino-6-hydroxy-3-5-dihydro-beta-carboline.png)

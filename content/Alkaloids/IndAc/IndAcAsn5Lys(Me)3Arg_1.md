@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5Lys(Me)3Arg"
-tags = ["C35H60N12O5","P729","D365","HDX745"]
+categories = ["C35H60N12O5","P729","D365","HDX745"]
+tags = ["Argiope lobata"]
 +++
 
 ![](/img/IndAcAsn5Lys(Me)3Arg.png)

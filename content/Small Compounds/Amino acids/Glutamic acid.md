@@ -1,6 +1,22 @@
 +++
 title = "Glutamic acid"
-tags = ["C5H9NO4","P148","HDX153"]
+categories = ["C5H9NO4","P148","HDX153"]
+tags = ["Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Araneus gemma","Araneus diadematus","Araneus sp.","Araneus tartaricus","Avicularia avicularis",
+"Cupiennius salei","Cyriopagopus albostriatum","Cyriopagopus lividum","Cyriopagopus schmidti",
+"Delena cancerides","Dolomedes gertschi","Dolomedes tenebrosus","Drassodes sp.",
+"Eresus sp.","Eriophora edax","Eurypelma californicum","Eurypelma vellutinum","Eusparassus oculatus",
+"Grammostola actaeon","Grammostola anthracina","Grammostola pulchripes",
+"Hogna sp.","Holconia flindersi",
+"Isopedella canberrensus",
+"Larinioides cornutus","Larinioides sp.","Lachesana sp.","Lycosa erythrognatha","Lycosa indagatrix","Lycosa proegrandis",
+"Micrommata virescens virvirescens",
+"Neosparassus diana",
+"Olio sp.",
+"Pelinobius muticus","Peucetia viridans","Phoneutria fera","Pisaura mirabilis","Plectreurys tristis",
+"Rabidosa sp.","Raveniola micrura",
+"Selenocosmia hainana","Steatoda paykulliana","Stegodyphus sp.",
+"Thanatus striatus","Titanoeca sp.",
+"Vitalius dubius","Vitalius roseus","Vitalius vellutinus"]
 +++
 
 ![](/img/Glutamic_acid.png)

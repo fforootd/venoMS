@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn5ßAla4OrnArg"
-tags = ["C37H63N13O7","P802","D401","HDX821"]
+categories = ["C37H63N13O7","P802","D401","HDX821"]
+tags = ["Nephila clavata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla4OrnArg.png)

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz3334Gu"
-tags = ["C21H39N7O2","P422","D211","HDX432"]
+categories = ["C21H39N7O2","P422","D211","HDX432"]
+tags = ["Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-Bz3334Gu.png)

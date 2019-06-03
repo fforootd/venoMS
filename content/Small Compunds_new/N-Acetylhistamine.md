@@ -1,6 +1,11 @@
 +++
 title = "N-Acetylhistamine"
-tags = ["C7H11N3O","P154","HDX157"]
+categories = ["C7H11N3O","P154","HDX157"]
+tags = ["Alopecosa sp.",
+"Desertosa sp."," Diguetia canities",
+"Hippocosa sp.",
+"Lycosa praegrandis",
+"Peucetia viridans"]
 draft = true
 +++
 

@@ -1,6 +1,22 @@
 +++
 title = "GABA"
-tags = ["C4H9NO2","P104","HDX108"]
+categories = ["C4H9NO2","P104","HDX108"]
+tags = ["Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","Aphonopelma sp.","Atrax robustus","Avicularia avicularia",
+"Ceratogyrus marshalli","Cyriopagopus hainanus","Cyriopagopus schmidti",
+"Dolomedes gertschi","Dolomedes tenebrosus",
+"Eurypelma californicum","Eurypelma vellutinum","Eusparassus oculatus",
+"Grammostola actaeon","Grammostola anthracina","Grammostola pulchripes",
+"Heteroscodra maculata","Holconia flindersi",
+"Isopedella leai",
+"Kukulcania sp.",
+"Lachesana sp.",
+"Macrothele sp.","Misumena vatia",
+"Neosparassus diana",
+"Pisaura mirabilis","Phormictopus cancerides","Psalmopoeus cambridgei",
+"Raveniola micrura",
+"Steatoda paykulliana","Stromatopelma calceatum griseipes",
+"Tegenaria domestica","Thomisus onustus",
+"Vitalius dubius","Vitalius roseus","Vitalius vellutinus"]
 +++
 
 ![](/img/GABA.png)
