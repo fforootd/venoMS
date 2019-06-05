@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc35"
-categories = ["C18H28N4O2","P333","D167","HDX340"]
+categories = ["C18H28N4O2","P333","D167","HDX340",
+"Thomisidae"]
 tags = ["Ozyptila lugubris"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Ozyptila lugubris"]
 
 ## General Description
 
-| name                        | value              |
+| Name                        | Value              |
 |-----------------------------|--------------------|
 | Level                       | IV                 |
-| First mention               | 2009 / O. lugubris |
-| Alternative name(s)         | OZ 332A            |
+| Discovered                  | 2009 / O. lugubris |
+| Synonym                     | OZ 332A            |
 | Molecular formula           | C₁₈H₂₈N₄O₂         |
 | CAS                         | ---                |
 |                             |                    |
-| precursor 1 [M+H]⁺          | 333.22905          |
-| precursor 2 [M+2H]²⁺        | 167.11844          |
-| precursor 3                 |                    |
+| Precursor 1 [M+H]⁺          | 333.22905          |
+| Precursor 2 [M+2H]²⁺        | 167.11844          |
+| Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 6                  |
-| precursor HDX   [d₆-M+D]⁺   | 340.27298          |
-| precursor HDX 2 [d₆-M+2D]²⁺ | 171.14354          |
-| precursor HDX 3             |                    |
+| Precursor HDX 1 [d₆-M+D]⁺   | 340.27298          |
+| Precursor HDX 2 [d₆-M+2D]²⁺ | 171.14354          |
+| Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          |                    |
 | Rt HDX                      |                    |
@@ -37,25 +38,25 @@ tags = ["Ozyptila lugubris"]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                                      | reference                                                     | spider      | name    | content       | link                                                               |
+| Title                                                                                                      | Reference                                                     | Spider      | Name    | Content       | Link                                                               |
 |------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------|---------|---------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | O. lugubris | OZ 332A | nLC-ESI-MS/MS | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
 
 ## Spider species
 
-| spider species    | family     | first mention          |
+| Spider species    | Family     | Discovered             |
 |-------------------|------------|------------------------|
 | Ozyptila lugubris | Thomisidae | 2009 / S. Eichenberger |
 

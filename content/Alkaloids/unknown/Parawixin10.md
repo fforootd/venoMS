@@ -1,5 +1,6 @@
 +++
 title = "Parawixin10"
+categories = ["Araneidae"]
 tags = ["Parawixia bistriata"]
 +++
 
@@ -7,22 +8,22 @@ tags = ["Parawixia bistriata"]
 
 ## General Description
 
-| name                       | value               |
+| Name                       | Value               |
 |----------------------------|---------------------|
-| level                      | VI                  |
-| first mention              | 2011 / P. bistriata |
-| alternative name(s)        |                     |
-| molecular formula          |                     |
+| Level                      | VI                  |
+| Discovered                 | 2011 / P. bistriata |
+| Synonym                    |                     |
+| Molecular formula          |                     |
 | CAS                        |                     |
 |                            |                     |
-| precursor   [M+H]⁺         |                     |
-| precursor 2 [M+2H]²⁺       |                     |
-| precursor 3                |                     |
+| Precursor 1 [M+H]⁺         |                     |
+| Precursor 2 [M+2H]²⁺       |                     |
+| Precursor 3                |                     |
 |                            |                     |
 | HDX                        |                     |
-| precursor HDX   [d-M+D]⁺   |                     |
-| precursor HDX 2 [d-M+2D]²⁺ |                     |
-| precursor HDX 3            |                     |
+| Precursor HDX 1 [d-M+D]⁺   |                     |
+| Precursor HDX 2 [d-M+2D]²⁺ |                     |
+| Precursor HDX 3            |                     |
 |                            |                     |
 | Rt                         |                     |
 | Rt HDX                     |                     |
@@ -35,26 +36,26 @@ tags = ["Parawixia bistriata"]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
+| Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
 | Neurobiological activity of Parawixin 10, a novel anticonvulsant compound isolated from Parawixia bistriata spider venom (Araneidae: Araneae)| H. A. Fachim, A. O. S. Cunha, A. C. Pereira, R. O. Beleboni, L. Gobbo-Neto, N. P. Lopes, J. Coutinho-Netto, W. F. dos Santos, Epilepsy Behav 2011, 22, 158-164 | P. bistriata | Parawixin10 | NMR (ns), Activity-studies, structure unknown | [Link](https://www.sciencedirect.com/science/article/pii/S1525505011002733) |
 | Neuroprotective activity of Parawixin 10, a compound isolated from Parawixia bistriata spider venom (Araneidae: Araneae) in rats undergoing intrahippocampal NMDA microinjection| H. A. Fachim, M. R. Mortari, L. Gobbo-Netto, W. F. dos Santos, Pharmacogn Mag 2015, 11, 579-585 | P. bistriata | Parawixin10 | Activity-studies, structure unknown | [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4522846/) |
 
 ## Spider species
 
-| spider species      | family    | source              |
+| Spider species      | Family    | Discovered          |
 |---------------------|-----------|---------------------|
 | Parawixia bistriata | Araneidae | 2011 / H. A. Fachim |
 

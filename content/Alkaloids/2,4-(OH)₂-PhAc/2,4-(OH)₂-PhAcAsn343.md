@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn343"
-categories = ["C22H38N6O5","P467","D234","HDX478"]
+categories = ["C22H38N6O5","P467","D234","HDX478",
+"Araneidae"]
 tags = ["Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
 
 ## General Description
 
-| name                         | value             |
+| Name                         | Value             |
 |------------------------------|-------------------|
-| level                        | IV                |
-| first mention                | 1990 / N. clavata |
-| alternative name(s)          | JSTX-1 / LF 466D  |
-| molecular formula            | C₂₂H₃₈N₆O₅        |
+| Level                        | IV                |
+| Discovered                   | 1990 / N. clavata |
+| Synonym                      | JSTX-1 / LF 466D  |
+| Molecular formula            | C₂₂H₃₈N₆O₅        |
 | CAS                          | 133698-34-7       |
 |                              |                   |
-| precursor 1 [M+H]⁺           | 467.29820         |
-| precursor 2 [M+2H]²⁺         | 234.15301         |
-| precursor 3                  |                   |
+| Precursor 1 [M+H]⁺           | 467.29820         |
+| Precursor 2 [M+2H]²⁺         | 234.15301         |
+| Precursor 3                  |                   |
 |                              |                   |
 | HDX                          | 10                |
-| precursor HDX   [d₁₀-M+D]⁺   | 478.36724         |
-| precursor HDX 2 [d₁₀-M+2D]²⁺ | 240.19067         |
-| precursor HDX 3              |                   |
+| Precursor HDX 1 [d₁₀-M+D]⁺   | 478.36724         |
+| Precursor HDX 2 [d₁₀-M+2D]²⁺ | 240.19067         |
+| Precursor HDX 3              |                   |
 |                              |                   |
 | Rt                           |                   |
 | Rt HDX                       |                   |
@@ -39,19 +40,19 @@ tags = ["Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                    | reference                                                                                                             | spider        | name       | content                            | link                                                                                                |
+| Title                                                                                                                    | Reference                                                                                                             | Spider        | Name       | Content                            | Link                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------|------------|------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Synthesis of spider toxin (JSTX-3) and its analogs                                                                       | Y. Hashimoto, Y. Endo, K. Shudo, Y. Aramaki, N. Kawai, T. Nakajima, Tetrahedron Letters 1987, 28, 3511-3514           |               | compound 4 | Synthesis, NMR, Activity-studies   | [Link](https://www.sciencedirect.com/science/article/pii/S0040403900963408)                         |
 | Newly synthesized analogues of the spider toxin block the crustacean glutamate receptor                                  | K. Shudo, Y. Endo, Y. Hashimoto, Y. Aramaki, T. Nakajima, N. Kawai, Neuroscience Research 1987, 5, 82-85              |               | C-2        | Synthesis, Activity-studies        | [Link](https://www.sciencedirect.com/science/article/pii/0168010287900265)                          |
@@ -67,7 +68,7 @@ tags = ["Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
 
 ## Spider species
 
-| spider species         | family    | source                 |
+| Spider species         | Family    | Discovered             |
 |------------------------|-----------|------------------------|
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
 | Nephila clavata        | Araneidae | 1990 / T. Toki         |

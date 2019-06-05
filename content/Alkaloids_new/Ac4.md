@@ -1,6 +1,7 @@
 +++
 title = "Ac4"
-categories = ["C6H14N2O","P131","D66","HDX135"]
+categories = ["C6H14N2O","P131","D66","HDX135",
+"Araneidae"]
 tags = ["Parawixia bistriata"]
 draft = true
 +++
@@ -9,22 +10,22 @@ draft = true
 
 ## General Description
 
-| name                        | value               |
+| Name                        | Value               |
 |-----------------------------|---------------------|
 | Level                       | IV                  |
-| First mention               | 2019 / P. bistriata |
-| Alternative name(s)         |                     |
+| Discovered                  | 2019 / P. bistriata |
+| Synonym                     | ---                 |
 | Molecular formula           | C₆H₁₄N₂O            |
 | CAS                         | 110-60-1            |
 |                             |                     |
-| precursor   [M+H]⁺          | 131.11844           |
-| precursor 2 [M+2H]²⁺        | 66.06313            |
-| precursor 3                 |                     |
+| Precursor 1 [M+H]⁺          | 131.11844           |
+| Precursor 2 [M+2H]²⁺        | 66.06313            |
+| Precursor 3                 |                     |
 |                             |                     |
 | HDX                         | 3                   |
-| precursor HDX   [d₃-M+D]⁺   | 135.14354           |
-| precursor HDX 2 [d₃-M+2D]²⁺ | 68.57882            |
-| precursor HDX 3             |                     |
+| Precursor HDX 1 [d₃-M+D]⁺   | 135.14354           |
+| Precursor HDX 2 [d₃-M+2D]²⁺ | 68.57882            |
+| Precursor HDX 3             |                     |
 |                             |                     |
 | Rt                          |                     |
 | Rt HDX                      |                     |
@@ -37,26 +38,26 @@ draft = true
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                                                                                         | reference                                                                                                     | spider                        | name | content                        | link                                                 |
+| Title                                                                                                                                                         | Reference                                                                                                     | Spider                        | Name | Content                        | Link                                                 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------|------|--------------------------------|------------------------------------------------------|
 | Changes in composition of spider orb web sticky droplets with starvation and web removal, and synthesis of sticky droplet compounds                           | M. A. Townley, E. K. Tillinghast, C. D. Neefus, The Journal of Experimental Biology 2006, 209, 1463-1486.     | A. cavaticus & A. trifasciata |      | web: sticky droplets compounds | [Link](http://jeb.biologists.org/content/209/8/1463) |
 | Small organic solutes in sticky droplets from orb webs of the spider Zygiella atrica (Araneae: Araneidae): beta-alaninamide is a novel and abundant component | M. A. Townley, Q. Pu, C. K. Zercher, C. D. Neefus, E. K. Tillinghast, Chemistry & Biodiversity 2012, 9, 2159. | Zygiella atrica               |      | web: sticky droplets compounds | [Link](https://doi.org/10.1002/cbdv.201200077)       |
 
 ## Spider species
 
-| spider species      | family    | first mention        |
+| Spider species      | Family    | Discovered           |
 |---------------------|-----------|----------------------|
 | Parawixia bistriata | Araneidae | 2019 / Y. M. Forster |
 

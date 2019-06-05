@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5ßAla43"
-categories = ["C29H48N8O4","P573","D287","HDX584"]
+categories = ["C29H48N8O4","P573","D287","HDX584",
+"Araneidae"]
 tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,25 +9,25 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## General Description
 
-| name                         | value                   |
-|------------------------------|-------------------------|
-| level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)               |
-| first mention                | 1988 / N. clavata       |
-| alternative name(s)          | Nephilatoxin 8 / NPTX 8 |
-| molecular formula            | C₂₉H₄₈N₈O₄              |
-| CAS                          |                         |
-|                              |                         |
-| precursor 1 [M+H]⁺           | 573.38768               |
-| precursor 2 [M+2H]²⁺         | 287.19775               |
-| precursor 3                  |                         |
-|                              |                         |
-| HDX                          | 10                      |
-| precursor HDX   [d₁₀-M+D]⁺   | 584.45672               |
-| precursor HDX 2 [d₁₀-M+2D]²⁺ | 293.23541               |
-| precursor HDX 3              |                         |
-|                              |                         |
-| Rt                           |                         |
-| Rt HDX                       |                         |
+| Name                         | Value                                                                          |
+|------------------------------|--------------------------------------------------------------------------------|
+| Level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Discovered                   | 1988 / N. clavata                                                              |
+| Synonym                      | Nephilatoxin 8 / NPTX 8                                                        |
+| Molecular formula            | C₂₉H₄₈N₈O₄                                                                     |
+| CAS                          |                                                                                |
+|                              |                                                                                |
+| Precursor 1 [M+H]⁺           | 573.38768                                                                      |
+| Precursor 2 [M+2H]²⁺         | 287.19775                                                                      |
+| Precursor 3                  |                                                                                |
+|                              |                                                                                |
+| HDX                          | 10                                                                             |
+| Precursor HDX 1 [d₁₀-M+D]⁺   | 584.45672                                                                      |
+| Precursor HDX 2 [d₁₀-M+2D]²⁺ | 293.23541                                                                      |
+| Precursor HDX 3              |                                                                                |
+|                              |                                                                                |
+| Rt                           |                                                                                |
+| Rt HDX                       |                                                                                |
 
 ## Calculated MS/MS fragments
 
@@ -40,19 +41,19 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                                                | reference                                                                                                                                | spider       | name                    | content                                  | link                                                                                                               |
+| Title                                                                                                                                                                                | Reference                                                                                                                                | Spider       | Name                    | Content                                  | Link                                                                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Isolation and chemical characterization of a series of new spider toxin (nephilatoxins) in the venom of Joro spider, Nephila clavata                                                 | T. Toki, T. Yasuhara, Y. Aramaki, K. Osawa, A. Miwa, N. Kawai, T. Nakajima, Biomed. Res. 1988, 9, 421-428                                | N. clavata   | Nephilatoxin 8 / NPTX 8 | Amino acid analysis, Activity-studies    | [Link](https://www.jstage.jst.go.jp/article/biomedres/9/6/9_421/_article)                                          |
 | A new type of spider toxin, nephilatoxin, in the venom of the Joro spider, Nephila clavata                                                                                           | T. Toki, T. Yasuhara, Y. Aramaki, N. Kawai, T. Nakajima, Biomed. Res. 1988, 9, 75-79                                                     | N. clavata   | Nephilatoxin 8          | Amino acid analysis, Activity-studies    | [Link](https://www.jstage.jst.go.jp/article/biomedres/9/1/9_75/_article)                                           |
@@ -71,7 +72,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 1988 / T. Toki     |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |

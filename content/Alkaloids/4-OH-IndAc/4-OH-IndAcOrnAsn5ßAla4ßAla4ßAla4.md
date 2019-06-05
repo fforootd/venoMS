@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcOrnAsn5ßAla4ßAla4ßAla4"
-categories = ["C45H79N13O8","P930","D465","HDX948"]
+categories = ["C45H79N13O8","P930","D465","HDX948",
+"Araneidae"]
 tags = ["Nephila clavata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata"]
 
 ## General Description
 
-| name                         | value                   |
+| Name                         | Value                   |
 |------------------------------|-------------------------|
-| level                        | V                       |
-| first mention                | 1996 / N. clavata       |
-| alternative name(s)          | Nephilatoxin 4 / NPTX 4 |
-| molecular formula            | C₄₅H₇₉N₁₃O₈             |
+| Level                        | V                       |
+| Discovered                   | 1996 / N. clavata       |
+| Synonym                      | Nephilatoxin 4 / NPTX 4 |
+| Molecular formula            | C₄₅H₇₉N₁₃O₈             |
 | CAS                          | ---                     |
 |                              |                         |
-| precursor 1 [M+H]⁺           | 930.62527               |
-| precursor 2 [M+2H]²⁺         | 465.81655               |
-| precursor 3                  |                         |
+| Precursor 1 [M+H]⁺           | 930.62527               |
+| Precursor 2 [M+2H]²⁺         | 465.81655               |
+| Precursor 3                  |                         |
 |                              |                         |
 | HDX                          | 17                      |
-| precursor HDX   [d₁₇-M+D]⁺   | 948.73825               |
-| precursor HDX 2 [d₁₇-M+2D]²⁺ | 475.37618               |
-| precursor HDX 3              |                         |
+| Precursor HDX 1 [d₁₇-M+D]⁺   | 948.73825               |
+| Precursor HDX 2 [d₁₇-M+2D]²⁺ | 475.37618               |
+| Precursor HDX 3              |                         |
 |                              |                         |
 | Rt                           |                         |
 | Rt HDX                       |                         |
@@ -44,19 +45,19 @@ tags = ["Nephila clavata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                | reference                                                                                                      | spider     | name                    | content                                                | link                                                                        |
+| Title                                                                                                                                | Reference                                                                                                      | Spider     | Name                    | Content                                                | Link                                                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------|-------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------|
 | Isolation and chemical characterization of a series of new spider toxin (nephilatoxins) in the venom of Joro spider, Nephila clavata | T. Toki, T. Yasuhara, Y. Aramaki, K. Osawa, A. Miwa, N. Kawai, T. Nakajima, Biomed. Res. 1988, 9, 421-428      | N. clavata | Nephilatoxin 4 / NPTX 4 | Amino acid analysis, Activity-studies, wrong structure | [Link](https://www.jstage.jst.go.jp/article/biomedres/9/6/9_421/_article)   |
 | Polyamine toxins from spiders and wasps                                                                                              | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125              | N. clavata | NPTX 4                  | Review                                                 | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X) |
@@ -66,7 +67,7 @@ tags = ["Nephila clavata"]
 
 ## Spider species
 
-| spider species  | family    | source            |
+| Spider species  | Family    | Discovered        |
 |-----------------|-----------|-------------------|
 | Nephila clavata | Araneidae | 1996 / T. Shinada |
 

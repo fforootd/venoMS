@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz3334Gu"
-categories = ["C21H39N7O2","P422","D211","HDX432"]
+categories = ["C21H39N7O2","P422","D211","HDX432",
+"Agelenidae"]
 tags = ["Pireneitega luctuosa"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Pireneitega luctuosa"]
 
 ## General Description
 
-| name                        | value              |
+| Name                        | Value              |
 |-----------------------------|--------------------|
-| level                       | IV                 |
-| first mention               | 2000 / P. luctuosa |
-| alternative name(s)         | PB 421             |
-| molecular formula           | C₂₁H₃₉N₇O₂         |
+| Level                       | IV                 |
+| Discovered                  | 2000 / P. luctuosa |
+| Synonym                     | PB 421             |
+| Molecular formula           | C₂₁H₃₉N₇O₂         |
 | CAS                         | 333401-98-2        |
 |                             |                    |
-| precursor 1 [M+H]⁺          | 422.32435          |
-| precursor 2 [M+2H]²⁺        | 211.66609          |
-| precursor 3                 |                    |
+| Precursor 1 [M+H]⁺          | 422.32435          |
+| Precursor 2 [M+2H]²⁺        | 211.66609          |
+| Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 9                  |
-| precursor HDX   [d₉-M+D]⁺   | 432.38712          |
-| precursor HDX 2 [d₉-M+2D]²⁺ | 217.20061          |
-| precursor HDX 3             |                    |
+| Precursor HDX 1 [d₉-M+D]⁺   | 432.38712          |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 217.20061          |
+| Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          |                    |
 | Rt HDX                      |                    |
@@ -39,25 +40,25 @@ tags = ["Pireneitega luctuosa"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
+| Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
 | The spider Paracoelotes birulai: Detection and structural elucidation of new acylpolyamines by on-line coupled HPLC-APCI-MS and HPLC-APCI-MS/MS| S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2000, 83, 3295-3305 | P. luctuosa | PB 421 | ACPI-MS/MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820001220%2983%3A12%3C3295%3A%3AAID-HLCA3295%3E3.0.CO%3B2-1) |
 
 ## Spider species
 
-| spider species       | family     | source            |
+| Spider species       | Family     | Discovered        |
 |----------------------|------------|-------------------|
 | Pireneitega luctuosa | Agelenidae | 2000 / S. Chesnov |
 

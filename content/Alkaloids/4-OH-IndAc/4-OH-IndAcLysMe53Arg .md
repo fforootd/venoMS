@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcLysMe53Arg"
-categories = ["C31H54N10O4","P631","D316","HDX645"]
+categories = ["C31H54N10O4","P631","D316","HDX645",
+"Araneidae"]
 tags = ["Argiope lobata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Argiope lobata"]
 
 ## General Description
 
-| name                         | value                  |
+| Name                         | Value                  |
 |------------------------------|------------------------|
-| level                        | V                      |
-| first mention                | 1988 / A. lobata       |
-| alternative name(s)          | Arg 630 / Argiopinin 4 |
-| molecular formula            | C₃₁H₅₄N₁₀O₄            |
+| Level                        | V                      |
+| Discovered                   | 1988 / A. lobata       |
+| Synonym                      | Arg 630 / Argiopinin 4 |
+| Molecular formula            | C₃₁H₅₄N₁₀O₄            |
 | CAS                          | 117233-43-9            |
 |                              |                        |
-| precursor 1 [M+H]⁺           | 631.44077              |
-| precursor 2 [M+2H]²⁺         | 316.22430              |
-| precursor 3                  |                        |
+| Precursor 1 [M+H]⁺           | 631.44077              |
+| Precursor 2 [M+2H]²⁺         | 316.22430              |
+| Precursor 3                  |                        |
 |                              |                        |
 | HDX                          | 13                     |
-| precursor HDX   [d₁₃-M+D]⁺   | 645.52865              |
-| precursor HDX 2 [d₁₃-M+2D]²⁺ | 323.77137              |
-| precursor HDX 3              |                        |
+| Precursor HDX 1 [d₁₃-M+D]⁺   | 645.52865              |
+| Precursor HDX 2 [d₁₃-M+2D]²⁺ | 323.77137              |
+| Precursor HDX 3              |                        |
 |                              |                        |
 | Rt                           |                        |
 | Rt HDX                       |                        |
@@ -38,19 +39,19 @@ tags = ["Argiope lobata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                 | reference                                                                                                       | spider    | name                   | content                                         | link                                                                        |
+| Title                                                                                                 | Reference                                                                                                       | Spider    | Name                   | Content                                         | Link                                                                        |
 |-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------|------------------------|-------------------------------------------------|-----------------------------------------------------------------------------|
 | Glutamate receptor anatgonists from the spider Argiope lobata venom                                   | E. V. Grishin, T. M. Volkova, A. S. Arseniev, Biorg. Khim. 1988, 14, 883-892                                    | A. lobata |                        |                                                 |                                                                 |
 | Isolation and structure analysis of components from venom of the spider Argiope lobata                | E. V. Grishin, T. M. Volkova, A. S. Arseniev, Toxicon 1989, 27, 541-549                                         | A. lobata | Argiopinin 4           | NMR (ns), Amino acid analysis, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/0041010189901153)  |
@@ -60,7 +61,7 @@ tags = ["Argiope lobata"]
 
 ## Spider species
 
-| spider species | family    | source               |
+| Spider species | Family    | Discovered           |
 |----------------|-----------|----------------------|
 | Argiope lobata | Araneidae | 1988 / E. V. Grishin |
 

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn5ßAla3Arg"
-categories = ["C31H51N11O6","P674","D337","HDX690"]
+categories = ["C31H51N11O6","P674","D337","HDX690",
+"Araneidae"]
 tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## General Description
 
-| name                         | value       |
+| Name                         | Value       |
 |------------------------------|-------------|
-| level                        | V           |
-| first mention                | ? / ?       |
-| alternative name(s)          | NPTX 673E   |
-| molecular formula            | C₃₁H₅₁N₁₁O₆ |
+| Level                        | V           |
+| Discovered                   | ? / ?       |
+| Synonym                      | NPTX 673E   |
+| Molecular formula            | C₃₁H₅₁N₁₁O₆ |
 | CAS                          | ---         |
 |                              |             |
-| precursor 1 [M+H]⁺           | 674.41020   |
-| precursor 2 [M+2H]²⁺         | 337.70901   |
-| precursor 3                  |             |
+| Precursor 1 [M+H]⁺           | 674.41020   |
+| Precursor 2 [M+2H]²⁺         | 337.70901   |
+| Precursor 3                  |             |
 |                              |             |
 | HDX                          | 15          |
-| precursor HDX   [d₁₅-M+D]⁺   | 690.51063   |
-| precursor HDX 2 [d₁₅-M+2D]²⁺ | 346.26237   |
-| precursor HDX 3              |             |
+| Precursor HDX   [d₁₅-M+D]⁺   | 690.51063   |
+| Precursor HDX 2 [d₁₅-M+2D]²⁺ | 346.26237   |
+| Precursor HDX 3              |             |
 |                              |             |
 | Rt                           |             |
 | Rt HDX                       |             |
@@ -39,25 +40,25 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                              | reference                                              | spider | name      | content | link                                                              |
+| Title                                                                                              | Reference                                              | Spider | Name      | Content | Link                                                              |
 |----------------------------------------------------------------------------------------------------|--------------------------------------------------------|--------|-----------|---------|-------------------------------------------------------------------|
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234 | div.   | NPTX 673E | LC-MS   | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857) |
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 2005 / M. S. Palma |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |

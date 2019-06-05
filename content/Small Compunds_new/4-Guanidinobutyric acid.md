@@ -1,6 +1,7 @@
 +++
 title = "4-Guanidinobutyric acid"
-categories = ["C5H11N3O2","P146","HDX152"]
+categories = ["C5H11N3O2","P146","HDX152",
+"Araneidae","Oxyopidae"]
 tags = ["Parawixia bistriata","Peucetia viridans"]
 draft = true
 +++
@@ -9,25 +10,29 @@ draft = true
 
 ## General Description
 
-| name                    | value                             |
-|-------------------------|-----------------------------------|
-| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=ML001501)                               |
-| First mention           | 2019 / P. bistriata & P. viridans |
-| Alternative name(s)     |                                   |
-| Molecular formula       | C₅H₁₁N₃O₂                         |
-| CAS                     | 463-00-3                          |
-|                         |                                   |
-| precursor [M+H]⁺        | 146.09295                         |
-|                         |                                   |
-| HDX                     | 5                                 |
-| precursor HDX [d₅-M+D]⁺ | 152.13061                         |
-|                         |                                   |
-| Rt                      | 1.49 / 1.61                       |
-| Rt HDX                  |                                   |
+| Name                      | Value                                                       |
+|---------------------------|-------------------------------------------------------------|
+| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=ML001501) |
+| Discovered                | 2019 / P. bistriata & P. viridans                           |
+| Synonym                   |                                                             |
+| Molecular formula         | C₅H₁₁N₃O₂                                                   |
+| CAS                       | 463-00-3                                                    |
+|                           |                                                             |
+| Precursor 1 [M+H]⁺        | 146.09295                                                   |
+| Precursor 2               |                                                             |
+| Precursor 3               |                                                             |
+|                           |                                                             |
+| HDX                       | 5                                                           |
+| Precursor HDX 1 [d₅-M+D]⁺ | 152.13061                                                   |
+| Precursor HDX 2           |                                                             |
+| Precursor HDX 3           |                                                             |
+|                           |                                                             |
+| Rt                        | 1.49 / 1.61                                                 |
+| Rt HDX                    |                                                             |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation     |
+| m/z       | Molecular formula | Annotation     |
 |-----------|-------------------|----------------|
 | 146.09295 | C₅H₁₂N₃O₂         | [M+H]⁺         |
 | 129.06640 | C₅H₉N₂O₂          | [M+H-NH₃]⁺     |
@@ -40,19 +45,19 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species      | family    | first mention        |
+| Spider species      | Family    | Discovered           |
 |---------------------|-----------|----------------------|
 | Parawixia bistriata | Araneidae | 2019 / Y. M. Forster |
 | Peucetia viridans   | Oxyopidae | 2019 / Y. M. Forster |

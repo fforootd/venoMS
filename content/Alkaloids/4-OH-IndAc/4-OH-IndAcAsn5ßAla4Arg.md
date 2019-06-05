@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn5ßAla4Arg"
-categories = ["C32H53N11O6","P688","D344","HDX704"]
+categories = ["C32H53N11O6","P688","D344","HDX704",
+"Araneidae"]
 tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruen
 
 ## General Description
 
-| name                         | value                |
+| Name                         | Value                |
 |------------------------------|----------------------|
-| level                        | V                    |
-| first mention                | 1997 / N. cruentata  |
-| alternative name(s)          | NPTX 687 / NPTX 687D |
-| molecular formula            | C₃₂H₅₃N₁₁O₆          |
+| Level                        | V                    |
+| Discovered                   | 1997 / N. cruentata  |
+| Synonym                      | NPTX 687 / NPTX 687D |
+| Molecular formula            | C₃₂H₅₃N₁₁O₆          |
 | CAS                          | ---                  |
 |                              |                      |
-| precursor 1 [M+H]⁺           | 688.42585            |
-| precursor 2 [M+2H]²⁺         | 344.71684            |
-| precursor 3                  |                      |
+| Precursor 1 [M+H]⁺           | 688.42585            |
+| Precursor 2 [M+2H]²⁺         | 344.71684            |
+| Precursor 3                  |                      |
 |                              |                      |
 | HDX                          | 15                   |
-| precursor HDX   [d₁₅-M+D]⁺   | 704.52628            |
-| precursor HDX 2 [d₁₅-M+2D]²⁺ | 353.27019            |
-| precursor HDX 3              |                      |
+| Precursor HDX 1 [d₁₅-M+D]⁺   | 704.52628            |
+| Precursor HDX 2 [d₁₅-M+2D]²⁺ | 353.27019            |
+| Precursor HDX 3              |                      |
 |                              |                      |
 | Rt                           |                      |
 | Rt HDX                       |                      |
@@ -39,19 +40,19 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruen
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                                         | reference                                                                                                   | spider                           | name      | content   | link                                                                                                               |
+| Title                                                                                                                                                                         | Reference                                                                                                   | Spider                           | Name      | Content   | Link                                                                                                               |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------|-----------|-----------|--------------------------------------------------------------------------------------------------------------------|
 | Mass spectrometric structure determination of spider toxins: Arginine-containing acylpolyamines from venoms of Brazilian garden spider Nephilengys cruentata                  | M. S. Palma, Y. Itagaki, T. Fujita, M. Hisada, H. Naoki, T. Nakajima, Nat. Toxins 1997, 5, 47-57            | N. cruentata                     | NPTX 687  | FAB-MS/MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A2%3C47%3A%3AAID-NT1%3E3.0.CO%3B2-X) |
 | Structures of spider toxins: Hydroxyindole-3-acetylpolyamines and a new generalized structure of type-E compounds obtained from the venom of the Joro spider, Nephila clavata | M. Hisada, T. Fujita, H. Naoki, Y. Itagaki, H. Irie, M. Miyashita, T. Nakajima, Toxicon 1998, 36, 1115-1125 | N. clavata                       | NPTX 687  | CID (ns)  | [Link](https://www.sciencedirect.com/science/article/pii/S0041010198000865)                                        |
@@ -60,7 +61,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruen
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 1998 / M. Hisada   |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |

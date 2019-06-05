@@ -1,6 +1,7 @@
 +++
 title = "Arginine"
-categories = ["C6H14N4O2","P175","HDX183"]
+categories = ["C6H14N4O2","P175","HDX183",
+"Cupiennius"]
 tags = ["Cupiennius salei"]
 +++
 
@@ -10,25 +11,29 @@ tags = ["Cupiennius salei"]
 
 ## General Description
 
-| name                    | value           |
-|-------------------------|-----------------|
-| Level                   | I               |
-| First mention           | 1994 / C. salei |
-| Alternative name(s)     |                 |
-| Molecular formula       | C₆H₁₄N₄O₂       |
-| CAS                     | 74-79-3         |
-|                         |                 |
-| precursor  [M+H]⁺       | 175.11950       |
-|                         |                 |
-| HDX                     | 7               |
-| precursor HDX [d₇-M+D]⁺ | 183.16971       |
-|                         |                 |
-| Rt                      | 1.12            |
-| Rt HDX                  |                 |
+| Name                      | Value           |
+|---------------------------|-----------------|
+| Level                     | I               |
+| Discovered                | 1994 / C. salei |
+| Synonym                   |                 |
+| Molecular formula         | C₆H₁₄N₄O₂       |
+| CAS                       | 74-79-3         |
+|                           |                 |
+| Precursor 1 [M+H]⁺        | 175.11950       |
+| Precursor 2               |                 |
+| Precursor 3               |                 |
+|                           |                 |
+| HDX                       | 7               |
+| Precursor HDX 1 [d₇-M+D]⁺ | 183.16971       |
+| Precursor HDX 2           |                 |
+| Precursor HDX 3           |                 |
+|                           |                 |
+| Rt                        | 1.12            |
+| Rt HDX                    |                 |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation         |
+| m/z       | Molecular formula | Annotation         |
 |-----------|-------------------|--------------------|
 | 175.11950 | C₆H₁₅N₄O₂         | [M+H]⁺             |
 | 158.09295 | C₆H₁₂N₃O₂         | [M+H-NH₃]⁺         |
@@ -43,19 +48,19 @@ tags = ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                | precursor | co-eluting | spider                         | source        |
+| pdf                                | Precursor | Co-eluting | Spider                         | Source        |
 |------------------------------------|-----------|------------|--------------------------------|---------------|
 | [Data](/pdf/175_Arginine_1-12.pdf) | 175.11950 |            | L-Arginine HCl (CAS 1119-34-2) | Sigma Aldrich |
 
 ## References
 
-| titel                                                                                                                                      | reference                                                              | spider   | name | content | link                                         |
+| Title                                                                                                                                      | Reference                                                              | Spider   | Name | Content | Link                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------|------|---------|----------------------------------------------|
 | Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae) | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302 | C. salei |      |         | [Link](https://doi.org/10.1016/0041-0101(94)90082-5) |
 
 ## Spider species
 
-| spider species   | family     | first mention          |
+| Spider species   | Family     | Discovered             |
 |------------------|------------|------------------------|
 | Cupiennius salei | Cupiennius | 1994 / L. Kuhn-Nentwig |
 

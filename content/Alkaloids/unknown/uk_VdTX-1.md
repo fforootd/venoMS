@@ -1,5 +1,6 @@
 +++
 title = "VdTX 1"
+categories = ["Theraphosidae"]
 tags = ["Vitalius dubius"]
 +++
 
@@ -7,22 +8,22 @@ tags = ["Vitalius dubius"]
 
 ## General Description
 
-| name                       | value            |
+| Name                       | Value            |
 |----------------------------|------------------|
 | Level                      | VI               |
-| First mention              | 2013 / V. dubius |
-| Alternative name(s)        | VdTX 1           |
+| Discovered                 | 2013 / V. dubius |
+| Synonym                    | VdTX 1           |
 | Molecular formula          |                  |
 | CAS                        |                  |
 |                            |                  |
-| precursor   [M+H]⁺         |                  |
-| precursor 2 [M+2H]²⁺       |                  |
-| precursor 3                |                  |
+| Precursor 1 [M+H]⁺         |                  |
+| Precursor 2 [M+2H]²⁺       |                  |
+| Precursor 3                |                  |
 |                            |                  |
 | HDX                        |                  |
-| precursor HDX   [d-M+D]⁺   |                  |
-| precursor HDX 2 [d-M+2D]²⁺ |                  |
-| precursor HDX 3            |                  |
+| Precursor HDX 1 [d-M+D]⁺   |                  |
+| Precursor HDX 2 [d-M+2D]²⁺ |                  |
+| Precursor HDX 3            |                  |
 |                            |                  |
 | Rt                         |                  |
 | Rt HDX                     |                  |
@@ -35,28 +36,29 @@ tags = ["Vitalius dubius"]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                                                | reference                                                                                                                                 | spider    | name   | content          | link                                                  |
+| Title                                                                                                                | Reference                                                                                                                                 | Spider    | Name   | Content          | Link                                                  |
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------|------------------|-------------------------------------------------------|
 | VdTX-1, a reversible nicotinic receptor antagonist isolated from venom of the spider Vitalius dubius (Theraphosidae) | T. A. A. Rocha-e-Silva, S. Rostelato-Ferreira, G. B. Leite, P. I. da Silva Jr, S. Hyslop, L. Rodrigues-Simioni, Toxicon 2013, 70, 135-141 | V. dubius | VdTX-1 | Activity-studies | [Link](https://doi.org/10.1016/j.toxicon.2013.04.020) |
 | Antimicrobial activity of the toxin VdTX-I from the spider Vitalius dubius (Araneae, Theraphosidae)                  | R. Sutti, B. B. Rosa, B. Wunderlich, P. I. da Silva Jr, T. A. A. da Rocha-e-Silva                                                         | V. dubius | VdTX-1 | Activity-studies | [Link](https://doi.org/10.1016/j.bbrep.2015.09.018)   |
 
 ## Spider species
 
-| spider species  | family        | first mention                 |
+| Spider species  | Family        | Discovered                    |
 |-----------------|---------------|-------------------------------|
 | Vitalius dubius | Theraphosidae | 2013 / T. A. A. Rocha-e-Silva |
 
 ## Comments
+
 728 Da

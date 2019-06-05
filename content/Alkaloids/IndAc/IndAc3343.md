@@ -1,6 +1,7 @@
 +++
 title = "IndAc3343"
-categories = ["C23H40N6O","P417","D209","HDX425"]
+categories = ["C23H40N6O","P417","D209","HDX425",
+"Agelenidae"]
 tags = ["Agelenopsis aperta","Hololena curta"]
 +++
 
@@ -12,22 +13,22 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## General Description
 
-| name                        | value                       |
+| Name                        | Value                       |
 |-----------------------------|-----------------------------|
 | Level                       | I                           |
-| First mention               | 1991 / H. curta             |
-| Alternative name(s)         | AG 416 / Agel 416 / HO 416a |
+| Discovered                  | 1991 / H. curta             |
+| Synonym                     | AG 416 / Agel 416 / HO 416a |
 | Molecular formula           | C₂₃H₄₀N₆O                   |
 | CAS                         | 133805-33-1                 |
 |                             |                             |
-| precursor   [M+H]⁺          | 417.33419                   |
-| precursor 2 [M+2H]²⁺        | 209.17101                   |
-| precursor 3                 |                             |
+| Precursor 1 [M+H]⁺          | 417.33419                   |
+| Precursor 2 [M+2H]²⁺        | 209.17101                   |
+| Precursor 3                 |                             |
 |                             |                             |
 | HDX                         | 7                           |
-| precursor HDX   [d₇-M+D]⁺   | 425.38440                   |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 213.69925                   |
-| precursor HDX 3             |                             |
+| Precursor HDX 1 [d₇-M+D]⁺   | 425.38440                   |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 213.69925                   |
+| Precursor HDX 3             |                             |
 |                             |                             |
 | Rt                          | 7.64                        |
 | Rt HDX                      | 6.21                        |
@@ -43,13 +44,13 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 | 130.06568 | a'         |
 
 ## Recorded MS/MS spectra
 
-| pdf                                                                | precursor | co-eluting            | spider           | source                       |
+| pdf                                                                | Precursor | Co-eluting            | Spider           | Source                       |
 |--------------------------------------------------------------------|-----------|-----------------------|------------------|------------------------------|
 | [Data](/pdf/417_IndAc3343_7-64.pdf)                                | 417.33419 |                 | synth. IndAc3343 | UZH Bienz lab, CHE           |
 | [Data](/pdf/417_IndAc3343_7-64_2.pdf)                              | 209.17101 |                  | synth. IndAc3343 | UZH Bienz lab, CHE           |
@@ -59,7 +60,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## References
 
-| titel                                                                                                                                   | reference                                                                                                                                                                  | spider               | name                        | content                          | link                                                     |
+| Title                                                                                                                                   | Reference                                                                                                                                                                  | Spider               | Name                        | Content                          | Link                                                     |
 |-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------------------|----------------------------------|----------------------------------------------------------|
 | Paralytic and insecticidal toxins from the funnel web spider, Hololena curta                                                            | G. B. Quistad, C. C. Reuter, W. S. Skinner, P. A. Dennis, S. Suwanrumpha, E. W. Fu, Toxicon 1991, 29, 329-336                                                              | H. curta             | HO 359                      | FAB-MS/MS (ns), Activity-studies | [Link](https://doi.org/10.1016/0041-0101(91)90286-Z)     |
 | Arylamine toxins from funnel-web spider (Agelenopsis aperta) venom antagonize N-methyl-D-aspartate receptor function in mammalian brain | T. N. Parks, A. L. Mueller, L. D: Artman, B. C. Albensi, E. F. Nemeth, H. Jacksin, V. J. Jasys, N. A. Saccomano, R. A. Volkmann, J. Biol. Chem. 1991, 266, 32, 21523-21529 | A. aperta            | AG 416                      | Activity-studies                 | [Link](http://www.jbc.org/content/266/32/21523.abstract) |
@@ -72,7 +73,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## Spider species
 
-| spider species     | family     | first mention        |
+| Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 1991 / T. N. Parks   |
 | Hololena curta     | Agelenidae | 1991 / G. B. Quistad |

@@ -1,6 +1,7 @@
 +++
 title = "Phenylacetamide"
-categories = ["C8H9NO","P136","HDX139"]
+categories = ["C8H9NO","P136","HDX139",
+"Agelenidae","Atracidae","Gnaphosidae","Lycosidae","Plectreuridae","Sparassidae"]
 tags = ["Alopecosa sp.","Atrax robustus",
 "Desertosa sp.","Drassodes sp.",
 "Eratigena agrestis",
@@ -14,25 +15,29 @@ draft = true
 
 ## General Description
 
-| name                    | value       |
-|-------------------------|-------------|
-| Level                   | IV          |
-| First mention           | 2019 / div. |
-| Alternative name(s)     |             |
-| Molecular formula       | C₈H₉NO      |
-| CAS                     | 103-81-1    |
-|                         |             |
-| precursor [M+H]⁺        | 136.07624   |
-|                         |             |
-| HDX                     | 2           |
-| precursor HDX [d₂-M+D]⁺ | 139.09506   |
-|                         |             |
-| Rt                      |             |
-| Rt HDX                  |             |
+| Name                      | Value       |
+|---------------------------|-------------|
+| Level                     | IV          |
+| Discovered                | 2019 / div. |
+| Synonym                   |             |
+| Molecular formula         | C₈H₉NO      |
+| CAS                       | 103-81-1    |
+|                           |             |
+| Precursor 1 [M+H]⁺        | 136.07624   |
+| Precursor 2               |             |
+| Precursor 3               |             |
+|                           |             |
+| HDX                       | 2           |
+| Precursor HDX 1 [d₂-M+D]⁺ | 139.09506   |
+| Precursor HDX 2           |             |
+| Precursor HDX 3           |             |
+|                           |             |
+| Rt                        |             |
+| Rt HDX                    |             |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation    |
+| m/z       | Molecular formula | Annotation    |
 |-----------|-------------------|---------------|
 | 136.07624 | C₈H₁₀NO           | [M+H]⁺        |
 | 119.04969 | C₈H₇O             | [M+H-NH₃]⁺    |
@@ -41,19 +46,19 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species        | family        | first mention        |
+| Spider species        | Family        | Discovered           |
 |-----------------------|---------------|----------------------|
 | Alopecosa sp.         | Lycosidae     | 2019 / Y. M. Forster |
 | Atrax robustus        | Atracidae     | 2019 / Y. M. Forster |

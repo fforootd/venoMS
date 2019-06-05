@@ -1,6 +1,7 @@
 +++
 title = "Glutamic acid"
-categories = ["C5H9NO4","P148","HDX153"]
+categories = ["C5H9NO4","P148","HDX153",
+"Araneidae","Cupiennius","Ctenidae","Cyrtaucheniidae","Eresidae","Gnaphosidae","Lycosidae","Nemesiidae","Oxyopidae","Philodromidae","Pisauridae","Plectreuridae","Sparassidae","Theraphosidae","Titanoecidae","Zodariidae"]
 tags = ["Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Araneus gemma","Araneus diadematus","Araneus sp.","Araneus tartaricus","Avicularia avicularis",
 "Cupiennius salei","Cyriopagopus albostriatum","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Delena cancerides","Dolomedes gertschi","Dolomedes tenebrosus","Drassodes sp.",
@@ -23,25 +24,29 @@ tags = ["Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Arane
 
 ## General Description
 
-| name                    | value                             |
-|-------------------------|-----------------------------------|
-| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PB000463)                                |
-| First mention           | 1957 / L. erythrognatha & P. fera |
-| Alternative name(s)     |                                   |
-| Molecular formula       | C₅H₉NO₄                           |
-| CAS                     | 56-86-0                           |
-|                         |                                   |
-| precursor [M+H]⁺        | 148.06098                         |
-|                         |                                   |
-| HDX                     | 4                                 |
-| precursor HDX [d₄-M+D]⁺ | 153.09236                         |
-|                         |                                   |
-| Rt                      | 1.16                              |
-| Rt HDX                  | 1.14                              |
+| Name                      | Value                                                       |
+|---------------------------|-------------------------------------------------------------|
+| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PB000463) |
+| Discovered                | 1957 / L. erythrognatha & P. fera                           |
+| Synonym                   |                                                             |
+| Molecular formula         | C₅H₉NO₄                                                     |
+| CAS                       | 56-86-0                                                     |
+|                           |                                                             |
+| Precursor 1 [M+H]⁺        | 148.06098                                                   |
+| Precursor 2               |                                                             |
+| Precursor 3               |                                                             |
+|                           |                                                             |
+| HDX                       | 4                                                           |
+| Precursor HDX 1 [d₄-M+D]⁺ | 153.09236                                                   |
+| Precursor HDX 2           |                                                             |
+| Precursor HDX 3           |                                                             |
+|                           |                                                             |
+| Rt                        | 1.16                                                        |
+| Rt HDX                    | 1.14                                                        |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation       |
+| m/z       | Molecular formula | Annotation       |
 |-----------|-------------------|------------------|
 | 148.06098 | C₅H₁₀NO₄          | [M+H]⁺           |
 | 130.05042 | C₅H₈NO₃           | [M+H-H₂O]⁺       |
@@ -51,13 +56,13 @@ tags = ["Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Arane
 
 ## Recorded MS/MS spectra
 
-| pdf      | precursor | co-eluting | spider          | source |
+| pdf      | Precursor | Co-eluting | Spider          | Source |
 |----------|-----------|------------|-----------------|--------|
 | [Data]() | 148.06098 |            | L-Glutamic acid | Fluka  |
 
 ## References
 
-| titel                                                                                                                                                | reference                                                                                                                                          | spider          | name | content              | link                                                             |
+| Title                                                                                                                                                | Reference                                                                                                                                          | Spider          | Name | Content              | Link                                                             |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------|----------------------|------------------------------------------------------------------|
 | Die Giftsekrete der Vogelspinnen                                                                                                                     | F. G. Fischer, H. Bohn, Justus Liebigs Annalen der Chemie 1957, 603, 232-250                                                                      | div.            |      | paper chromatography | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.19576030124) |
 | An investigation of certain components of the venom of the female Sydney funnel web spider, Atrax robustus Cambr.                                    | C. M. Gilbo, N. W. Coles, Aust. J. Biol. Sci. 1964, 17, 3, 758-763                                                                                 | A. robustus     |      | paper chromatography | [Link](https://doi.org/10.1071/BI9640758)                                |
@@ -72,7 +77,7 @@ tags = ["Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Arane
 
 ## Spider species
 
-| spider species                    | family          | first mention              |
+| Spider species                    | Family          | Discovered                 |
 |-----------------------------------|-----------------|----------------------------|
 | Acanthoscurria paulensis          | Theraphosidae   | 1957 / F. G. Fischer       |
 | Anemesia incana                   | Cyrtaucheniidae | 2008 / F. C. Schroeder     |

@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcOrnAsn5ßAla4ßAla4ßAla4"
-categories = ["C43H78N12O9","P907","D454","HDX925"]
+categories = ["C43H78N12O9","P907","D454","HDX925",
+"Araneidae"]
 tags = ["Nephila clavata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata"]
 
 ## General Description
 
-| name                         | value             |
+| Name                         | Value             |
 |------------------------------|-------------------|
-| level                        | V                 |
-| first mention                | 2005 / N. clavata |
-| alternative name(s)          | NPTX 906G         |
-| molecular formula            | C₄₃H₇₈N₁₂O₉       |
+| Level                        | V                 |
+| Discovered                   | 2005 / N. clavata |
+| Synonym                      | NPTX 906G         |
+| Molecular formula            | C₄₃H₇₈N₁₂O₉       |
 | CAS                          | ---               |
 |                              |                   |
-| precursor 1 [M+H]⁺           | 907.60929         |
-| precursor 2 [M+2H]²⁺         | 454.30856         |
-| precursor 3                  |                   |
+| Precursor 1 [M+H]⁺           | 907.60929         |
+| Precursor 2 [M+2H]²⁺         | 454.30856         |
+| Precursor 3                  |                   |
 |                              |                   |
 | HDX                          | 17                |
-| precursor HDX   [d₁₇-M+D]⁺   | 925.72227         |
-| precursor HDX 2 [d₁₇-M+2D]²⁺ | 463.86819         |
-| precursor HDX 3              |                   |
+| Precursor HDX 1 [d₁₇-M+D]⁺   | 925.72227         |
+| Precursor HDX 2 [d₁₇-M+2D]²⁺ | 463.86819         |
+| Precursor HDX 3              |                   |
 |                              |                   |
 | Rt                           |                   |
 | Rt HDX                       |                   |
@@ -44,25 +45,25 @@ tags = ["Nephila clavata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                              | reference                                              | spider     | name      | content | link                                                              |
+| Title                                                                                              | Reference                                              | Spider     | Name      | Content | Link                                                              |
 |----------------------------------------------------------------------------------------------------|--------------------------------------------------------|------------|-----------|---------|-------------------------------------------------------------------|
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234 | N. clavata | NPTX 906G | LC-MS   | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857) |
 
 ## Spider species
 
-| spider species  | family    | source             |
+| Spider species  | Family    | Discovered         |
 |-----------------|-----------|--------------------|
 | Nephila clavata | Araneidae | 2005 / M. S. Palma |
 

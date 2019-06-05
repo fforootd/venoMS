@@ -1,6 +1,7 @@
 +++
 title = "IndAc3433"
-categories = ["C23H40N6O","P417","D209","HDX425"]
+categories = ["C23H40N6O","P417","D209","HDX425",
+"Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
 
@@ -12,22 +13,22 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| name                        | value            |
+| Name                        | Value            |
 |-----------------------------|------------------|
 | Level                       | I                |
-| First mention               | 2002 / A. aperta |
-| Alternative name(s)         | ---              |
+| Discovered                  | 2002 / A. aperta |
+| Synonym                     | ---              |
 | Molecular formula           | C₂₃H₄₀N₆O        |
 | CAS                         | 755748-88-0      |
 |                             |                  |
-| precursor   [M+H]⁺          | 417.33419        |
-| precursor 2 [M+2H]²⁺        | 209.17101        |
-| precursor 3                 |                  |
+| Precursor 1 [M+H]⁺          | 417.33419        |
+| Precursor 2 [M+2H]²⁺        | 209.17101        |
+| Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 7                |
-| precursor HDX   [d₇-M+D]⁺   | 425.38440        |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 213.69925        |
-| precursor HDX 3             |                  |
+| Precursor HDX 1 [d₇-M+D]⁺   | 425.38440        |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 213.69925        |
+| Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 7.82             |
 | Rt HDX                      | 6.21             |
@@ -43,14 +44,14 @@ tags = ["Agelenopsis aperta"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 | 112.11262 | y2'        |
 | 130.06568 | a'         |
 
 ## Recorded MS/MS spectra
 
-| pdf                                                                | precursor | co-eluting            | spider           | source                       |
+| pdf                                                                | Precursor | Co-eluting            | Spider           | Source                       |
 |--------------------------------------------------------------------|-----------|-----------------------|------------------|------------------------------|
 | [Data](/pdf/417_IndAc3343_7-82.pdf)                                | 417.33419 |                  | synth. IndAc3433 | UZH Bienz lab, CHE           |
 | [Data](/pdf/417_IndAc3343_7-82_2.pdf)                              | 417.33419 |                  | synth. IndAc3433 | UZH Bienz lab, CHE           |
@@ -60,14 +61,14 @@ tags = ["Agelenopsis aperta"]
 
 ## References
 
-| titel                                                                                                        | reference|spider|name|content|link                                                                                                                                                 |
+| Title                                                                                                        | Reference|spider|name|content|link                                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Solid-phase synthesis of polyamine spider toxins and correlation with natural products by HPLC-MS/MS         | N. Manov, M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Helv. Chim. Acta 2002, 85, 2827-2846|A. aperta|Synthesis, NMR, APCI-MS/MS|[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%28200209%2985%3A9%3C2827%3A%3AAID-HLCA2827%3E3.0.CO%3B2-5) |
 | Tandem mass spectrometric investigation of acylpolyamines of spider venoms and their 15N-labeled derivatives | M. Tzouros, N. Manov, S. Bienz, L. Bigler, J. Am. Soc. Mass Spectrom. 2004, 15, 1636-1643|APCI-MS/MS|[Link](https://doi.org/10.1016/j.jasms.2004.07.020)                           |
 
 ## Spider species
 
-| spider species     | family     | first mention     |
+| Spider species     | Family     | Discovered     |
 |--------------------|------------|-------------------|
 | Agelenopsis aperta | Agelenidae | 2002 / M. Tzouros |
 

@@ -7,22 +7,22 @@ categories = ["C26H47N7O2","P490","D245","HDX500"]
 
 ## General Description
 
-| name                        | value       |
+| Name                        | Value       |
 |-----------------------------|-------------|
-| level                       | IV          |
-| first mention               | - / -       |
-| alternative name(s)         | AG 489b     |
-| molecular formula           | C₂₆H₄₇N₇O₂  |
+| Level                       | IV          |
+| Discovered                  | - / -       |
+| Synonym                     | AG 489b     |
+| Molecular formula           | C₂₆H₄₇N₇O₂  |
 | CAS                         | 389872-40-6 |
 |                             |             |
-| precursor 1 [M+H]⁺          | 490.38695   |
-| precursor 2 [M+2H]²⁺        | 245.69739   |
-| precursor 3                 |             |
+| Precursor 1 [M+H]⁺          | 490.38695   |
+| Precursor 2 [M+2H]²⁺        | 245.69739   |
+| Precursor 3                 |             |
 |                             |             |
 | HDX                         | 9           |
-| precursor HDX   [d₉-M+D]⁺   | 500.44971   |
-| precursor HDX 2 [d₉-M+2D]²⁺ | 251.23191   |
-| precursor HDX 3             |             |
+| Precursor HDX 1 [d₉-M+D]⁺   | 500.44971   |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 251.23191   |
+| Precursor HDX 3             |             |
 |                             |             |
 | Rt                          |             |
 | Rt HDX                      |             |
@@ -39,19 +39,19 @@ categories = ["C26H47N7O2","P490","D245","HDX500"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                              | reference                                                                                                                      | spider    | name    | content                          | link                                                                                                                          |
+| Title                                                                                                                                              | Reference                                                                                                                      | Spider    | Name    | Content                          | Link                                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|---------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | The acylpolyamines from the venom of the spider Agelenopsis aperta                                                                                 | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197                                                          | A. aperta | AG 489b | APCI-MS/MS                       | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N) |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins                                         | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156                                                                  | A. aperta | AG 489b | APCI reduction artefact          | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf)                                                            |
@@ -59,9 +59,9 @@ categories = ["C26H47N7O2","P490","D245","HDX500"]
 
 ## Spider species
 
-| spider species | family | source |
-|----------------|--------|--------|
-|                |        |        |
+| Spider species | Family | Discovered |
+|----------------|--------|------------|
+|                |        |            |
 
 ## Comments
 The presence of AG 489b in the venom of Agelenopsis aperta (Chesnov, 2001) was refuted (Eichenberger, 2009).

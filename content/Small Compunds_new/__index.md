@@ -1,5 +1,7 @@
 +++
 title = "Name"
+categories = []
+tags = []
 draft = true
 +++
 
@@ -7,51 +9,46 @@ draft = true
 
 ![](/img/2.png)
 
-mol file
-
-
 ## General Description
 
-| name                    | value          |
+| Name                    | Value          |
 |-------------------------|----------------|
 | Level                   |                |
-| First mention           | year / species |
-| Alternative name(s)     |                |
+| Discovered              | year / species |
+| Synonym                 |                |
 | Molecular formula       |                |
 | CAS                     |                |
 |                         |                |
-| precursor [M+H]⁺        |                |
+| Precursor [M+H]⁺        |                |
 |                         |                |
 | HDX                     |                |
-| precursor HDX [d₄-M+D]⁺ |                |
+| Precursor HDX [d₄-M+D]⁺ |                |
 |                         |                |
 | Rt                      |                |
 | Rt HDX                  |                |
 
-
-
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation        |
-|-----------|-------------------|-------------------|
-
+| m/z | Molecular formula | Annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                       |
-|-----|-----------|------------|-----------|------------------------------|
-
-
+| pdf | Precursor | Co-eluting | Spider | Source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
-|--------|-----------|--------|------|---------|------|
-
+| Title | Reference | Spider | Name | Content | Link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species                     | family        | first mention          |
-|------------------------------------|---------------|------------------------|
+| Spider species | Family | Discovered |
+|----------------|--------|------------|
+|                |        |            |
 
 ## Comments

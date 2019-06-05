@@ -1,6 +1,7 @@
 +++
 title = "Histamine"
-categories = ["C5H9N3","P112","HDX116"]
+categories = ["C5H9N3","P112","HDX116",
+"Araneidae","Cheiracanthiidae","Ctenidae","Cupiennius","Lamponidae","Lycosidae","Salticidae","Sicariidae","Sparassidae","Theraphosidae"]
 tags = ["Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
 "Eusparassus oculatus",
 "Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa godeffroyi","Lycosa indagatrix","Lycosa praegrandis",
@@ -12,37 +13,41 @@ tags = ["Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
 
 ## General Description
 
-| name                    | value                             |
-|-------------------------|-----------------------------------|
-| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=KO003129) |
-| First mention           | 1957 / L. erythrognatha & P. fera |
-| Alternative name(s)     |                                   |
-| Molecular formula       | C₅H₉N₃                            |
-| CAS                     | 51-45-6                           |
-|                         |                                   |
-| precursor [M+H]⁺        | 112.08747                         |
-|                         |                                   |
-| HDX                     | 3                                 |
-| precursor HDX [d₃-M+D]⁺ | 116.11258                         |
-|                         |                                   |
-| Rt                      |                                   |
-| Rt HDX                  |                                   |
+| Name                      | Value                                                       |
+|---------------------------|-------------------------------------------------------------|
+| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=KO003129) |
+| Discovered                | 1957 / L. erythrognatha & P. fera                           |
+| Synonym                   |                                                             |
+| Molecular formula         | C₅H₉N₃                                                      |
+| CAS                       | 51-45-6                                                     |
+|                           |                                                             |
+| Precursor 1 [M+H]⁺        | 112.08747                                                   |
+| Precursor 2               |                                                             |
+| Precursor 3               |                                                             |
+|                           |                                                             |
+| HDX                       | 3                                                           |
+| Precursor HDX 1 [d₃-M+D]⁺ | 116.11258                                                   |
+| Precursor HDX 2           |                                                             |
+| Precursor HDX 3           |                                                             |
+|                           |                                                             |
+| Rt                        |                                                             |
+| Rt HDX                    |                                                             |
 
 ## MS/MS fragments
 
-| m/z | molecular formula | annotation |
+| m/z | Molecular formula | Annotation |
 |-----|-------------------|------------|
 |     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf      | precursor | co-eluting | spider                       | source |
+| pdf      | Precursor | Co-eluting | Spider                       | Source |
 |----------|-----------|------------|------------------------------|--------|
 | [Data]() | 112.08747 |            | Histamine 2HCl (CAS 56-92-8) | Fluka  |
 
 ## References
 
-| titel                                                                                                                                                        | reference                                                                                                                                                                                     | spider                     | name | content              | link                                                                     |
+| Title                                                                                                                                                        | Reference                                                                                                                                                                                     | Spider                     | Name | Content              | Link                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|------|----------------------|--------------------------------------------------------------------------|
 | The venom of the Brazilian tarantula, Lycosa erythrognatha, and the spider, Phoneutria fera                                                                  | F. G. Fischer, H. Bohn, Hoppe Seylers Z. Physiol. Chem. 1957, 306, 265-268                                                                                                                    | L. erythrognatha & P. fera |      |                      | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.19576030124)         |
 | Phoneutria nigriventer venom. Pharmacology and biochemistry of its components                                                                                | In: Venomous animals and their venoms (New York: Academic Press, 1973), S. Schenberg, F. A. Pereira-Lima                                                                                      | P. nigriventer             |      |                      |                                                                          |
@@ -57,11 +62,11 @@ tags = ["Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
 | Chromatographic analysis of large numbers of marine bacterial extracts and the venom of the spider Cupiennius salei                                          | K. Böröczky, PhD-Thesis, Technische Universität Carolo-Wilhelmina zu Braunschweig, 2005                                                                                                       | C. salei                   |      | GC-MS                | [Link](https://publikationsserver.tu-braunschweig.de/receive/dbbs_mods_00001694) |
 | NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species                       | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, PNAS 2008, 105, 14283-14287                                                                     | div.                       |      | NMR-screening        | [Link](https://doi.org/10.1073/pnas.0806840105)                                  |
 | Mass spectrometric characterisation and quantification of selected low molecular mass compounds from the venom of Haplopelma lividum (Theraphosidae)         | S. Moore, W. F. Smyth, V. A. Gault, E. O'Kane, S. McClean, Rapid Commun. Mass. Spectrom. 2009, 23, 1747-1755                                                                                  | C. lividum                 |      |  HPLC-ESI-MS/MS                    | [Link](https://doi.org/10.1002/rcm.4063)                                         |
-| Inflammatory events induced by brown spider venom and its recombinant dermonecrotic toxin: A pharmacological investigation                                   | K. S. Paludo, S. M. P. Biscaia, O. M. Chaim, M. F. Otuki, K. Naliwaiko, P. A. Dombrowski, C. R. C. Franco, S. S. Veiga, Comparative Biochemistry and Physiology, Part C 2009, 149, 3, 323-333 | L. intermedia              | name | content              | [Link](https://doi.org/10.1016/j.cbpc.2008.08.009)                               |
+| Inflammatory events induced by brown spider venom and its recombinant dermonecrotic toxin: A pharmacological investigation                                   | K. S. Paludo, S. M. P. Biscaia, O. M. Chaim, M. F. Otuki, K. Naliwaiko, P. A. Dombrowski, C. R. C. Franco, S. S. Veiga, Comparative Biochemistry and Physiology, Part C 2009, 149, 3, 323-333 | L. intermedia              | Name | Content              | [Link](https://doi.org/10.1016/j.cbpc.2008.08.009)                               |
 
 ## Spider species
 
-| spider species           | family           | first mention              |
+| Spider species           | Family           | Discovered                 |
 |--------------------------|------------------|----------------------------|
 | Cheiracanthium japonicum | Cheiracanthiidae | 1991 / K. Hagiwara         |
 | Cupiennius salei         | Cupiennius       | 1994 / L. Kuhn-Nentwig     |

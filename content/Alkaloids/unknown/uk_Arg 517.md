@@ -1,5 +1,6 @@
 +++
 title = "Arg 517"
+categories = ["Araneidae"]
 tags = ["Argiope florida","Argiope trifasciata"]
 +++
 
@@ -7,22 +8,22 @@ tags = ["Argiope florida","Argiope trifasciata"]
 
 ## General Description
 
-| name                       | value                              |
+| Name                       | Value                              |
 |----------------------------|------------------------------------|
 | Level                      | VI                                 |
-| First mention              | 1988 / A. florida & A. trifasciata |
-| Alternative name(s)        | Arg 517                            |
+| Discovered                 | 1988 / A. florida & A. trifasciata |
+| Synonym                    | Arg 517                            |
 | Molecular formula          |                                    |
 | CAS                        |                                    |
 |                            |                                    |
-| precursor   [M+H]⁺         |                                    |
-| precursor 2 [M+2H]²⁺       |                                    |
-| precursor 3                |                                    |
+| Precursor 1 [M+H]⁺         |                                    |
+| Precursor 2 [M+2H]²⁺       |                                    |
+| Precursor 3                |                                    |
 |                            |                                    |
 | HDX                        |                                    |
-| precursor HDX   [d-M+D]⁺   |                                    |
-| precursor HDX 2 [d-M+2D]²⁺ |                                    |
-| precursor HDX 3            |                                    |
+| Precursor HDX 1 [d-M+D]⁺   |                                    |
+| Precursor HDX 2 [d-M+2D]²⁺ |                                    |
+| Precursor HDX 3            |                                    |
 |                            |                                    |
 | Rt                         |                                    |
 | Rt HDX                     |                                    |
@@ -35,26 +36,26 @@ tags = ["Argiope florida","Argiope trifasciata"]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                     | reference                                                                                         | spider     | name   | content          | link                                                  |
+| Title                                                                                     | Reference                                                                                         | Spider     | Name   | Content          | Link                                                  |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------|--------|------------------|-------------------------------------------------------|
 | Isolation and characterisation of glutamate receptor antagonists from venoms of orb-web spiders  | T. Budd, P. Clinton, A. Dell, I. R. Duce, S. J. Johnson, D. L. J. Quicke, G. W. Taylor, P. N. R. Usherwood, G. Usoh, Brain Res. 1988, 448, 30-39. | A. florida & A. trifasciata | Arg 517 | Activity-studies | [Link](https://doi.org/10.1016/0006-8993(88)91098-0) |
 | Polyamine toxins from spiders and wasps                                                              | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125             | A. florida & A. trifasciata  | Arg 517  | Review                           | [Link](https://doi.org/10.1016/S0099-9598(08)60276-X) |
 
 ## Spider species
 
-| spider species      | family    | first mention  |
+| Spider species      | Family    | Discovered     |
 |---------------------|-----------|----------------|
 | Argiope florida     | Araneidae | 1988 / T. Budd |
 | Argiope trifasciata | Araneidae | 1988 / T. Budd |

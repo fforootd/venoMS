@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn5ßAla4ßAla4ßAla4"
-categories = ["C40H69N11O7","P816","D408","HDX831"]
+categories = ["C40H69N11O7","P816","D408","HDX831",
+"Araneidae"]
 tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## General Description
 
-| name                         | value                   |
+| Name                         | Value                   |
 |------------------------------|-------------------------|
-| level                        | III                     |
-| first mention                | 1996 / N. clavata       |
-| alternative name(s)          | Nephilatoxin 5 / NPTX 5 |
-| molecular formula            | C₄₀H₆₉N₁₁O₇             |
+| Level                        | III                     |
+| Discovered                   | 1996 / N. clavata       |
+| Synonym                      | Nephilatoxin 5 / NPTX 5 |
+| Molecular formula            | C₄₀H₆₉N₁₁O₇             |
 | CAS                          | 119613-51-3 (S)         |
 |                              |                         |
-| precursor 1 [M+H]⁺           | 816.54596               |
-| precursor 2 [M+2H]²⁺         | 408.77689               |
-| precursor 3                  |                         |
+| Precursor 1 [M+H]⁺           | 816.54596               |
+| Precursor 2 [M+2H]²⁺         | 408.77689               |
+| Precursor 3                  |                         |
 |                              |                         |
 | HDX                          | 14                      |
-| precursor HDX   [d₁₄-M+D]⁺   | 831.64011               |
-| precursor HDX 2 [d₁₄-M+2D]²⁺ | 416.82711               |
-| precursor HDX 3              |                         |
+| Precursor HDX 1 [d₁₄-M+D]⁺   | 831.64011               |
+| Precursor HDX 2 [d₁₄-M+2D]²⁺ | 416.82711               |
+| Precursor HDX 3              |                         |
 |                              |                         |
 | Rt                           |                         |
 | Rt HDX                       |                         |
@@ -43,19 +44,19 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                                         | reference                                                                                                      | spider                    | name                    | content                                                | link                                                                                                               |
+| Title                                                                                                                                                                         | Reference                                                                                                      | Spider                    | Name                    | Content                                                | Link                                                                                                               |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|---------------------------|-------------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Isolation and chemical characterization of a series of new spider toxin (nephilatoxins) in the venom of Joro spider, Nephila clavata                                          | T. Toki, T. Yasuhara, Y. Aramaki, K. Osawa, A. Miwa, N. Kawai, T. Nakajima, Biomed. Res. 1988, 9, 421-428      | N. clavata                | Nephilatoxin 5 / NPTX 5 | Amino acid analysis, Activity-studies, wrong structure | [Link](https://www.jstage.jst.go.jp/article/biomedres/9/6/9_421/_article)                                          |
 | Polyamine toxins from spiders and wasps                                                                                                                                       | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125              | N. clavata                | NPTX 5                  | Review                                                 | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X)                                        |
@@ -69,7 +70,7 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## Spider species
 
-| spider species        | family    | source             |
+| Spider species        | Family    | Discovered         |
 |-----------------------|-----------|--------------------|
 | Nephila clavata       | Araneidae | 1996 / T. Shinada  |
 | Nephilingis borbonica | Araneidae | 1997 / Y. Itagaki  |

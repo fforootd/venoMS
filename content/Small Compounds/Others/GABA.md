@@ -1,6 +1,7 @@
 +++
 title = "GABA"
-categories = ["C4H9NO2","P104","HDX108"]
+categories = ["C4H9NO2","P104","HDX108",
+"Agelenidae","Atracidae","Filistatidae","Macrothelidae","Nemesiidae","Pisauridae","Sparassidae","Theraphosidae","Theridiidae","Thomisidae","Zodariidae"]
 tags = ["Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","Aphonopelma sp.","Atrax robustus","Avicularia avicularia",
 "Ceratogyrus marshalli","Cyriopagopus hainanus","Cyriopagopus schmidti",
 "Dolomedes gertschi","Dolomedes tenebrosus",
@@ -23,25 +24,29 @@ tags = ["Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","
 
 ## General Description
 
-| name                    | value      |
-|-------------------------|------------|
-| Level                   | II [Link](https://doi.org/10.1016/j.jasms.2006.09.013)          |
-| First mention           | 1957 / div. |
-| Alternative name(s)     |            |
-| Molecular formula       | C₄H₉NO₂    |
-| CAS                     | 56-12-2    |
-|                         |            |
-| precursor [M+H]⁺        | 104.07115  |
-|                         |            |
-| HDX                     | 3          |
-| precursor HDX [d₄-M+D]⁺ | 108.09626  |
-|                         |            |
-| Rt                      |            |
-| Rt HDX                  |            |
+| Name                      | Value                                                  |
+|---------------------------|--------------------------------------------------------|
+| Level                     | II [Link](https://doi.org/10.1016/j.jasms.2006.09.013) |
+| Discovered                | 1957 / div.                                            |
+| Synonym                   |                                                        |
+| Molecular formula         | C₄H₉NO₂                                                |
+| CAS                       | 56-12-2                                                |
+|                           |                                                        |
+| Precursor 1 [M+H]⁺        | 104.07115                                              |
+| Precursor 2               |                                                        |
+| Precursor 3               |                                                        |
+|                           |                                                        |
+| HDX                       | 3                                                      |
+| Precursor HDX 1 [d₄-M+D]⁺ | 108.09626                                              |
+| Precursor HDX 2           |                                                        |
+| Precursor HDX 3           |                                                        |
+|                           |                                                        |
+| Rt                        |                                                        |
+| Rt HDX                    |                                                        |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation     |
+| m/z       | Molecular formula | Annotation     |
 |-----------|-------------------|----------------|
 | 104.07115 | C₄H₁₀NO₂          | [M+H]⁺         |
 | 87.04460  | C₄H₇O₂            | [M+H-NH₃]⁺     |
@@ -50,13 +55,13 @@ tags = ["Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","
 
 ## Recorded MS/MS spectra
 
-| pdf      | precursor | co-eluting | spider              | source        |
+| pdf      | Precursor | Co-eluting | Spider              | Source        |
 |----------|-----------|------------|---------------------|---------------|
 | [Data]() | 104.07115 |            | γ-Aminobutyric acid | Sigma Aldrich |
 
 ## References
 
-| titel                                                                                                                                              | reference                                                                                                                                          | spider                 | name | content              | link                                                             |
+| Title                                                                                                                                              | Reference                                                                                                                                          | Spider                 | Name | Content              | Link                                                             |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------|----------------------|------------------------------------------------------------------|
 | Die Giftsekrete der Vogelspinnen                                                                                                                   | F. G. Fischer, H. Bohn, Justus Liebigs Annalen der Chemie 1957, 603, 232-250                                                                      | div.                   |      | paper chromatography | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.19576030124) |
 | An investigation of certain components of the venom of the female Sydney funnel web spider, Atrax robustus Cambr.                                  | C. M. Gilbo, N. W. Coles, Aust. J. Biol. Sci. 1964, 17, 3, 758-763                                                                                 | A. robustus            |      | paper chromatography | [Link](https://doi.org/10.1071/BI9640758)                                |
@@ -69,7 +74,7 @@ tags = ["Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","
 
 ## Spider species
 
-| spider species                    | family        | first mention            |
+| Spider species                    | Family        | Discovered               |
 |-----------------------------------|---------------|--------------------------|
 | Acanthoscurria paulensis          | Theraphosidae | 1957 / F. G. Fischer     |
 | Aphonopelma hentzi                | Theraphosidae | 1973 / F. L. Schanbacher |

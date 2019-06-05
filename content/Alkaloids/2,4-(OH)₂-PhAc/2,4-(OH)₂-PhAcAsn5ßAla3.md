@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla3"
-categories = ["C23H38N6O6","P495","D248","HDX506"]
+categories = ["C23H38N6O6","P495","D248","HDX506",
+"Araneidae "]
 tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## General Description
 
-| name                         | value                             |
+| Name                         | Value                             |
 |------------------------------|-----------------------------------|
-| level                        | III                               |
-| first mention                | 1994 / N. clavata                 |
-| alternative name(s)          | Spidamine                         |
-| molecular formula            | C₂₃H₃₈N₆O₆                        |
+| Level                        | III                               |
+| Discovered                   | 1994 / N. clavata                 |
+| Synonym                      | Spidamine                         |
+| Molecular formula            | C₂₃H₃₈N₆O₆                        |
 | CAS                          | 161897-97-7 (S) / 186370-92-3 (R) |
 |                              |                                   |
-| precursor 1 [M+H]⁺           | 495.29311                         |
-| precursor 2 [M+2H]²⁺         | 248.15047                         |
-| precursor 3                  |                                   |
+| Precursor 1 [M+H]⁺           | 495.29311                         |
+| Precursor 2 [M+2H]²⁺         | 248.15047                         |
+| Precursor 3                  |                                   |
 |                              |                                   |
 | HDX                          | 10                                |
-| precursor HDX   [d₁₀-M+D]⁺   | 506.36215                         |
-| precursor HDX 2 [d₁₀-M+2D]²⁺ | 254.18813                         |
-| precursor HDX 3              |                                   |
+| Precursor HDX 1 [d₁₀-M+D]⁺   | 506.36215                         |
+| Precursor HDX 2 [d₁₀-M+2D]²⁺ | 254.18813                         |
+| Precursor HDX 3              |                                   |
 |                              |                                   |
 | Rt                           |                                   |
 | Rt HDX                       |                                   |
@@ -39,19 +40,19 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                               | reference                                                                                                            | spider              | name                   | content                          | link                                                                                                                                   |
+| Title                                                                                                                                               | Reference                                                                                                            | Spider              | Name                   | Content                          | Link                                                                                                                                   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | Finding of primitive polyamine toxins in the venom of a Joro spider, Nephila clavata                                                                | T. Chiba, T. Akizawa, M. Matukawa, H. Pan-Hou, M. Yoshioka, Chem. Pharm. Bull 1994, 42, 1864-1869                    | N. clavata          | Spidamine / compound-Y | NMR (ns), Amino acid analysis    | [Link](https://www.jstage.jst.go.jp/article/cpb1958/42/9/42_9_1864/_article)                                                           |
 | Large-scale purification and further characterization of spidamine and joramine from venom of spider, Nephila clavata                               | T. Chiba, T. Akizawa, M. Matukawa, H. Pan-Hou, N. Kawai, M. Yoshieka, Chem. Pharm. Bull. 1995, 43, 2177-2181         | N. clavata          | Spidamine              | NMR, Activity-studies            | [Link](https://www.jstage.jst.go.jp/article/cpb1958/43/12/43_12_2177/_article)                                                         |
@@ -64,7 +65,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered             |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 1994 / T. Chiba    |
 | Nephila inaurata madagascariensis | Araneidae | 1997 / T. Fujita   |

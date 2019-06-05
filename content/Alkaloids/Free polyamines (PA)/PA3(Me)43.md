@@ -1,31 +1,32 @@
 +++
 title = "PA3(Me)43"
 categories = ["C11H28N4","P217","D109","HDX223"]
+tags = []
 +++
 
 ![](/img/PA3(Me)43.png)
 
 ## General Description
 
-| name                        | value              |
-|-----------------------------|--------------------|
-| Level                       | V                  |
-| First mention               |                    |
-| Alternative name(s)         |                    |
-| Molecular formula           | C₁₁H₂₈N₄           |
-| CAS                         | 56-19-9            |
-|                             |                    |
-| precursor   [M+H]⁺          | 217.23923          |
-| precursor 2 [M+2H]²⁺        | 109.12353          |
-| precursor 3                 |                    |
-|                             |                    |
-| HDX                         | 5                  |
-| precursor HDX   [d₅-M+D]⁺   | 223.27689          |
-| precursor HDX 2 [d₅-M+2D]²⁺ | 112.64549          |
-| precursor HDX 3             |                    |
-|                             |                    |
-| Rt                          |                    |
-| Rt HDX                      |                    |
+| Name                        | Value     |
+|-----------------------------|-----------|
+| Level                       | V         |
+| Discovered                  |           |
+| Synonym                     |           |
+| Molecular formula           | C₁₁H₂₈N₄  |
+| CAS                         | 56-19-9   |
+|                             |           |
+| Precursor 1 [M+H]⁺          | 217.23923 |
+| Precursor 2 [M+2H]²⁺        | 109.12353 |
+| Precursor 3                 |           |
+|                             |           |
+| HDX                         | 5         |
+| Precursor HDX 1 [d₅-M+D]⁺   | 223.27689 |
+| Precursor HDX 2 [d₅-M+2D]²⁺ | 112.64549 |
+| Precursor HDX 3             |           |
+|                             |           |
+| Rt                          |           |
+| Rt HDX                      |           |
 
 ## Calculated MS/MS fragments
 
@@ -37,26 +38,26 @@ categories = ["C11H28N4","P217","D109","HDX223"]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                   | reference                                                                | spider        | name | content                            | link                                            |
+| Title                                                                                   | Reference                                                                | Spider        | Name | Content                            | Link                                            |
 |-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------|------|------------------------------------|-------------------------------------------------|
 | Structure elucidation of polyamine toxins in the venom of the spider Larinioides folium | S. Eichenberger, L. Bigler, S. Bienz, Helv. Chim. Acta 2007, 61, 161-164 | L. patagiatus |      | PA3(Me)43 as polyamine backbone in APA | [Link](https://doi.org/10.2533/chimia.2007.161) |
 
 ## Spider species
 
-| spider species       | family    | first mention        |
-|----------------------|-----------|----------------------|
-
+| Spider species | Family | Discovered |
+|----------------|--------|------------|
+|                |        |            |
 
 ## Comments

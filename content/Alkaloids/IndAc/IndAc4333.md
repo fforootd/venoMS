@@ -1,6 +1,7 @@
 +++
 title = "IndAc4333"
-categories = ["C23H40N6O","P417","D209","HDX425"]
+categories = ["C23H40N6O","P417","D209","HDX425",
+"Agelenidae"]
 tags = ["Agelenopsis aperta","Hololena curta"]
 +++
 
@@ -12,22 +13,22 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## General Description
 
-| name                        | value             |
+| Name                        | Value             |
 |-----------------------------|-------------------|
 | Level                       | I                 |
-| First mention               | 1991 / H. curta   |
-| Alternative name(s)         | AG 416b / HO 416b |
+| Discovered                  | 1991 / H. curta   |
+| Synonym                     | AG 416b / HO 416b |
 | Molecular formula           | C₂₃H₄₀N₆O         |
 | CAS                         | 133823-88-8       |
 |                             |                   |
-| precursor   [M+H]⁺          | 417.33419         |
-| precursor 2 [M+2H]²⁺        | 209.17101         |
-| precursor 3                 |                   |
+| Precursor 1 [M+H]⁺          | 417.33419         |
+| Precursor 2 [M+2H]²⁺        | 209.17101         |
+| Precursor 3                 |                   |
 |                             |                   |
 | HDX                         | 7                 |
-| precursor HDX   [d₇-M+D]⁺   | 425.38440         |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 213.69925         |
-| precursor HDX 3             |                   |
+| Precursor HDX 1 [d₇-M+D]⁺   | 425.38440         |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 213.69925         |
+| Precursor HDX 3             |                   |
 |                             |                   |
 | Rt                          | 9.00              |
 | Rt HDX                      | 7.32              |
@@ -43,13 +44,13 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 | 130.06568 | a'         |
 
 ## Recorded MS/MS spectra
 
-| pdf                                            | precursor | co-eluting | spider           | source                       |
+| pdf                                            | Precursor | Co-eluting | Spider           | Source                       |
 |------------------------------------------------|-----------|------------|------------------|------------------------------|
 | [Data](/pdf/417_IndAc4333_9-00.pdf)            | 417.33419 |       | synth. IndAc4333 | UZH Bienz lab, CHE           |
 | [Data](/pdf/417_IndAc4333_9-00_2.pdf)          | 417.33419 |        | synth. IndAc4333 | UZH Bienz lab, CHE           |
@@ -59,7 +60,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## References
 
-| titel  | reference | spider | name | content | link |
+| Title  | Reference | Spider | Name | Content | Link |
 |--------|-----------|--------|------|---------|------|
 | Paralytic and insecticidal toxins from the funnel web spider, Hololena curta                                                                                                        | G. B. Quistad, C. C. Reuter, W. S. Skinner, P. A. Dennis, S. Suwanrumpha, E. W. Fu, Toxicon 1991, 29, 329-336|H. curta|HO 416b|FAB-MS/MS (ns), Activity-studies|[Link](https://www.sciencedirect.com/science/article/pii/004101019190286Z) |
 | Polyamine toxins from spiders and wasps                                                                                                                                             | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125|H. curta|HO 416b|Review|[Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X)                                      |
@@ -74,7 +75,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## Spider species
 
-| spider species     | family     | first mention        |
+| Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov    |
 | Hololena curta     | Agelenidae | 1991 / G. B. Quistad |

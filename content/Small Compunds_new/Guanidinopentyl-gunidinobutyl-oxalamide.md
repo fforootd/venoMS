@@ -1,6 +1,7 @@
 +++
 title = "Guanidinopentyl-gunidinobutyl-oxalamide"
-categories = ["C13H28N8O2","P329","HDX338"]
+categories = ["C13H28N8O2","P329","HDX338",
+"Plectreuridae"]
 tags = ["Plectreurys tristis"]
 draft = true
 +++
@@ -9,25 +10,29 @@ draft = true
 
 ## General Description
 
-| name                    | value             |
-|-------------------------|-------------------|
-| Level                   | IV                |
-| First mention           | 2019 / P. tristis |
-| Alternative name(s)     |                   |
-| Molecular formula       | C₁₃H₂₈N₈O₂        |
-| CAS                     | ---               |
-|                         |                   |
-| precursor [M+H]⁺        | 329.24135         |
-|                         |                   |
-| HDX                     | 8                 |
-| precursor HDX [d₈-M+D]⁺ | 338.29783         |
-|                         |                   |
-| Rt                      | 6.08              |
-| Rt HDX                  |                   |
+| Name                      | Value             |
+|---------------------------|-------------------|
+| Level                     | IV                |
+| Discovered                | 2019 / P. tristis |
+| Synonym                   |                   |
+| Molecular formula         | C₁₃H₂₈N₈O₂        |
+| CAS                       | ---               |
+|                           |                   |
+| Precursor 1 [M+H]⁺        | 329.24135         |
+| Precursor 2               |                   |
+| Precursor 3               |                   |
+|                           |                   |
+| HDX                       | 8                 |
+| Precursor HDX 1 [d₈-M+D]⁺ | 338.29783         |
+| Precursor HDX 2           |                   |
+| Precursor HDX 3           |                   |
+|                           |                   |
+| Rt                        | 6.08              |
+| Rt HDX                    |                   |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation |
+| m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
 | 329.24135 | C₁₃H₂₉N₈O₂        | [M+H]⁺     |
 | 298.19915 | C₁₂H₂₄N₇O₂        |            |
@@ -39,20 +44,20 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider     | source            |
+| pdf | Precursor | Co-eluting | Spider     | Source            |
 |-----|-----------|------------|------------|-------------------|
 |     | 329.24135 |            | P. tristis | Spider Pharm, USA |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species        | family        | first mention        |
-|-----------------------|---------------|----------------------|
-| Plectreurys tristis   | Plectreuridae | 2019 / Y. M. Forster |
+| Spider species      | Family        | Discovered           |
+|---------------------|---------------|----------------------|
+| Plectreurys tristis | Plectreuridae | 2019 / Y. M. Forster |
 
 ## Comments

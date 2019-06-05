@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3(OH)334"
-categories = ["C23H40N6O3","P449","D225","HDX458"]
+categories = ["C23H40N6O3","P449","D225","HDX458",
+"Agelenidae"]
 tags = ["Agelenopsis aperta","Pireneitega luctuosa"]
 +++
 
@@ -12,22 +13,22 @@ tags = ["Agelenopsis aperta","Pireneitega luctuosa"]
 
 ## General Description
 
-| name                        | value                          |
+| Name                        | Value                          |
 |-----------------------------|--------------------------------|
-| level                       | IV                             |
-| first mention               | 2000 / A. aperta & P. luctuosa |
-| alternative name(s)         | AG 448a / PB 448               |
-| molecular formula           | C₂₃H₄₀N₆O₃                     |
+| Level                       | IV                             |
+| Discovered                  | 2000 / A. aperta & P. luctuosa |
+| Synonym                     | AG 448a / PB 448               |
+| Molecular formula           | C₂₃H₄₀N₆O₃                     |
 | CAS                         | 333401-99-3                    |
 |                             |                                |
-| precursor 1 [M+H]⁺          | 449.32401                      |
-| precursor 2 [M+2H]²⁺        | 225.16592                      |
-| precursor 3                 |                                |
+| Precursor 1 [M+H]⁺          | 449.32401                      |
+| Precursor 2 [M+2H]²⁺        | 225.16592                      |
+| Precursor 3                 |                                |
 |                             |                                |
 | HDX                         | 8                              |
-| precursor HDX   [d₈-M+D]⁺   | 458.38050                      |
-| precursor HDX 2 [d₈-M+2D]²⁺ | 230.19730                      |
-| precursor HDX 3             |                                |
+| Precursor HDX 1 [d₈-M+D]⁺   | 458.38050                      |
+| Precursor HDX 2 [d₈-M+2D]²⁺ | 230.19730                      |
+| Precursor HDX 3             |                                |
 |                             |                                |
 | Rt                          | 7.06                           |
 | Rt HDX                      | 5.35                           |
@@ -43,7 +44,7 @@ tags = ["Agelenopsis aperta","Pireneitega luctuosa"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 | 98.09697  | y2'        |
 | 115.12352 | z2'        |
@@ -52,7 +53,7 @@ tags = ["Agelenopsis aperta","Pireneitega luctuosa"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                     | precursor | co-eluting | spider    | source                       |
+| pdf                                                     | Precursor | Co-eluting | Spider    | Source                       |
 |---------------------------------------------------------|-----------|------------|-----------|------------------------------|
 | [Data](/pdf/A-aperta/449_4-OH-IndAc3(OH)334_Aa.pdf)     | 449.32401 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/449_4-OH-IndAc3(OH)334_Aa_2.pdf)   | 225.16592 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
@@ -60,7 +61,7 @@ tags = ["Agelenopsis aperta","Pireneitega luctuosa"]
 
 ## References
 
-| titel                                                                                                                                                                               | reference                                                                            | spider                  | name             | content    | link                                                                                                                           |
+| Title                                                                                                                                                                               | Reference                                                                            | Spider                  | Name             | Content    | Link                                                                                                                           |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|------------------|------------|--------------------------------------------------------------------------------------------------------------------------------|
 | The spider Paracoelotes birulai: Detection and structural elucidation of new acylpolyamines by on-line coupled HPLC-APCI-MS and HPLC-APCI-MS/MS                                     | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2000, 83, 3295-3305                | A. aperta & P. luctuosa | AG 448a / PB 448 | APCI-MS/MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820001220%2983%3A12%3C3295%3A%3AAID-HLCA3295%3E3.0.CO%3B2-1) |
 | The acylpolyamines from the venom of the spider Agelenopsis aperta                                                                                                                  | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197                | A. aperta               | AG 448a          | APCI-MS/MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N)  |
@@ -69,7 +70,7 @@ tags = ["Agelenopsis aperta","Pireneitega luctuosa"]
 
 ## Spider species
 
-| spider species       | family     | source            |
+| Spider species       | Family     | Discovered        |
 |----------------------|------------|-------------------|
 | Agelenopsis aperta   | Agelenidae | 2000 / S. Chesnov |
 | Pireneitega luctuosa | Agelenidae | 2000 / S. Chesnov |

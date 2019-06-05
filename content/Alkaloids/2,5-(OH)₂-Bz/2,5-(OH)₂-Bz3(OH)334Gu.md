@@ -1,6 +1,7 @@
 +++
 title = "2,5-(OH)₂-Bz3(OH)334Gu"
-categories = ["C21H39N7O4","P454","D227","HDX465"]
+categories = ["C21H39N7O4","P454","D227","HDX465",
+"Agelenidae"]
 tags = ["Coelotes pastoralis"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Coelotes pastoralis"]
 
 ## General Description
 
-| name                       | value                |
+| Name                       | Value                |
 |----------------------------|----------------------|
-| level                      | IV                   |
-| first mention              | 2008 / C. pastoralis |
-| alternative name(s)        | APA 5                |
-| molecular formula          | C₂₁H₃₉N₇O₄           |
+| Level                      | IV                   |
+| Discovered                 | 2008 / C. pastoralis |
+| Synonym                    | APA 5                |
+| Molecular formula          | C₂₁H₃₉N₇O₄           |
 | CAS                        | 1084610-58-1         |
 |                            |                      |
-| precursor 1 [M+H]⁺         | 454.31418            |
-| precursor 2 [M+2H]²⁺       | 227.66100            |
-| precursor 3                |                      |
+| Precursor 1 [M+H]⁺         | 454.31418            |
+| Precursor 2 [M+2H]²⁺       | 227.66100            |
+| Precursor 3                |                      |
 |                            |                      |
 | HDX                        | 10                   |
-| precursor HDX   [d-M+D]⁺   | 465.38322            |
-| precursor HDX 2 [d-M+2D]²⁺ | 233.69866            |
-| precursor HDX 3            |                      |
+| Precursor HDX 1 [d-M+D]⁺   | 465.38322            |
+| Precursor HDX 2 [d-M+2D]²⁺ | 233.69866            |
+| Precursor HDX 3            |                      |
 |                            |                      |
 | Rt                         |                      |
 | Rt HDX                     |                      |
@@ -39,25 +40,25 @@ tags = ["Coelotes pastoralis"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
+| Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
 | NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species| F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, PNAS 2008, 105, 14283-14287 | C.  pastoralis | APA 5 | NMR, ESI-MS/MS | [Link](https://www.pnas.org/content/105/38/14283.abstract) |
 
 ## Spider species
 
-| spider species      | family     | source                 |
+| Spider species      | Family     | Discovered             |
 |---------------------|------------|------------------------|
 | Coelotes pastoralis | Agelenidae | 2008 / F. C. Schroeder |
 

@@ -1,6 +1,7 @@
 +++
 title = "Glucose"
-categories = ["C6H12O6","P181","HDX187"]
+categories = ["C6H12O6","P181","HDX187",
+"Atracidae","Theraphosidae"]
 tags = ["Atrax robustus","Eurypelma californicum"]
 +++
 
@@ -8,37 +9,41 @@ tags = ["Atrax robustus","Eurypelma californicum"]
 
 ## General Description
 
-| name                    | value              |
-|-------------------------|--------------------|
-| Level                   | V                  |
-| First mention           | 1979 / A. robustus |
-| Alternative name(s)     |                    |
-| Molecular formula       | C₆H₁₂O₆            |
-| CAS                     | 50-99-7            |
-|                         |                    |
-| precursor [M+H]⁺        | 181.07121          |
-|                         |                    |
-| HDX                     | 5                  |
-| precursor HDX [d₅-M+D]⁺ | 187.10887          |
-|                         |                    |
-| Rt                      |                    |
-| Rt HDX                  |                    |
+| Name                      | Value              |
+|---------------------------|--------------------|
+| Level                     | V                  |
+| Discovered                | 1979 / A. robustus |
+| Synonym                   |                    |
+| Molecular formula         | C₆H₁₂O₆            |
+| CAS                       | 50-99-7            |
+|                           |                    |
+| Precursor 1 [M+H]⁺        | 181.07121          |
+| Precursor 2               |                    |
+| Precursor 3               |                    |
+|                           |                    |
+| HDX                       | 5                  |
+| Precursor HDX 1 [d₅-M+D]⁺ | 187.10887          |
+| Precursor HDX 2           |                    |
+| Precursor HDX 3           |                    |
+|                           |                    |
+| Rt                        |                    |
+| Rt HDX                    |                    |
 
 ## MS/MS fragments
 
-| m/z | molecular formula | annotation |
+| m/z | Molecular formula | Annotation |
 |-----|-------------------|------------|
 |     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                                            | reference                                                                                              | spider          | name | content | link                                                 |
+| Title                                                                                                            | Reference                                                                                              | Spider          | Name | Content | Link                                                 |
 |------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------|------|---------|------------------------------------------------------|
 | Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry | P. H. Duffield, A. M. Duffield, P. R. Carroll, D. Morgans, Biomed. Mass. Spectrom. 1979, 6, 3, 105-108 | A. robustus     |      | GC-MS   | [Link](https://doi.org/10.1002/bms.1200060305)               |
 | Biochemical analysis of tarantula venom (Eurypelma californicum)                                                 | A. Savel-Niemann, D. Roth, Naturwissenschaften 1989, 76, 5, 212-213                                    | E. californicum |      |         | [Link](https://link.springer.com/article/10.1007/BF00627688) |
@@ -46,7 +51,7 @@ tags = ["Atrax robustus","Eurypelma californicum"]
 
 ## Spider species
 
-| spider species         | family        | first mention           |
+| Spider species         | Family        | Discovered              |
 |------------------------|---------------|-------------------------|
 | Atrax robustus         | Atracidae     | 1979 / P. H. Duffiel    |
 | Eurypelma californicum | Theraphosidae | 1989 / A. Savel-Niemann |

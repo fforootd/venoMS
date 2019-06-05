@@ -1,6 +1,7 @@
 +++
 title = "Tryptamine"
-categories = ["C10H12N2","P161","HDX165"]
+categories = ["C10H12N2","P161","HDX165",
+"Oxyopidae"]
 tags = ["Peucetia viridans"]
 draft = true
 +++
@@ -9,43 +10,47 @@ draft = true
 
 ## General Description
 
-| name                    | value              |
-|-------------------------|--------------------|
-| Level                   | I                  |
-| First mention           | 2019 / P. viridans |
-| Alternative name(s)     |                    |
-| Molecular formula       | C₁₀H₁₂N₂            |
-| CAS                     | 61-54-1            |
-|                         |                    |
-| precursor [M+H]⁺        | 161.10787          |
-|                         |                    |
-| HDX                     | 3                  |
-| precursor HDX [d₃-M+D]⁺ | 165.13298          |
-|                         |                    |
-| Rt                      |                    |
-| Rt HDX                  |                    |
+| Name                      | Value              |
+|---------------------------|--------------------|
+| Level                     | I                  |
+| Discovered                | 2019 / P. viridans |
+| Synonym                   |                    |
+| Molecular formula         | C₁₀H₁₂N₂           |
+| CAS                       | 61-54-1            |
+|                           |                    |
+| Precursor 1 [M+H]⁺        | 161.10787          |
+| Precursor 2               |                    |
+| Precursor 3               |                    |
+|                           |                    |
+| HDX                       | 3                  |
+| Precursor HDX 1 [d₃-M+D]⁺ | 165.13298          |
+| Precursor HDX 2           |                    |
+| Precursor HDX 3           |                    |
+|                           |                    |
+| Rt                        |                    |
+| Rt HDX                    |                    |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation |
+| m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
 | 144.08132 | C₁₀H₁₀N           | [M+H-NH₃]⁺ |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider     | source |
+| pdf | Precursor | Co-eluting | Spider     | Source |
 |-----|-----------|------------|------------|--------|
 |     | 161.10787 |            | Tryptamine | Fluka  |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species    | family    | first mention        |
+| Spider species    | Family    | Discovered           |
 |-------------------|-----------|----------------------|
 | Peucetia viridans | Oxyopidae | 2019 / Y. M. Forster |
 

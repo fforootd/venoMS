@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn433"
-categories = ["C22H38N6O5","P467","D234","HDX478"]
+categories = ["C22H38N6O5","P467","D234","HDX478",
+"Araneidae"]
 tags = ["Larinioides patagiatus","Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Larinioides patagiatus","Nephila clavata","Nephila inaurata madagascari
 
 ## General Description
 
-| name                         | value                          |
+| Name                         | Value                          |
 |------------------------------|--------------------------------|
-| level                        | IV                             |
-| first mention                | 1997 / N. borbonica            |
-| alternative name(s)          | NPTX 466 / NPTX 466B / LF 466E |
-| molecular formula            | C₂₂H₃₈N₆O₅                     |
+| Level                        | IV                             |
+| Discovered                   | 1997 / N. borbonica            |
+| Synonym                      | NPTX 466 / NPTX 466B / LF 466E |
+| Molecular formula            | C₂₂H₃₈N₆O₅                     |
 | CAS                          | 133698-34-7                    |
 |                              |                                |
-| precursor 1 [M+H]⁺           | 467.29820                      |
-| precursor 2 [M+2H]²⁺         | 234.15301                      |
-| precursor 3                  |                                |
+| Precursor 1 [M+H]⁺           | 467.29820                      |
+| Precursor 2 [M+2H]²⁺         | 234.15301                      |
+| Precursor 3                  |                                |
 |                              |                                |
 | HDX                          | 10                             |
-| precursor HDX   [d₁₀-M+D]⁺   | 478.36724                      |
-| precursor HDX 2 [d₁₀-M+2D]²⁺ | 240.19067                      |
-| precursor HDX 3              |                                |
+| Precursor HDX 1 [d₁₀-M+D]⁺   | 478.36724                      |
+| Precursor HDX 2 [d₁₀-M+2D]²⁺ | 240.19067                      |
+| Precursor HDX 3              |                                |
 |                              |                                |
 | Rt                           |                                |
 | Rt HDX                       |                                |
@@ -39,19 +40,19 @@ tags = ["Larinioides patagiatus","Nephila clavata","Nephila inaurata madagascari
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                        | reference                                                                                                                     | spider                      | name         | content                            | link                                                                                                               |
+| Title                                                                                                                                                        | Reference                                                                                                                     | Spider                      | Name         | Content                            | Link                                                                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------|------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Detection of new spider toxins from a Nephilengys borbonica venom gland using on-line µ-column HPLC continuous flow (FRIT) FAB LC/MS and MS/MS               | Y. Itagaki, T. Fujita, H. Naoki, T. Yasuhara, M. Andriantsiferana, T. Nakajima, Nat. Toxins 1997, 5, 1-13                     | N. borbonica                | NPTX 466     | FAB-MS/MS (ns)                     | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A1%3C1%3A%3AAID-NT1%3E3.0.CO%3B2-8)  |
 | Mass spectrometric structure determination of spider toxins: Arginine-containing acylpolyamines from venoms of Brazilian garden spider Nephilengys cruentata | M. S. Palma, Y. Itagaki, T. Fujita, M. Hisada, H. Naoki, T. Nakajima, Nat. Toxins 1997, 5, 47-57                              | N. cruentata                |              | MS/MS (ns)                         | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A2%3C47%3A%3AAID-NT1%3E3.0.CO%3B2-X) |
@@ -62,7 +63,7 @@ tags = ["Larinioides patagiatus","Nephila clavata","Nephila inaurata madagascari
 
 ## Spider species
 
-| spider species                    | family    | source                 |
+| Spider species                    | Family    | Discovered             |
 |-----------------------------------|-----------|------------------------|
 | Larinioides patagiatus            | Araneidae | 2009 / S. Eichenberger |
 | Nephila clavata                   | Araneidae | 2005 / M. S. Palma     |

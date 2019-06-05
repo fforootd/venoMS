@@ -1,6 +1,7 @@
 +++
 title = "4-OH-PhLac343"
-categories = ["C19H34N4O3","P321","D161","HDX329"]
+categories = ["C19H34N4O3","P321","D161","HDX329",
+"Atracidae","Theraphosidae"]
 tags = ["Acanthoscurria geniculata","Atrax robustus",
 "Chilobrachys sp.",
 "Psalmopoeus irminia",
@@ -11,22 +12,22 @@ tags = ["Acanthoscurria geniculata","Atrax robustus",
 
 ## General Description
 
-| name                        | value       |
+| Name                        | Value       |
 |-----------------------------|-------------|
 | Level                       | IV          |
-| First mention               | 2017 / div. |
-| Alternative name(s)         | PA 366      |
+| Discovered                  | 2017 / div. |
+| Synonym                     | PA 366      |
 | Molecular formula           | C₁₉H₃₄N₄O₃  |
 | CAS                         | ---         |
 |                             |             |
-| precursor 1 [M+H]⁺          | 321.26544   |
-| precursor 2 [M+2H]²⁺        | 161.13663   |
-| precursor 3                 |             |
+| Precursor 1 [M+H]⁺          | 321.26544   |
+| Precursor 2 [M+2H]²⁺        | 161.13663   |
+| Precursor 3                 |             |
 |                             |             |
 | HDX                         | 7           |
-| precursor HDX   [d₇-M+D]⁺   | 329.31565   |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 165.66488   |
-| precursor HDX 3             |             |
+| Precursor HDX 1 [d₇-M+D]⁺   | 329.31565   |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 165.66488   |
+| Precursor HDX 3             |             |
 |                             |             |
 | Rt                          |             |
 | Rt HDX                      |             |
@@ -41,25 +42,25 @@ tags = ["Acanthoscurria geniculata","Atrax robustus",
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                  | reference                                                                                                                                           | spider | name   | content                            | link                                          |
+| Title                                                                                  | Reference                                                                                                                                           | Spider | Name   | Content                            | Link                                          |
 |----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|------------------------------------|-----------------------------------------------|
 | The aromatic head group of spider toxin polyamines influences toxicity to cancer cells | D. Wilson, G. M. Boyle, L. McIntyre, M. J. Nolan, P. G. Parson, J. J. Smith, L. Tribolet, A. Loukas, M. J. Liddell, L. D. Rash, Toxins 2017, 9, 346 | div.   | PA 366 | MALDI-MS/MS, NMR, Activity-studies | [Link](https://doi.org/10.3390/toxins9110346) |
 
 ## Spider species
 
-| spider species            | family        | first mention    |
+| Spider species            | Family        | Discovered       |
 |---------------------------|---------------|------------------|
 | Acanthoscurria geniculata | Theraphosidae | 2017 / D. Wilson |
 | Atrax robustus            | Atracidae     | 2017 / D. Wilson |

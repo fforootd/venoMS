@@ -1,5 +1,6 @@
 +++
 title = "FTX"
+categories = ["Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
 
@@ -7,22 +8,22 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| name                       | value            |
+| Name                       | Value            |
 |----------------------------|------------------|
 | Level                      | VI               |
-| First mention              | 1989 / A. aperta |
-| Alternative name(s)        |                  |
+| Discovered                 | 1989 / A. aperta |
+| Synonym                    |                  |
 | Molecular formula          |                  |
 | CAS                        |                  |
 |                            |                  |
-| precursor   [M+H]⁺         |                  |
-| precursor 2 [M+2H]²⁺       |                  |
-| precursor 3                |                  |
+| Precursor 1 [M+H]⁺         |                  |
+| Precursor 2 [M+2H]²⁺       |                  |
+| Precursor 3                |                  |
 |                            |                  |
 | HDX                        |                  |
-| precursor HDX   [d-M+D]⁺   |                  |
-| precursor HDX 2 [d-M+2D]²⁺ |                  |
-| precursor HDX 3            |                  |
+| Precursor HDX 1 [d-M+D]⁺   |                  |
+| Precursor HDX 2 [d-M+2D]²⁺ |                  |
+| Precursor HDX 3            |                  |
 |                            |                  |
 | Rt                         |                  |
 | Rt HDX                     |                  |
@@ -35,19 +36,19 @@ tags = ["Agelenopsis aperta"]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel  | reference | spider | name | content | link |
+| Title  | Reference | Spider | Name | Content | Link |
 |--------|-----------|--------|------|---------|------|
 | Blocking and isolation of a calcium channel from neurons in mammals and cephalopods utilizing a toxin fraction (FTX) from funnel-web spider poison  | R. Llinas, M. Sugimori, J. W. Lin, B. Cherksey, PNAS 1989, 86, 1689-1693. | A. aperta | FTX |  | [Link](https://doi.org/10.1073/pnas.86.5.1689) |
 | Properties of calcium channels isolated with spider toxin, FTX  | B. D. Cherksey, M. Sugimori, R. R. Llinas, Ann. N. Y. Acad. Sci. 1991, 635, 1, 80-89 | A. aperta | FTX |  | [Link](https://doi.org/10.1111/j.1749-6632.1991.tb36483.x) |
@@ -58,9 +59,10 @@ tags = ["Agelenopsis aperta"]
 
 ## Spider species
 
-| spider species     | family     | first mention     |
+| Spider species     | Family     | Discovered        |
 |--------------------|------------|-------------------|
 | Agelenopsis aperta | Agelenidae | 1989 /  R. Llinas |
 
 ## Comments
+
 FTX is a unknown compound (200 - 400 Da), probably a polyamine with a C:N ratio of 2:1. May guanidino moiety. No oxygen.

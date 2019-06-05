@@ -1,6 +1,7 @@
 +++
 title = "Glutamic acid 5-methylester"
-categories = ["C6H11NO4","P162","HDX166"]
+categories = ["C6H11NO4","P162","HDX166",
+"Eresidae","Gnaphosidae","Lycosidae"]
 tags = ["Alopecosa sp.",
 "Drassodes sp.",
 "Eresus sp.",
@@ -14,25 +15,29 @@ draft = true
 
 ## General Description
 
-| name                    | value          |
-|-------------------------|----------------|
-| Level                   | I              |
-| First mention           | 2019 / div.    |
-| Alternative name(s)     |                |
-| Molecular formula       | C₆H₁₁NO₄       |
-| CAS                     | 1499-55-4      |
-|                         |                |
-| precursor [M+H]⁺        | 162.07663      |
-|                         |                |
-| HDX                     | 3              |
-| precursor HDX [d₃-M+D]⁺ | 166.10174      |
-|                         |                |
-| Rt                      |                |
-| Rt HDX                  |                |
+| Name                      | Value       |
+|---------------------------|-------------|
+| Level                     | I           |
+| Discovered                | 2019 / div. |
+| Synonym                   |             |
+| Molecular formula         | C₆H₁₁NO₄    |
+| CAS                       | 1499-55-4   |
+|                           |             |
+| Precursor 1 [M+H]⁺        | 162.07663   |
+| Precursor 2               |             |
+| Precursor 3               |             |
+|                           |             |
+| HDX                       | 3           |
+| Precursor HDX 1 [d₃-M+D]⁺ | 166.10174   |
+| Precursor HDX 2           |             |
+| Precursor HDX 3           |             |
+|                           |             |
+| Rt                        |             |
+| Rt HDX                    |             |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation         |
+| m/z       | Molecular formula | Annotation         |
 |-----------|-------------------|--------------------|
 | 162.07663 | C₆H₁₂NO₄          | [M+H]⁺             |
 | 145.05008 | C₆H₉O₄            | [M+H-NH₃]⁺         |
@@ -45,19 +50,19 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider                        | source        |
+| pdf | Precursor | Co-eluting | Spider                        | Source        |
 |-----|-----------|------------|-------------------------------|---------------|
 |     | 162.07663 |            | L-Glutamic acid 5-methylester | Sigma Aldrich |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species     | family      | first mention        |
+| Spider species     | Family      | Discovered           |
 |--------------------|-------------|----------------------|
 | Alopecosa sp.      | Lycosidae   | 2019 / Y. M. Forster |
 | Drassodes sp.      | Gnaphosidae | 2019 / Y. M. Forster |

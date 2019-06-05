@@ -1,6 +1,7 @@
 +++
 title = "ADP"
-categories = ["C10H15N5O10P2","P428","HDX436"]
+categories = ["C10H15N5O10P2","P428","HDX436",
+"Theraphosidae"]
 tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodora sp."]
 +++
 
@@ -8,25 +9,29 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodo
 
 ## General Description
 
-| name                    | value                              |
-|-------------------------|------------------------------------|
-| Level                   | II [Link](https://doi.org/10.1016/j.toxicon.2013.06.006)                                |
-| First mention           | 1975 / A. hentzi & Aphonopelma sp. |
-| Alternative name(s)     |                                    |
-| Molecular formula       | C₁₀H₁₅N₅O₁₀P₂                      |
-| CAS                     | 58-64-0                            |
-|                         |                                    |
-| precursor  [M+H]⁺       | 428.03724                          |
-|                         |                                    |
-| HDX                     | 7                                  |
-| precursor HDX [d₇-M+D]⁺ | 436.08745                          |
-|                         |                                    |
-| Rt                      |                                    |
-| Rt HDX                  |                                    |
+| Name                      | Value                                                    |
+|---------------------------|----------------------------------------------------------|
+| Level                     | II [Link](https://doi.org/10.1016/j.toxicon.2013.06.006) |
+| Discovered                | 1975 / A. hentzi & Aphonopelma sp.                       |
+| Synonym                   |                                                          |
+| Molecular formula         | C₁₀H₁₅N₅O₁₀P₂                                            |
+| CAS                       | 58-64-0                                                  |
+|                           |                                                          |
+| Precursor 1 [M+H]⁺        | 428.03724                                                |
+| Precursor 2               |                                                          |
+| Precursor 3               |                                                          |
+|                           |                                                          |
+| HDX                       | 7                                                        |
+| Precursor HDX 1 [d₇-M+D]⁺ | 436.08745                                                |
+| Precursor HDX 2           |                                                          |
+| Precursor HDX 3           |                                                          |
+|                           |                                                          |
+| Rt                        |                                                          |
+| Rt HDX                    |                                                          |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation   |
+| m/z       | Molecular formula | Annotation   |
 |-----------|-------------------|--------------|
 | 428.03724 | C₁₀H₁₆N₅O₁₀P₂     | [M+H]⁺       |
 | 348.07091 | C₁₀H₁₅N₅O₇P       |              |
@@ -34,13 +39,13 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodo
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                             | reference                                                                                                                                                                                                       | spider                      | name                      | content | link                                                 |
+| Title                                                                                             | Reference                                                                                                                                                                                                       | Spider                      | Name                      | Content | Link                                                 |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|---------------------------|---------|------------------------------------------------------|
 | Adenosine triphosphate in tarantula spider venoms and its synergistic effect with the venom toxin | T. K. Chan, C. R. Geren, D. E. Howell, G. V. Odell, Toxicon 1975, 13, 1, 61-66                                                                                                                                  | A. hentzi & Aphonopelma sp. | TLC                       |         | [Link](https://doi.org/10.1016/0041-0101(75)90159-2)         |
 | Biochemical analysis of tarantula venom (Eurypelma californicum)                                  | A. Savel-Niemann, D. Roth, Naturwissenschaften 1989, 76, 5, 212-213                                                                                                                                             | E. californicum             | HPLC                      |         | [Link](https://link.springer.com/article/10.1007/BF00627688) |
@@ -49,7 +54,7 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodo
 
 ## Spider species
 
-| spider species         | family        | first mention           |
+| Spider species         | Family        | Discovered           |
 |------------------------|---------------|-------------------------|
 | Aphonopelma hentzi     | Theraphosidae | 1975 / T. K. Chan       |
 | Aphonopelma sp.        | Theraphosidae | 1975 / T. K. Chan       |

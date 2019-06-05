@@ -1,6 +1,7 @@
 +++
 title = "Valerobetaine"
-categories = ["C8H18NO2","P160","HDX161"]
+categories = ["C8H18NO2","P160","HDX161",
+"Araneidae"]
 tags = ["Parawixia bistriata"]
 draft = true
 +++
@@ -9,25 +10,29 @@ draft = true
 
 ## General Description
 
-| name                | value               |
-|---------------------|---------------------|
-| Level               | IV                  |
-| First mention       | 2019 / P. bistriata |
-| Alternative name(s) |                     |
-| Molecular formula   | C₈H₁₈NO₂            |
-| CAS                 | 6778-33-2           |
-|                     |                     |
-| precursor M⁺        | 160.13375           |
-|                     |                     |
-| HDX                 | 1                   |
-| precursor HDX d₁-M⁺ | 161.14003           |
-|                     |                     |
-| Rt                  |                     |
-| Rt HDX              |                     |
+| Name                   | Value               |
+|------------------------|---------------------|
+| Level                  | IV                  |
+| Discovered             | 2019 / P. bistriata |
+| Synonym                |                     |
+| Molecular formula      | C₈H₁₈NO₂            |
+| CAS                    | 6778-33-2           |
+|                        |                     |
+| Precursor 1  M⁺        | 160.13375           |
+| Precursor 2            |                     |
+| Precursor 3            |                     |
+|                        |                     |
+| HDX                    | 1                   |
+| Precursor HDX 1  d₁-M⁺ | 161.14003           |
+| Precursor HDX 2        |                     |
+| Precursor HDX 3        |                     |
+|                        |                     |
+| Rt                     |                     |
+| Rt HDX                 |                     |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation |
+| m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
 | 160.13375 | C₈H₁₈NO₂          | M⁺         |
 | 101.06025 | C₅H₉O₂            |            |
@@ -36,19 +41,19 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species      | family    | first mention        |
+| Spider species      | Family    | Discovered           |
 |---------------------|-----------|----------------------|
 | Parawixia bistriata | Araneidae | 2019 / Y. M. Forster |
 

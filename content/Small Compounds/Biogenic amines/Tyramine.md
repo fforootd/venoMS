@@ -1,6 +1,7 @@
 +++
 title = "Tyramine"
-categories = ["C8H11NO","P138","HDX142"]
+categories = ["C8H11NO","P138","HDX142",
+"Atracidae"]
 tags = ["Atrax robustus"]
 +++
 
@@ -8,44 +9,47 @@ tags = ["Atrax robustus"]
 
 ## General Description
 
-| name                    | value              |
-|-------------------------|--------------------|
-| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=KO004083)                |
-| First mention           | 1979 / A. robustus |
-| Alternative name(s)     |                    |
-| Molecular formula       | C₈H₁₁NO            |
-| CAS                     | 51-67-2            |
-|                         |                    |
-| precursor [M+H]⁺        | 138.09189          |
-| precursor [M+H-NH₃]⁺    | 121.06534          |
-|                         |                    |
-| HDX                     | 3                  |
-| precursor HDX [d₃-M+D]⁺ | 142.11699          |
-|                         |                    |
-| Rt                      |                    |
-| Rt HDX                  |                    |
+| Name                      | Value                                                       |
+|---------------------------|-------------------------------------------------------------|
+| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=KO004083) |
+| Discovered                | 1979 / A. robustus                                          |
+| Synonym                   |                                                             |
+| Molecular formula         | C₈H₁₁NO                                                     |
+| CAS                       | 51-67-2                                                     |
+|                           |                                                             |
+| Precursor 1 [M+H]⁺        | 138.09189                                                   |
+| Precursor 2 [M+H-NH₃]⁺    | 121.06534                                                   |
+| Precursor 3               |                                                             |
+|                           |                                                             |
+| HDX                       | 3                                                           |
+| Precursor HDX 1 [d₃-M+D]⁺ | 142.11699                                                   |
+| Precursor HDX 2           |                                                             |
+| Precursor HDX 3           |                                                             |
+|                           |                                                             |
+| Rt                        |                                                             |
+| Rt HDX                    |                                                             |
 
 ## MS/MS fragments
 
-| m/z | molecular formula | annotation |
+| m/z | Molecular formula | Annotation |
 |-----|-------------------|------------|
 |     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf      | precursor | co-eluting | spider   | source        |
+| pdf      | Precursor | Co-eluting | Spider   | Source        |
 |----------|-----------|------------|----------|---------------|
 | [Data]() | 138.09189 |            | Tyramine | Sigma Aldrich |
 
 ## References
 
-| titel                                                                                                            | reference                                                                                              | spider      | name | content | link                                   |
+| Title                                                                                                            | Reference                                                                                              | Spider      | Name | Content | Link                                   |
 |------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------|------|---------|----------------------------------------|
 | Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry | P. H. Duffield, A. M. Duffield, P. R. Carroll, D. Morgans, Biomed. Mass. Spectrom. 1979, 6, 3, 105-108 | A. robustus |      | GC-MS   | [Link](https://doi.org/10.1002/bms.1200060305) |
 
 ## Spider species
 
-| spider species | family    | first mention         |
+| Spider species | Family    | Discovered            |
 |----------------|-----------|-----------------------|
 | Atrax robustus | Atracidae | 1979 / P. H. Duffield |
 

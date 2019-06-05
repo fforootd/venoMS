@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5ßAla4"
-categories = ["C26H41N7O4","P516","D258","HDX526"]
+categories = ["C26H41N7O4","P516","D258","HDX526",
+"Araneidae"]
 tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## General Description
 
-| name                        | value                                |
+| Name                        | Value                                |
 |-----------------------------|--------------------------------------|
-| level                       | III                                  |
-| first mention               | 1988 / N. clavata                    |
-| alternative name(s)         | Nephilatoxin 12 / NPTX 12 / NPTX 515 |
-| molecular formula           | C₂₆H₄₁N₇O₄                           |
+| Level                       | III                                  |
+| Discovered                  | 1988 / N. clavata                    |
+| Synonym                     | Nephilatoxin 12 / NPTX 12 / NPTX 515 |
+| Molecular formula           | C₂₆H₄₁N₇O₄                           |
 | CAS                         | 150295-85-5                          |
 |                             |                                      |
-| precursor 1 [M+H]⁺          | 516.32983                            |
-| precursor 2 [M+2H]²⁺        | 258.66883                            |
-| precursor 3                 |                                      |
+| Precursor 1 [M+H]⁺          | 516.32983                            |
+| Precursor 2 [M+2H]²⁺        | 258.66883                            |
+| Precursor 3                 |                                      |
 |                             |                                      |
 | HDX                         | 9                                    |
-| precursor HDX   [d₉-M+D]⁺   | 526.39259                            |
-| precursor HDX 2 [d₉-M+2D]²⁺ | 264.20335                            |
-| precursor HDX 3             |                                      |
+| Precursor HDX 1 [d₉-M+D]⁺   | 526.39259                            |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 264.20335                            |
+| Precursor HDX 3             |                                      |
 |                             |                                      |
 | Rt                          |                                      |
 | Rt HDX                      |                                      |
@@ -39,19 +40,19 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                        | reference                                                                                                                                                                   | spider       | name                      | content                               | link                                                                                                               |
+| Title                                                                                                                                                        | Reference                                                                                                                                                                   | Spider       | Name                      | Content                               | Link                                                                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Isolation and chemical characterization of a series of new spider toxin (nephilatoxins) in the venom of Joro spider, Nephila clavata                         | T. Toki, T. Yasuhara, Y. Aramaki, K. Osawa, A. Miwa, N. Kawai, T. Nakajima, Biomed. Res. 1988, 9, 421-428                                                                   | N. clavata   | Nephilatoxin 12 / NPTX 12 | Amino acid analysis, Activity-studies | [Link](https://www.jstage.jst.go.jp/article/biomedres/9/6/9_421/_article)                                          |
 | Synthetic studies on spider neurotoxins (II): Total synthesis of nephilatoxins (NPTX-10 and NPTX-12), nwe neurotoxins of Joro spider (Nephila clavata)       | M. Miyashita, H. Sato, M. Matsushita, Y. Kusumegi, T. Toki, A. Yoshikoshi, T. Yanami, Y. Kikuchi, C. Taksaki, T. Nakajima, H. Irie, Tetrahedron Letters 1992, 33, 2837-2840 |              | NPTX 12                   | Synthesis, NMR (ns),                  | [Link](https://www.sciencedirect.com/science/article/pii/S0040403900788733)                                        |
@@ -64,7 +65,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 1988 / T. Toki     |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |

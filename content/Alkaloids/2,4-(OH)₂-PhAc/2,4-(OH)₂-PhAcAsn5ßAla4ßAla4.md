@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla4ßAla4"
-categories = ["C31H54N8O7","P651","D326","HDX664"]
+categories = ["C31H54N8O7","P651","D326","HDX664",
+"Araneidae"]
 tags = ["Nephila clavata","Nephilingis borbonica"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata","Nephilingis borbonica"]
 
 ## General Description
 
-| name                         | value             |
+| Name                         | Value             |
 |------------------------------|-------------------|
-| level                        | V                 |
-| first mention                | 1990 / N. clavata |
-| alternative name(s)          | JSTX 2 / NPTX 650 |
-| molecular formula            | C₃₁H₅₄N₈O₇        |
+| Level                        | V                 |
+| Discovered                   | 1990 / N. clavata |
+| Synonym                      | JSTX 2 / NPTX 650 |
+| Molecular formula            | C₃₁H₅₄N₈O₇        |
 | CAS                          | ---               |
 |                              |                   |
-| precursor 1 [M+H]⁺           | 651.41937         |
-| precursor 2 [M+2H]²⁺         | 326.21360         |
-| precursor 3                  |                   |
+| Precursor 1 [M+H]⁺           | 651.41937         |
+| Precursor 2 [M+2H]²⁺         | 326.21360         |
+| Precursor 3                  |                   |
 |                              |                   |
 | HDX                          | 12                |
-| precursor HDX   [d₁₂-M+D]⁺   | 664.50097         |
-| precursor HDX 2 [d₁₂-M+2D]²⁺ | 333.25753         |
-| precursor HDX 3              |                   |
+| Precursor HDX 1 [d₁₂-M+D]⁺   | 664.50097         |
+| Precursor HDX 2 [d₁₂-M+2D]²⁺ | 333.25753         |
+| Precursor HDX 3              |                   |
 |                              |                   |
 | Rt                           |                   |
 | Rt HDX                       |                   |
@@ -41,19 +42,19 @@ tags = ["Nephila clavata","Nephilingis borbonica"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                          | reference                                                                                                            | spider                    | name     | content                                          | link                                                                                                              |
+| Title                                                                                                                                          | Reference                                                                                                            | Spider                    | Name     | Content                                          | Link                                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------------|----------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | Chemical structure of Joro spider toxin (JSTX)                                                                                                 | Y. Aramaki, T. Yasuhara, K. Schimazaki, N. Kawai, T. Nakajima, Biomed. Res. 1987, 8, 241                             | N. clavata                | JSTX 2   | NMR (ns), Amino acid analysis, structure unknown | [Link](https://www.jstage.jst.go.jp/article/biomedres/8/4/8_241/_article)                                         |
 | Molecular structures of spider toxins (JSTX-1, 2, 3 and 4) in the venom of Nephila clavata L. Koch                                             | T. Toki, T. Yasuhara, Y. Aramaki, Y. Hashimoto, K. Shudo, N. Kawai, T. Nakajima, Jpn. J. Sanit. Zool. 1990, 41, 9-14 | N. clavata                | JSTX 2   | Amino acid analysis                              | [Link](https://www.jstage.jst.go.jp/article/mez/41/1/41_KJ00000823475/_article)                                   |
@@ -64,7 +65,7 @@ tags = ["Nephila clavata","Nephilingis borbonica"]
 
 ## Spider species
 
-| spider species        | family    | source            |
+| Spider species        | Family    | Discovered        |
 |-----------------------|-----------|-------------------|
 | Nephila clavata       | Araneidae | 1990 / T. Toki    |
 | Nephilingis borbonica | Araneidae | 1997 / Y. Itagaki |

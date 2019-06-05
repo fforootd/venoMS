@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn533Arg"
-categories = ["C29H52N10O6","P637","D319","HDX653"]
+categories = ["C29H52N10O6","P637","D319","HDX653",
+"Araneidae"]
 tags = ["Araneus gemma","Araneus ventricosus","Argiope aurantia","Argiope florida","Argiope lobata","Argiope sp.","Argiope trifasciata"]
 +++
 
@@ -8,25 +9,25 @@ tags = ["Araneus gemma","Araneus ventricosus","Argiope aurantia","Argiope florid
 
 ## General Description
 
-| name                         | value            |
-|---------------------         |------------------|
-| level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                 |
-| first mention                | 1986 / A. lobata |
-| alternative name(s)          | AR 636 / Arg 636 / Argiopine / Argiotoxin 636 / ArgTX 636 / ATX / AVTX 636                |
-| molecular formula            | C₂₉H₅₂N₁₀O₆ |
-| CAS                          | 144576-90-9 |
-|                              |             |
-| precursor 1 [M+H]⁺           | 637.41496   |
-| precursor 2 [M+2H]²⁺         | 319.21139   |
-| precursor 3                  |             |
-|                              |             |
-| HDX                          | 15          |
-| precursor HDX   [d₁₅-M+D]⁺   | 653.51539   |
-| precursor HDX 2 [d₁₅-M+2D]²⁺ | 327.76475   |
-| precursor HDX 3              |             |
-|                              |             |
-| Rt                           |             |
-| Rt HDX                       |             |
+| Name                         | Value                                                                          |
+|------------------------------|--------------------------------------------------------------------------------|
+| Level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Discovered                   | 1986 / A. lobata                                                               |
+| Synonym                      | AR 636 / Arg 636 / Argiopine / Argiotoxin 636 / ArgTX 636 / ATX / AVTX 636     |
+| Molecular formula            | C₂₉H₅₂N₁₀O₆                                                                    |
+| CAS                          | 144576-90-9                                                                    |
+|                              |                                                                                |
+| Precursor 1 [M+H]⁺           | 637.41496                                                                      |
+| Precursor 2 [M+2H]²⁺         | 319.21139                                                                      |
+| Precursor 3                  |                                                                                |
+|                              |                                                                                |
+| HDX                          | 15                                                                             |
+| Precursor HDX 1 [d₁₅-M+D]⁺   | 653.51539                                                                      |
+| Precursor HDX 2 [d₁₅-M+2D]²⁺ | 327.76475                                                                      |
+| Precursor HDX 3              |                                                                                |
+|                              |                                                                                |
+| Rt                           |                                                                                |
+| Rt HDX                       |                                                                                |
 
 ## Calculated MS/MS fragments
 
@@ -39,19 +40,19 @@ tags = ["Araneus gemma","Araneus ventricosus","Argiope aurantia","Argiope florid
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                                                        | reference                                                                                                                                                                             | spider                      | name                                                                   | content                                                    | link                                                                                                                                                                                      |
+| Title                                                                                                                                                                                        | Reference                                                                                                                                                                             | Spider                      | Name                                                                   | Content                                                    | Link                                                                                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Structure-functional characterization of argiopin -  An ion channel blocker from the venom of spider Argiope lobata                                                                          | E. V. Grishin, T. M. Volkova, A. S. Arseniev, V. V. Onoprienko, L. G. Magazanik, S. M. Antonov, I. M. Fedorova, Bioorg. Kim. 1986, 12, 1121                                           | A. lobata                   | Arg 636                                                                |                                                            | [Link](https://www.researchgate.net/publication/20724690_Structure-functional_characterisation_of_argiopin_-_an_ion_channel_blocker_from_the_venom_of_spider_Argiope_lobata)              |
 | Effects of the spider Argiope lobata crude venom and its low-molecular weight component, argiopin, on the postsynaptic membrane                                                              | L. G. Magazanic, S. M. Antonov, I. M. Fedorova, T. M. Volkova, E. V. Grishin, Biol. Membr. 1986, 3, 1204-1219                                                                         | A. lobata                   |                                                                        |                                                            | [Link](https://www.researchgate.net/publication/301590680_Effects_of_the_spider_Argiope_lobata_crude_venom_and_its_low_molecular_weight_component_argiopin_on_the_postsynaptic_membranes) |
@@ -116,7 +117,7 @@ tags = ["Araneus gemma","Araneus ventricosus","Argiope aurantia","Argiope florid
 
 ## Spider species
 
-| spider species      | family    | source               |
+| Spider species      | Family    | Discovered           |
 |---------------------|-----------|----------------------|
 | Araneus gemma       | Araneidae | 1988 / C. J. Kerry   |
 | Araneus ventricosus | Araneidae | 2019 / K. Lui        |

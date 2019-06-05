@@ -1,6 +1,7 @@
 +++
 title = "PA4"
-categories = ["C4H12N2","P89","D45","HDX94"]
+categories = ["C4H12N2","P89","D45","HDX94",
+"Araneidae","Ctenidae","Theraphosidae"]
 tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope bruennichi",
 "Cupiennius salei",
 "Neoscona nautica","Nephila clavata",
@@ -11,22 +12,22 @@ tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope br
 
 ## General Description
 
-| name                        | value       |
+| Name                        | Value       |
 |-----------------------------|-------------|
 | Level                       | V           |
-| First mention               | 1980 / div. |
-| Alternative name(s)         | Putrescine  |
+| Discovered                  | 1980 / div. |
+| Synonym                     | Putrescine  |
 | Molecular formula           | C₄H₁₂N₂     |
 | CAS                         | 110-60-1    |
 |                             |             |
-| precursor   [M+H]⁺          | 89.10788    |
-| precursor 2 [M+2H]²⁺        | 45.05785    |
-| precursor 3                 |             |
+| Precursor 1 [M+H]⁺          | 89.10788    |
+| Precursor 2 [M+2H]²⁺        | 45.05785    |
+| Precursor 3                 |             |
 |                             |             |
 | HDX                         | 4           |
-| precursor HDX   [d₄-M+D]⁺   | 94.13926    |
-| precursor HDX 2 [d₄-M+2D]²⁺ | 48.07668    |
-| precursor HDX 3             |             |
+| Precursor HDX 1 [d₄-M+D]⁺   | 94.13926    |
+| Precursor HDX 2 [d₄-M+2D]²⁺ | 48.07668    |
+| Precursor HDX 3             |             |
 |                             |             |
 | Rt                          |             |
 | Rt HDX                      |             |
@@ -39,19 +40,19 @@ tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope br
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                                                                                                                                                                     | reference                                                                                                                | spider                 | name       | content             | link                                                                     |
+| Title                                                                                                                                                                                                                                     | Reference                                                                                                                | Spider                 | Name       | Content             | Link                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------|------------|---------------------|--------------------------------------------------------------------------|
 | Polyamines in some tarantula venoms                                                                                                                                                                                                       | S. G. Cabbiness, C. W. Gehrke, K. C. Kuo, T. K. Chan, J. E. Hall, S. A. Hudiburg, G. V. Odell, Toxicon 1980, 18, 681-683 | div.                   |            |                     | [Link](https://doi.org/10.1016/0041-0101(80)90099-9)                     |
 | Determination of biogenic amines in spider venom glands of nine typical Japanese species and chromatographic elution pattern analysis of venomous components                                                                              | K. Hagiwara, A. Tokita, A. Miwa, N. Kawai, Y. Murata, A. Uchida, T. Nakajima, Jpn. J. Sanit. Zool. 1991, 42, 2, 77-84    | div.                   |            | HPLC                | [link](https://doi.org/10.7601/mez.42.77)                                |
@@ -63,7 +64,7 @@ tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope br
 
 ## Spider species
 
-| spider species                    | family        | first mention          |
+| Spider species                    | Family        | Discovered             |
 |-----------------------------------|---------------|------------------------|
 | Aphonopelma emilia*               | Theraphosidae | 1980 / S. G. Cabbiness |
 | Aphonopelma hentzi                | Theraphosidae | 1980 / S. G. Cabbiness |

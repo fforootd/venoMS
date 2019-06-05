@@ -1,6 +1,7 @@
 +++
 title = "PA3(OH)334Gu"
-categories = ["C14H35N7O","P318","D159","HDX328"]
+categories = ["C14H35N7O","P318","D159","HDX328",
+"Agelenidae"]
 tags = ["Pireneitega luctuosa"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Pireneitega luctuosa"]
 
 ## General Description
 
-| name                        | value              |
+| Name                        | Value              |
 |-----------------------------|--------------------|
 | Level                       | IV                 |
-| First mention               | 2005 / P. luctuosa |
-| Alternative name(s)         | ---                |
+| Discovered                  | 2005 / P. luctuosa |
+| Synonym                     | ---                |
 | Molecular formula           | C₁₄H₃₅N₇O          |
 | CAS                         | 864812-14-6        |
 |                             |                    |
-| precursor   [M+H]⁺          | 318.29814          |
-| precursor 2 [M+2H]²⁺        | 159.65298          |
-| precursor 3                 |                    |
+| Precursor 1 [M+H]⁺          | 318.29814          |
+| Precursor 2 [M+2H]²⁺        | 159.65298          |
+| Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 9                  |
-| precursor HDX   [d₉-M+D]⁺   | 328.36091          |
-| precursor HDX 2 [d₉-M+2D]²⁺ | 165.18750          |
-| precursor HDX 3             |                    |
+| Precursor HDX 1 [d₉-M+D]⁺   | 328.36091          |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 165.18750          |
+| Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          |                    |
 | Rt HDX                      |                    |
@@ -39,26 +40,26 @@ tags = ["Pireneitega luctuosa"]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                                                                                                               | reference                                                                           | spider      | name | content         | link                                                                                 |
+| Title                                                                                                                                                                               | Reference                                                                           | Spider      | Name | Content         | Link                                                                                 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------|------|-----------------|--------------------------------------------------------------------------------------|
 | New linear polyamine derivatives in spider venoms                                                                                                                                   | M. Tzouros, S. Chesnov, S. Bienz, M. Hesse, L. Bigler, Toxicon 2005, 46, 350-354    | P. luctuosa |      | APCI-MS/MS (ns) | [Link](https://doi.org/10.1016/j.toxicon.2005.04.018)                                |
 | A template approach for the characterization of linear polyamines and derivatives in spider venom                                                                                   | M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Eur. J. Mass Spectrom. 2013, 19, 57-69 | P. luctuosa |      | APCI-MS/MS      | [Link](https://doi.org/10.1255/ejms.1213)                                            |
 
 ## Spider species
 
-| spider species       | family     | first mention     |
+| Spider species       | Family     | Discovered        |
 |----------------------|------------|-------------------|
 | Pireneitega luctuosa | Agelenidae | 2005 / M. Tzouros |
 

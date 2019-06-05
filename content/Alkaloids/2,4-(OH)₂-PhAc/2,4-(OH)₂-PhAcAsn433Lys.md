@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn433Lys"
-categories = ["C28H50N8O6","P595","D298","HDX609"]
+categories = ["C28H50N8O6","P595","D298","HDX609",
+"Araneidae"]
 tags = ["Nephila clavipes","Nephila inaurata madagascariensis"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavipes","Nephila inaurata madagascariensis"]
 
 ## General Description
 
-| name                         | value                                    |
+| Name                         | Value                                    |
 |------------------------------|------------------------------------------|
-| level                        | IV                                       |
-| first mention                | 2001 / N. clavipes & N. madagascariensis |
-| alternative name(s)          | NPTX 594                                 |
-| molecular formula            | C₂₈H₅₀N₈O₆                               |
+| Level                        | IV                                       |
+| Discovered                   | 2001 / N. clavipes & N. madagascariensis |
+| Synonym                      | NPTX 594                                 |
+| Molecular formula            | C₂₈H₅₀N₈O₆                               |
 | CAS                          | 288072-21-9                              |
 |                              |                                          |
-| precursor 1 [M+H]⁺           | 595.39316                                |
-| precursor 2 [M+2H]²⁺         | 298.20049                                |
-| precursor 3                  |                                          |
+| Precursor 1 [M+H]⁺           | 595.39316                                |
+| Precursor 2 [M+2H]²⁺         | 298.20049                                |
+| Precursor 3                  |                                          |
 |                              |                                          |
 | HDX                          | 13                                       |
-| precursor HDX   [d₁₃-M+D]⁺   | 609.48104                                |
-| precursor HDX 2 [d₁₃-M+2D]²⁺ | 305.74757                                |
-| precursor HDX 3              |                                          |
+| Precursor HDX 1 [d₁₃-M+D]⁺   | 609.48104                                |
+| Precursor HDX 2 [d₁₃-M+2D]²⁺ | 305.74757                                |
+| Precursor HDX 3              |                                          |
 |                              |                                          |
 | Rt                           |                                          |
 | Rt HDX                       |                                          |
@@ -39,19 +40,19 @@ tags = ["Nephila clavipes","Nephila inaurata madagascariensis"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                | reference                                                                                                                                        | spider                            | name     | content                                                      | link                                                                        |
+| Title                                                                                                                                                | Reference                                                                                                                                        | Spider                            | Name     | Content                                                      | Link                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|----------|--------------------------------------------------------------|-----------------------------------------------------------------------------|
 | Total synthesis of the novel spider toxin NPTX-594 from Nephila madagascariencis                                                                     | T. Wakamiya, A. Yamamoto, K. Kawaguchi, T. Kinoshita, Y. Yamaguchi, Y. Itagaki, H. Naoki, T. Nakajima, Bull. Chem. Soc. Jpn. 2001, 74, 1743-1749 | N. clavipes & N. madagascariensis | NPTX 594 | Synthesis, NMR, Activity-studies                             | [Link](https://www.journal.csj.jp/doi/10.1246/bcsj.74.1743)                 |
 | Study on the structure activity relationships of NPTX-594, a spider toxin belonging to the type-B acylpolyamine structure                            | T. Wakamiya, T. Kinoshita, Y. Hattori, Y. Yamaguchi, H. Naoki, G. Corzo, T. Nakajima, Bull. Chem. Soc. Jpn. 2004, 77, 331-340                    |                                   |          | Synthesis of analouges, Activity-studies                     | [Link](https://www.journal.csj.jp/doi/10.1246/bcsj.77.331)                  |
@@ -59,7 +60,7 @@ tags = ["Nephila clavipes","Nephila inaurata madagascariensis"]
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavipes                  | Araneidae | 2001 / T. Wakamiya |
 | Nephila inaurata madagascariensis | Araneidae | 2001 / T. Wakamiya |

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn343"
-categories = ["C24H39N7O4","P490","D245","HDX501"]
+categories = ["C24H39N7O4","P490","D245","HDX501",
+"Araneidae"]
 tags = ["Larinioides patagiatus"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Larinioides patagiatus"]
 
 ## General Description
 
-| name                         | value                |
+| Name                         | Value                |
 |------------------------------|----------------------|
-| level                        | IV                   |
-| first mention                | 2009 / L. patagiatus |
-| alternative name(s)          | LF 489D              |
-| molecular formula            | C₂₄H₃₉N₇O₄           |
+| Level                        | IV                   |
+| Discovered                   | 2009 / L. patagiatus |
+| Synonym                      | LF 489D              |
+| Molecular formula            | C₂₄H₃₉N₇O₄           |
 | CAS                          | ---                  |
 |                              |                      |
-| precursor 1 [M+H]⁺           | 490.31418            |
-| precursor 2 [M+2H]²⁺         | 245.66100            |
-| precursor 3                  |                      |
+| Precursor 1 [M+H]⁺           | 490.31418            |
+| Precursor 2 [M+2H]²⁺         | 245.66100            |
+| Precursor 3                  |                      |
 |                              |                      |
 | HDX                          | 10                   |
-| precursor HDX   [d₁₀-M+D]⁺   | 501.38322            |
-| precursor HDX 2 [d₁₀-M+2D]²⁺ | 251.69866            |
-| precursor HDX 3              |                      |
+| Precursor HDX 1 [d₁₀-M+D]⁺   | 501.38322            |
+| Precursor HDX 2 [d₁₀-M+2D]²⁺ | 251.69866            |
+| Precursor HDX 3              |                      |
 |                              |                      |
 | Rt                           |                      |
 | Rt HDX                       |                      |
@@ -39,26 +40,26 @@ tags = ["Larinioides patagiatus"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                      | reference                                                     | spider        | name    | content                            | link                                                               |
+| Title                                                                                                      | Reference                                                     | Spider        | Name    | Content                            | Link                                                               |
 |------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------|---------|------------------------------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | L. patagiatus | LF 489D | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
 
 ## Spider species
 
-| spider species                    | family    | source                 |
-|-----------------------------------|-----------|------------------------|
-| Larinioides patagiatus            | Araneidae | 2009 / S. Eichenberger |
+| Spider species         | Family    | Discovered             |
+|------------------------|-----------|------------------------|
+| Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
 
 ## Comments

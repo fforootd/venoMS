@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn5ßAla43"
-categories = ["C29H48N8O5","P589","D295","HDX601"]
+categories = ["C29H48N8O5","P589","D295","HDX601",
+"Araneidae"]
 tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,25 +9,25 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## General Description
 
-| name                         | value                   |
-|------------------------------|-------------------------|
-| level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                     |
-| first mention                | 1996 / N. clavata       |
-| alternative name(s)          | Nephilatoxin 1 / NPTX 1 |
-| molecular formula            | C₂₉H₄₈N₈O₅              |
-| CAS                          | 119688-54-9 (S)         |
-|                              |                         |
-| precursor 1 [M+H]⁺           | 589.38259               |
-| precursor 2 [M+2H]²⁺         | 295.19521               |
-| precursor 3                  |                         |
-|                              |                         |
-| HDX                          | 11                      |
-| precursor HDX   [d₁₁-M+D]⁺   | 601.45791               |
-| precursor HDX 2 [d₁₁-M+2D]²⁺ | 301.73601               |
-| precursor HDX 3              |                         |
-|                              |                         |
-| Rt                           |                         |
-| Rt HDX                       |                         |
+| Name                         | Value                                                                          |
+|------------------------------|--------------------------------------------------------------------------------|
+| Level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Discovered                   | 1996 / N. clavata                                                              |
+| Synonym                      | Nephilatoxin 1 / NPTX 1                                                        |
+| Molecular formula            | C₂₉H₄₈N₈O₅                                                                     |
+| CAS                          | 119688-54-9 (S)                                                                |
+|                              |                                                                                |
+| Precursor 1 [M+H]⁺           | 589.38259                                                                      |
+| Precursor 2 [M+2H]²⁺         | 295.19521                                                                      |
+| Precursor 3                  |                                                                                |
+|                              |                                                                                |
+| HDX                          | 11                                                                             |
+| Precursor HDX 1 [d₁₁-M+D]⁺   | 601.45791                                                                      |
+| Precursor HDX 2 [d₁₁-M+2D]²⁺ | 301.73601                                                                      |
+| Precursor HDX 3              |                                                                                |
+|                              |                                                                                |
+| Rt                           |                                                                                |
+| Rt HDX                       |                                                                                |
 
 ## Calculated MS/MS fragments
 
@@ -40,19 +41,19 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                                                | reference                                                                                                                                | spider       | name                    | content                                              | link                                                                                                               |
+| Title                                                                                                                                                                                | Reference                                                                                                                                | Spider       | Name                    | Content                                              | Link                                                                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Isolation and chemical characterization of a series of new spider toxin (nephilatoxins) in the venom of Joro spider, Nephila clavata                                                 | T. Toki, T. Yasuhara, Y. Aramaki, K. Osawa, A. Miwa, N. Kawai, T. Nakajima, Biomed. Res. 1988, 9, 421-428                                | N. clavata   | Nephilatoxin 1 / NPTX 1 | Amino acid analysis, Activity-studies, 6-OH-IndAc... | [Link](https://www.jstage.jst.go.jp/article/biomedres/9/6/9_421/_article)                                          |
 | Polyamine toxins from spiders and wasps                                                                                                                                              | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125                                        | N. clavata   | NPTX 1                  | Review                                               | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X)                                        |
@@ -70,7 +71,7 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## Spider species
 
-| spider species        | family    | source             |
+| Spider species        | Family    | Discovered         |
 |-----------------------|-----------|--------------------|
 | Nephila clavata       | Araneidae | 1996 / T. Shinada  |
 | Nephilingis borbonica | Araneidae | 1997 / Y. Itagaki  |

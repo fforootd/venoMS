@@ -1,6 +1,7 @@
 +++
 title = "Trigonelline"
-categories = ["C7H8NO2","P138","HDX138"]
+categories = ["C7H8NO2","P138","HDX138",
+"Atracidae","Lycosidae","Oxyopidae","Pholcidae","Plectreuridae","Sparassidae"]
 tags = ["Atrax robustus",
 "Geolycosa sp.",
 "Heteropoda davidbowie",
@@ -15,25 +16,29 @@ draft = true
 
 ## General Description
 
-| name                | value       |
+| Name                | Value       |
 |---------------------|-------------|
 | Level               | I           |
-| First mention       | 2019 / div. |
-| Alternative name(s) |             |
+| Discovered          | 2019 / div. |
+| Synonym             |             |
 | Molecular formula   | C₇H₈NO₂     |
 | CAS                 | 535-83-1    |
 |                     |             |
-| precursor M⁺        | 138.05550   |
+| Precursor 1  M⁺     | 138.05550   |
+| Precursor 2         |             |
+| Precursor 3         |             |
 |                     |             |
 | HDX                 | 0           |
-| precursor HDX M⁺    | 138.05550   |
+| Precursor HDX 1  M⁺ | 138.05550   |
+| Precursor HDX 2     |             |
+| Precursor HDX 3     |             |
 |                     |             |
 | Rt                  | 1.21        |
 | Rt HDX              |             |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation |
+| m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
 | 138.05550 | C₇H₈NO₂           | M⁺         |
 | 110.06598 | C₆H₈NO            | [M-CO]⁺    |
@@ -42,19 +47,19 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                    | precursor | co-eluting | spider                           | source        |
+| pdf                                    | Precursor | Co-eluting | Spider                           | Source        |
 |----------------------------------------|-----------|------------|----------------------------------|---------------|
 | [Data](/pdf/138_Trigonelline_1-21.pdf) | 138.05550 |            | Trigonelline HCl (CAS 6138-41-6) | Sigma Aldrich |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species        | family        | first mention        |
+| Spider species        | Family        | Discovered           |
 |-----------------------|---------------|----------------------|
 | Atrax robustus        | Atracidae     | 2019 / Y. M. Forster |
 | Geolycosa sp.         | Lycosidae     | 2019 / Y. M. Forster |

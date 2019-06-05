@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3(OH)335(NMe₃)⁺"
-categories = ["C27H49N6O3","P505","D253","HDX511"]
+categories = ["C27H49N6O3","P505","D253","HDX511",
+"Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
 
@@ -12,22 +13,22 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| name                         | value                        |
+| Name                         | Value                        |
 |------------------------------|------------------------------|
-| level                        | IV                           |
-| first mention                | 1992 / A. aperta             |
-| alternative name(s)          | AG 504 / AG 505a / Agel 505a |
-| molecular formula            | C₂₇H₄₉N₆O₃⁺                  |
+| Level                        | IV                           |
+| Discovered                   | 1992 / A. aperta             |
+| Synonym                      | AG 504 / AG 505a / Agel 505a |
+| Molecular formula            | C₂₇H₄₉N₆O₃⁺                  |
 | CAS                          | 129724-54-5                  |
 |                              |                              |
-| precursor 1 M⁺               | 505.38661                    |
-| precursor 2 [M+H]²⁺          | 253.19722                    |
-| precursor 3 [M+TFA]⁺         | 619.37948                    |
+| Precursor 1  M⁺              | 505.38661                    |
+| Precursor 2 [M+H]²⁺          | 253.19722                    |
+| Precursor 3 [M+TFA]⁺         | 619.37948                    |
 |                              |                              |
 | HDX                          | 6                            |
-| precursor HDX   d₆-M⁺        | 511.42427                    |
-| precursor HDX 2 [d₆-M+D]²⁺   | 256.71919                    |
-| precursor HDX 3 [d₆-M+TFA]²⁺ | 626.42342                    |
+| Precursor HDX 1  d₆-M⁺       | 511.42427                    |
+| Precursor HDX 2 [d₆-M+D]²⁺   | 256.71919                    |
+| Precursor HDX 3 [d₆-M+TFA]²⁺ | 626.42342                    |
 |                              |                              |
 | Rt                           | 8.10                         |
 | Rt HDX                       | 6.43                         |
@@ -43,7 +44,7 @@ tags = ["Agelenopsis aperta"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 | 86.09697  | tz1-NMe₃   |
 | 126.12827 | z2-NMe₃    |
@@ -57,7 +58,7 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                           | precursor | co-eluting | spider    | source                       |
+| pdf                                                           | Precursor | Co-eluting | Spider    | Source                       |
 |---------------------------------------------------------------|-----------|------------|-----------|------------------------------|
 | [Data](/pdf/A-aperta/505_4-OH-IndAc3(OH)335(NMe3)_Aa.pdf)     | 505.38661 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/505_4-OH-IndAc3(OH)335(NMe3)_Aa_2.pdf)   | 253.19722 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
@@ -65,7 +66,7 @@ tags = ["Agelenopsis aperta"]
 
 ## References
 
-| titel                                                                                                          | reference                                                                                                                                                           | spider    | name                          | content                                                                   | link                                                                        |
+| Title                                                                                                          | Reference                                                                                                                                                           | Spider    | Name                          | Content                                                                   | Link                                                                        |
 |----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | Purification and characterization of two classes of neurotoxins from the funnel web spider, Agelenopsis aperta | W. S. Skinner, M. E. Adams, G. B. Quistad, H. Kataoka, B. J. Cesarin, F. E. Enderlin, D. A. Schooley, J. Biol. Chem. 1989, 264, 2150-2155                           | A. aperta | AG 504                        | CI (NH₃) (ns), Amino acid analysis, Activity-studies, structure unknown   | [Link](http://www.jbc.org/content/264/4/2150)                               |
 | Two classes of channel-specific toxins from funnel web spider venom                                            | M. E. Adams, E. E. Herold, V. J. Venema, J. Comp. Physiol. 1989, 164, 333-342                                                                                       | A. aperta | AG 504                        | Amino acid analysis, Activity-studies, structure unkno                    | [Link](https://link.springer.com/article/10.1007/BF00612993)                |
@@ -76,7 +77,7 @@ tags = ["Agelenopsis aperta"]
 
 ## Spider species
 
-| spider species     | family     | source             |
+| Spider species     | Family     | Discovered         |
 |--------------------|------------|--------------------|
 | Agelenopsis aperta | Agelenidae | 1992 / V. J. Jasys |
 

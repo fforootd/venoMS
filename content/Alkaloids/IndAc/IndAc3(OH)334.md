@@ -1,6 +1,7 @@
 +++
 title = "IndAc3(OH)334"
-categories = ["C23H40N6O2","P433","D217","HDX441"]
+categories = ["C23H40N6O2","P433","D217","HDX441",
+"Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
 
@@ -12,22 +13,22 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| name                        | value            |
+| Name                        | Value            |
 |-----------------------------|------------------|
-| level                       | I                |
-| first mention               | 2001 / A. aperta |
-| alternative name(s)         | AG 432g          |
-| molecular formula           | C₂₃H₄₀N₆O₂       |
+| Level                       | I                |
+| Discovered                  | 2001 / A. aperta |
+| Synonym                     | AG 432g          |
+| Molecular formula           | C₂₃H₄₀N₆O₂       |
 | CAS                         | 389872-73-5      |
 |                             |                  |
-| precursor 1 [M+H]⁺          | 433.32910        |
-| precursor 2 [M+2H]²⁺        | 217.16846        |
-| precursor 3                 |                  |
+| Precursor 1 [M+H]⁺          | 433.32910        |
+| Precursor 2 [M+2H]²⁺        | 217.16846        |
+| Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 7                |
-| precursor HDX   [d₇-M+D]⁺   | 441.37931        |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 221.69671        |
-| precursor HDX 3             |                  |
+| Precursor HDX 1 [d₇-M+D]⁺   | 441.37931        |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 221.69671        |
+| Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 9.06             |
 | Rt HDX                      | 7.42             |
@@ -43,23 +44,23 @@ tags = ["Agelenopsis aperta"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf                                                              | precursor | co-eluting    | spider               | source                       |
+| pdf                                                              | Precursor | Co-eluting    | Spider               | Source                       |
 |------------------------------------------------------------------|-----------|---------------|----------------------|------------------------------|
-| [Data](/pdf/433_IndAc3(OH)334_9-06.pdf)                          | 433.32910 |          | synth. IndAc3(OH)334 | UZH Bienz lab, CHE           |
-| [Data](/pdf/433_IndAc3(OH)334_9-06_2.pdf)                        | 217.16846 |           | synth. IndAc3(OH)334 | UZH Bienz lab, CHE           |
+| [Data](/pdf/433_IndAc3(OH)334_9-06.pdf)                          | 433.32910 |               | synth. IndAc3(OH)334 | UZH Bienz lab, CHE           |
+| [Data](/pdf/433_IndAc3(OH)334_9-06_2.pdf)                        | 217.16846 |               | synth. IndAc3(OH)334 | UZH Bienz lab, CHE           |
 | [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa.pdf)     | 433.32910 | IndAc3(OH)343 | A. aperta            | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa_2.pdf)   | 217.16846 | IndAc3(OH)343 | A. aperta            | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa_HDX.pdf) | HDX       | IndAc3(OH)343 | A. aperta            | Fauna Laboratories Ltd., KAZ |
 
 ## References
 
-| titel                                                                                                                                                            | reference                                                                           | spider    | name    | content                    | link                                                                                                                          |
+| Title                                                                                                                                                            | Reference                                                                           | Spider    | Name    | Content                    | Link                                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------|---------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | The acylpolyamines from the venom of the spider Agelenopsis aperta                                                                                               | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197               | A. aperta | AG 432g | APCI-MS/MS                 | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N) |
 | A template approach for the characterization of linear polyamines and derivatives in spider venom                                                                | M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Eur. J. Mass Spectrom. 2013, 19, 57-69 | A. aperta | AG 432g | APCI-MS/MS                 | [Link](https://journals.sagepub.com/doi/10.1255/ejms.1213)                                                                    |
@@ -67,7 +68,7 @@ tags = ["Agelenopsis aperta"]
 
 ## Spider species
 
-| spider species     | family     | source            |
+| Spider species     | Family     | Discovered        |
 |--------------------|------------|-------------------|
 | Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov |
 

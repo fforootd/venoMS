@@ -1,6 +1,7 @@
 +++
 title = "Pantothenic acid"
-categories = ["C9H17NO5","P220","HDX225"]
+categories = ["C9H17NO5","P220","HDX225",
+"Agelenidae","Araneidae"]
 tags = ["Eratigena agrestis","Parawixia bistriata"]
 draft = true
 +++
@@ -11,26 +12,29 @@ draft = true
 
 ## General Description
 
-| name                    | value               |
-|-------------------------|---------------------|
-| Level                   | I                   |
-| First mention           | 2019 / P. bistriata |
-| Alternative name(s)     |                     |
-| Molecular formula       | C₉H₁₇NO₅            |
-| CAS                     | 63409-48-3          |
-|                         |                     |
-| precursor [M+H]⁺        | 220.11850           |
-| precursor [M+Na]⁺       | 242.10044           |
-|                         |                     |
-| HDX                     | 4                   |
-| precursor HDX [d₄-M+D]⁺ | 225.14988           |
-|                         |                     |
-| Rt                      | 4.57                |
-| Rt HDX                  |                     |
+| Name                      | Value               |
+|---------------------------|---------------------|
+| Level                     | I                   |
+| Discovered                | 2019 / P. bistriata |
+| Synonym                   |                     |
+| Molecular formula         | C₉H₁₇NO₅            |
+| CAS                       | 63409-48-3          |
+|                           |                     |
+| Precursor 1 [M+H]⁺        | 220.11850           |
+| Precursor 2 [M+Na]⁺       | 242.10044           |
+| Precursor 3               |                     |
+|                           |                     |
+| HDX                       | 4                   |
+| Precursor HDX 1 [d₄-M+D]⁺ | 225.14988           |
+| Precursor HDX 2           |                     |
+| Precursor HDX 3           |                     |
+|                           |                     |
+| Rt                        | 4.57                |
+| Rt HDX                    |                     |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation  |
+| m/z       | Molecular formula | Annotation  |
 |-----------|-------------------|-------------|
 | 220.11850 | C₉H₁₈NO₅          | [M+H]⁺      |
 | 202.10793 | C₉H₁₆NO₄          | [M+H-H₂O]⁺  |
@@ -45,19 +49,19 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                        | precursor | co-eluting | spider                                | source |
+| pdf                                        | Precursor | Co-eluting | Spider                                | Source |
 |--------------------------------------------|-----------|------------|---------------------------------------|--------|
 | [Data](/pdf/220_Pantothenic-acid_4-57.pdf) | 220.11850 |            | Calcium pantothenate (CAS 63409-48-3) | Fluka  |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species      | family     | first mention        |
+| Spider species      | Family     | Discovered           |
 |---------------------|------------|----------------------|
 | Eratigena agrestis  | Agelenidae | 2019 / Y. M. Forster |
 | Parawixia bistriata | Araneidae  | 2019 / Y. M. Forster |

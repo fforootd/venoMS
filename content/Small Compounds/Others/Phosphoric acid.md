@@ -1,6 +1,7 @@
 +++
 title = "Phosphoric acid"
-categories = ["H3O4P","P98","HDX103"]
+categories = ["H3O4P","P98","HDX103",
+"Atracidae","Theraphosidae"]
 tags = ["Atrax robustus","Stromatopelma calceatum griseipes"]
 +++
 
@@ -8,46 +9,50 @@ tags = ["Atrax robustus","Stromatopelma calceatum griseipes"]
 
 ## General Description
 
-| name                    | value              |
-|-------------------------|--------------------|
-| Level                   | V                  |
-| First mention           | 1979 / A. robustus |
-| Alternative name(s)     |                    |
-| Molecular formula       | H₃O₄P              |
-| CAS                     | 7664-38-2          |
-|                         |                    |
-| precursor [M+H]⁺        | 98.98472           |
-|                         |                    |
-| HDX                     | 3                  |
-| precursor HDX [d₃-M+D]⁺ | 103.00982          |
-|                         |                    |
-| Rt                      |                    |
-| Rt HDX                  |                    |
+| Name                      | Value              |
+|---------------------------|--------------------|
+| Level                     | V                  |
+| Discovered                | 1979 / A. robustus |
+| Synonym                   |                    |
+| Molecular formula         | H₃O₄P              |
+| CAS                       | 7664-38-2          |
+|                           |                    |
+| Precursor 1 [M+H]⁺        | 98.98472           |
+| Precursor 2               |                    |
+| Precursor 3               |                    |
+|                           |                    |
+| HDX                       | 3                  |
+| Precursor HDX 1 [d₃-M+D]⁺ | 103.00982          |
+| Precursor HDX 2           |                    |
+| Precursor HDX 3           |                    |
+|                           |                    |
+| Rt                        |                    |
+| Rt HDX                    |                    |
 
 ## MS/MS fragments
 
-| m/z | molecular formula | annotation |
+| m/z | Molecular formula | Annotation |
 |-----|-------------------|------------|
 |     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                                                                              | reference                                                                                              | spider                 | name | content | link                                   |
+| Title                                                                                                                                              | Reference                                                                                              | Spider                 | Name | Content | Link                                   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------|------|---------|----------------------------------------|
 | Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry                                   | P. H. Duffield, A. M. Duffield, P. R. Carroll, D. Morgans, Biomed. Mass. Spectrom. 1979, 6, 3, 105-108 | A. robustus            |      | GC-MS   | [Link](https://doi.org/10.1002/bms.1200060305) |
 | The components of the venom of a spider Scodra griseipes. 1. Analysis of low molecular weight products using gas chromatography/ mass spectrometry | C. Lange, C. Paris, M.-L. Celerier, Rapid Commun. Mass Spectrom. 1992, 6, 289-292                                                                                                                | S. calceatum griseipes |         | GC-MS         | [Link](https://doi.org/10.1002/rcm.1290060413)                                   |
 
 ## Spider species
 
-| spider species                     | family        | first mention          |
-|------------------------------------|---------------|------------------------|
-| Atrax robustus                     | Atracidae     | 1979 / P. H. Duffield  |
-| Stromatopelma calceatum griseipes  | Theraphosidae | 1992 / C. Lange        |
+| Spider species                    | Family        | Discovered            |
+|-----------------------------------|---------------|-----------------------|
+| Atrax robustus                    | Atracidae     | 1979 / P. H. Duffield |
+| Stromatopelma calceatum griseipes | Theraphosidae | 1992 / C. Lange       |
 
 ## Comments

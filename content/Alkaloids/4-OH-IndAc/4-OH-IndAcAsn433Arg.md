@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn433Arg"
-categories = ["C30H51N11O5","P646","D323","HDX662"]
+categories = ["C30H51N11O5","P646","D323","HDX662",
+"Araneidae"]
 tags = ["Argiope florida","Argiope trifasciata",
 "Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
@@ -9,22 +10,22 @@ tags = ["Argiope florida","Argiope trifasciata",
 
 ## General Description
 
-| name                         | value                          |
+| Name                         | Value                          |
 |------------------------------|--------------------------------|
-| level                        | V                              |
-| first mention                | 1997 / N. borbonica            |
-| alternative name(s)          | Arg 645 / NPTX 645 / NPTX 645B |
-| molecular formula            | C₃₀H₅₁N₁₁O₅                    |
+| Level                        | V                              |
+| Discovered                   | 1997 / N. borbonica            |
+| Synonym                      | Arg 645 / NPTX 645 / NPTX 645B |
+| Molecular formula            | C₃₀H₅₁N₁₁O₅                    |
 | CAS                          | ---                            |
 |                              |                                |
-| precursor 1 [M+H]⁺           | 646.41529                      |
-| precursor 2 [M+2H]²⁺         | 323.71156                      |
-| precursor 3                  |                                |
+| Precursor 1 [M+H]⁺           | 646.41529                      |
+| Precursor 2 [M+2H]²⁺         | 323.71156                      |
+| Precursor 3                  |                                |
 |                              |                                |
 | HDX                          | 15                             |
-| precursor HDX   [d₁₅-M+D]⁺   | 662.51572                      |
-| precursor HDX 2 [d₁₅-M+2D]²⁺ | 332.26491                      |
-| precursor HDX 3              |                                |
+| Precursor HDX 1 [d₁₅-M+D]⁺   | 662.51572                      |
+| Precursor HDX 2 [d₁₅-M+2D]²⁺ | 332.26491                      |
+| Precursor HDX 3              |                                |
 |                              |                                |
 | Rt                           |                                |
 | Rt HDX                       |                                |
@@ -40,19 +41,19 @@ tags = ["Argiope florida","Argiope trifasciata",
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
+| Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
 | Polyamine toxins from spiders and wasps| A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125 | A. florida & A. trifasciata | Arg 645 | Review | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X) |
 | Mass spectrometric structure determination of spider toxins: Arginine-containing acylpolyamines from venoms of Brazilian garden spider Nephilengys cruentata| M. S. Palma, Y. Itagaki, T. Fujita, M. Hisada, H. Naoki, T. Nakajima, Nat. Toxins 1997, 5, 47-57 | N. cruentata | NPTX 645 | FAB-MS/MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A2%3C47%3A%3AAID-NT1%3E3.0.CO%3B2-X) |
@@ -61,7 +62,7 @@ tags = ["Argiope florida","Argiope trifasciata",
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Argiope florida                   | Araneidae | ? / ?              |
 | Argiope trifasciata               | Araneidae | ? / ?              |

@@ -1,6 +1,7 @@
 +++
 title = "N-Acetylhistamine"
-categories = ["C7H11N3O","P154","HDX157"]
+categories = ["C7H11N3O","P154","HDX157",
+"Diguetidae","Lycosidae","Oxyopidae"]
 tags = ["Alopecosa sp.",
 "Desertosa sp."," Diguetia canities",
 "Hippocosa sp.",
@@ -13,25 +14,29 @@ draft = true
 
 ## General Description
 
-| name                    | value       |
-|-------------------------|-------------|
-| Level                   | II [Link](http://www.massbank.jp/RecordDisplay.jsp?id=KO002234)         |
-| First mention           | 2019 / div. |
-| Alternative name(s)     |             |
-| Molecular formula       | C₇H₁₁N₃O    |
-| CAS                     | 673-49-4    |
-|                         |             |
-| precursor [M+H]⁺        | 154.09804   |
-|                         |             |
-| HDX                     | 2           |
-| precursor HDX [d₂-M+D]⁺ | 157.11686   |
-|                         |             |
-| Rt                      |             |
-| Rt HDX                  |             |
+| Name                      | Value                                                           |
+|---------------------------|-----------------------------------------------------------------|
+| Level                     | II [Link](http://www.massbank.jp/RecordDisplay.jsp?id=KO002234) |
+| Discovered                | 2019 / div.                                                     |
+| Synonym                   |                                                                 |
+| Molecular formula         | C₇H₁₁N₃O                                                        |
+| CAS                       | 673-49-4                                                        |
+|                           |                                                                 |
+| Precursor 1 [M+H]⁺        | 154.09804                                                       |
+| Precursor 2               |                                                                 |
+| Precursor 3               |                                                                 |
+|                           |                                                                 |
+| HDX                       | 2                                                               |
+| Precursor HDX 1 [d₂-M+D]⁺ | 157.11686                                                       |
+| Precursor HDX 2           |                                                                 |
+| Precursor HDX 3           |                                                                 |
+|                           |                                                                 |
+| Rt                        |                                                                 |
+| Rt HDX                    |                                                                 |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation |
+| m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
 | 154.09804 | C₇H₁₂N₃O          | [M+H]⁺     |
 | 136.08747 | C₇H₁₀N₃           | [M+H-H₂O]⁺ |
@@ -41,19 +46,19 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species     | family     | first mention        |
+| Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Alopecosa sp.      | Lycosidae  | 2019 / Y. M. Forster |
 | Desertosa sp.      | Lycosidae  | 2019 / Y. M. Forster |

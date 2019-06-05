@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3334"
-categories = ["C23H40N6O2","P433","D217","HDX442"]
+categories = ["C23H40N6O2","P433","D217","HDX442",
+"Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| name                        | value             |
+| Name                        | Value             |
 |-----------------------------|-------------------|
-| level                       | IV                |
-| first mention               | 2001 / A. aperta  |
-| alternative name(s)         | AG 432a / AG 432c |
-| molecular formula           | C₂₃H₄₀N₆O₂        |
+| Level                       | IV                |
+| Discovered                  | 2001 / A. aperta  |
+| Synonym                     | AG 432a / AG 432c |
+| Molecular formula           | C₂₃H₄₀N₆O₂        |
 | CAS                         | 1241987-21-2      |
 |                             |                   |
-| precursor 1 [M+H]⁺          | 433.32910         |
-| precursor 2 [M+2H]²⁺        | 217.16846         |
-| precursor 3                 |                   |
+| Precursor 1 [M+H]⁺          | 433.32910         |
+| Precursor 2 [M+2H]²⁺        | 217.16846         |
+| Precursor 3                 |                   |
 |                             |                   |
 | HDX                         | 8                 |
-| precursor HDX   [d₈-M+D]⁺   | 442.38559         |
-| precursor HDX 2 [d₈-M+2D]²⁺ | 222.19984         |
-| precursor HDX 3             |                   |
+| Precursor HDX 1 [d₈-M+D]⁺   | 442.38559         |
+| Precursor HDX 2 [d₈-M+2D]²⁺ | 222.19984         |
+| Precursor HDX 3             |                   |
 |                             |                   |
 | Rt                          | 5.62              |
 | Rt HDX                      | 4.40              |
@@ -39,13 +40,13 @@ tags = ["Agelenopsis aperta"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf                                                                               | precursor | co-eluting                      | spider    | source                       |
+| pdf                                                                               | Precursor | Co-eluting                      | Spider    | Source                       |
 |-----------------------------------------------------------------------------------|-----------|---------------------------------|-----------|------------------------------|
 | [Data](/pdf/A-aperta/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Aa.pdf)     | 433.32910 | 4-OH-IndAc3343 / 4-OH-IndAc3433 | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/433_4-OH-IndAc3334_4-OH-IndAc3343_Aa_2.pdf)                  | 433.32910 | 4-OH-IndAc3343                  | A. aperta | Fauna Laboratories Ltd., KAZ |
@@ -53,7 +54,7 @@ tags = ["Agelenopsis aperta"]
 
 ## References
 
-| titel                                                                                                      | reference                                                                            | spider    | name              | content                 | link                                                                                                                          |
+| Title                                                                                                      | Reference                                                                            | Spider    | Name              | Content                 | Link                                                                                                                          |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------|-------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | The acylpolyamines from the venom of the spider Agelenopsis aperta                                         | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197                | A. aperta | AG 432a & AG 432c | APCI-MS/MS              | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N) |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156                        | A. aperta | AG 432c           | APCI reduction artefact | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf)                                                            |
@@ -61,9 +62,10 @@ tags = ["Agelenopsis aperta"]
 
 ## Spider species
 
-| spider species     | family     | source            |
+| Spider species     | Family     | Discovered        |
 |--------------------|------------|-------------------|
 | Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov |
 
 ## Comments
+
 AG 432c is an APCI reduction artefact.

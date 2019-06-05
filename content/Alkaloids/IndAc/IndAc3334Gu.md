@@ -1,6 +1,7 @@
 +++
 title = "IndAc3334Gu"
-categories = ["C24H42N8O","P459","D230","HDX469"]
+categories = ["C24H42N8O","P459","D230","HDX469",
+"Agelenidae"]
 tags = ["Pireneitega luctuosa"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Pireneitega luctuosa"]
 
 ## General Description
 
-| name                        | value              |
+| Name                        | Value              |
 |-----------------------------|--------------------|
-| level                       | IV                 |
-| first mention               | 2013 / P. luctuosa |
-| alternative name(s)         | ---                |
-| molecular formula           | C₂₄H₄₂N₈O          |
+| Level                       | IV                 |
+| Discovered                  | 2013 / P. luctuosa |
+| Synonym                     | ---                |
+| Molecular formula           | C₂₄H₄₂N₈O          |
 | CAS                         | 1448806-47-0       |
 |                             |                    |
-| precursor 1 [M+H]⁺          | 459.35599          |
-| precursor 2 [M+2H]²⁺        | 230.18191          |
-| precursor 3                 |                    |
+| Precursor 1 [M+H]⁺          | 459.35599          |
+| Precursor 2 [M+2H]²⁺        | 230.18191          |
+| Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 9                  |
-| precursor HDX   [d₉-M+D]⁺   | 469.41876          |
-| precursor HDX 2 [d₉-M+2D]²⁺ | 235.71643          |
-| precursor HDX 3             |                    |
+| Precursor HDX 1 [d₉-M+D]⁺   | 469.41876          |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 235.71643          |
+| Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          |                    |
 | Rt HDX                      |                    |
@@ -39,25 +40,25 @@ tags = ["Pireneitega luctuosa"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                             | reference                                                                           | spider      | name | content    | link                                                       |
+| Title                                                                                             | Reference                                                                           | Spider      | Name | Content    | Link                                                       |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------|------|------------|------------------------------------------------------------|
 | A template approach for the characterization of linear polyamines and derivatives in spider venom | M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Eur. J. Mass Spectrom. 2013, 19, 57-69 | P. luctuosa |      | APCI-MS/MS | [Link](https://journals.sagepub.com/doi/10.1255/ejms.1213) |
 
 ## Spider species
 
-| spider species       | family     | source            |
+| Spider species       | Family     | Discovered        |
 |----------------------|------------|-------------------|
 | Pireneitega luctuosa | Agelenidae | 2013 / M. Tzouros |
 

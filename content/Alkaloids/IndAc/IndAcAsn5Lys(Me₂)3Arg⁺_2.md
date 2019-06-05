@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5Lys(Me₂)3Arg⁺"
-categories = ["C36H63N12O5","P743","D372","HDX758"]
+categories = ["C36H63N12O5","P743","D372","HDX758",
+"Araneidae"]
 tags = ["Argiope lobata"]
 +++
 
@@ -8,25 +9,25 @@ tags = ["Argiope lobata"]
 
 ## General Description
 
-| name                         | value                         |
-|------------------------------|-------------------------------|
-| level                        | V                             |
-| first mention                | 1989 / A. lobata              |
-| alternative name(s)          | Arg 743 / Pseudioargiopinin 1 |
-| molecular formula            | C₃₆H₆₃N₁₂O₅⁺                  |
-| CAS                          | 117255-12-6                   |
-|                              |                               |
-| precursor 1 [M+H]⁺           | 743.50444                     |
-| precursor 2 [M+2H]²⁺         | 372.25613                     |
-| precursor 3                  |                               |
-|                              |                               |
-| HDX                          | 15                            |
-| precursor HDX   [d₁₅-M+D]⁺   | 758.59859                     |
-| precursor HDX 2 [d₁₅-M+2D]²⁺ | 380.30635                     |
-| precursor HDX 3              |                               |
-|                              |                               |
-| Rt                           |                               |
-| Rt HDX                       |                               |
+| Name                        | Value                         |
+|-----------------------------|-------------------------------|
+| Level                       | V                             |
+| Discovered                  | 1989 / A. lobata              |
+| Synonym                     | Arg 743 / Pseudioargiopinin 1 |
+| Molecular formula           | C₃₆H₆₃N₁₂O₅⁺                  |
+| CAS                         | 117255-12-6                   |
+|                             |                               |
+| Precursor 1  M⁺             | 743.50444                     |
+| Precursor 2 [M+H]²⁺         | 372.25613                     |
+| Precursor 3                 |                               |
+|                             |                               |
+| HDX                         | 15                            |
+| Precursor HDX 1 d₁₅-M⁺      | 758.59859                     |
+| Precursor HDX 2 [d₁₅-M+D]²⁺ | 380.30635                     |
+| Precursor HDX 3             |                               |
+|                             |                               |
+| Rt                          |                               |
+| Rt HDX                      |                               |
 
 ## Calculated MS/MS fragments
 
@@ -39,19 +40,19 @@ tags = ["Argiope lobata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                              | reference                                                                                                                                             | spider    | name                          | content                                         | link                                                                        |
+| Title                                                                                                                                              | Reference                                                                                                                                             | Spider    | Name                          | Content                                         | Link                                                                        |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------|
 | Glutamate receptor anatgonists from the spider Argiope lobata venom                                                                                | E. V. Grishin, T. M. Volkova, A. S. Arseniev, Biorg. Khim. 1988, 14, 883-892                                                                          | A. lobata |                               |                                                 |                                                                         |
 | Isolation and structure analysis of components from venom of the spider Argiope lobata                                                             | E. V. Grishin, T. M. Volkova, A. S. Arseniev, Toxicon 1989, 27, 541-549                                                                               | A. lobata | Pseudoargiopinin 1            | NMR (ns), Amino acid analysis, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/0041010189901153)  |
@@ -64,7 +65,7 @@ tags = ["Argiope lobata"]
 
 ## Spider species
 
-| spider species | family    | source               |
+| Spider species | Family    | Discovered           |
 |----------------|-----------|----------------------|
 | Argiope lobata | Araneidae | 1989 / E. V. Grishin |
 

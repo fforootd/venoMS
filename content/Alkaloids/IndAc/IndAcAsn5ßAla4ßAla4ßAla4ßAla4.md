@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5ßAla4ßAla4ßAla4ßAla4"
-categories = ["C47H83N13O7","P942","D471","HDX958"]
+categories = ["C47H83N13O7","P942","D471","HDX958",
+"Araneidae"]
 tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## General Description
 
-| name                         | value                |
+| Name                         | Value                |
 |------------------------------|----------------------|
-| level                        | V                    |
-| first mention                | 1997 / N. borbonica  |
-| alternative name(s)          | NPTX 941 / NPTX 941D |
-| molecular formula            | C₄₇H₈₃N₁₃O₇          |
+| Level                        | V                    |
+| Discovered                   | 1997 / N. borbonica  |
+| Synonym                      | NPTX 941 / NPTX 941D |
+| Molecular formula            | C₄₇H₈₃N₁₃O₇          |
 | CAS                          | ---                  |
 |                              |                      |
-| precursor 1 [M+H]⁺           | 942.66166            |
-| precursor 2 [M+2H]²⁺         | 471.83474            |
-| precursor 3                  |                      |
+| Precursor 1 [M+H]⁺           | 942.66166            |
+| Precursor 2 [M+2H]²⁺         | 471.83474            |
+| Precursor 3                  |                      |
 |                              |                      |
 | HDX                          | 15                   |
-| precursor HDX   [d₁₅-M+D]⁺   | 958.76209            |
-| precursor HDX 2 [d₁₅-M+2D]²⁺ | 480.38809            |
-| precursor HDX 3              |                      |
+| Precursor HDX 1 [d₁₅-M+D]⁺   | 958.76209            |
+| Precursor HDX 2 [d₁₅-M+2D]²⁺ | 480.38809            |
+| Precursor HDX 3              |                      |
 |                              |                      |
 | Rt                           |                      |
 | Rt HDX                       |                      |
@@ -45,19 +46,19 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                          | reference                                                                                                 | spider       | name      | content   | link                                                                                                              |
+| Title                                                                                                                                          | Reference                                                                                                 | Spider       | Name      | Content   | Link                                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------|-----------|-----------|-------------------------------------------------------------------------------------------------------------------|
 | Detection of new spider toxins from a Nephilengys borbonica venom gland using on-line µ-column HPLC continuous flow (FRIT) FAB LC/MS and MS/MS | Y. Itagaki, T. Fujita, H. Naoki, T. Yasuhara, M. Andriantsiferana, T. Nakajima, Nat. Toxins 1997, 5, 1-13 | N. borbonica | NPTX 941  | LC-FAB-MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A1%3C1%3A%3AAID-NT1%3E3.0.CO%3B2-8) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                      | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                     | N. borbonica | NPTX 941D | Review    | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                 |
@@ -65,7 +66,7 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## Spider species
 
-| spider species        | family    | source             |
+| Spider species        | Family    | Discovered         |
 |-----------------------|-----------|--------------------|
 | Nephila clavata       | Araneidae | 2005 / M. S. Palma |
 | Nephilingis borbonica | Araneidae | 1997 / Y. Itagaki  |

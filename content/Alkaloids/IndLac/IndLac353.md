@@ -1,6 +1,7 @@
 +++
 title = "IndLac353"
-categories = ["C22H37N5O2","P404","D202","HDX412"]
+categories = ["C22H37N5O2","P404","D202","HDX412",
+"Halonoproctidae"]
 tags = ["Hebestatis theveneti"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Hebestatis theveneti"]
 
 ## General Description
 
-| name                        | value               |
+| Name                        | Value               |
 |-----------------------------|---------------------|
-| level                       | V                   |
-| first mention               | 1990 / H. theveneti |
-| alternative name(s)         | Het 403             |
-| molecular formula           | C₂₂H₃₇N₅O₂          |
+| Level                       | V                   |
+| Discovered                  | 1990 / H. theveneti |
+| Synonym                     | Het 403             |
+| Molecular formula           | C₂₂H₃₇N₅O₂          |
 | CAS                         | 128941-11-7         |
 |                             |                     |
-| precursor 1 [M+H]⁺          | 404.30255           |
-| precursor 2 [M+2H]²⁺        | 202.65519           |
-| precursor 3                 |                     |
+| Precursor 1 [M+H]⁺          | 404.30255           |
+| Precursor 2 [M+2H]²⁺        | 202.65519           |
+| Precursor 3                 |                     |
 |                             |                     |
 | HDX                         | 7                   |
-| precursor HDX   [d₇-M+D]⁺   | 412.35276           |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 207.18343           |
-| precursor HDX 3             |                     |
+| Precursor HDX 1 [d₇-M+D]⁺   | 412.35276           |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 207.18343           |
+| Precursor HDX 3             |                     |
 |                             |                     |
 | Rt                          |                     |
 | Rt HDX                      |                     |
@@ -38,26 +39,26 @@ tags = ["Hebestatis theveneti"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                 | reference                                                                                         | spider       | name    | content                                              | link                                                                        |
+| Title                                                                                                 | Reference                                                                                         | Spider       | Name    | Content                                              | Link                                                                        |
 |-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------|---------|------------------------------------------------------|-----------------------------------------------------------------------------|
 | Chemical characterization of acylpolyamine toxins from venom of a trap-door spider and two tarantulas | W. S. Skinner, P. A. Dennis, A. Lui, R. L. Carney, G. B. Quistad, Toxicon 1990, 28, 541-546       | H. theveneti | Het 403 | FAB-MS, CI-MS, Amino acid analysis, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/004101019090298L)  |
 | Polyamine toxins from spiders and wasps                                                               | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125 | H. theveneti | Het 403 | Review                                               | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X) |
 
 ## Spider species
 
-| spider species       | family          | source               |
+| Spider species       | Family          | Discovered           |
 |----------------------|-----------------|----------------------|
 | Hebestatis theveneti | Halonoproctidae | 1990 / W. S. Skinner |
 

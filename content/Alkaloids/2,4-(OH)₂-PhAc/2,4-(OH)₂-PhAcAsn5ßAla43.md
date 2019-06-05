@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla43"
-categories = ["C27H47N7O6","P566","D283","HDX578"]
+categories = ["C27H47N7O6","P566","D283","HDX578",
+"Araneidae"]
 tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephila pilipes","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,25 +9,25 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephila pilipes",
 
 ## General Description
 
-| name                         | value             |
-|------------------------------|-------------------|
-| level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)               |
-| first mention                | 1987 / N. clavata |
-| alternative name(s)          | JSTX 3 / JSTX     |
-| molecular formula            | C₂₇H₄₇N₇O₆        |
-| CAS                          | 119024-24-7       |
-|                              |                   |
-| precursor 1 [M+H]⁺           | 566.36661         |
-| precursor 2 [M+2H]²⁺         | 283.68722         |
-| precursor 3                  |                   |
-|                              |                   |
-| HDX                          | 11                |
-| precursor HDX   [d₁₁-M+D]⁺   | 578.44193         |
-| precursor HDX 2 [d₁₁-M+2D]²⁺ | 290.22802         |
-| precursor HDX 3              |                   |
-|                              |                   |
-| Rt                           |                   |
-| Rt HDX                       |                   |
+| Name                         | Value                                                                          |
+|------------------------------|--------------------------------------------------------------------------------|
+| Level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Discovered                   | 1987 / N. clavata                                                              |
+| Synonym                      | JSTX 3 / JSTX                                                                  |
+| Molecular formula            | C₂₇H₄₇N₇O₆                                                                     |
+| CAS                          | 119024-24-7                                                                    |
+|                              |                                                                                |
+| Precursor 1 [M+H]⁺           | 566.36661                                                                      |
+| Precursor 2 [M+2H]²⁺         | 283.68722                                                                      |
+| Precursor 3                  |                                                                                |
+|                              |                                                                                |
+| HDX                          | 11                                                                             |
+| Precursor HDX 1 [d₁₁-M+D]⁺   | 578.44193                                                                      |
+| Precursor HDX 2 [d₁₁-M+2D]²⁺ | 290.22802                                                                      |
+| Precursor HDX 3              |                                                                                |
+|                              |                                                                                |
+| Rt                           |                                                                                |
+| Rt HDX                       |                                                                                |
 
 ## Calculated MS/MS fragments
 
@@ -40,19 +41,19 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephila pilipes",
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                                                | reference                                                                                                                                                                                       | spider                   | name             | content                                  | link                                                                                                                     |
+| Title                                                                                                                                                                                | Reference                                                                                                                                                                                       | Spider                   | Name             | Content                                  | Link                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Chemical structure of Joro spider toxin (JSTX)                                                                                                                                       | Y. Aramaki, T. Yasuhara, K. Shimazaki, N.i Kawai, T. Nakajima, Biomed. Res. 1987, 8, 241-245                                                                                                    | N. clavata               | JSTX 3           | NMR (ns), Amino acid analysis            | [Link](https://www.jstage.jst.go.jp/article/biomedres/8/4/8_241/_article)                                                |
 | Synthesis of spider toxin (JSTX-3) and its analogs                                                                                                                                   | Y. Hashimoto, Y. Endo, K. Shudo, Y. Aramaki, N. Kawai, T. Nakajima, Tetrahedron Letters 1987, 28, 3511-3514                                                                                     |                          | JSTX 3 (1)       | Synthesis, NMR, Activity-studies         | [Link](https://www.sciencedirect.com/science/article/pii/S0040403900963408)                                              |
@@ -98,7 +99,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephila pilipes",
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 1987 / Y. Aramaki  |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |

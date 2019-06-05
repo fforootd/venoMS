@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn533Arg"
-categories = ["C31H53N11O5","P660","D330","HDX676"]
+categories = ["C31H53N11O5","P660","D330","HDX676",
+"Araneidae"]
 tags = ["Argiope aurantia","Argiope florida","Argiope lobata","Argiope trifasciata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Argiope aurantia","Argiope florida","Argiope lobata","Argiope trifascia
 
 ## General Description
 
-| name                         | value                                                        |
+| Name                         | Value                                                        |
 |------------------------------|--------------------------------------------------------------|
-| level                        | III                                                          |
-| first mention                | 1987 / A. aurantia                                           |
-| alternative name(s)          | AR 659 / Arg 659 / Argiopinin 3 / Argiotoxin 659 / ArgTX 659 |
-| molecular formula            | C₃₁H₅₃N₁₁O₅                                                  |
+| Level                        | III                                                          |
+| Discovered                   | 1987 / A. aurantia                                           |
+| Synonym                      | AR 659 / Arg 659 / Argiopinin 3 / Argiotoxin 659 / ArgTX 659 |
+| Molecular formula            | C₃₁H₅₃N₁₁O₅                                                  |
 | CAS                          | 111944-83-3                                                  |
 |                              |                                                              |
-| precursor 1 [M+H]⁺           | 660.43094                                                    |
-| precursor 2 [M+2H]²⁺         | 330.71938                                                    |
-| precursor 3                  |                                                              |
+| Precursor 1 [M+H]⁺           | 660.43094                                                    |
+| Precursor 2 [M+2H]²⁺         | 330.71938                                                    |
+| Precursor 3                  |                                                              |
 |                              |                                                              |
 | HDX                          | 15                                                           |
-| precursor HDX   [d₁₅-M+D]⁺   | 676.53137                                                    |
-| precursor HDX 2 [d₁₅-M+2D]²⁺ | 339.27274                                                    |
-| precursor HDX 3              |                                                              |
+| Precursor HDX 1 [d₁₅-M+D]⁺   | 676.53137                                                    |
+| Precursor HDX 2 [d₁₅-M+2D]²⁺ | 339.27274                                                    |
+| Precursor HDX 3              |                                                              |
 |                              |                                                              |
 | Rt                           |                                                              |
 | Rt HDX                       |                                                              |
@@ -39,25 +40,25 @@ tags = ["Argiope aurantia","Argiope florida","Argiope lobata","Argiope trifascia
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                       | reference                                                                                                                                                                             | spider                      | name                                              | content                                                    | link                                                                        |
+| Title                                                                                                       | Reference                                                                                                                                                                             | Spider                      | Name                                              | Content                                                    | Link                                                                        |
 |-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|---------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------------|
 | Structures and biological activities of three synaptic antagonists from orb weaver spider venom             | M. E. Adams, R. L. Carney, F. E. Enderlin, E. T. Fu, M. A. Jarema, J. P. Li, C. A. Miller, D. A. Schooley, M. J. Shapiro, V. J Venema, Biochem. Biophys. Res. Com. 1987, 148, 678-683 | A. aurantia                 | AR 659                                            | Synthesis, NMR (ns), Amino acid analysis, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/0006291X87909302)  |
 | Isolation and characterisation of glutamate receptor antagonists from venoms of orb-web spiders             | T. Budd, P. Clinton, A. Dell, I. R. Duce, S. J. Johnson, D. L. J. Quicke, G. W. Taylor, P. N. R. Usherwood, G. Usoh, Brain Res. 1988, 448, 30-39                                      | A. florida & A. trifasciata | Arg 659                                           | NMR, Amino acid analysis, Activity-studies                 | [Link](https://www.sciencedirect.com/science/article/pii/0006899388910980)  |
 | The total synthesis of argiotoxins 636, 659 and 673                                                         | V. J. Jasys, P. R. Kelbaugh, D. M. Nason, D. Phillips, N. A. Saccomano, R. A. Volkmann, Tetrahedron Letters 1988, 29, 6223-6226                                                       |                             | Arg 659                                           | Synthesis, NMR                                             | [Link](https://www.sciencedirect.com/science/article/pii/S0040403900823102) |
 | Isolation and structure analysis of components from venom of the spider Argiope lobata                      | E. V. Grishin, T. M. Volkova, A. S. Arseniev, Toxicon 1989, 27, 541-549                                                                                                               | A. lobata                   | Argiopinin 3                                      | NMR, Amino acid analysis, Activity-studies                 | [Link](https://www.sciencedirect.com/science/article/pii/0041010189901153)  |
-| Structures of paralytic acylpolyamines from the spider Agelenopsis aperta                                   | G. B. Quistad, S. Suwanrumpha, M. Ann Jarema, M. J. Shapiro, W. S. Skinner, G. C. Jamieson, A. Lui, E. W. Fu, Biochem. Biophys. Res. Com. 1990, 169, 51-56                            |                             | AR 659                                            | UV reference for 4-OH-IndAc head                           | [Link](https://www.sciencedirect.com/science/article/pii/0006291X9091431Q)  |
+| Structures of paralytic acylpolyamines from the spider Agelenopsis aperta                                   | G. B. Quistad, S. Suwanrumpha, M. Ann Jarema, M. J. Shapiro, W. S. Skinner, G. C. Jamieson, A. Lui, E. W. Fu, Biochem. Biophys. Res. Com. 1990, 169, 51-56                            |                             | AR 659                                            | UV Reference for 4-OH-IndAc head                           | [Link](https://www.sciencedirect.com/science/article/pii/0006291X9091431Q)  |
 | Argiopine, argiopinines, and pseudoargiopinines as glutamate receptor blockers in hippocampal neurons       | N. I. Kiskin, O. A. Kryshtal, A. Y. Tsyndrenko, T. M. Volkova, E. V. Grishin, Neurophysiology 1990, 21, 525-532                                                                       | A. lobata                   | argiopinin 3                                      | Activity-studies                                           | [Link](https://link.springer.com/article/10.1007/BF01051949)                |
 | Arylamine spider toxins antagonize NMDA receptor-mediated synaptic transmission in rat hippocampal slices   | A. L. Mueller, B. C. Albensi, A. H. Ganong, L. S. Reynolds, H. Jackson, Synapse 1991, 9, 244-250                                                                                      |                             | Argiotoxin 659                                    | Activity-studies                                           | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/syn.890090403)       |
 | Polyamine spider toxins are potent un-competitive antagonists of rat cortex excitatory amino acid receptors | M. S. Davies, M. P. Baganoff, E. V. Grishin, T. H. Lanthorn, T. M. Volkova, G. B. Watson, R. C. Wiegand, Eur J Pharmacol. 1992, 227, 51-56                                            | A. lobata                   | Argiopinin 3                                      | Activity-studies                                           | [Link](https://www.sciencedirect.com/science/article/pii/092241069290141H)  |
@@ -69,7 +70,7 @@ tags = ["Argiope aurantia","Argiope florida","Argiope lobata","Argiope trifascia
 
 ## Spider species
 
-| spider species      | family    | source               |
+| Spider species      | Family    | Discovered           |
 |---------------------|-----------|----------------------|
 | Argiope aurantia    | Araneidae | 1987 / M. E. Adams   |
 | Argiope florida     | Araneidae | 1988 / T. Budd       |

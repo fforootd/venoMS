@@ -1,6 +1,7 @@
 +++
 title = "FrPbAII"
-categories = ["C6H14N4O2","P175","HDX183"]
+categories = ["C6H14N4O2","P175","HDX183",
+"Araneidae"]
 tags = ["Parawixia bistriata"]
 +++
 
@@ -10,28 +11,30 @@ tags = ["Parawixia bistriata"]
 
 ## General Description
 
-| name                    | value               |
-|-------------------------|---------------------|
-| Level                   | I                   |
-| First mention           | 2006 / P. bistriata |
-| Alternative name(s)     |                     |
-| Molecular formula       | C₆H₁₄N₄O₂           |
-| CAS                     | 764724-17-6         |
-|                         |                     |
-| precursor  [M+H]⁺       | 175.11950           |
-| precursor  [M+Na]⁺      | 197.10144           |
-| precursor  [2M+H]⁺      | 349.23118           |
-| precursor  [2M+Na]⁺     | 371.21312           |
-|                         |                     |
-| HDX                     | 7                   |
-| precursor HDX [d₇-M+D]⁺ | 183.16971           |
-|                         |                     |
-| Rt                      | 1.15                |
-| Rt HDX                  |                     |
+| Name                      | Value               |
+|---------------------------|---------------------|
+| Level                     | I                   |
+| Discovered                | 2006 / P. bistriata |
+| Synonym                   |                     |
+| Molecular formula         | C₆H₁₄N₄O₂           |
+| CAS                       | 764724-17-6         |
+|                           |                     |
+| Precursor 1 [M+H]⁺        | 175.11950           |
+| Precursor 2 [M+Na]⁺       | 197.10144           |
+| Precursor 3 [2M+H]⁺       | 349.23118           |
+| Precursor 4 [2M+Na]⁺      | 371.21312           |
+|                           |                     |
+| HDX                       | 7                   |
+| Precursor HDX 1 [d₇-M+D]⁺ | 183.16971           |
+| Precursor HDX 2           |                     |
+| Precursor HDX 3           |                     |
+|                           |                     |
+| Rt                        | 1.15                |
+| Rt HDX                    |                     |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation          |
+| m/z       | Molecular formula | Annotation          |
 |-----------|-------------------|---------------------|
 | 175.11950 | C₆H₁₅N₄O₂         | [M+H]⁺              |
 | 158.09295 | C₆H₁₂N₃O₂         | [M+H-NH₃]⁺          |
@@ -45,13 +48,13 @@ tags = ["Parawixia bistriata"]
 
 ## Recorded MS/MS spectra
 
-| pdf                               | precursor | co-eluting | spider    | source   |
+| pdf                               | Precursor | Co-eluting | Spider    | Source   |
 |-----------------------------------|-----------|------------|-----------|----------|
 | [Data](/pdf/175_FrPbAII_1-15.pdf) | 175.11950 |            | FrPbAII   | Biotrend |
 
 ## References
 
-| titel                                                                                                                                                              | reference                                                                                                                                                                                 | spider       | name | content | link                                          |
+| Title                                                                                                                                                              | Reference                                                                                                                                                                                 | Spider       | Name | Content | Link                                          |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------|---------|-----------------------------------------------|
 | Neurochemical characterization of a neuroprotective compound from Parawixia bistriata spider venom that inhibits synaptosomal uptake of GABA and glycine  | R.O. Beleboni, R. Guizzo, A. C. K. Fontana, A. B. Pizzo, R. O. G. Carolino, L. Gobbo-Neto, N. P. Lopes, J. Couthinho-Netto, W. F. dos Santos, Mol. Pharmacol. 2006, 69, 6, 1998-2006| P. bistriata | Parawixin2 / FrPbAII | MS/MS | [Link](https://doi.org/10.1124/mol.105.017319) |
 | Anticonvulsant and anxiolytic activity of FrPbAII, a novel GABA uptake inhibitor isolated from the venom of the social spider Parawixia bistriata (Araneidae: Araneae)  | J. L. Liberato, A. O. S. Cunha, M. R. Mortari, E. A. Gelfuso, E. O. Beleboni, J. Coutinho-Netto, W. F. dos Santos, Brain Res. 2006, 1124, 1, 19-27 | P. bistriata | FrPbAII |  | [Link](https://doi.org/10.1016/j.brainres.2006.09.052) |
@@ -61,7 +64,7 @@ tags = ["Parawixia bistriata"]
 
 ## Spider species
 
-| spider species      | familiy   | first mention         |
+| Spider species      | familiy   | Discovered         |
 |---------------------|-----------|-----------------------|
 | Parawixia bistriata | Araneidae | 2006 / R. O. Beleboni |
 

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3(OH)3(OH)343"
-categories = ["C26H47N7O4","P522","D261","HDX532"]
+categories = ["C26H47N7O4","P522","D261","HDX532",
+"Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
 
@@ -12,22 +13,22 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| name                        | value             |
+| Name                        | Value             |
 |-----------------------------|-------------------|
-| level                       | IV                |
-| first mention               | ? / A. aperta     |
-| alternative name(s)         | AG 521 / Agel 521 |
-| molecular formula           | C₂₆H₄₇N₇O₄        |
+| Level                       | IV                |
+| Discovered                  | ? / A. aperta     |
+| Synonym                     | AG 521 / Agel 521 |
+| Molecular formula           | C₂₆H₄₇N₇O₄        |
 | CAS                         | 389872-43-9       |
 |                             |                   |
-| precursor 1 [M+H]⁺          | 522.37677         |
-| precursor 2 [M+2H]²⁺        | 261.69230         |
-| precursor 3                 |                   |
+| Precursor 1 [M+H]⁺          | 522.37677         |
+| Precursor 2 [M+2H]²⁺        | 261.69230         |
+| Precursor 3                 |                   |
 |                             |                   |
 | HDX                         | 9                 |
-| precursor HDX   [d₉-M+D]⁺   | 532.43953         |
-| precursor HDX 2 [d₉-M+2D]²⁺ | 267.22682         |
-| precursor HDX 3             |                   |
+| Precursor HDX 1 [d₉-M+D]⁺   | 532.43953         |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 267.22682         |
+| Precursor HDX 3             |                   |
 |                             |                   |
 | Rt                          | 7.99              |
 | Rt HDX                      | 6.38              |
@@ -44,7 +45,7 @@ tags = ["Agelenopsis aperta"]
 
 ## Additional MS/MS fragments
 
-| m/z        | annotation |
+| m/z        | Annotation |
 |------------|------------|
 | 98.09697   | y2'        |
 | 114.09189  | y2'        |
@@ -57,7 +58,7 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                     | precursor | co-eluting | spider    | source                       |
+| pdf                                                     | Precursor | Co-eluting | Spider    | Source                       |
 |---------------------------------------------------------|-----------|------------|-----------|------------------------------|
 | [Data](/pdf/A-aperta/522_IndAc3(OH)3(OH)343_Aa.pdf)     | 522.37677 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/522_IndAc3(OH)3(OH)343_Aa_2.pdf)   | 261.69230 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
@@ -65,7 +66,7 @@ tags = ["Agelenopsis aperta"]
 
 ## References
 
-| titel                                                                                     | reference                                                                                         | spider    | name     | content    | link                                                                                                                          |
+| Title                                                                                     | Reference                                                                                         | Spider    | Name     | Content    | Link                                                                                                                          |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------|----------|------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Polyamine toxins from spiders and wasps                                                   | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125 | A. aperta | Agel 521 | Review     | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X)                                                   |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                             |           | Agel 521 | Review     | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                             |
@@ -73,8 +74,8 @@ tags = ["Agelenopsis aperta"]
 
 ## Spider species
 
-| spider species     | family     | source |
-|--------------------|------------|--------|
-| Agelenopsis aperta | Agelenidae | ? / ?  |
+| Spider species     | Family     | Discovered |
+|--------------------|------------|------------|
+| Agelenopsis aperta | Agelenidae | ? / ?      |
 
 ## Comments

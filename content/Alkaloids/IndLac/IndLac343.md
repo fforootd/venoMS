@@ -1,6 +1,7 @@
 +++
 title = "IndLac343"
-categories = ["C21H35N5O2","P390","D195","HDX398"]
+categories = ["C21H35N5O2","P390","D195","HDX398",
+"Atracidae","Halonoproctidae","Theraphosidae"]
 tags = ["Atrax robustus",
 "Ceratogyrus darlingi",
 "Harpactirella sp.","Hebestatis theveneti"]
@@ -10,22 +11,22 @@ tags = ["Atrax robustus",
 
 ## General Description
 
-| name                        | value                                   |
+| Name                        | Value                                   |
 |-----------------------------|-----------------------------------------|
-| level                       | III                                     |
-| first mention               | 1990 / H. theveneti & Harpactirella sp. |
-| alternative name(s)         | Het 389                                 |
-| molecular formula           | C₂₁H₃₅N₅O₂                              |
+| Level                       | III                                     |
+| Discovered                  | 1990 / H. theveneti & Harpactirella sp. |
+| Synonym                     | Het 389                                 |
+| Molecular formula           | C₂₁H₃₅N₅O₂                              |
 | CAS                         | 128941-10-6                             |
 |                             |                                         |
-| precursor 1 [M+H]⁺          | 390.28690                               |
-| precursor 2 [M+2H]²⁺        | 195.64736                               |
-| precursor 3                 |                                         |
+| Precursor 1 [M+H]⁺          | 390.28690                               |
+| Precursor 2 [M+2H]²⁺        | 195.64736                               |
+| Precursor 3                 |                                         |
 |                             |                                         |
 | HDX                         | 7                                       |
-| precursor HDX   [d₇-M+D]⁺   | 398.33711                               |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 200.17561                               |
-| precursor HDX 3             |                                         |
+| Precursor HDX 1 [d₇-M+D]⁺   | 398.33711                               |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 200.17561                               |
+| Precursor HDX 3             |                                         |
 |                             |                                         |
 | Rt                          |                                         |
 | Rt HDX                      |                                         |
@@ -40,19 +41,19 @@ tags = ["Atrax robustus",
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                 | reference                                                                                                                                                       | spider                           | name    | content                                               | link                                                                       |
+| Title                                                                                                 | Reference                                                                                                                                                       | Spider                           | Name    | Content                                               | Link                                                                       |
 |-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|---------|-------------------------------------------------------|----------------------------------------------------------------------------|
 | Chemical characterization of acylpolyamine toxins from venom of a trap-door spider and two tarantulas | W. S. Skinner, P. A. Dennis, A. Lui, R. L. Carney, G. B. Quistad, Toxicon 1990, 28, 541-546                                                                     | H. theveneti & Harpactirella sp. | Het 389 | Synthesis (ns), Amino acid analysis, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/004101019090298L) |
 | Polyamine toxins from spiders and wasps                                                               | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125                                                               | H. theveneti & Harpactirella sp. | Het 389 | Review                                                | [Link](https://doi.org/10.1016/0041-0101(90)90298-L)                       |
@@ -60,7 +61,7 @@ tags = ["Atrax robustus",
 
 ## Spider species
 
-| spider species       | family          | source               |
+| Spider species       | Family          | Discovered           |
 |----------------------|-----------------|----------------------|
 | Atrax robustus       | Atracidae       | 2017 / D. Wilson     |
 | Ceratogyrus darlingi | Theraphosidae   | 2017 / D. Wilson     |

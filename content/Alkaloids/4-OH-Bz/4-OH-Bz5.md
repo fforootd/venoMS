@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz5"
-categories = ["C12H18N2O2","P223","D112","HDX228"]
+categories = ["C12H18N2O2","P223","D112","HDX228",
+"Gnaphosidae"]
 tags = ["Drassodes sp."]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Drassodes sp."]
 
 ## General Description
 
-| name                        | value                |
+| Name                        | Value                |
 |-----------------------------|----------------------|
 | Level                       | IV                   |
-| First mention               | 2009 / Drassodes sp. |
-| Alternative name(s)         | DR 222               |
+| Discovered                  | 2009 / Drassodes sp. |
+| Synonym                     | DR 222               |
 | Molecular formula           | C₁₂H₁₈N₂O₂           |
 | CAS                         | 857263-12-8          |
 |                             |                      |
-| precursor 1 [M+H]⁺          | 223.14465            |
-| precursor 2 [M+2H]²⁺        | 112.07624            |
-| precursor 3                 |                      |
+| Precursor 1 [M+H]⁺          | 223.14465            |
+| Precursor 2 [M+2H]²⁺        | 112.07624            |
+| Precursor 3                 |                      |
 |                             |                      |
 | HDX                         | 4                    |
-| precursor HDX   [d₄-M+D]⁺   | 228.17603            |
-| precursor HDX 2 [d₄-M+2D]²⁺ | 115.09507            |
-| precursor HDX 3             |                      |
+| Precursor HDX 1 [d₄-M+D]⁺   | 228.17603            |
+| Precursor HDX 2 [d₄-M+2D]²⁺ | 115.09507            |
+| Precursor HDX 3             |                      |
 |                             |                      |
 | Rt                          |                      |
 | Rt HDX                      |                      |
@@ -36,26 +37,26 @@ tags = ["Drassodes sp."]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                                      | reference                                                                                                               | spider        | name   | content        | link                                                               |
+| Title                                                                                                      | Reference                                                                                                               | Spider        | Name   | Content        | Link                                                               |
 |------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------|--------|----------------|--------------------------------------------------------------------|
 | 1,3-Dimethyllumazine derivatives from Limnatis nilotica                                                    | G. Voerman, S. Cavalli, G. A. van der Marel, W. Pfleiderer, J. H. van Boom, D. V. Filippov, J. Nat. Prod. 2005, 68, 938 |               | (9)    | Synthesis, NMR | [Link](https://pubs.acs.org/doi/abs/10.1021/np049617a)             |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156                                                           | Drassodes sp. | DR 222 | nLC-ESI-MS/MS  | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
 
 ## Spider species
 
-| spider species | family      | first mention          |
+| Spider species | Family      | Discovered             |
 |----------------|-------------|------------------------|
 | Drassodes sp.  | Gnaphosidae | 2009 / S. Eichenberger |
 

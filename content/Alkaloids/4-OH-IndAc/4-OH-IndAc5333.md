@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc5333"
-categories = ["C24H42N6O2","P447","D224","HDX456"]
+categories = ["C24H42N6O2","P447","D224","HDX456",
+"Pisauridae"]
 tags = ["Dolomedes okefinokensis"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Dolomedes okefinokensis"]
 
 ## General Description
 
-| name                        | value                   |
+| Name                        | Value                   |
 |-----------------------------|-------------------------|
-| level                       | IV                      |
-| first mention               | 1993 / D. okefinokensis |
-| alternative name(s)         | CNS 2103                |
-| molecular formula           | C₂₄H₄₂N₆O₂              |
+| Level                       | IV                      |
+| Discovered                  | 1993 / D. okefinokensis |
+| Synonym                     | CNS 2103                |
+| Molecular formula           | C₂₄H₄₂N₆O₂              |
 | CAS                         | 144923-45-5             |
 |                             |                         |
-| precursor 1 [M+H]⁺          | 447.34475               |
-| precursor 2 [M+2H]²⁺        | 224.17629               |
-| precursor 3                 |                         |
+| Precursor 1 [M+H]⁺          | 447.34475               |
+| Precursor 2 [M+2H]²⁺        | 224.17629               |
+| Precursor 3                 |                         |
 |                             |                         |
 | HDX                         | 8                       |
-| precursor HDX   [d₈-M+D]⁺   | 456.40124               |
-| precursor HDX 2 [d₈-M+2D]²⁺ | 229.20767               |
-| precursor HDX 3             |                         |
+| Precursor HDX 1 [d₈-M+D]⁺   | 456.40124               |
+| Precursor HDX 2 [d₈-M+2D]²⁺ | 229.20767               |
+| Precursor HDX 3             |                         |
 |                             |                         |
 | Rt                          |                         |
 | Rt HDX                      |                         |
@@ -39,26 +40,26 @@ tags = ["Dolomedes okefinokensis"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
+| Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
 | Characterization and synthesis of a new calcium antagonist from the venom of a Fishing spider| K. D. McCormick, K. Kobayashi, S. M. Goldin, N. L. Reddy, J. Meinwald, Tetrahedron 1993, 49, 11155 | D. okefinokensis | CNS 2103 | Synthesis, NMR, FAB-MS/MS, Amino acid analysis, Activity-studies  | [Link](https://www.sciencedirect.com/science/article/pii/S0040402001818032) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines| Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52 |D. okefinokensis | CNS 2103 | Review | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314) | 
 
 ## Spider species
 
-| spider species          | family     | source                 |
+| Spider species          | Family     | Discovered             |
 |-------------------------|------------|------------------------|
 | Dolomedes okefinokensis | Pisauridae | 1993 / K. D. McCormick |
 

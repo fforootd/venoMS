@@ -1,6 +1,7 @@
 +++
 title = "Serotonin"
-categories = ["C10H12N2O","P177","HDX182"]
+categories = ["C10H12N2O","P177","HDX182",
+"Agelenidae","Cheiracanthiidae","Ctenidae","Lamponidae","Lycosidae","Theraphosidae","Theridiidae"]
 tags = ["Acanthoscurria paulensis","Acanthoscurria sternalis",
 "Cheiracanthium japonicum",
 "Hololena curta",
@@ -15,26 +16,29 @@ tags = ["Acanthoscurria paulensis","Acanthoscurria sternalis",
 
 ## General Description
 
-| name                    | value                      |
-|-------------------------|----------------------------|
-| Level                   | I                          |
-| First mention           | 1963 / div.                |
-| Alternative name(s)     | 5-Hydroxytryptamine / 5-HT |
-| Molecular formula       | C₁₀H₁₂N₂O                  |
-| CAS                     | 50-67-9                    |
-|                         |                            |
-| precursor  [M+H]⁺       | 177.10279                  |
-| precursor  [M+H-NH₃]⁺   | 160.07624                  |
-|                         |                            |
-| HDX                     | 4                          |
-| precursor HDX [d₄-M+D]⁺ | 182.13417                  |
-|                         |                            |
-| Rt                      | 4.31                       |
-| Rt HDX                  |                            |
+| Name                      | Value                      |
+|---------------------------|----------------------------|
+| Level                     | I                          |
+| Discovered                | 1963 / div.                |
+| Synonym                   | 5-Hydroxytryptamine / 5-HT |
+| Molecular formula         | C₁₀H₁₂N₂O                  |
+| CAS                       | 50-67-9                    |
+|                           |                            |
+| Precursor 1 [M+H]⁺        | 177.10279                  |
+| Precursor 2 [M+H-NH₃]⁺    | 160.07624                  |
+| Precursor 3               |                            |
+|                           |                            |
+| HDX                       | 4                          |
+| Precursor HDX 1 [d₄-M+D]⁺ | 182.13417                  |
+| Precursor HDX 2           |                            |
+| Precursor HDX 3           |                            |
+|                           |                            |
+| Rt                        | 4.31                       |
+| Rt HDX                    |                            |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation |
+| m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
 | 160.07624 | C₁₀H₁₀NO          | [M+H-NH₃]⁺ |
 | 132.08132 | C₉H₁₀N            |            |
@@ -42,13 +46,13 @@ tags = ["Acanthoscurria paulensis","Acanthoscurria sternalis",
 
 ## Recorded MS/MS spectra
 
-| pdf                                 | precursor | co-eluting | spider                       | source |
+| pdf                                 | Precursor | Co-eluting | Spider                       | Source |
 |-------------------------------------|-----------|------------|------------------------------|--------|
 | [Data](/pdf/177_Serotonin_4-31.pdf) | 203.22358 |            | Serotonin HCl (CAS 153-98-0) | Fluka  |
 
 ## References
 
-| titel                                                                                                                  | reference                                                                  | spider      | name | content | link                                           |
+| Title                                                                                                                  | Reference                                                                  | Spider      | Name | Content | Link                                           |
 |------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-------------|------|---------|----------------------------------------------------------------|
 | 5-Hydroxytryptamine content of some arthropod venoms and venom-containing parts  | J. H. Welsh, C. S. Batty, Toxicon 1963, 1, 165-173 | div.  | 5-Hydroxytryptamine | paper-chromatography | [Link](https://doi.org/10.1016/0041-0101(63)90002-3) |
 | 5-Hydroxytryptamine content of Latrodectus mactans tredecimguttatus venom from gland extracts  | M. C. Pansa, G. M. Natalizi, S. Bettini, Toxicon 1972, 10, 85-86 | L. tredecimguttatus | 5-Hydroxytryptamine |  | [Link](https://www.sciencedirect.com/journal/toxicon/vol/10/issue/1) |
@@ -59,7 +63,7 @@ tags = ["Acanthoscurria paulensis","Acanthoscurria sternalis",
 
 ## Spider species
 
-| spider species               | family           | first mention       |
+| Spider species               | Family           | Discovered          |
 |------------------------------|------------------|---------------------|
 | Acanthoscurria paulensis     | Theraphosidae    | 1963 / J. H. Welsh  |
 | Acanthoscurria sternalis     | Theraphosidae    | 1963 / J. H. Welsh  |

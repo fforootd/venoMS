@@ -1,6 +1,7 @@
 +++
 title = "IndAcßAla343"
-categories = ["C23H38N6O2","P431","D216","HDX439"]
+categories = ["C23H38N6O2","P431","D216","HDX439",
+"Zodariidae"]
 tags = ["Lachesana sp.*"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Lachesana sp.*"]
 
 ## General Description
 
-| name                        | value                |
+| Name                        | Value                |
 |-----------------------------|----------------------|
-| level                       | IV                   |
-| first mention               | 2009 / Lachesana sp. |
-| alternative name(s)         | LH 430               |
-| molecular formula           | C₂₃H₃₈N₆O₂           |
+| Level                       | IV                   |
+| Discovered                  | 2009 / Lachesana sp. |
+| Synonym                     | LH 430               |
+| Molecular formula           | C₂₃H₃₈N₆O₂           |
 | CAS                         | ---                  |
 |                             |                      |
-| precursor 1 [M+H]⁺          | 431.31345            |
-| precursor 2 [M+2H]²⁺        | 216.16064            |
-| precursor 3                 |                      |
+| Precursor 1 [M+H]⁺          | 431.31345            |
+| Precursor 2 [M+2H]²⁺        | 216.16064            |
+| Precursor 3                 |                      |
 |                             |                      |
 | HDX                         | 7                    |
-| precursor HDX   [d₇-M+D]⁺   | 439.36366            |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 220.68888            |
-| precursor HDX 3             |                      |
+| Precursor HDX 1 [d₇-M+D]⁺   | 439.36366            |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 220.68888            |
+| Precursor HDX 3             |                      |
 |                             |                      |
 | Rt                          |                      |
 | Rt HDX                      |                      |
@@ -39,25 +40,24 @@ tags = ["Lachesana sp.*"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
+| Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins| S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | Lachesana sp. | LH 430 | nLC-ESI-MS/MS | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) | 
-
 ## Spider species
 
-| spider species | family     | source                 |
+| Spider species | Family     | Discovered             |
 |----------------|------------|------------------------|
 | Lachesana sp.* | Zodariidae | 2009 / S. Eichenberger |
 

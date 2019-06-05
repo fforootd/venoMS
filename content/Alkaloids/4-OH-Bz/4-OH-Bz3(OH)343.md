@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz3(OH)343"
-categories = ["C20H37N5O3","P396","D198","HDX404"]
+categories = ["C20H37N5O3","P396","D198","HDX404",
+"Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| name                        | value            |
+| Name                        | Value            |
 |-----------------------------|------------------|
 | Level                       | IV               |
-| First mention               | 2001 / A. aperta |
-| Alternative name(s)         | AG 395           |
+| Discovered                  | 2001 / A. aperta |
+| Synonym                     | AG 395           |
 | Molecular formula           | C₂₀H₃₇N₅O₃       |
 | CAS                         | 389872-52-0      |
 |                             |                  |
-| precursor 1 [M+H]⁺          | 396.29746        |
-| precursor 2 [M+2H]²⁺        | 198.65264        |
-| precursor 3                 |                  |
+| Precursor 1 [M+H]⁺          | 396.29746        |
+| Precursor 2 [M+2H]²⁺        | 198.65264        |
+| Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 7                |
-| precursor HDX   [d₇-M+D]⁺   | 404.34767        |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 203.18089        |
-| precursor HDX 3             |                  |
+| Precursor HDX 1 [d₇-M+D]⁺   | 404.34767        |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 203.18089        |
+| Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 4.28             |
 | Rt HDX                      | 3.05             |
@@ -39,13 +40,13 @@ tags = ["Agelenopsis aperta"]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf                                                                  | precursor | co-eluting      | spider    | source                       |
+| pdf                                                                  | Precursor | Co-eluting      | Spider    | Source                       |
 |----------------------------------------------------------------------|-----------|-----------------|-----------|------------------------------|
 | [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa.pdf)     | 396.29746 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_2.pdf)   | 198.65264 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ |
@@ -53,13 +54,13 @@ tags = ["Agelenopsis aperta"]
 
 ## References
 
-| titel                                                                                                                                                            | reference                                                             | spider    | name    | content                 | link                                                                                   |
+| Title                                                                                                                                                            | Reference                                                             | Spider    | Name    | Content                 | Link                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------|---------|-------------------------|----------------------------------------------------------------------------------------|
 | The acylpolyamines from the venom of the spider Agelenopsis aperta                                                                                               | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197 | A. aperta | AG 395a | APCI-MS/MS              | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N)                                                                            |
 
 ## Spider species
 
-| spider species     | family     | first mention     |
+| Spider species     | Family     | Discovered        |
 |--------------------|------------|-------------------|
 | Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov |
 

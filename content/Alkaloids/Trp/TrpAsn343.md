@@ -1,6 +1,7 @@
 +++
 title = "TrpAsn343"
-categories = ["C25H42N8O3","P503","D252","HDX515"]
+categories = ["C25H42N8O3","P503","D252","HDX515",
+"Araneidae"]
 tags = ["Larinioides patagiatus"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Larinioides patagiatus"]
 
 ## General Description
 
-| name                         | value                |
+| Name                         | Value                |
 |------------------------------|----------------------|
-| level                        | IV                   |
-| first mention                | 2009 / L. patagiatus |
-| alternative name(s)          | LF 502D              |
-| molecular formula            | C₂₅H₄₂N₈O₃           |
+| Level                        | IV                   |
+| Discovered                   | 2009 / L. patagiatus |
+| Synonym                      | LF 502D              |
+| Molecular formula            | C₂₅H₄₂N₈O₃           |
 | CAS                          | ---                  |
 |                              |                      |
-| precursor 1 [M+H]⁺           | 503.34582            |
-| precursor 2 [M+2H]²⁺         | 252.17682            |
-| precursor 3                  |                      |
+| Precursor 1 [M+H]⁺           | 503.34582            |
+| Precursor 2 [M+2H]²⁺         | 252.17682            |
+| Precursor 3                  |                      |
 |                              |                      |
 | HDX                          | 11                   |
-| precursor HDX   [d₁₁-M+D]⁺   | 515.42114            |
-| precursor HDX 2 [d₁₁-M+2D]²⁺ | 258.71762            |
-| precursor HDX 3              |                      |
+| Precursor HDX 1 [d₁₁-M+D]⁺   | 515.42114            |
+| Precursor HDX 2 [d₁₁-M+2D]²⁺ | 258.71762            |
+| Precursor HDX 3              |                      |
 |                              |                      |
 | Rt                           |                      |
 | Rt HDX                       |                      |
@@ -39,25 +40,25 @@ tags = ["Larinioides patagiatus"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                      | reference                                                     | spider        | name    | content       | link                                                               |
+| Title                                                                                                      | Reference                                                     | Spider        | Name    | Content       | Link                                                               |
 |------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------|---------|---------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | L. patagiatus | LF 502D | nLC-ESI-MS/MS | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
 
 ## Spider species
 
-| spider species         | family    | source                 |
+| Spider species         | Family    | Discovered             |
 |------------------------|-----------|------------------------|
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
 

@@ -1,6 +1,7 @@
 +++
 title = "Lysine"
-categories = ["C6H14N2O2","P147","HDX153]
+categories = ["C6H14N2O2","P147","HDX153",
+"Ctenidae","Cupiennius","Lycosidae"]
 tags = ["Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Phoneutria fera"]
 +++
 
@@ -8,37 +9,41 @@ tags = ["Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Phoneutri
 
 ## General Description
 
-| name                    | value                             |
-|-------------------------|-----------------------------------|
-| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PR100167)                               |
-| First mention           | 1957 / L. erythrognatha & P. fera |
-| Alternative name(s)     |                                   |
-| Molecular formula       | C₆H₁₄N₂O₂                         |
-| CAS                     | 56-87-1                           |
-|                         |                                   |
-| precursor [M+H]⁺        | 147.11335                         |
-|                         |                                   |
-| HDX                     | 5                                 |
-| precursor HDX [d₅-M+D]⁺ | 153.15101                         |
-|                         |                                   |
-| Rt                      |                                   |
-| Rt HDX                  |                                   |
+| Name                      | Value                                                       |
+|---------------------------|-------------------------------------------------------------|
+| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PR100167) |
+| Discovered                | 1957 / L. erythrognatha & P. fera                           |
+| Synonym                   |                                                             |
+| Molecular formula         | C₆H₁₄N₂O₂                                                   |
+| CAS                       | 56-87-1                                                     |
+|                           |                                                             |
+| Precursor 1 [M+H]⁺        | 147.11335                                                   |
+| Precursor 2               |                                                             |
+| Precursor 3               |                                                             |
+|                           |                                                             |
+| HDX                       | 5                                                           |
+| Precursor HDX 1 [d₅-M+D]⁺ | 153.15101                                                   |
+| Precursor HDX 2           |                                                             |
+| Precursor HDX 3           |                                                             |
+|                           |                                                             |
+| Rt                        |                                                             |
+| Rt HDX                    |                                                             |
 
 ## MS/MS fragments
 
-| m/z | molecular formula | annotation |
+| m/z | Molecular formula | Annotation |
 |-----|-------------------|------------|
 |     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf      | precursor | co-eluting | spider   | source |
+| pdf      | Precursor | Co-eluting | Spider   | Source |
 |----------|-----------|------------|----------|--------|
 | [Data]() | 147.11335 |            | L-Lysine | Fluka  |
 
 ## References
 
-| titel                                                                                                                                      | reference                                                                        | spider                     | name | content              | link                                                             |
+| Title                                                                                                                                      | Reference                                                                        | Spider                     | Name | Content              | Link                                                             |
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------|------|----------------------|------------------------------------------------------------------|
 | The venom of the Brazilian tarantula, Lycosa erythrognatha, and the spider, Phoneutria fera                                                | F. G. Fischer, H. Bohn, Hoppe Seylers Z. Physiol. Chem. 1957, 306, 265-268       | L. erythrognatha & P. fera |      |                      | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.19576030124) |
 | Preliminary studies on the venom of three Indian spider                                                                                    | G. Ridling Margaret, G. J. Phanuel, Proc. Indian Acad. Sci. 1988, 97, 3, 231-237 | L. indagatrix              |      | paper chromatography | [Link](https://www.ias.ac.in/article/fulltext/anml/097/03/0231-0237)     |
@@ -46,7 +51,7 @@ tags = ["Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Phoneutri
 
 ## Spider species
 
-| spider species       | family     | first mention              |
+| Spider species       | Family     | Discovered                 |
 |----------------------|------------|----------------------------|
 | Cupiennius salei     | Cupiennius | 1994 / L. Kuhn-Nentwig     |
 | Lycosa erythrognatha | Lycosidae  | 1957 / F. G. Fischer       |

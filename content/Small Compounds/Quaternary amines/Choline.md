@@ -1,6 +1,7 @@
 +++
 title = "Choline"
-categories = ["C5H14NO","P104","HDX105"]
+categories = ["C5H14NO","P104","HDX105",
+"Araneidae","Segestriidae"]
 tags = ["Araneus diadematus","Ariadna sp."]
 +++
 
@@ -8,43 +9,47 @@ tags = ["Araneus diadematus","Ariadna sp."]
 
 ## General Description
 
-| name                  | value                              |
-|-----------------------|------------------------------------|
-| Level                 | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PR100405)                                 |
-| First mention         | 2008 / A. diadematus & Ariadna sp. |
-| Alternative name(s)   |                                    |
-| Molecular formula     | C₅H₁₄NO                            |
-| CAS                   | 62-49-7                            |
-|                       |                                    |
-| precursor  M⁺         | 104.10754                          |
-|                       |                                    |
-| HDX                   | 1                                  |
-| precursor HDX [d₁-M]⁺ | 105.11381                          |
-|                       |                                    |
-| Rt                    |                                    |
-| Rt HDX                |                                    |
+| Name                   | Value                                                       |
+|------------------------|-------------------------------------------------------------|
+| Level                  | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PR100405) |
+| Discovered             | 2008 / A. diadematus & Ariadna sp.                          |
+| Synonym                |                                                             |
+| Molecular formula      | C₅H₁₄NO                                                     |
+| CAS                    | 62-49-7                                                     |
+|                        |                                                             |
+| Precursor 1  M⁺        | 104.10754                                                   |
+| Precursor 2            |                                                             |
+| Precursor 3            |                                                             |
+|                        |                                                             |
+| HDX                    | 1                                                           |
+| Precursor HDX 1  d₁-M⁺ | 105.11381                                                   |
+| Precursor HDX 2        |                                                             |
+| Precursor HDX 3        |                                                             |
+|                        |                                                             |
+| Rt                     |                                                             |
+| Rt HDX                 |                                                             |
 
 ## MS/MS fragments
 
-| m/z | molecular formula | annotation |
+| m/z | Molecular formula | Annotation |
 |-----|-------------------|------------|
 |     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf      | precursor | co-eluting | spider                              | source        |
+| pdf      | Precursor | Co-eluting | Spider                              | Source        |
 |----------|-----------|------------|-------------------------------------|---------------|
 | [Data]() | 104.10754 |            | Choline, 45% in MeOH (CAS 123-41-1) | Sigma Aldrich |
 
 ## References
 
-| titel                                                                                                            | reference                                                         | spider     | name  | content     | link                                         |
+| Title                                                                                                            | Reference                                                         | Spider     | Name  | Content     | Link                                         |
 |------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------|-------|-------------|----------------------------------------------|
 | NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species     | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, Proc. Natl. Acad. Sci. U.S.A. 2008, 105, 14283-14287 | A. diadematus & Ariadna sp.   |      | NMR-screening | [Link](https://doi.org/10.1073/pnas.0806840105)    |
 
 ## Spider species
 
-| spider species     | family       | first mention          |
+| Spider species     | Family       | Discovered             |
 |--------------------|--------------|------------------------|
 | Araneus diadematus | Araneidae    | 2008 / F. C. Schroeder |
 | Ariadna sp.        | Segestriidae | 2008 / F. C. Schroeder |

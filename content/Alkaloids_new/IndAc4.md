@@ -1,6 +1,7 @@
 +++
 title = "IndAc4"
-categories = ["C14H19N3O","P246","D123","HDX251"]
+categories = ["C14H19N3O","P246","D123","HDX251",
+"Agelenidae"]
 tags = ["Agelenopsis potteri","Hololena curta","Hololena sp."]
 draft = true
 +++
@@ -9,22 +10,22 @@ draft = true
 
 ## General Description
 
-| name                        | value       |
+| Name                        | Value       |
 |-----------------------------|-------------|
 | Level                       | IV          |
-| First mention               | 2019 / div. |
-| Alternative name(s)         |             |
+| Discovered                  | 2019 / div. |
+| Synonym                     |             |
 | Molecular formula           | C₁₄H₁₉N₃O   |
 | CAS                         | 132502-14-8 |
 |                             |             |
-| precursor 1 [M+H]⁺          | 246.16064   |
-| precursor 2 [M+2H]²⁺        | 123.58423   |
-| precursor 3                 |             |
+| Precursor 1 [M+H]⁺          | 246.16064   |
+| Precursor 2 [M+2H]²⁺        | 123.58423   |
+| Precursor 3                 |             |
 |                             |             |
 | HDX                         | 4           |
-| precursor HDX   [d₄-M+D]⁺   | 251.19202   |
-| precursor HDX 2 [d₄-M+2D]²⁺ | 126.60306   |
-| precursor HDX 3             |             |
+| Precursor HDX 1 [d₄-M+D]⁺   | 251.19202   |
+| Precursor HDX 2 [d₄-M+2D]²⁺ | 126.60306   |
+| Precursor HDX 3             |             |
 |                             |             |
 | Rt                          |             |
 | Rt HDX                      |             |
@@ -37,25 +38,25 @@ draft = true
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                           | reference                                                                                                       | spider | name | content        | link                                               |
+| Title                                                                                           | Reference                                                                                                       | Spider | Name | Content        | Link                                               |
 |-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------|------|----------------|----------------------------------------------------|
 | Biomimetic fabrication of gold nanoparticles on templated indole-3-acetic acid based nanofibers | S. N. Barnaby, S. H. Frayne, E. M. Smoak, I. A. Banerjee, Materials Science and Engineering C 2011, 31, 620-628 |        |      | Synthesis, NMR | [Link](https://doi.org/10.1016/j.msec.2010.11.027) |
 
 ## Spider species
 
-| spider species      | family     | first mention        |
+| Spider species      | Family     | Discovered           |
 |---------------------|------------|----------------------|
 | Agelenopsis potteri | Agelenidae | 2019 / Y. M. Forster |
 | Hololena curta      | Agelenidae | 2019 / Y. M. Forster |

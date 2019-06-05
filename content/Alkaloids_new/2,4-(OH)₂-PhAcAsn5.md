@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5"
-categories = ["C17H26N4O5","P367","D184","HDX374"]
+categories = ["C17H26N4O5","P367","D184","HDX374",
+"Araneidae"]
 tags = ["Parawixia bistriata"]
 draft = true
 +++
@@ -9,22 +10,22 @@ draft = true
 
 ## General Description
 
-| name                        | value               |
+| Name                        | Value               |
 |-----------------------------|---------------------|
 | Level                       | IV                  |
-| First mention               | 2019 / P. bistriata |
-| Alternative name(s)         | ---                 |
+| Discovered                  | 2019 / P. bistriata |
+| Synonym                     | ---                 |
 | Molecular formula           | C₁₇H₂₆N₄O₅          |
 | CAS                         | 112111-38-3         |
 |                             |                     |
-| precursor 1 [M+H]⁺          | 367.19815           |
-| precursor 2 [M+2H]²⁺        | 184.10299           |
-| precursor 3                 |                     |
+| Precursor 1 [M+H]⁺          | 367.19815           |
+| Precursor 2 [M+2H]²⁺        | 184.10299           |
+| Precursor 3                 |                     |
 |                             |                     |
 | HDX                         | 6                   |
-| precursor HDX   [d₆-M+D]⁺   | 374.24208           |
-| precursor HDX 2 [d₆-M+2D]²⁺ | 188.12809           |
-| precursor HDX 3             |                     |
+| Precursor HDX 1 [d₆-M+D]⁺   | 374.24208           |
+| Precursor HDX 2 [d₆-M+2D]²⁺ | 188.12809           |
+| Precursor HDX 3             |                     |
 |                             |                     |
 | Rt                          |                     |
 | Rt HDX                      |                     |
@@ -38,19 +39,19 @@ draft = true
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                                       | reference                                                                                                                                             | spider | name       | content                          | link                                                  |
+| Title                                                                                                       | Reference                                                                                                                                             | Spider | Name       | Content                          | Link                                                  |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------|----------------------------------|-------------------------------------------------------|
 | Synthesis of spider toxin (JSTX-3) and its analogs                                                          | Y. Hashimoto, Y. Endo, K. Shudo, Y. Aramaki, N. Kawai, T. Nakajima, Tetrahedron Letters 1987, 28, 3511-3514                                           | ---    | compound 3 | Synthesis, NMR, Activity-studies | [Link](https://doi.org/10.1016/S0040-4039(00)96340-8) |
 | Newly synthesized analogues of the spider toxin block the crustacean glutamate receptor                     | K. Shudo, Y. Endo, Y. Hashimoto, Y. Aramaki, T. Nakajima, N. Kawai, Neuroscience Research 1987, 5, 82-85                                              | ---    | C-1        | Synthesis, Activity-studies      | [Link](https://doi.org/10.1016/0168-0102(87)90026-5)  |
@@ -59,7 +60,7 @@ draft = true
 
 ## Spider species
 
-| spider species      | family    | first mention        |
+| Spider species      | Family    | Discovered           |
 |---------------------|-----------|----------------------|
 | Parawixia bistriata | Araneidae | 2019 / Y. M. Forster |
 

@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla4AlaGlyArg"
-categories = ["C25H60N12O9","P793","D397","HDX811"]
+categories = ["C25H60N12O9","P793","D397","HDX811",
+"Araneidae"]
 tags = ["Nephila clavata","Nephilingis borbonica"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata","Nephilingis borbonica"]
 
 ## General Description
 
-| name                         | value             |
+| Name                         | Value             |
 |------------------------------|-------------------|
-| level                        | III               |
-| first mention                | 1990 / N. clavata |
-| alternative name(s)          | Clavamine         |
-| molecular formula            | C₃₅H₆₀N₁₂O₉       |
+| Level                        | III               |
+| Discovered                   | 1990 / N. clavata |
+| Synonym                      | Clavamine         |
+| Molecular formula            | C₃₅H₆₀N₁₂O₉       |
 | CAS                          | 129121-68-2       |
 |                              |                   |
-| precursor 1 [M+H]⁺           | 793.46844         |
-| precursor 2 [M+2H]²⁺         | 397.23813         |
-| precursor 3                  |                   |
+| Precursor 1 [M+H]⁺           | 793.46844         |
+| Precursor 2 [M+2H]²⁺         | 397.23813         |
+| Precursor 3                  |                   |
 |                              |                   |
 | HDX                          | 17                |
-| precursor HDX   [d₁₇-M+D]⁺   | 811.58143         |
-| precursor HDX 2 [d₁₇-M+2D]²⁺ | 406.79776         |
-| precursor HDX 3              |                   |
+| Precursor HDX 1 [d₁₇-M+D]⁺   | 811.58143         |
+| Precursor HDX 2 [d₁₇-M+2D]²⁺ | 406.79776         |
+| Precursor HDX 3              |                   |
 |                              |                   |
 | Rt                           |                   |
 | Rt HDX                       |                   |
@@ -41,19 +42,19 @@ tags = ["Nephila clavata","Nephilingis borbonica"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                                                | reference                                                                                                                                     | spider                    | name          | content                                               | link                                                                                                |
+| Title                                                                                                                                                                                | Reference                                                                                                                                     | Spider                    | Name          | Content                                               | Link                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | A new insecticide, clavamine, from venom of a spider, Nephila clavata - I                                                                                                            |                                                                                                                                               |                           |               |                                                       |                                                                                                     |
 | Purification and identification of the structure                                                                                                                                     | M. Yoshioka, N. Narai, N. Kawai, M. Numata, T. Nakajima, Biog. Amines 1990, 7, 375-384                                                        | N. clavata                | Clavamine     | NMR, Amino acid analysis, Activity-studies            | [Link](https://eurekamag.com/research/006/951/006951719.php)                                        |
@@ -68,7 +69,7 @@ tags = ["Nephila clavata","Nephilingis borbonica"]
 
 ## Spider species
 
-| spider species        | family    | source             |
+| Spider species        | Family    | Discovered         |
 |-----------------------|-----------|--------------------|
 | Nephila clavata       | Araneidae | 1990 / M. Yoshioka |
 | Nephilingis borbonica | Araneidae | 2005 / M. S. Palma |

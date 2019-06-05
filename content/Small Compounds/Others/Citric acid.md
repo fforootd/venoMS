@@ -1,6 +1,7 @@
 +++
 title = "Citric acid"
-categories = ["C6H8O7","P193","HDX198"]
+categories = ["C6H8O7","P193","HDX198",
+"Agelenidae","Araneidae","Atracidae","Cupiennius","Lycosidae","Nemesiidae","Palpimanidae","Pisauridae","Salticidae","Segestriidae","Sicariidae","Sparassidae","Theraphosidae","Thomisidae","Titanoecidae","Zodariidae"]
 tags = ["Aculepeira sp.","Agelenopsis aperta","Aphonopelma hentzi","Aphonopelma seemnani","Aphonopelma sp.","Araneus diadematus","Araneus tartaricus","Ariadna sp.","Atrax robustus",
 "Brachypelma emilia","Brachypelma smithi",
 "Ceratogyrus marshalli cornuatus","Chilobrachys sp.","Coelotes pastoralis","Cupiennius salei","Cyriopagopus albostriatus","Cyriopagopus hainanus","Cyriopagopus lividum","Cyriopagopus schmidti",
@@ -22,28 +23,29 @@ tags = ["Aculepeira sp.","Agelenopsis aperta","Aphonopelma hentzi","Aphonopelma 
 
 ## General Description
 
-| name                     | value              |
-|--------------------------|--------------------|
-| Level                    | II [Link](https://doi.org/10.1007/s11306-012-0487-4)                  |
-| First mention            | 1979 / A. robustus |
-| Alternative name(s)      |                    |
-| Molecular formula        | C₆H₈O₇             |
-| CAS                      | 77-92-9            |
-|                          |                    |
-| precursor [M+H]⁺         | 193.03482          |
-| precursor [M+NH₄]⁺       | 210.06138          |
-| precursor [M+Na]⁺        | 215.01677          |
-|                          |                    |
-| HDX                      | 4                  |
-| precursor HDX [d₄-M+D]⁺  | 198.06621          |
-| precursor HDX [d₄-M+Na]⁺ | 219.04188          |
-|                          |                    |
-| Rt                       | 1.81               |
-| Rt HDX                   | 1.67               |
+| Name                       | Value                                                |
+|----------------------------|------------------------------------------------------|
+| Level                      | II [Link](https://doi.org/10.1007/s11306-012-0487-4) |
+| Discovered                 | 1979 / A. robustus                                   |
+| Synonym                    |                                                      |
+| Molecular formula          | C₆H₈O₇                                               |
+| CAS                        | 77-92-9                                              |
+|                            |                                                      |
+| Precursor 1 [M+H]⁺         | 193.03482                                            |
+| Precursor 2 [M+NH₄]⁺       | 210.06138                                            |
+| Precursor 3 [M+Na]⁺        | 215.01677                                            |
+|                            |                                                      |
+| HDX                        | 4                                                    |
+| Precursor HDX 1 [d₄-M+D]⁺  | 198.06621                                            |
+| Precursor HDX 2 [d₄-M+Na]⁺ | 219.04188                                            |
+| Precursor HDX 3            |                                                      |
+|                            |                                                      |
+| Rt                         | 1.81                                                 |
+| Rt HDX                     | 1.67                                                 |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation        |
+| m/z       | Molecular formula | Annotation        |
 |-----------|-------------------|-------------------|
 | 175.02426 | C₆H₇O₆            | [M+H-H₂O]⁺        |
 | 157.01370 | C₆H₅O₅            | [M+H-2H₂O]⁺       |
@@ -56,7 +58,7 @@ tags = ["Aculepeira sp.","Agelenopsis aperta","Aphonopelma hentzi","Aphonopelma 
 
 ## Recorded MS/MS spectra
 
-| pdf                                              | precursor | co-eluting | spider                          | source                       |
+| pdf                                              | Precursor | Co-eluting | Spider                          | Source                       |
 |--------------------------------------------------|-----------|------------|---------------------------------|------------------------------|
 | [Data]()                                         | 210.06138 |            | Citric acid H₂O (CAS 5949-29-1) | Acros Organics               |
 | [Data](/pdf/A-aperta/193_Citric-acid_Aa.pdf)     | 210.06138 |            | A. aperta                       | Fauna Laboratories Ltd., KAZ |
@@ -64,7 +66,7 @@ tags = ["Aculepeira sp.","Agelenopsis aperta","Aphonopelma hentzi","Aphonopelma 
 
 ## References
 
-| titel                                                                                                                                              | reference                                                                                                                                          | spider                 | name    | content       | link                                                                     |
+| Title                                                                                                                                              | Reference                                                                                                                                          | Spider                 | Name    | Content       | Link                                                                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------|---------------|--------------------------------------------------------------------------|
 | Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry                                   | P. H. Duffield, A. M. Duffield, P. R. Carroll, D. Morgans, Biomed. Mass. Spectrom. 1979, 6, 3, 105-108                                             | A. robustus            |         | GC-MS         | [Link](https://doi.org/10.1002/bms.1200060305)                                   |
 | The components of the venom of a spider Scodra griseipes. 1. Analysis of low molecular weight products using gas chromatography/ mass spectrometry | C. Lange, C. Paris, M.-L. Celerier, Rapid Commun. Mass Spectrom. 1992, 6, 289-292                                                                                                                | S. calceatum griseipes |         | GC-MS         | [Link](https://doi.org/10.1002/rcm.1290060413)                                   |
@@ -74,7 +76,7 @@ tags = ["Aculepeira sp.","Agelenopsis aperta","Aphonopelma hentzi","Aphonopelma 
 
 ## Spider species
 
-| spider species                     | family        | first mention          |
+| Spider species                     | Family        | Discovered             |
 |------------------------------------|---------------|------------------------|
 | Aculepeira sp.                     | Araneidae     | 2008 / F. C. Schroeder |
 | Agelenopsis aperta                 | Agelenidae    | 2008 / F. C. Schroeder |

@@ -1,6 +1,7 @@
 +++
 title = "AMP"
-categories = ["C10H14N5O7P","P348","HDX355"]
+categories = ["C10H14N5O7P","P348","HDX355",
+"Theraphosidae"]
 tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodora sp."]
 +++
 
@@ -8,37 +9,41 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodo
 
 ## General Description
 
-| name                    | value                              |
-|-------------------------|------------------------------------|
-| Level                   | V                                  |
-| First mention           | 1975 / A. hentzi & Aphonopelma sp. |
-| Alternative name(s)     |                                    |
-| Molecular formula       | C₁₀H₁₄N₅O₇P                        |
-| CAS                     | 61-19-8                            |
-|                         |                                    |
-| precursor  [M+H]⁺       | 348.07091                          |
-|                         |                                    |
-| HDX                     | 6                                  |
-| precursor HDX [d₆-M+D]⁺ | 355.11484                          |
-|                         |                                    |
-| Rt                      |                                    |
-| Rt HDX                  |                                    |
+| Name                      | Value                              |
+|---------------------------|------------------------------------|
+| Level                     | V                                  |
+| Discovered                | 1975 / A. hentzi & Aphonopelma sp. |
+| Synonym                   |                                    |
+| Molecular formula         | C₁₀H₁₄N₅O₇P                        |
+| CAS                       | 61-19-8                            |
+|                           |                                    |
+| Precursor 1 [M+H]⁺        | 348.07091                          |
+| Precursor 2               |                                    |
+| Precursor 3               |                                    |
+|                           |                                    |
+| HDX                       | 6                                  |
+| Precursor HDX 1 [d₆-M+D]⁺ | 355.11484                          |
+| Precursor HDX 2           |                                    |
+| Precursor HDX 3           |                                    |
+|                           |                                    |
+| Rt                        |                                    |
+| Rt HDX                    |                                    |
 
 ## MS/MS fragments
 
-| m/z | molecular formula | annotation |
+| m/z | Molecular formula | Annotation |
 |-----|-------------------|------------|
 |     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf      | precursor | co-eluting | spider                                                    | source |
+| pdf      | Precursor | Co-eluting | Spider                                                    | Source |
 |----------|-----------|------------|-----------------------------------------------------------|--------|
 | [Data]() | 348.07091 |            | Adenosine-5'-monophosphate, disodium salt (CAS 4578-31-8) | Fluka  |
 
 ## References
 
-| titel                                                                                             | reference                                                                                                                                                                                                       | spider                      | name | content | link                                                 |
+| Title                                                                                             | Reference                                                                                                                                                                                                       | Spider                      | Name | Content | Link                                                 |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------|---------|------------------------------------------------------|
 | Adenosine triphosphate in tarantula spider venoms and its synergistic effect with the venom toxin | T. K. Chan, C. R. Geren, D. E. Howell, G. V. Odell, Toxicon 1975, 13, 1, 61-66                                                                                                                                  | A. hentzi & Aphonopelma sp. |      |         | [Link](https://doi.org/10.1016/0041-0101(75)90159-2)         |
 | Biochemical analysis of tarantula venom (Eurypelma californicum)                                  | A. Savel-Niemann, D. Roth, Naturwissenschaften 1989, 76, 5, 212-213                                                                                                                                             | E. californicum             |      |         | [Link](https://link.springer.com/article/10.1007/BF00627688) |
@@ -47,7 +52,7 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodo
 
 ## Spider species
 
-| spider species         | family        | first mention           |
+| Spider species         | Family        | Discovered           |
 |------------------------|---------------|-------------------------|
 | Aphonopelma hentzi     | Theraphosidae | 1975 / T. K. Chan       |
 | Aphonopelma sp.        | Theraphosidae | 1975 / T. K. Chan       |

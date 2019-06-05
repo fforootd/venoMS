@@ -1,6 +1,7 @@
 +++
 title = "Uric acid"
-categories = ["C5H4N4O3","P169","HDX174"]
+categories = ["C5H4N4O3","P169","HDX174",
+"Theridiidae"]
 tags = ["Latrodectus menavodi"]
 +++
 
@@ -8,43 +9,47 @@ tags = ["Latrodectus menavodi"]
 
 ## General Description
 
-| name                    | value              |
-|-------------------------|--------------------|
-| Level                   | V                  |
-| First mention           | 2001 / L. menavodi |
-| Alternative name(s)     |                    |
-| Molecular formula       | C₅H₄N₄O₃           |
-| CAS                     | 69-93-2            |
-|                         |                    |
-| precursor [M+H]⁺        | 169.03617          |
-|                         |                    |
-| HDX                     | 4                  |
-| precursor HDX [d₄-M+D]⁺ | 174.06754          |
-|                         |                    |
-| Rt                      |                    |
-| Rt HDX                  |                    |
+| Name                      | Value              |
+|---------------------------|--------------------|
+| Level                     | V                  |
+| Discovered                | 2001 / L. menavodi |
+| Synonym                   |                    |
+| Molecular formula         | C₅H₄N₄O₃           |
+| CAS                       | 69-93-2            |
+|                           |                    |
+| Precursor 1 [M+H]⁺        | 169.03617          |
+| Precursor 2               |                    |
+| Precursor 3               |                    |
+|                           |                    |
+| HDX                       | 4                  |
+| Precursor HDX 1 [d₄-M+D]⁺ | 174.06754          |
+| Precursor HDX 2           |                    |
+| Precursor HDX 3           |                    |
+|                           |                    |
+| Rt                        |                    |
+| Rt HDX                    |                    |
 
 ## MS/MS fragments
 
-| m/z | molecular formula | annotation |
+| m/z | Molecular formula | Annotation |
 |-----|-------------------|------------|
 |     |                   |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                                | reference                                                   | spider      | name | content | link                                                                |
+| Title                                                                                                | Reference                                                   | Spider      | Name | Content | Link                                                                |
 |------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|------|---------|---------------------------------------------------------------------|
 | The main products of the low molecular mass fraction in the venom of the spider Latrodectus menavodi | A. Horni, D. Weickmann, M. Hesse, Toxicon 2001, 39, 425-428 | L. menavodi |      |         | [Link](https://www.sciencedirect.com/science/article/pii/S0041010100001471) |
 
 ## Spider species
 
-| spider species       | family      | first mention   |
+| Spider species       | Family      | Discovered      |
 |----------------------|-------------|-----------------|
 | Latrodectus menavodi | Theridiidae | 2001 / A. Horni |
 

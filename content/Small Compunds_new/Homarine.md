@@ -1,6 +1,7 @@
 +++
 title = "Homarine"
-categories = ["7H8NO2C","P138","HDX138"]
+categories = ["7H8NO2C","P138","HDX138",
+"Agelenidae","Araneidae","Lycosidae","Oxyopidae","Sparassidae","Theridiidae"]
 tags = ["Alopecosa sp.",
 "Desertosa sp.",
 "Eratigena agrestis",
@@ -17,25 +18,29 @@ draft = true
 
 ## General Description
 
-| name                | value               |
-|---------------------|---------------------|
-| Level               | I                   |
-| First mention       | 2019 / P. bistriata |
-| Alternative name(s) |                     |
-| Molecular formula   | C₇H₈NO₂             |
-| CAS                 | 824-77-1            |
-|                     |                     |
-| precursor M⁺        | 138.05550           |
-|                     |                     |
-| HDX                 | 0                   |
-| precursor HDX M⁺    | 138.05550           |
-|                     |                     |
-| Rt                  | 1.22                |
-| Rt HDX              |                     |
+| Name               | Value               |
+|--------------------|---------------------|
+| Level              | I                   |
+| Discovered         | 2019 / P. bistriata |
+| Synonym            |                     |
+| Molecular formula  | C₇H₈NO₂             |
+| CAS                | 824-77-1            |
+|                    |                     |
+| Precursor 1  M⁺    | 138.05550           |
+| Precursor 2        |                     |
+| Precursor 3        |                     |
+|                    |                     |
+| HDX                | 0                   |
+| Precursor HDX 1 M⁺ | 138.05550           |
+| Precursor HDX 2    |                     |
+| Precursor HDX 3    |                     |
+|                    |                     |
+| Rt                 | 1.22                |
+| Rt HDX             |                     |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation  |
+| m/z       | Molecular formula | Annotation  |
 |-----------|-------------------|-------------|
 | 138.05550 | C₇H₈NO₂           | M⁺          |
 | 124.03985 | C₆H₆NO₂           | [M-CH₂]⁺    |
@@ -45,19 +50,19 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                | precursor | co-eluting | spider                    | source                                 |
+| pdf                                | Precursor | Co-eluting | Spider                    | Source                                 |
 |------------------------------------|-----------|------------|---------------------------|----------------------------------------|
 | [Data](/pdf/138_Homarine_1-22.pdf) | 138.05550 |            | Homarine (CAS 6253-06-1) | Dominique Kamber, University of Zurich |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species        | family      | first mention        |
+| Spider species        | Family      | Discovered           |
 |-----------------------|-------------|----------------------|
 | Alopecosa sp.         | Lycosidae   | 2019 / Y. M. Forster |
 | Desertosa sp.         | Lycosidae   | 2019 / Y. M. Forster |

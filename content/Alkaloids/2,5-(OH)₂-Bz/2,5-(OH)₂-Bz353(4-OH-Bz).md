@@ -1,6 +1,7 @@
 +++
 title = "2,5-(OH)₂-Bz353(4-OH-Bz)"
-categories = ["C25H36N4O5","P473","D237","HDX481"]
+categories = ["C25H36N4O5","P473","D237","HDX481",
+"Gnaphosidae"]
 tags = ["Drassodes sp."]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Drassodes sp."]
 
 ## General Description
 
-| name                        | value                |
+| Name                        | Value                |
 |-----------------------------|----------------------|
-| level                       | IV                   |
-| first mention               | 2009 / Drassodes sp. |
-| alternative name(s)         | DR 472               |
-| molecular formula           | C₂₅H₃₆N₄O₅           |
+| Level                       | IV                   |
+| Discovered                  | 2009 / Drassodes sp. |
+| Synonym                     | DR 472               |
+| Molecular formula           | C₂₅H₃₆N₄O₅           |
 | CAS                         | ---                  |
 |                             |                      |
-| precursor 1 [M+H]⁺          | 473.27640            |
-| precursor 2 [M+2H]²⁺        | 237.14211            |
-| precursor 3                 |                      |
+| Precursor 1 [M+H]⁺          | 473.27640            |
+| Precursor 2 [M+2H]²⁺        | 237.14211            |
+| Precursor 3                 |                      |
 |                             |                      |
 | HDX                         | 7                    |
-| precursor HDX   [d₇-M+D]⁺   | 481.32661            |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 241.67036            |
-| precursor HDX 3             |                      |
+| Precursor HDX 1 [d₇-M+D]⁺   | 481.32661            |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 241.67036            |
+| Precursor HDX 3             |                      |
 |                             |                      |
 | Rt                          |                      |
 | Rt HDX                      |                      |
@@ -38,25 +39,25 @@ tags = ["Drassodes sp."]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                      | reference                                                     | spider        | name   | content       | link                                                               |
+| Title                                                                                                      | Reference                                                     | Spider        | Name   | Content       | Link                                                               |
 |------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------|--------|---------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | Drassodes sp. | DR 472 | nLC-ESI-MS/MS | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
 
 ## Spider species
 
-| spider species | family      | source                |
+| Spider species | Family      | Discovered            |
 |----------------|-------------|-----------------------|
 | Drassodes sp.  | Gnaphosidae | 209 / S. Eichenberger |
 

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3(OH)3(OH)43"
-categories = ["C23H40N6O4","P465","D233","HDX474"]
+categories = ["C23H40N6O4","P465","D233","HDX474",
+"Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| name                        | value              |
+| Name                        | Value              |
 |-----------------------------|--------------------|
-| level                       | IV                 |
-| first mention               | ? / A. aperta      |
-| alternative name(s)         | AG 464a / Agel 464 |
-| molecular formula           | C₂₃H₄₀N₆O₄         |
+| Level                       | IV                 |
+| Discovered                  | ? / A. aperta      |
+| Synonym                     | AG 464a / Agel 464 |
+| Molecular formula           | C₂₃H₄₀N₆O₄         |
 | CAS                         | 389872-65-5        |
 |                             |                    |
-| precursor 1 [M+H]⁺          | 465.31892          |
-| precursor 2 [M+2H]²⁺        | 233.16337          |
-| precursor 3                 |                    |
+| Precursor 1 [M+H]⁺          | 465.31892          |
+| Precursor 2 [M+2H]²⁺        | 233.16337          |
+| Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 8                  |
-| precursor HDX   [d₈-M+D]⁺   | 474.37541          |
-| precursor HDX 2 [d₈-M+2D]²⁺ | 238.19475          |
-| precursor HDX 3             |                    |
+| Precursor HDX 1 [d₈-M+D]⁺   | 474.37541          |
+| Precursor HDX 2 [d₈-M+2D]²⁺ | 238.19475          |
+| Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          |                    |
 | Rt HDX                      |                    |
@@ -39,19 +40,19 @@ tags = ["Agelenopsis aperta"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                     | reference                                                                                         | spider    | name     | content                                             | link                                                                                                                          |
+| Title                                                                                     | Reference                                                                                         | Spider    | Name     | Content                                             | Link                                                                                                                          |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------|----------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Polyamine toxins from spiders and wasps                                                   | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125 | A. aperta | Agel 464 | Review                                              | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X)                                                   |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                             | A. aperta | Agel 464 | Review                                              | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                             |
@@ -59,9 +60,10 @@ tags = ["Agelenopsis aperta"]
 
 ## Spider species
 
-| spider species     | family     | source |
-|--------------------|------------|--------|
-| Agelenopsis aperta | Agelenidae | ? / ?  |
+| Spider species     | Family     | Discovered |
+|--------------------|------------|------------|
+| Agelenopsis aperta | Agelenidae | ? / ?      |
 
 ## Comments
+
 The MS/MS fragment ions of AG 464a published by Chesnov (2001) match for 4-OH-IndAc3(OH)334 and not 4-OH-IndAc3(OH)343. Probably a typo.

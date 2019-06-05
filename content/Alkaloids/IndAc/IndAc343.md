@@ -1,6 +1,7 @@
 +++
 title = "IndAc343"
-categories = ["C20H33N5O","P360","D180","HDX367"]
+categories = ["C20H33N5O","P360","D180","HDX367",
+"Agelenidae","Thomisidae"]
 tags = ["Agelenopsis aperta","Ozyptila lugubris"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Agelenopsis aperta","Ozyptila lugubris"]
 
 ## General Description
 
-| name                        | value              |
+| Name                        | Value              |
 |-----------------------------|--------------------|
 | Level                       | IV                 |
-| First mention               | 2009 / O. lugubris |
-| Alternative name(s)         | HO 359b / OZ 359   |
+| Discovered                  | 2009 / O. lugubris |
+| Synonym                     | HO 359b / OZ 359   |
 | Molecular formula           | C₂₀H₃₃N₅O          |
 | CAS                         | 122306-13-2        |
 |                             |                    |
-| precursor   [M+H]⁺          | 360.27634          |
-| precursor 2 [M+2H]²⁺        | 180.64208          |
-| precursor 3                 |                    |
+| Precursor 1 [M+H]⁺          | 360.27634          |
+| Precursor 2 [M+2H]²⁺        | 180.64208          |
+| Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 6                  |
-| precursor HDX   [d₆-M+D]⁺   | 367.32027          |
-| precursor HDX 2 [d₆-M+2D]²⁺ | 184.66719          |
-| precursor HDX 3             |                    |
+| Precursor HDX 1 [d₆-M+D]⁺   | 367.32027          |
+| Precursor HDX 2 [d₆-M+2D]²⁺ | 184.66719          |
+| Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          | 7.84               |
 | Rt HDX                      | 6.45               |
@@ -38,14 +39,14 @@ tags = ["Agelenopsis aperta","Ozyptila lugubris"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 | 130.06568 | a'         |
 | 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
-| pdf                                                    | precursor | co-eluting | spider    | source                       |
+| pdf                                                    | Precursor | Co-eluting | Spider    | Source                       |
 |--------------------------------------------------------|-----------|------------|-----------|------------------------------|
 | [Data](/pdf/A-aperta/360_IndAc334_IndAc343_Aa.pdf)     | 360.27634 | IndAc334   | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/360_IndAc334_IndAc343_Aa_2.pdf)   | 360.27634 | IndAc334   | A. aperta | Fauna Laboratories Ltd., KAZ |
@@ -53,7 +54,7 @@ tags = ["Agelenopsis aperta","Ozyptila lugubris"]
 
 ## References
 
-| titel                                                                                                                             | reference                                                                                                                                       | spider      | name         | content                          | link                                                               |
+| Title                                                                                                                             | Reference                                                                                                                                       | Spider      | Name         | Content                          | Link                                                               |
 |-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|----------------------------------|--------------------------------------------------------------------|
 | Acylpolyamines mimic the action of Joro spider toxin (JSTX) on crustacean muscle glutamate receptors                              | T. Asami, H. Kagechika, Y. Hashimoto, K. Shudo, A. Miwa, N. Kawai, T. Nakajima, Biomedical Research 1989, 10, 185-189                           | ---         |              | Synthesis, Activity-studies      | [Link](https://doi.org/10.2220/biomedres.10.185)                   |
 | Characterization and synthesis of a new calcium antagonist from the venom of a Fishing spider                                     | K. D. McCormick, K. Kobayashi, S. M. Goldin, N. Laxma Reddy, J. Meinwald, Tetrahedron 1993, 49, 11155                                           | ---         | (1)          | Synthesis, NMR, FAB-MS/MS        | [Link](https://doi.org/10.1016/S0040-4020(01)81803-2)              |
@@ -63,7 +64,7 @@ tags = ["Agelenopsis aperta","Ozyptila lugubris"]
 
 ## Spider species
 
-| spider species     | family     | source                 |
+| Spider species     | Family     | Discovered             |
 |--------------------|------------|------------------------|
 | Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster   |
 | Ozyptila lugubris  | Thomisidae | 2009 / S. Eichenberger |

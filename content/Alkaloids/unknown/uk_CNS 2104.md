@@ -1,5 +1,6 @@
 +++
 title = "CNS 2104"
+categories = ["Pisauridae"]
 tags = ["Dolomedes okefinokensis"]
 +++
 
@@ -7,22 +8,22 @@ tags = ["Dolomedes okefinokensis"]
 
 ## General Description
 
-| name                       | value                   |
+| Name                       | Value                   |
 |----------------------------|-------------------------|
 | Level                      | VI                      |
-| First mention              | 1993 / D. okefinokensis |
-| Alternative name(s)        | CNS 2104                |
+| Discovered                 | 1993 / D. okefinokensis |
+| Synonym                    | CNS 2104                |
 | Molecular formula          |                         |
 | CAS                        |                         |
 |                            |                         |
-| precursor   [M+H]⁺         |                         |
-| precursor 2 [M+2H]²⁺       |                         |
-| precursor 3                |                         |
+| Precursor 1 [M+H]⁺         |                         |
+| Precursor 2 [M+2H]²⁺       |                         |
+| Precursor 3                |                         |
 |                            |                         |
 | HDX                        |                         |
-| precursor HDX   [d-M+D]⁺   |                         |
-| precursor HDX 2 [d-M+2D]²⁺ |                         |
-| precursor HDX 3            |                         |
+| Precursor HDX 1 [d-M+D]⁺   |                         |
+| Precursor HDX 2 [d-M+2D]²⁺ |                         |
+| Precursor HDX 3            |                         |
 |                            |                         |
 | Rt                         |                         |
 | Rt HDX                     |                         |
@@ -35,25 +36,25 @@ tags = ["Dolomedes okefinokensis"]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                     | reference                                                                                         | spider     | name   | content          | link                                                  |
+| Title                                                                                     | Reference                                                                                         | Spider     | Name   | Content          | Link                                                  |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------|--------|------------------|-------------------------------------------------------|
 | Characterization and synthesis of a new calcium antagonist from the venom of a Fishing spider  | K. D. McCormick, K. Kobayashi, S. M. Goldin, N. L. Reddy, J. Meinwald, Tetrahedron 1993, 49, 11155. | D. okefinokensis | CNS 2104 | Activity-studies | [Link](https://doi.org/10.1016/S0040-4020(01)81803-2) |
 
 ## Spider species
 
-| spider species          | family     | first mention          |
+| Spider species          | Family     | Discovered             |
 |-------------------------|------------|------------------------|
 | Dolomedes okefinokensis | Pisauridae | 1993 / K. D. McCormick |
 

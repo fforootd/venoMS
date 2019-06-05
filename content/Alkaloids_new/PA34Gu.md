@@ -1,6 +1,7 @@
 +++
 title = "PA34Gu"
-categories = ["C8H21N5","P188","D94","HDX196"]
+categories = ["C8H21N5","P188","D94","HDX196",
+"Agelenidae"]
 tags = ["Eratigena agrestis"]
 draft = true
 +++
@@ -9,22 +10,22 @@ draft = true
 
 ## General Description
 
-| name                        | value              |
+| Name                        | Value              |
 |-----------------------------|--------------------|
 | Level                       | IV                 |
-| First mention               | 2019 / E. agrestis |
-| Alternative name(s)         |                    |
+| Discovered                  | 2019 / E. agrestis |
+| Synonym                     | ---                |
 | Molecular formula           | C₈H₂₁N₅            |
 | CAS                         | 15271-46-2         |
 |                             |                    |
-| precursor   [M+H]⁺          | 188.18753          |
-| precursor 2 [M+2H]²⁺        | 94.59768           |
-| precursor 3                 |                    |
+| Precursor 1 [M+H]⁺          | 188.18753          |
+| Precursor 2 [M+2H]²⁺        | 94.59768           |
+| Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 7                  |
-| precursor HDX   [d₇-M+D]⁺   | 196.23774          |
-| precursor HDX 2 [d₇-M+2D]²⁺ | 99.12592           |
-| precursor HDX 3             |                    |
+| Precursor HDX 1 [d₇-M+D]⁺   | 196.23774          |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 99.12592           |
+| Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          |                    |
 | Rt HDX                      |                    |
@@ -38,25 +39,25 @@ draft = true
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species     | family     | first mention        |
+| Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Eratigena agrestis | Agelenidae | 2019 / Y. M. Forster |
 

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-PhAcAsn5ßAla3"
-categories = ["C23H38N6O5","P479","D240","HDX489"]
+categories = ["C23H38N6O5","P479","D240","HDX489",
+"Araneidae"]
 tags = ["Nephila clavata"]
 +++
 
@@ -8,25 +9,25 @@ tags = ["Nephila clavata"]
 
 ## General Description
 
-| name                        | value                             |
-|-----------------------------|-----------------------------------|
-| level                       | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                                |
-| first mention               | 1994 / N. clavata                 |
-| alternative name(s)         | Joramine / Joroamine              |
-| molecular formula           | C₂₃H₃₈N₆O₅                        |
-| CAS                         | 161897-98-9 (S) / 161897-98-9 (R) |
-|                             |                                   |
-| precursor 1 [M+H]⁺          | 479.29819                         |
-| precursor 2 [M+2H]²⁺        | 240.15301                         |
-| precursor 3                 |                                   |
-|                             |                                   |
-| HDX                         | 9                                 |
-| precursor HDX   [d₉-M+D]⁺   | 489.36095                         |
-| precursor HDX 2 [d₉-M+2D]²⁺ | 245.68753                         |
-| precursor HDX 3             |                                   |
-|                             |                                   |
-| Rt                          |                                   |
-| Rt HDX                      |                                   |
+| Name                        | Value                                                                          |
+|-----------------------------|--------------------------------------------------------------------------------|
+| Level                       | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Discovered                  | 1994 / N. clavata                                                              |
+| Synonym                     | Joramine / Joroamine                                                           |
+| Molecular formula           | C₂₃H₃₈N₆O₅                                                                     |
+| CAS                         | 161897-98-9 (S) / 161897-98-9 (R)                                              |
+|                             |                                                                                |
+| Precursor 1 [M+H]⁺          | 479.29819                                                                      |
+| Precursor 2 [M+2H]²⁺        | 240.15301                                                                      |
+| Precursor 3                 |                                                                                |
+|                             |                                                                                |
+| HDX                         | 9                                                                              |
+| Precursor HDX 1 [d₉-M+D]⁺   | 489.36095                                                                      |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 245.68753                                                                      |
+| Precursor HDX 3             |                                                                                |
+|                             |                                                                                |
+| Rt                          |                                                                                |
+| Rt HDX                      |                                                                                |
 
 ## Calculated MS/MS fragments
 
@@ -39,19 +40,19 @@ tags = ["Nephila clavata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                 | reference                                                                                                    | spider     | name                  | content                          | link                                                                                                |
+| Title                                                                                                                 | Reference                                                                                                    | Spider     | Name                  | Content                          | Link                                                                                                |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------|-----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------|
 | Finding of primitive polyamine toxins in the venom of a Joro spider, Nephila clavata                                  | T. Chiba, T. Akizawa, M. Matukawa, H. Pan-Hou, M. Yoshioka, Chem. Pharm. Bull 1994, 42, 1864-1869            | N. clavata | Joramine / compound-Z | NMR (ns), Amino acid analysis    | [Link](https://www.jstage.jst.go.jp/article/cpb1958/42/9/42_9_1864/_article)                        |
 | Large-scale purification and further characterization of spidamine and joramine from venom of spider, Nephila clavata | T. Chiba, T. Akizawa, M. Matukawa, H. Pan-Hou, N. Kawai, M. Yoshieka, Chem. Pharm. Bull. 1995, 43, 2177-2181 | N. clavata | Joramine              | NMR, Activity-studies            | [Link](https://www.jstage.jst.go.jp/article/cpb1958/43/12/43_12_2177/_article)                      |
@@ -65,7 +66,7 @@ tags = ["Nephila clavata"]
 
 ## Spider species
 
-| spider species  | family    | source          |
+| Spider species  | Family    | Discovered      |
 |-----------------|-----------|-----------------|
 | Nephila clavata | Araneidae | 1994 / T. Chiba |
 

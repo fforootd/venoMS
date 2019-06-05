@@ -1,6 +1,7 @@
 +++
 title = "IndAc3(OH)4"
-categories = ["C17H26N4O2","P319","D160","HDX325"]
+categories = ["C17H26N4O2","P319","D160","HDX325",
+"Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| name                        | value            |
+| Name                        | Value            |
 |-----------------------------|------------------|
-| level                       | IV               |
-| first mention               | 2019 / A. aperta |
-| alternative name(s)         | ---              |
-| molecular formula           | C₁₇H₂₆N₄O₂       |
+| Level                       | IV               |
+| Discovered                  | 2019 / A. aperta |
+| Synonym                     | ---              |
+| Molecular formula           | C₁₇H₂₆N₄O₂       |
 | CAS                         | ---              |
 |                             |                  |
-| precursor 1 [M+H]⁺          | 319.21340        |
-| precursor 2 [M+2H]²⁺        | 160.11061        |
-| precursor 3                 |                  |
+| Precursor 1 [M+H]⁺          | 319.21340        |
+| Precursor 2 [M+2H]²⁺        | 160.11061        |
+| Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 5                |
-| precursor HDX   [d₅-M+D]⁺   | 325.25106        |
-| precursor HDX 2 [d₅-M+2D]²⁺ | 163.63258        |
-| precursor HDX 3             |                  |
+| Precursor HDX 1 [d₅-M+D]⁺   | 325.25106        |
+| Precursor HDX 2 [d₅-M+2D]²⁺ | 163.63258        |
+| Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 11.04            |
 | Rt HDX                      | 9.39             |
@@ -37,27 +38,27 @@ tags = ["Agelenopsis aperta"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 | 130.06568 | a'         |
 | 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
-| pdf                                                          | precursor | co-eluting  | spider    | source                       |
+| pdf                                                          | Precursor | Co-eluting  | Spider    | Source                       |
 |--------------------------------------------------------------|-----------|-------------|-----------|------------------------------|
 | [Data](/pdf/A-aperta/319_IndAc3(OH)4_IndAc4(OH)3_Aa.pdf)     | 319.21340 | IndAc4(OH)3 | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/319_IndAc3(OH)4_IndAc4(OH)3_Aa_HDX.pdf) | HDX       | IndAc4(OH)3 | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
+| Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
 |           |             |           |        |          |     |
 
 ## Spider species
 
-| spider species     | family     | source               |
+| Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
 

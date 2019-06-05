@@ -1,6 +1,7 @@
 +++
 title = "Aspartic acid"
-categories = ["C4H7NO4","P134","HDX134"]
+categories = ["C4H7NO4","P134","HDX134",
+"Araneidae","Cupiennius","Ctenidae","Lycosidae","Theraphosidae"]
 tags = ["Aphonopelma hentzi","Araneus gemma",
 "Cupiennius salei",
 "Eurypelma californicum",
@@ -13,25 +14,29 @@ tags = ["Aphonopelma hentzi","Araneus gemma",
 
 ## General Description
 
-| name                    | value            |
-|-------------------------|------------------|
-| Level                   | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PB000453)              |
-| First mention           | 1957 / V. dubius |
-| Alternative name(s)     |                  |
-| Molecular formula       | C₄H₇NO₄          |
-| CAS                     | 56-84-8          |
-|                         |                  |
-| precursor  [M+H]⁺       | 134.04533        |
-|                         |                  |
-| HDX                     | 4                |
-| precursor HDX [d₄-M+D]⁺ | 139.07671        |
-|                         |                  |
-| Rt                      |                  |
-| Rt HDX                  |                  |
+| Name                      | Value                                                       |
+|---------------------------|-------------------------------------------------------------|
+| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PB000453) |
+| Discovered                | 1957 / V. dubius                                            |
+| Synonym                   |                                                             |
+| Molecular formula         | C₄H₇NO₄                                                     |
+| CAS                       | 56-84-8                                                     |
+|                           |                                                             |
+| Precursor 1 [M+H]⁺        | 134.04533                                                   |
+| Precursor 2               |                                                             |
+| Precursor 3               |                                                             |
+|                           |                                                             |
+| HDX                       | 4                                                           |
+| Precursor HDX 1 [d₄-M+D]⁺ | 139.07671                                                   |
+| Precursor HDX 2           |                                                             |
+| Precursor HDX 3           |                                                             |
+|                           |                                                             |
+| Rt                        |                                                             |
+| Rt HDX                    |                                                             |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation   |
+| m/z       | Molecular formula | Annotation   |
 |-----------|-------------------|--------------|
 | 134.04533 | C₄H₈NO₄           | [M+H]⁺       |
 | 116.03477 | C₄H₆NO₃           | [M+H-H₂O]⁺   |
@@ -41,13 +46,13 @@ tags = ["Aphonopelma hentzi","Araneus gemma",
 
 ## Recorded MS/MS spectra
 
-| pdf      | precursor | co-eluting | spider          | source        |
+| pdf      | Precursor | Co-eluting | Spider          | Source        |
 |----------|-----------|------------|-----------------|---------------|
 | [Data]() | 134.04533 |            | L-Aspartic acid | Sigma Aldrich |
 
 ## References
 
-| titel                                                                                                                                      | reference                                                              | spider   | name | content | link                                         |
+| Title                                                                                                                                      | Reference                                                              | Spider   | Name | Content | Link                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------|------|---------|----------------------------------------------|
 | Die Giftsekrete der Vogelspinnen                                                            | F. G. Fischer, H. Bohn, Justus Liebigs Annalen der Chemie 1957, 603, 232-250                                                            |   V. dubius   |      |         | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.19576030124) |
 | The venom of the Brazilian tarantula, Lycosa erythrognatha, and the spider, Phoneutria fera                                                            | F. G. Fischer, H. Bohn, Hoppe Seylers Z. Physiol. Chem. 1957, 306, 265-268                                                            |  L. erythrognatha & P. fera    |      |         | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.19576030124) |
@@ -59,7 +64,7 @@ tags = ["Aphonopelma hentzi","Araneus gemma",
 
 ## Spider species
 
-| spider species         | family        | first mention            |
+| Spider species         | Family        | Discovered               |
 |------------------------|---------------|--------------------------|
 | Aphonopelma hentzi     | Theraphosidae | 1973 / F. L. Schanbacher |
 | Araneus gemma          | Araneidae     | 1987 / S. L. Early       |

@@ -1,6 +1,7 @@
 +++
 title = "Acetylcarnitine"
-categories = ["C9H18NO4","P204","HDX205"]
+categories = ["C9H18NO4","P204","HDX205",
+"Araneidae","Lycosidae","Oxyopidae"]
 tags = ["Alopecosa sp.",
 "Larinioides cornutus","Lycosa sp.",
 "Nephila clavipes",
@@ -14,25 +15,29 @@ draft = true
 
 ## General Description
 
-| name                  | value       |
-|-----------------------|-------------|
-| Level                 | I           |
-| First mention         | 2019 / div. |
-| Alternative name(s)   |             |
-| Molecular formula     | C₉H₁₈NO₄    |
-| CAS                   | 14992-62-2  |
-|                       |             |
-| precursor M⁺          | 204.12358   |
-|                       |             |
-| HDX                   | 1           |
-| precursor HDX [d₁-M]⁺ | 205.12986   |
-|                       |             |
-| Rt                    | 1.51 / 1.72 |
-| Rt HDX                |             |
+| Name                    | Value       |
+|-------------------------|-------------|
+| Level                   | I           |
+| Discovered              | 2019 / div. |
+| Synonym                 |             |
+| Molecular formula       | C₉H₁₈NO₄    |
+| CAS                     | 14992-62-2  |
+|                         |             |
+| Precursor 1  M⁺         | 204.12358   |
+| Precursor 2             |             |
+| Precursor 3             |             |
+|                         |             |
+| HDX                     | 1           |
+| Precursor HDX 1 [d₁-M]⁺ | 205.12986   |
+| Precursor HDX 2         |             |
+| Precursor HDX 3         |             |
+|                         |             |
+| Rt                      | 1.51 / 1.72 |
+| Rt HDX                  |             |
 
 ## MS/MS fragments
 
-| m/z       | molecular formula | annotation |
+| m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
 | 204.12358 | C₉H₁₈NO₄          | M⁺         |
 | 145.05008 | C₆H₉O₄            |            |
@@ -42,19 +47,19 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                       | precursor | co-eluting | spider                               | source        |
+| pdf                                       | Precursor | Co-eluting | Spider                               | Source        |
 |-------------------------------------------|-----------|------------|--------------------------------------|---------------|
 | [Data](/pdf/204_Acetylcarnitine_1-51.pdf) | 204.12358 |            | O-Acetyl-L-carnitine (CAS 5080-50-2) | Sigma Aldrich |
 
 ## References
 
-| titel | reference | spider | name | content | link |
+| Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 |       |           |        |      |         |      |
 
 ## Spider species
 
-| spider species       | family    | first mention        |
+| Spider species       | Family    | Discovered           |
 |----------------------|-----------|----------------------|
 | Alopecosa sp.        | Lycosidae | 2019 / Y. M. Forster |
 | Larinioides cornutus | Araneidae | 2019 / Y. M. Forster |

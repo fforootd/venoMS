@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5OrnArg"
-categories = ["C28H48N10O7","P637","D319","HDX654"]
+categories = ["C28H48N10O7","P637","D319","HDX654",
+"Araneidae"]
 tags = ["Nephila clavata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata"]
 
 ## General Description
 
-| name                         | value             |
+| Name                         | Value             |
 |------------------------------|-------------------|
-| level                        | V                 |
-| first mention                | 1990 / N. clavata |
-| alternative name(s)          | JSTX 4            |
-| molecular formula            | C₂₈H₄₈N₁₀O₇       |
+| Level                        | V                 |
+| Discovered                   | 1990 / N. clavata |
+| Synonym                      | JSTX 4            |
+| Molecular formula            | C₂₈H₄₈N₁₀O₇       |
 | CAS                          | 133689-61-9       |
 |                              |                   |
-| precursor 1 [M+H]⁺           | 637.37857         |
-| precursor 2 [M+2H]²⁺         | 319.19320         |
-| precursor 3                  |                   |
+| Precursor 1 [M+H]⁺           | 637.37857         |
+| Precursor 2 [M+2H]²⁺         | 319.19320         |
+| Precursor 3                  |                   |
 |                              |                   |
 | HDX                          | 16                |
-| precursor HDX   [d₁₆-M+D]⁺   | 654.48528         |
-| precursor HDX 2 [d₁₆-M+2D]²⁺ | 328.24969         |
-| precursor HDX 3              |                   |
+| Precursor HDX 1 [d₁₆-M+D]⁺   | 654.48528         |
+| Precursor HDX 2 [d₁₆-M+2D]²⁺ | 328.24969         |
+| Precursor HDX 3              |                   |
 |                              |                   |
 | Rt                           |                   |
 | Rt HDX                       |                   |
@@ -38,19 +39,19 @@ tags = ["Nephila clavata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                | reference                                                                                                             | spider     | name       | content                                          | link                                                                                                |
+| Title                                                                                                                                | Reference                                                                                                             | Spider     | Name       | Content                                          | Link                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Isolation and chemical characterization of a series of new spider toxin (nephilatoxins) in the venom of Joro spider, Nephila clavata | T. Toki, T. Yasuhara, Y. Aramaki, K. Osawa, A. Miwa, N. Kawai, T. Nakajima, Biomed. Res. 1988, 9, 421-428             | N. clavata | JSTX 4     | NMR (ns), Amino acid analysis, structure unknown | [Link](https://www.jstage.jst.go.jp/article/biomedres/9/6/9_421/_article)                           |
 | Molecular structures of spider toxins (JSTX-1, 2, 3 and 4) in the venom of Nephila clavata L. Koch                                   | T. Toki, T. Yasuhara, Y. Aramaki, Y. Hashimoto, K. Shudo, N. Kawai, T. Nakajima, Jpn. J. Sanit. Zool. 1990, 41, 9-14  | N. clavata | JSTX 4     | Amino acid analysis                              | [Link](https://www.jstage.jst.go.jp/article/mez/41/1/41_KJ00000823475/_article)                     |
@@ -62,7 +63,7 @@ tags = ["Nephila clavata"]
 
 ## Spider species
 
-| spider species  | family    | source         |
+| Spider species  | Family    | Discovered     |
 |-----------------|-----------|----------------|
 | Nephila clavata | Araneidae | 1990 / T. Toki |
 

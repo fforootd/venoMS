@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn5ßAla3ßAla4ßAla4ßAla4"
-categories = ["C46H81N13O8","P944","D472","HDX961"]
+categories = ["C46H81N13O8","P944","D472","HDX961",
+"Araneidae"]
 tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## General Description
 
-| name                         | value             |
+| Name                         | Value             |
 |------------------------------|-------------------|
-| level                        | V                 |
-| first mention                | 1998 / N. clavata |
-| alternative name(s)          | NPTX 943E         |
-| molecular formula            | C₄₆H₈₁N₁₃O₈       |
+| Level                        | V                 |
+| Discovered                   | 1998 / N. clavata |
+| Synonym                      | NPTX 943E         |
+| Molecular formula            | C₄₆H₈₁N₁₃O₈       |
 | CAS                          | ---               |
 |                              |                   |
-| precursor 1 [M+H]⁺           | 944.64092         |
-| precursor 2 [M+2H]²⁺         | 472.82437         |
-| precursor 3                  |                   |
+| Precursor 1 [M+H]⁺           | 944.64092         |
+| Precursor 2 [M+2H]²⁺         | 472.82437         |
+| Precursor 3                  |                   |
 |                              |                   |
 | HDX                          | 16                |
-| precursor HDX   [d₁₆-M+D]⁺   | 961.74762         |
-| precursor HDX 2 [d₁₆-M+2D]²⁺ | 481.88086         |
-| precursor HDX 3              |                   |
+| Precursor HDX 1 [d₁₆-M+D]⁺   | 961.74762         |
+| Precursor HDX 2 [d₁₆-M+2D]²⁺ | 481.88086         |
+| Precursor HDX 3              |                   |
 |                              |                   |
 | Rt                           |                   |
 | Rt HDX                       |                   |
@@ -45,19 +46,19 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                                         | reference                                                                                                   | spider     | name      | content           | link                                                                        |
+| Title                                                                                                                                                                         | Reference                                                                                                   | Spider     | Name      | Content           | Link                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|------------|-----------|-------------------|-----------------------------------------------------------------------------|
 | Structures of spider toxins: Hydroxyindole-3-acetylpolyamines and a new generalized structure of type-E compounds obtained from the venom of the Joro spider, Nephila clavata | M. Hisada, T. Fujita, H. Naoki, Y. Itagaki, H. Irie, M. Miyashita, T. Nakajima, Toxicon 1998, 36, 1115-1125 | N. clavata |           | NMR (ns),CID (ns) | [Link](https://www.sciencedirect.com/science/article/pii/S0041010198000865) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                                     | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                       | N. clavata | NPTX 943E | Review            | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)           |
@@ -65,7 +66,7 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## Spider species
 
-| spider species        | family    | source             |
+| Spider species        | Family    | Discovered         |
 |-----------------------|-----------|--------------------|
 | Nephila clavata       | Araneidae | 1998 / M. Hisada   |
 | Nephilingis borbonica | Araneidae | 2005 / M. S. Palma |

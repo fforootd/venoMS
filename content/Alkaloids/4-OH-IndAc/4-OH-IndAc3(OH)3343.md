@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3(OH)3343"
-categories = ["C26H47N7O3","P506","D253","HDX516"]
+categories = ["C26H47N7O3","P506","D253","HDX516",
+"Agelenidae"]
 tags = ["Agelenopsis aperta","Hololena curta"]
 +++
 
@@ -12,22 +13,22 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## General Description
 
-| name                        | value                                     |
+| Name                        | Value                                     |
 |-----------------------------|-------------------------------------------|
-| level                       | III                                       |
-| first mention               | 1990 / A. aperta                          |
-| alternative name(s)         | AG 505 / Agatoxin 505 / Agel 505 / HO 505 |
-| molecular formula           | C₂₆H₄₇N₇O₃                                |
+| Level                       | III                                       |
+| Discovered                  | 1990 / A. aperta                          |
+| Synonym                     | AG 505 / Agatoxin 505 / Agel 505 / HO 505 |
+| Molecular formula           | C₂₆H₄₇N₇O₃                                |
 | CAS                         | 128549-97-3                               |
 |                             |                                           |
-| precursor 1 [M+H]⁺          | 506.38186                                 |
-| precursor 2 [M+2H]²⁺        | 253.69484                                 |
-| precursor 3                 |                                           |
+| Precursor 1 [M+H]⁺          | 506.38186                                 |
+| Precursor 2 [M+2H]²⁺        | 253.69484                                 |
+| Precursor 3                 |                                           |
 |                             |                                           |
 | HDX                         | 9                                         |
-| precursor HDX   [d₉-M+D]⁺   | 516.44462                                 |
-| precursor HDX 2 [d₉-M+2D]²⁺ | 259.22936                                 |
-| precursor HDX 3             |                                           |
+| Precursor HDX 1 [d₉-M+D]⁺   | 516.44462                                 |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 259.22936                                 |
+| Precursor HDX 3             |                                           |
 |                             |                                           |
 | Rt                          | 7.08                                      |
 | Rt HDX                      | 5.37                                      |
@@ -44,7 +45,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 | 98.09697  | y2'        |
 | 114.09189 | y2'        |
@@ -57,7 +58,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                      | precursor | co-eluting | spider    | source                       |
+| pdf                                                      | Precursor | Co-eluting | Spider    | Source                       |
 |----------------------------------------------------------|-----------|------------|-----------|------------------------------|
 | [Data](/pdf/A-aperta/506_4-OH-IndAc3(OH)3343_Aa.pdf)     | 506.38186 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/506_4-OH-IndAc3(OH)3343_Aa_2.pdf)   | 253.69484 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
@@ -65,7 +66,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## References
 
-| titel                                                                                                                                              | reference                                                                                                                                                              | spider               | name                       | content                                                                 | link                                                                                                                          |
+| Title                                                                                                                                              | Reference                                                                                                                                                              | Spider               | Name                       | Content                                                                 | Link                                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Purification and characterization of two classes of neurotoxins from the funnel web spider, Agelenopsis aperta                                     | W. S. Skinner, M. E. Adams, G. B. Quistad, H. Kataoka, B. J. Cesarin, F. E. Enderlin, D. A. Schooley, J. Biol. Chem. 1989, 264, 2150-2155                              | A. aperta            | AG 505                     | CI (NH₃) (ns), Amino acid analysis, Activity-studies, structure unknown | [Link](http://www.jbc.org/content/264/4/2150)                                                                                 |
 | Two classes of channel-specific toxins from funnel web spider venom                                                                                | M. E. Adams, E. E. Herold, V. J. Venema, J. Comp. Physiol. 1989, 164, 333-342                                                                                          | A. aperta            | AG 505                     | Amino acid analysis, Activity-studies, structure unknown                | [Link](https://link.springer.com/article/10.1007/BF00612993)                                                                  |
@@ -85,7 +86,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## Spider species
 
-| spider species     | family     | source               |
+| Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 1990 / V. J. Jasys   |
 | Hololena curta     | Agelenidae | 1991 / G. B. Quistad |

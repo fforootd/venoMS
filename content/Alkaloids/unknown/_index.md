@@ -1,6 +1,6 @@
 +++
-title = "Unknown polyamines"
+title = "Unknown acylpolyamines"
 weight = 200
 +++
 
-There are spider venom compounds with an interesting bioactivity which structure is not elucidated yet. There trivial names are usually a combination of letters stating the species or family of the spider venom in which the toxin was found and either the compounds nominal mass or the fraction number of the experiment. However, experimental data hint it may be an acylpolyamine.
+There are biological active spider venom compounds which structure is not elucidated yet. There trivial names are usually a combination of letters representing the spiders family or species and either the compounds nominal mass or the fraction number. Even the structures remained unsolved the experimental data hint it might be polyamine toxins.

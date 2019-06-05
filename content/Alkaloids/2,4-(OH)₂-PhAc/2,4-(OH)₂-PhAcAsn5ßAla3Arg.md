@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla3Arg"
-categories = ["C29H50N10O7","P651","D326","HDX667"]
+categories = ["C29H50N10O7","P651","D326","HDX667",
+"Araneidae"]
 tags = ["Argiope florida","Argiope trifasciata","Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Argiope florida","Argiope trifasciata","Nephila clavata","Nephila inaur
 
 ## General Description
 
-| name                         | value                |
+| Name                         | Value                |
 |------------------------------|----------------------|
-| level                        | V                    |
-| first mention                | ? / ?                |
-| alternative name(s)          | Arg 650 / NPTX 650 E |
-| molecular formula            | C₂₉H₅₀N₁₀O₇          |
+| Level                        | V                    |
+| Discovered                   | ? / ?                |
+| Synonym                      | Arg 650 / NPTX 650 E |
+| Molecular formula            | C₂₉H₅₀N₁₀O₇          |
 | CAS                          | ---                  |
 |                              |                      |
-| precursor 1 [M+H]⁺           | 651.39422            |
-| precursor 2 [M+2H]²⁺         | 326.20102            |
-| precursor 3                  |                      |
+| Precursor 1 [M+H]⁺           | 651.39422            |
+| Precursor 2 [M+2H]²⁺         | 326.20102            |
+| Precursor 3                  |                      |
 |                              |                      |
 | HDX                          | 15                   |
-| precursor HDX   [d₁₅-M+D]⁺   | 667.49465            |
-| precursor HDX 2 [d₁₅-M+2D]²⁺ | 334.75438            |
-| precursor HDX 3              |                      |
+| Precursor HDX 1 [d₁₅-M+D]⁺   | 667.49465            |
+| Precursor HDX 2 [d₁₅-M+2D]²⁺ | 334.75438            |
+| Precursor HDX 3              |                      |
 |                              |                      |
 | Rt                           |                      |
 | Rt HDX                       |                      |
@@ -39,27 +40,27 @@ tags = ["Argiope florida","Argiope trifasciata","Nephila clavata","Nephila inaur
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
-|-----------|-------------|-----------|--------|----------|-----|
-| Polyamine toxins from spiders and wasps| A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125 | A. florida & A. trifasciata | Arg 650 | Review | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X) |
-| Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines| Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52 |  | NPTX 650E | Review | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314) |
-| A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders| M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234 | div. | NPTX 650E | LC-MS | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857) | 
+| Title                                                                                              | Reference                                                                                         | Spider                      | Name      | Content | Link                                                                        |
+|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------|-----------|---------|-----------------------------------------------------------------------------|
+| Polyamine toxins from spiders and wasps                                                            | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125 | A. florida & A. trifasciata | Arg 650   | Review  | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X) |
+| Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines          | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                             |                             | NPTX 650E | Review  | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)           |
+| A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                            | div.                        | NPTX 650E | LC-MS   | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)           |
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Argiope florida                   | Araneidae | ? / ?              |
 | Argiope trifasciata               | Araneidae | ? / ?              |

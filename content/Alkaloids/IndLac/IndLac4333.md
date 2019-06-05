@@ -1,6 +1,7 @@
 +++
 title = "IndLac4333"
-categories = ["C24H42N6O2","P447","D224","HDX456"]
+categories = ["C24H42N6O2","P447","D224","HDX456",
+"Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
 
@@ -10,22 +11,22 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| name                        | value            |
+| Name                        | Value            |
 |-----------------------------|------------------|
-| level                       | IV               |
-| first mention               | 2019 / A. aperta |
-| alternative name(s)         | ---              |
-| molecular formula           | C₂₄H₄₂N₆O₂       |
+| Level                       | IV               |
+| Discovered                  | 2019 / A. aperta |
+| Synonym                     | ---              |
+| Molecular formula           | C₂₄H₄₂N₆O₂       |
 | CAS                         | ---              |
 |                             |                  |
-| precursor 1 [M+H]⁺          | 447.34475        |
-| precursor 2 [M+2H]²⁺        | 224.17629        |
-| precursor 3                 |                  |
+| Precursor 1 [M+H]⁺          | 447.34475        |
+| Precursor 2 [M+2H]²⁺        | 224.17629        |
+| Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 8                |
-| precursor HDX   [d₈-M+D]⁺   | 456.40124        |
-| precursor HDX 2 [d₈-M+2D]²⁺ | 229.20767        |
-| precursor HDX 3             |                  |
+| Precursor HDX 1 [d₈-M+D]⁺   | 456.40124        |
+| Precursor HDX 2 [d₈-M+2D]²⁺ | 229.20767        |
+| Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 8.44             |
 | Rt HDX                      | 7.06             |
@@ -41,26 +42,26 @@ tags = ["Agelenopsis aperta"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 | 112.11262 | y2'        |
 
 ## Recorded MS/MS spectra
 
-| pdf                                             | precursor | co-eluting | spider    | source                       |
+| pdf                                             | Precursor | Co-eluting | Spider    | Source                       |
 |-------------------------------------------------|-----------|------------|-----------|------------------------------|
 | [Data](/pdf/A-aperta/447_IndLac4333_Aa.pdf)     | 447.34475 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 | [Data](/pdf/A-aperta/447_IndLac4333_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
+| Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
 |           |             |           |        |          |     |
 
 ## Spider species
 
-| spider species     | family     | source               |
+| Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
 

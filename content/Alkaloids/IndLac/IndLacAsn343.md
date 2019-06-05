@@ -1,6 +1,7 @@
 +++
 title = "IndLacAsn343"
-categories = ["C25H41N7O4","P504","D252","HDX515"]
+categories = ["C25H41N7O4","P504","D252","HDX515",
+"Araneidae"]
 tags = ["Larinioides patagiatus"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Larinioides patagiatus"]
 
 ## General Description
 
-| name                         | value                |
+| Name                         | Value                |
 |------------------------------|----------------------|
-| level                        | IV                   |
-| first mention                | 2009 / L. patagiatus |
-| alternative name(s)          | LF 503D              |
-| molecular formula            | C₂₅H₄₁N₇O₄           |
+| Level                        | IV                   |
+| Discovered                   | 2009 / L. patagiatus |
+| Synonym                      | LF 503D              |
+| Molecular formula            | C₂₅H₄₁N₇O₄           |
 | CAS                          | ---                  |
 |                              |                      |
-| precursor 1 [M+H]⁺           | 504.32983            |
-| precursor 2 [M+2H]²⁺         | 252.66883            |
-| precursor 3                  |                      |
+| Precursor 1 [M+H]⁺           | 504.32983            |
+| Precursor 2 [M+2H]²⁺         | 252.66883            |
+| Precursor 3                  |                      |
 |                              |                      |
 | HDX                          | 10                   |
-| precursor HDX   [d₁₀-M+D]⁺   | 515.39887            |
-| precursor HDX 2 [d₁₀-M+2D]²⁺ | 258.70649            |
-| precursor HDX 3              |                      |
+| Precursor HDX 1 [d₁₀-M+D]⁺   | 515.39887            |
+| Precursor HDX 2 [d₁₀-M+2D]²⁺ | 258.70649            |
+| Precursor HDX 3              |                      |
 |                              |                      |
 | Rt                           |                      |
 | Rt HDX                       |                      |
@@ -39,25 +40,25 @@ tags = ["Larinioides patagiatus"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                      | reference                                                     | spider        | name    | content                            | link                                                               |
+| Title                                                                                                      | Reference                                                     | Spider        | Name    | Content                            | Link                                                               |
 |------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------|---------|------------------------------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | L. patagiatus | LF 503D | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
 
 ## Spider species
 
-| spider species         | family    | source                 |
+| Spider species         | Family    | Discovered             |
 |------------------------|-----------|------------------------|
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
 

@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla4Arg"
-categories = ["C30H52N10O7","P665","D333","HDX681"]
+categories = ["C30H52N10O7","P665","D333","HDX681",
+"Araneidae"]
 tags = ["Nephila clavata","Nephila pilipes","Nephilingis borbonica"]
 +++
 
@@ -8,25 +9,25 @@ tags = ["Nephila clavata","Nephila pilipes","Nephilingis borbonica"]
 
 ## General Description
 
-| name                         | value             |
-|------------------------------|-------------------|
-| level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)               |
-| first mention                | 1986 / N. pilipes |
-| alternative name(s)          | NSTX 3            |
-| molecular formula            | C₃₀H₅₂N₁₀O₇       |
-| CAS                          | 1190024-26-9      |
-|                              |                   |
-| precursor 1 [M+H]⁺           | 665.40987         |
-| precursor 2 [M+2H]²⁺         | 333.20885         |
-| precursor 3                  |                   |
-|                              |                   |
-| HDX                          | 15                |
-| precursor HDX   [d₁₅-M+D]⁺   | 681.51030         |
-| precursor HDX 2 [d₁₅-M+2D]²⁺ | 341.76220         |
-| precursor HDX 3              |                   |
-|                              |                   |
-| Rt                           |                   |
-| Rt HDX                       |                   |
+| Name                         | Value                                                                          |
+|------------------------------|--------------------------------------------------------------------------------|
+| Level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Discovered                   | 1986 / N. pilipes                                                              |
+| Synonym                      | NSTX 3                                                                         |
+| Molecular formula            | C₃₀H₅₂N₁₀O₇                                                                    |
+| CAS                          | 1190024-26-9                                                                   |
+|                              |                                                                                |
+| Precursor 1 [M+H]⁺           | 665.40987                                                                      |
+| Precursor 2 [M+2H]²⁺         | 333.20885                                                                      |
+| Precursor 3                  |                                                                                |
+|                              |                                                                                |
+| HDX                          | 15                                                                             |
+| Precursor HDX 1 [d₁₅-M+D]⁺   | 681.51030                                                                      |
+| Precursor HDX 2 [d₁₅-M+2D]²⁺ | 341.76220                                                                      |
+| Precursor HDX 3              |                                                                                |
+|                              |                                                                                |
+| Rt                           |                                                                                |
+| Rt HDX                       |                                                                                |
 
 ## Calculated MS/MS fragments
 
@@ -39,19 +40,19 @@ tags = ["Nephila clavata","Nephila pilipes","Nephilingis borbonica"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                                                | reference                                                                                                                                                | spider                    | name       | content                                    | link                                                                                                  |
+| Title                                                                                                                                                                                | Reference                                                                                                                                                | Spider                    | Name       | Content                                    | Link                                                                                                  |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | Chemical characterization of spider toxin, JSTX and NSTX                                                                                                                             | Y. Aramaki, T. Yasuhara, T. Higashijima, M. Yoshioka, A. Miwa, N. Kawai, T. Nakajima, Proc. Jpn. Acad. 1986, 62, 359-362                                 | N. pilipes                | NSTX 3     | NMR, Amino acid analysis                   | [Link](https://www.jstage.jst.go.jp/article/pjab1977/62/9/62_9_359/_article)                          |
 | Chemical characterization of spider toxin, NSTX                                                                                                                                      | Y. Aramaki, T. Yasuhara, T. Higashijima, A. Miwa, N. Kawai, T. Nakajima, Biomed. Res. 1987, 8, 167                                                       | N. pilipes                | NSTX 3     | NMR, Amino acid analysis, Activity-studies | [Link](https://www.jstage.jst.go.jp/article/biomedres/8/3/8_167/_article)                             |
@@ -76,7 +77,7 @@ tags = ["Nephila clavata","Nephila pilipes","Nephilingis borbonica"]
 
 ## Spider species
 
-| spider species        | family    | source             |
+| Spider species        | Family    | Discovered         |
 |-----------------------|-----------|--------------------|
 | Nephila clavata       | Araneidae | 2005 / M. S. Palma |
 | Nephila pilipes       | Araneidae | 1986 / Y. Aramaki  |

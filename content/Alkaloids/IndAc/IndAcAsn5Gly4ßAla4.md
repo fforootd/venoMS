@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5Gly4ßAla4"
-categories = ["C32H53N9O5","P644","D322","HDX656"]
+categories = ["C32H53N9O5","P644","D322","HDX656",
+"Araneidae"]
 tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## General Description
 
-| name                         | value                |
+| Name                         | Value                |
 |------------------------------|----------------------|
-| level                        | V                    |
-| first mention                | 1997 / N. borbonica  |
-| alternative name(s)          | NPTX 643 / NPTX 643C |
-| molecular formula            | C₃₂H₅₃N₉O₅           |
+| Level                        | V                    |
+| Discovered                   | 1997 / N. borbonica  |
+| Synonym                      | NPTX 643 / NPTX 643C |
+| Molecular formula            | C₃₂H₅₃N₉O₅           |
 | CAS                          | 205673-37-6          |
 |                              |                      |
-| precursor 1 [M+H]⁺           | 644.42479            |
-| precursor 2 [M+2H]²⁺         | 322.71631            |
-| precursor 3                  |                      |
+| Precursor 1 [M+H]⁺           | 644.42479            |
+| Precursor 2 [M+2H]²⁺         | 322.71631            |
+| Precursor 3                  |                      |
 |                              |                      |
 | HDX                          | 11                   |
-| precursor HDX   [d₁₁-M+D]⁺   | 656.50011            |
-| precursor HDX 2 [d₁₁-M+2D]²⁺ | 329.25711            |
-| precursor HDX 3              |                      |
+| Precursor HDX 1 [d₁₁-M+D]⁺   | 656.50011            |
+| Precursor HDX 2 [d₁₁-M+2D]²⁺ | 329.25711            |
+| Precursor HDX 3              |                      |
 |                              |                      |
 | Rt                           |                      |
 | Rt HDX                       |                      |
@@ -41,19 +42,19 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel     | reference   | spider    | name   | content  | link |
+| Title     | Reference   | Spider    | Name   | Content  | Link |
 | Detection of new spider toxins from a Nephilengys borbonica venom gland using on-line µ-column HPLC continuous flow (FRIT) FAB LC/MS and MS/MS| Y. Itagaki, T. Fujita, H. Naoki, T. Yasuhara, M. Andriantsiferana, T. Nakajima, Nat. Toxins 1997, 5, 1-13 | N. borbonica | NPTX 643 | LC-FAB-MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A1%3C1%3A%3AAID-NT1%3E3.0.CO%3B2-8) |
 | Total synthesis of NPTX-643, a neurotoxin of the Madagascar spider (Nephilengys borbonica) having a novel acylpolyamine structure| M. Miyashita, T. Kanemura, M. Matsushita, S. Hatakeyama, Y. Itagaki, T. Nakajima, M. Miyazawa, H. Irie, Heterocycles 1998, 47, 171-175 |  | NPTX 643 | Synthesis | [Link](https://www.infona.pl/resource/bwmeta1.element.elsevier-21290103-a950-3a60-bcdd-28a2c2b92696) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines| Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52 | N. borbonica | NPTX 643C | Review | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314) |
@@ -61,7 +62,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 2005 / M. S. Palma |
 | Nephila inaurata madagascariensis | Araneidae | M. S. Palma        |

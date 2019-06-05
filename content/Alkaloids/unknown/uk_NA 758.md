@@ -1,5 +1,6 @@
 +++
 title = "NA 758"
+categories = ["Araneidae"]
 tags = ["Neoscona arabesca"]
 +++
 
@@ -7,22 +8,22 @@ tags = ["Neoscona arabesca"]
 
 ## General Description
 
-| name                       | value           |
+| Name                       | Value           |
 |----------------------------|-----------------|
 | Level                      | VI              |
-| First mention              | ? / N. arabesca |
-| Alternative name(s)        | NA 758          |
+| Discovered                 | ? / N. arabesca |
+| Synonym                    | NA 758          |
 | Molecular formula          |                 |
 | CAS                        |                 |
 |                            |                 |
-| precursor   [M+H]⁺         |                 |
-| precursor 2 [M+2H]²⁺       |                 |
-| precursor 3                |                 |
+| Precursor 1 [M+H]⁺         |                 |
+| Precursor 2 [M+2H]²⁺       |                 |
+| Precursor 3                |                 |
 |                            |                 |
 | HDX                        |                 |
-| precursor HDX   [d-M+D]⁺   |                 |
-| precursor HDX 2 [d-M+2D]²⁺ |                 |
-| precursor HDX 3            |                 |
+| Precursor HDX 1 [d-M+D]⁺   |                 |
+| Precursor HDX 2 [d-M+2D]²⁺ |                 |
+| Precursor HDX 3            |                 |
 |                            |                 |
 | Rt                         |                 |
 | Rt HDX                     |                 |
@@ -35,26 +36,26 @@ tags = ["Neoscona arabesca"]
 
 ## Additional MS/MS fragments
 
-| m/z | annotation |
+| m/z | Annotation |
 |-----|------------|
 |     |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider | source |
+| pdf | Precursor | Co-eluting | Spider | Source |
 |-----|-----------|------------|--------|--------|
 |     |           |            |        |        |
 
 ## References
 
-| titel                                                                                     | reference                                                                                         | spider     | name   | content          | link                                                  |
+| Title                                                                                     | Reference                                                                                         | Spider     | Name   | Content          | Link                                                  |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------|--------|------------------|-------------------------------------------------------|
 | Polyamine toxins from spiders and wasps                                                              | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125             | N. arabesca  | NA 758  | Review                           | [Link](https://doi.org/10.1016/S0099-9598(08)60276-X) |
 
 ## Spider species
 
-| spider species    | family    | first mention |
-|-------------------|-----------|---------------|
-| Neoscona arabesca | Araneidae | ? / ?         |
+| Spider species    | Family    | Discovered |
+|-------------------|-----------|------------|
+| Neoscona arabesca | Araneidae | ? / ?      |
 
 ## Comments

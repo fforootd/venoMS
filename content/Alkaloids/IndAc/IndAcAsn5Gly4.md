@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5Gly4"
-categories = ["C25H39N7O4","P502","D251","HDX512"]
+categories = ["C25H39N7O4","P502","D251","HDX512",
+"Araneidae"]
 tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -8,25 +9,25 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## General Description
 
-| name                        | value                |
-|-----------------------------|----------------------|
-| level                       | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                    |
-| first mention               | 1997 / N. borbonica  |
-| alternative name(s)         | NPTX 501 / NPTX 501C |
-| molecular formula           | C₂₅H₃₉N₇O₄           |
-| CAS                         | 909786-42-1          |
-|                             |                      |
-| precursor 1 [M+H]⁺          | 502.31418            |
-| precursor 2 [M+2H]²⁺        | 251.66100            |
-| precursor 3                 |                      |
-|                             |                      |
-| HDX                         | 9                    |
-| precursor HDX   [d₉-M+D]⁺   | 512.37694            |
-| precursor HDX 2 [d₉-M+2D]²⁺ | 257.19552            |
-| precursor HDX 3             |                      |
-|                             |                      |
-| Rt                          |                      |
-| Rt HDX                      |                      |
+| Name                        | Value                                                                          |
+|-----------------------------|--------------------------------------------------------------------------------|
+| Level                       | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Discovered                  | 1997 / N. borbonica                                                            |
+| Synonym                     | NPTX 501 / NPTX 501C                                                           |
+| Molecular formula           | C₂₅H₃₉N₇O₄                                                                     |
+| CAS                         | 909786-42-1                                                                    |
+|                             |                                                                                |
+| Precursor 1 [M+H]⁺          | 502.31418                                                                      |
+| Precursor 2 [M+2H]²⁺        | 251.66100                                                                      |
+| Precursor 3                 |                                                                                |
+|                             |                                                                                |
+| HDX                         | 9                                                                              |
+| Precursor HDX 1 [d₉-M+D]⁺   | 512.37694                                                                      |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 257.19552                                                                      |
+| Precursor HDX 3             |                                                                                |
+|                             |                                                                                |
+| Rt                          |                                                                                |
+| Rt HDX                      |                                                                                |
 
 ## Calculated MS/MS fragments
 
@@ -39,19 +40,19 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                          | reference                                                                                                 | spider       | name      | content                   | link                                                                                                              |
+| Title                                                                                                                                          | Reference                                                                                                 | Spider       | Name      | Content                   | Link                                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------|-----------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
 | Detection of new spider toxins from a Nephilengys borbonica venom gland using on-line µ-column HPLC continuous flow (FRIT) FAB LC/MS and MS/MS | Y. Itagaki, T. Fujita, H. Naoki, T. Yasuhara, M. Andriantsiferana, T. Nakajima, Nat. Toxins 1997, 5, 1-13 | N. borbonica | NPTX 501  | LC-FAB-MS                 | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A1%3C1%3A%3AAID-NT1%3E3.0.CO%3B2-8) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                      | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                     | N. borbonica | NPTX 501C | Review                    | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                 |
@@ -61,7 +62,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Spider species
 
-| spider species                    | family    | source             |
+| Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 2005 / M. S. Palma |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |

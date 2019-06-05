@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3334Gu"
-categories = ["C24H42N8O2","P475","D238","HDX486"]
+categories = ["C24H42N8O2","P475","D238","HDX486",
+"Agelenidae"]
 tags = ["Pireneitega luctuosa"]
 +++
 
@@ -8,22 +9,22 @@ tags = ["Pireneitega luctuosa"]
 
 ## General Description
 
-| name                         | value              |
+| Name                         | Value              |
 |------------------------------|--------------------|
-| level                        | IV                 |
-| first mention                | 2002 / P. luctuosa |
-| alternative name(s)          | PB 474             |
-| molecular formula            | C₂₄H₄₂N₈O₂         |
+| Level                        | IV                 |
+| Discovered                   | 2002 / P. luctuosa |
+| Synonym                      | PB 474             |
+| Molecular formula            | C₂₄H₄₂N₈O₂         |
 | CAS                          | ---                |
 |                              |                    |
-| precursor 1 [M+H]⁺           | 475.35090          |
-| precursor 2 [M+2H]²⁺         | 238.17936          |
-| precursor 3                  |                    |
+| Precursor 1 [M+H]⁺           | 475.35090          |
+| Precursor 2 [M+2H]²⁺         | 238.17936          |
+| Precursor 3                  |                    |
 |                              |                    |
 | HDX                          | 10                 |
-| precursor HDX   [d₁₀-M+D]⁺   | 486.41994          |
-| precursor HDX 2 [d₁₀-M+2D]²⁺ | 244.21702          |
-| precursor HDX 3              |                    |
+| Precursor HDX 1 [d₁₀-M+D]⁺   | 486.41994          |
+| Precursor HDX 2 [d₁₀-M+2D]²⁺ | 244.21702          |
+| Precursor HDX 3              |                    |
 |                              |                    |
 | Rt                           |                    |
 | Rt HDX                       |                    |
@@ -39,25 +40,25 @@ tags = ["Pireneitega luctuosa"]
 
 ## Additional MS/MS fragments
 
-| m/z       | annotation |
+| m/z       | Annotation |
 |-----------|------------|
 |           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | precursor | co-eluting | spider    | source                              |
+| pdf | Precursor | Co-eluting | Spider    | Source                              |
 |-----|-----------|------------|-----------|-------------------------------------|
 |     |           |            |           |                                     |
 
 ## References
 
-| titel                                                                                                                                                                               | reference                                                             | spider      | name   | content    | link                                                          |
+| Title                                                                                                                                                                               | Reference                                                             | Spider      | Name   | Content    | Link                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------|--------|------------|---------------------------------------------------------------|
 | Detection and characterization of natural polyamines by high-performance liquid chromatography-atmospheric pressure chemical ionization (electrospray ionization) mass spectroscopy | S. Chesnov, L. Bigler, M. Hesse, Eur. J. Mass Spectrom. 2002, 8, 1-16 | P. luctuosa | PB 474 | APCI-MS/MS | [Link](https://journals.sagepub.com/doi/abs/10.1255/ejms.467) |
 
 ## Spider species
 
-| spider species       | family     | source            |
+| Spider species       | Family     | Discovered        |
 |----------------------|------------|-------------------|
 | Pireneitega luctuosa | Agelenidae | 2002 / S. Chesnov |
 
