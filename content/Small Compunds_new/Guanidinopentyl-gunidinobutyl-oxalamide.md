@@ -44,9 +44,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider     | Source            |
-|-----|-----------|------------|------------|-------------------|
-|     | 329.24135 |            | P. tristis | Spider Pharm, USA |
+| pdf | Precursor | Co-eluting | Spider     | Source            | Author        |
+|-----|-----------|------------|------------|-------------------|---------------|
+|     | 329.24135 |            | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

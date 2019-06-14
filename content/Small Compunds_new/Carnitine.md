@@ -50,9 +50,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                 | Precursor | Co-eluting | Spider                          | Source        |
-|-------------------------------------|-----------|------------|---------------------------------|---------------|
-| [Data](/pdf/162_Carnitine_1-18.pdf) | 162.11302 |            | L-Carnitine HCl (CAS 6645-46-1) | Sigma Aldrich |
+| pdf                                 | Precursor | Co-eluting | Spider                          | Source        | Author        |
+|-------------------------------------|-----------|------------|---------------------------------|---------------|---------------|
+| [Data](/pdf/162_Carnitine_1-18.pdf) | 162.11302 |            | L-Carnitine HCl (CAS 6645-46-1) | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

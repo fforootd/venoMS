@@ -1,6 +1,7 @@
 +++
 title = "PA5"
 categories = ["C5H14N2","P103","D52","HDX108",
+"PA5","5",
 "Araneidae","Ctenidae","Theraphosidae"]
 tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope bruennichi",
 "Cupiennius salei",
@@ -46,9 +47,9 @@ tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope br
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

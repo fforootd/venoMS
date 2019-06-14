@@ -37,9 +37,9 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider     | Source |
-|----------|-----------|------------|------------|--------|
-| [Data]() | 122.02757 |            | L-Cysteine | Fluka  |
+| pdf      | Precursor | Co-eluting | Spider     | Source | Author        |
+|----------|-----------|------------|------------|--------|---------------|
+| [Data]() | 122.02757 |            | L-Cysteine | Fluka  | Y. M. Forster |
 
 ## References
 

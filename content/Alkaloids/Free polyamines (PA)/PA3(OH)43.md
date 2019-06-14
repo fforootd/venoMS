@@ -1,6 +1,7 @@
 +++
 title = "PA3(OH)43"
 categories = ["C10H26N4O","P219","D110","HDX226",
+"PA3(OH)43","3(OH)43",
 "Agelenidae"]
 tags = ["Agelenopsis aperta","Hololena curta"]
 +++
@@ -45,9 +46,9 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

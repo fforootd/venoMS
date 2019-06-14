@@ -37,9 +37,9 @@ tags = ["Araneus diadematus","Ariadna sp."]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider                              | Source        |
-|----------|-----------|------------|-------------------------------------|---------------|
-| [Data]() | 104.10754 |            | Choline, 45% in MeOH (CAS 123-41-1) | Sigma Aldrich |
+| pdf      | Precursor | Co-eluting | Spider                              | Source        | Author        |
+|----------|-----------|------------|-------------------------------------|---------------|---------------|
+| [Data]() | 104.10754 |            | Choline, 45% in MeOH (CAS 123-41-1) | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

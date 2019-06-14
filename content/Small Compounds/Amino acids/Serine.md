@@ -40,9 +40,9 @@ tags = ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider   | Source        |
-|----------|-----------|------------|----------|---------------|
-| [Data]() | 106.05042 |            | L-Serine | Sigma Aldrich |
+| pdf      | Precursor | Co-eluting | Spider   | Source        | Author        |
+|----------|-----------|------------|----------|---------------|---------------|
+| [Data]() | 106.05042 |            | L-Serine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

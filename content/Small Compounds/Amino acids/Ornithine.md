@@ -11,7 +11,7 @@ tags =["Cupiennius salei"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | V               |
+| Level                     | I               |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₅H₁₂N₂O₂       |
@@ -26,7 +26,7 @@ tags =["Cupiennius salei"]
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
-| Rt                        |                 |
+| Rt                        | 1.06                |
 | Rt HDX                    |                 |
 
 ## MS/MS fragments
@@ -37,9 +37,9 @@ tags =["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider      | Source |
-|----------|-----------|------------|-------------|--------|
-| [Data]() | 133.09770 |            | L-Ornithine | Fluka  |
+| pdf      | Precursor | Co-eluting | Spider      | Source | Author        |
+|----------|-----------|------------|-------------|--------|---------------|
+| [Data]() | 133.09770 |            | L-Ornithine | Fluka  | Y. M. Forster |
 
 ## References
 

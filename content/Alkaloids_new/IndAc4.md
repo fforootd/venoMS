@@ -1,6 +1,7 @@
 +++
 title = "IndAc4"
 categories = ["C14H19N3O","P246","D123","HDX251",
+"IndAc4","4",
 "Agelenidae"]
 tags = ["Agelenopsis potteri","Hololena curta","Hololena sp."]
 draft = true
@@ -44,9 +45,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcOrnAsn5ßAla4ßAla4"
 categories = ["C38H65N11O7","P788","D394","HDX804",
+"4-OH-IndAcOrnAsn5ßAla4ßAla4","OrnAsn5ßAla4ßAla4",
 "Araneidae"]
 tags = ["Nephila clavata"]
 +++
@@ -49,9 +50,9 @@ tags = ["Nephila clavata"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

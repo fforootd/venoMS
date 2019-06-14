@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn5ßAla43Arg"
 categories = ["C35H60N12O6","P745","D373","HDX762",
+"4-OH-IndAcAsn5ßAla43Arg","Asn5ßAla43Arg",
 "Araneidae"]
 tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
@@ -47,9 +48,9 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

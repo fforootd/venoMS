@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn533Arg"
 categories = ["C29H52N10O6","P637","D319","HDX653",
+"2,4-(OH)2-PhAcAsn533Arg","Asn533Arg",
 "Araneidae"]
 tags = ["Araneus gemma","Araneus ventricosus","Argiope aurantia","Argiope florida","Argiope lobata","Argiope sp.","Argiope trifasciata"]
 +++
@@ -46,9 +47,9 @@ tags = ["Araneus gemma","Araneus ventricosus","Argiope aurantia","Argiope florid
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

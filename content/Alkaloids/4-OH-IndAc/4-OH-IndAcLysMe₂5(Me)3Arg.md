@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcLysMe₂5(Me)3Arg"
 categories = ["C33H58N10O4","P659","D330","HDX671",
+"4-OH-IndAcLysMe25(Me)3Arg","LysMe25(Me)3Arg",
 "Araneidae"]
 tags = ["Argiope lobata"]
 +++
@@ -45,9 +46,9 @@ tags = ["Argiope lobata"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

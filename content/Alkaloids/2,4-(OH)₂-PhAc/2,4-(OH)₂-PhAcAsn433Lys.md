@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn433Lys"
 categories = ["C28H50N8O6","P595","D298","HDX609",
+"2,4-(OH)2-PhAcAsn433Lys","Asn433Lys",
 "Araneidae"]
 tags = ["Nephila clavipes","Nephila inaurata madagascariensis"]
 +++
@@ -46,9 +47,9 @@ tags = ["Nephila clavipes","Nephila inaurata madagascariensis"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

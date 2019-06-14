@@ -41,11 +41,11 @@ tags = ["Agelenopsis aperta","Latrodectus menavodi"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                            | Precursor | Co-eluting | Spider    | Source                       |
-|------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/284_Guanosine_2-77.pdf)            | 284.09949 |            | Guanosine | Sigma Aldrich                |
-| [Data](/pdf/A-aperta/284_Guanosine_Aa.pdf)     | 284.09949 |            | A. aperta | Fauna Laboratories Ltd., KZA |
-| [Data](/pdf/A-aperta/284_Guanosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KZA |
+| pdf                                            | Precursor | Co-eluting | Spider    | Source                       | Author        |
+|------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
+| [Data](/pdf/284_Guanosine_2-77.pdf)            | 284.09949 |            | Guanosine | Sigma Aldrich                | Y. M. Forster |
+| [Data](/pdf/A-aperta/284_Guanosine_Aa.pdf)     | 284.09949 |            | A. aperta | Fauna Laboratories Ltd., KZA | Y. M. Forster |
+| [Data](/pdf/A-aperta/284_Guanosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KZA | Y. M. Forster |
 
 ## References
 

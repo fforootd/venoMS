@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn5Lys(Me)3Arg"
 categories = ["C35H60N12O6","P745","D373","HDX762",
+"4-OH-IndAcAsn5Lys(Me)3Arg","Asn5Lys(Me)3Arg",
 "Araneidae"]
 tags = ["Argiope lobata"]
 +++
@@ -46,9 +47,9 @@ tags = ["Argiope lobata"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

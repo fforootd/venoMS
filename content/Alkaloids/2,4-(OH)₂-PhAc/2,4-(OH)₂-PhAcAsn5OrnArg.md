@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5OrnArg"
 categories = ["C28H48N10O7","P637","D319","HDX654",
+"2,4-(OH)2-PhAcAsn5OrnArg","Asn5OrnArg",
 "Araneidae"]
 tags = ["Nephila clavata"]
 +++
@@ -45,9 +46,9 @@ tags = ["Nephila clavata"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

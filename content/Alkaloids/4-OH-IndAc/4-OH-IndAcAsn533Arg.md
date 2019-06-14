@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn533Arg"
 categories = ["C31H53N11O5","P660","D330","HDX676",
+"4-OH-IndAcAsn533Arg","Asn533Arg",
 "Araneidae"]
 tags = ["Argiope aurantia","Argiope florida","Argiope lobata","Argiope trifasciata"]
 +++
@@ -46,9 +47,9 @@ tags = ["Argiope aurantia","Argiope florida","Argiope lobata","Argiope trifascia
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

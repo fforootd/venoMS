@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn3(Me)4(Me)3Arg"
 categories = ["C32H55N11O5","P674","D337","HDX688",
+"4-OH-IndAcAsn3(Me)4(Me)3Arg","Asn3(Me)4(Me)3Arg",
 "Araneidae"]
 tags = ["Argiope aurantia","Argiope florida","Argiope trifasciata"]
 +++
@@ -46,9 +47,9 @@ tags = ["Argiope aurantia","Argiope florida","Argiope trifasciata"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

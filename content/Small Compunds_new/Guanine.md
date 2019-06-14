@@ -38,9 +38,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider  | Source |
-|-----|-----------|------------|---------|--------|
-|     | 152.05723 |            | Guanine | Merck  |
+| pdf | Precursor | Co-eluting | Spider  | Source | Author        |
+|-----|-----------|------------|---------|--------|---------------|
+|     | 152.05723 |            | Guanine | Merck  | Y. M. Forster |
 
 ## References
 

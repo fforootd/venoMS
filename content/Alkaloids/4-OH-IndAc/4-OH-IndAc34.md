@@ -1,6 +1,8 @@
 +++
 title = "4-OH-IndAc34"
-categories = ["C17H26N4O2","P319","D160","HDX326"]
+categories = ["C17H26N4O2","P319","D160","HDX326",
+"4-OH-IndAc34","34",
+"Thomisidae"]
 tags = ["Ozyptila lugubris"]
 +++
 
@@ -43,9 +45,9 @@ tags = ["Ozyptila lugubris"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

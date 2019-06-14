@@ -38,9 +38,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider     | Source |
-|-----|-----------|------------|------------|--------|
-|     | 161.10787 |            | Tryptamine | Fluka  |
+| pdf | Precursor | Co-eluting | Spider     | Source | Author        |
+|-----|-----------|------------|------------|--------|---------------|
+|     | 161.10787 |            | Tryptamine | Fluka  | Y. M. Forster |
 
 ## References
 

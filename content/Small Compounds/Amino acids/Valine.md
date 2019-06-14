@@ -37,9 +37,9 @@ tags = ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider   | Source |
-|----------|-----------|------------|----------|--------|
-| [Data]() | 118.08680 |            | L-Valine | Fluka  |
+| pdf      | Precursor | Co-eluting | Spider   | Source | Author        |
+|----------|-----------|------------|----------|--------|---------------|
+| [Data]() | 118.08680 |            | L-Valine | Fluka  | Y. M. Forster |
 
 ## References
 

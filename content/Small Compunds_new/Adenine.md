@@ -38,9 +38,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider  | Source |
-|-----|-----------|------------|---------|--------|
-|     | 136.06232 |            | Adenine | Fluka  |
+| pdf | Precursor | Co-eluting | Spider  | Source | Author        |
+|-----|-----------|------------|---------|--------|---------------|
+|     | 136.06232 |            | Adenine | Fluka  | Y. M. Forster |
 
 ## References
 

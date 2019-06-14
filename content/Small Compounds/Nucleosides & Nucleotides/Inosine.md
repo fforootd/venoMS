@@ -39,9 +39,9 @@ tags = ["Cyriopagopus hainanus","Latrodectus menavodi","Loxosceles reclusa","Par
 
 ## Recorded MS/MS spectra
 
-| pdf                               | Precursor | Co-eluting | Spider  | Source        |
-|-----------------------------------|-----------|------------|---------|---------------|
-| [Data](/pdf/269_Inosine_2-83.pdf) | 269.08859 |            | Inosine | Sigma Aldrich |
+| pdf                               | Precursor | Co-eluting | Spider  | Source        | Author        |
+|-----------------------------------|-----------|------------|---------|---------------|---------------|
+| [Data](/pdf/269_Inosine_2-83.pdf) | 269.08859 |            | Inosine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

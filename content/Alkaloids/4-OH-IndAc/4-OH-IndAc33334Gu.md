@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc33334Gu"
 categories = ["C27H49N9O2","P532","D266","HDX544",
+"4-OH-IndAc33334Gu","33334Gu",
 "Agelenidae"]
 tags = ["Pireneitega luctuosa"]
 +++
@@ -47,9 +48,9 @@ tags = ["Pireneitega luctuosa"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source |
+|-----|-----------|------------|--------|--------|
+|     |           |            |        |        |
 
 ## References
 

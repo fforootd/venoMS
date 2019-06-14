@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla3Arg"
 categories = ["C29H50N10O7","P651","D326","HDX667",
+"2,4-(OH)2-PhAcAsn5ßAla3Arg","Asn5ßAla3Arg",
 "Araneidae"]
 tags = ["Argiope florida","Argiope trifasciata","Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
@@ -46,9 +47,9 @@ tags = ["Argiope florida","Argiope trifasciata","Nephila clavata","Nephila inaur
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

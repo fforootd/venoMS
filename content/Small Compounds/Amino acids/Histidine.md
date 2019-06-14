@@ -37,9 +37,9 @@ tags = ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor  | Co-eluting | Spider      | Source |
-|----------|------------|------------|-------------|--------|
-| [Data]() | 156.07730  |            | L-Histidine | Fluka  |
+| pdf      | Precursor | Co-eluting | Spider      | Source | Author        |
+|----------|-----------|------------|-------------|--------|---------------|
+| [Data]() | 156.07730 |            | L-Histidine | Fluka  | Y. M. Forster |
 
 ## References
 

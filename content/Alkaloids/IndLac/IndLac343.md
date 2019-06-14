@@ -1,6 +1,7 @@
 +++
 title = "IndLac343"
 categories = ["C21H35N5O2","P390","D195","HDX398",
+"IndLac343","343",
 "Atracidae","Halonoproctidae","Theraphosidae"]
 tags = ["Atrax robustus",
 "Ceratogyrus darlingi",
@@ -47,9 +48,9 @@ tags = ["Atrax robustus",
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

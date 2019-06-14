@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn533"
 categories = ["C25H41N7O3","P488","D244","HDX498",
+"IndAcAsn533","Asn533",
 "Araneidae"]
 tags = ["Larinioides patagiatus"]
 +++
@@ -46,9 +47,9 @@ tags = ["Larinioides patagiatus"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -1,6 +1,7 @@
 +++
 title = "PA34Gu"
 categories = ["C8H21N5","P188","D94","HDX196",
+"PA34Gu","34Gu",
 "Agelenidae"]
 tags = ["Eratigena agrestis"]
 draft = true
@@ -44,10 +45,9 @@ draft = true
 |     |            |
 
 ## Recorded MS/MS spectra
-
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

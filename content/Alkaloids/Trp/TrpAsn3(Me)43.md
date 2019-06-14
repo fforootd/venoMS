@@ -1,6 +1,7 @@
 +++
 title = "TrpAsn3(Me)43"
 categories = ["C26H44N8O3","P517","D259","HDX528",
+"TrpAsn3(Me)43","Asn3(Me)43",
 "Araneidae"]
 tags = ["Larinioides patagiatus"]
 +++
@@ -46,9 +47,9 @@ tags = ["Larinioides patagiatus"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

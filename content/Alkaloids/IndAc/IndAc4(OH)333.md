@@ -1,6 +1,7 @@
 +++
 title = "IndAc4(OH)333"
-categories = ["C23H40N6O2","P433","D217","HDX441"]
+categories = ["C23H40N6O2","P433","D217","HDX441",
+"IndAc4(OH)333","4(OH)333"]
 +++
 
 ![](/img/IndAc4(OH)333.png)
@@ -10,7 +11,7 @@ categories = ["C23H40N6O2","P433","D217","HDX441"]
 | Name                        | Value            |
 |-----------------------------|------------------|
 | Level                       | IV               |
-| Discovered                  | 2019 / A. aperta |
+| Discovered                  | --- / --- |
 | Synonym                     | AG 432h          |
 | Molecular formula           | C₂₃H₄₀N₆O₂       |
 | CAS                         | 389872-75-7      |
@@ -44,9 +45,9 @@ categories = ["C23H40N6O2","P433","D217","HDX441"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -1,6 +1,7 @@
 +++
 title = "PA3(OH)334Gu"
 categories = ["C14H35N7O","P318","D159","HDX328",
+"PA3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
 tags = ["Pireneitega luctuosa"]
 +++
@@ -46,9 +47,9 @@ tags = ["Pireneitega luctuosa"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

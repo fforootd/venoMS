@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz3334Gu"
 categories = ["C21H39N7O2","P422","D211","HDX432",
+"4-OH-Bz3334Gu","3334Gu",
 "Agelenidae"]
 tags = ["Pireneitega luctuosa"]
 +++
@@ -46,9 +47,9 @@ tags = ["Pireneitega luctuosa"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -37,9 +37,9 @@ tags = ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider  | Source        |
-|----------|-----------|------------|---------|---------------|
-| [Data]() | 126.02249 |            | Taurine | Sigma Aldrich |
+| pdf      | Precursor | Co-eluting | Spider  | Source        | Author        |
+|----------|-----------|------------|---------|---------------|---------------|
+| [Data]() | 126.02249 |            | Taurine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

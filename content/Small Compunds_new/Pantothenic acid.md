@@ -49,9 +49,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                        | Precursor | Co-eluting | Spider                                | Source |
-|--------------------------------------------|-----------|------------|---------------------------------------|--------|
-| [Data](/pdf/220_Pantothenic-acid_4-57.pdf) | 220.11850 |            | Calcium pantothenate (CAS 63409-48-3) | Fluka  |
+| pdf                                        | Precursor | Co-eluting | Spider                                | Source | Author        |
+|--------------------------------------------|-----------|------------|---------------------------------------|--------|---------------|
+| [Data](/pdf/220_Pantothenic-acid_4-57.pdf) | 220.11850 |            | Calcium pantothenate (CAS 63409-48-3) | Fluka  | Y. M. Forster |
 
 ## References
 

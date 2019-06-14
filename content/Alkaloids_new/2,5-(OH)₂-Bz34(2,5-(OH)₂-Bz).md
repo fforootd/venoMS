@@ -1,6 +1,7 @@
 +++
 title = "2,5-(OH)₂-Bz34(2,5-(OH)₂-Bz)"
 categories = ["C21H27N3O6","P418","D209","HDX426",
+"2,5-(OH)2-Bz34(2,5-(OH)2-Bz)","34(2,5-(OH)2-Bz)",
 "Araneidae"]
 tags = ["Parawixia bistriata"]
 draft = true
@@ -45,9 +46,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

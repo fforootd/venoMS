@@ -45,9 +45,9 @@ tags= ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider     | Source        |
-|----------|-----------|------------|------------|---------------|
-| [Data]() | 182.08172 |            | L-Tyrosine | Sigma Aldrich |
+| pdf      | Precursor | Co-eluting | Spider     | Source        | Author        |
+|----------|-----------|------------|------------|---------------|---------------|
+| [Data]() | 182.08172 |            | L-Tyrosine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

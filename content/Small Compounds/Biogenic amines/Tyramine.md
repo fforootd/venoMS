@@ -37,9 +37,9 @@ tags = ["Atrax robustus"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider   | Source        |
-|----------|-----------|------------|----------|---------------|
-| [Data]() | 138.09189 |            | Tyramine | Sigma Aldrich |
+| pdf      | Precursor | Co-eluting | Spider   | Source        | Author        |
+|----------|-----------|------------|----------|---------------|---------------|
+| [Data]() | 138.09189 |            | Tyramine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

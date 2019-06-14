@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn53"
 categories = ["C20H33N5O5","P424","D212","HDX432",
+"2,4-(OH)2-PhAcAsn53","Asn53",
 "Araneidae"]
 tags = ["Larinioides patagiatus"]
 +++
@@ -45,9 +46,9 @@ tags = ["Larinioides patagiatus"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn433"
 categories = ["C22H38N6O5","P467","D234","HDX478",
+"2,4-(OH)2-PhAcAsn433","Asn433",
 "Araneidae"]
 tags = ["Larinioides patagiatus","Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
@@ -46,9 +47,9 @@ tags = ["Larinioides patagiatus","Nephila clavata","Nephila inaurata madagascari
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

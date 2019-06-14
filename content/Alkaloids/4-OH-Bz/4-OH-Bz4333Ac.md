@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz4333Ac"
 categories = ["C22H39N5O3","P422","D211","HDX428",
+"4-OH-Bz4333Ac","4333Ac",
 "Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
@@ -49,10 +50,10 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                | Precursor | Co-eluting | Spider    | Source                       |
-|----------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/422_4-OH-Bz4333Ac_Aa.pdf)     | 422.31311 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/422_4-OH-Bz4333Ac_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                | Precursor | Co-eluting | Spider    | Source                       | Author        |
+|----------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/422_4-OH-Bz4333Ac_Aa.pdf)     | 422.31311 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/422_4-OH-Bz4333Ac_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

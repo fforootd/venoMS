@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc35"
 categories = ["C18H28N4O2","P333","D167","HDX340",
+"4-OH-IndAc35","35",
 "Thomisidae"]
 tags = ["Ozyptila lugubris"]
 +++
@@ -44,9 +45,9 @@ tags = ["Ozyptila lugubris"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

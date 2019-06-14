@@ -1,6 +1,7 @@
 +++
 title = "PA4"
 categories = ["C4H12N2","P89","D45","HDX94",
+"PA4","4",
 "Araneidae","Ctenidae","Theraphosidae"]
 tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope bruennichi",
 "Cupiennius salei",
@@ -46,9 +47,9 @@ tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope br
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

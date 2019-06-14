@@ -47,9 +47,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                       | Precursor | Co-eluting | Spider                               | Source        |
-|-------------------------------------------|-----------|------------|--------------------------------------|---------------|
-| [Data](/pdf/204_Acetylcarnitine_1-51.pdf) | 204.12358 |            | O-Acetyl-L-carnitine (CAS 5080-50-2) | Sigma Aldrich |
+| pdf                                       | Precursor | Co-eluting | Spider                               | Source        | Author        |
+|-------------------------------------------|-----------|------------|--------------------------------------|---------------|---------------|
+| [Data](/pdf/204_Acetylcarnitine_1-51.pdf) | 204.12358 |            | O-Acetyl-L-carnitine (CAS 5080-50-2) | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

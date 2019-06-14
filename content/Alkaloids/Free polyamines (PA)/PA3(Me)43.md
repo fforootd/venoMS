@@ -1,6 +1,7 @@
 +++
 title = "PA3(Me)43"
-categories = ["C11H28N4","P217","D109","HDX223"]
+categories = ["C11H28N4","P217","D109","HDX223",
+"PA3(Me)43","3(Me)43"]
 tags = []
 +++
 
@@ -44,9 +45,9 @@ tags = []
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

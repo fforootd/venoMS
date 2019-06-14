@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn433Arg"
 categories = ["C28H50N10O6","P623","D312","HDX639",
+"2,4-(OH)2-PhAcAsn433Arg","Asn433Arg",
 "Araneidae"]
 tags = ["Araneus ventricosus","Argiope florida","Argiope trifasciata",
 "Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
@@ -47,9 +48,9 @@ tags = ["Araneus ventricosus","Argiope florida","Argiope trifasciata",
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

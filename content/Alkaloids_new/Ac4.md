@@ -1,6 +1,7 @@
 +++
 title = "Ac4"
 categories = ["C6H14N2O","P131","D66","HDX135",
+"Ac4","4",
 "Araneidae"]
 tags = ["Parawixia bistriata"]
 draft = true
@@ -44,9 +45,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

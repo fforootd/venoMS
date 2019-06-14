@@ -47,9 +47,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                    | Precursor | Co-eluting | Spider                           | Source        |
-|----------------------------------------|-----------|------------|----------------------------------|---------------|
-| [Data](/pdf/138_Trigonelline_1-21.pdf) | 138.05550 |            | Trigonelline HCl (CAS 6138-41-6) | Sigma Aldrich |
+| pdf                                    | Precursor | Co-eluting | Spider                           | Source        | Author        |
+|----------------------------------------|-----------|------------|----------------------------------|---------------|---------------|
+| [Data](/pdf/138_Trigonelline_1-21.pdf) | 138.05550 |            | Trigonelline HCl (CAS 6138-41-6) | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

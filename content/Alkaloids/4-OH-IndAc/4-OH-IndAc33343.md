@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc33343"
-categories = ["C26H47N7O2","P490","D245","HDX500"]
+categories = ["C26H47N7O2","P490","D245","HDX500",
+"4-OH-IndAc33343","33343"]
 +++
 
 ![](/img/4-OH-IndAc33343.png)
@@ -45,9 +46,9 @@ categories = ["C26H47N7O2","P490","D245","HDX500"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

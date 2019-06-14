@@ -58,11 +58,10 @@ tags = ["Aculepeira sp.","Agelenopsis aperta","Aphonopelma hentzi","Aphonopelma 
 
 ## Recorded MS/MS spectra
 
-| pdf                                              | Precursor | Co-eluting | Spider                          | Source                       |
-|--------------------------------------------------|-----------|------------|---------------------------------|------------------------------|
-| [Data]()                                         | 210.06138 |            | Citric acid H₂O (CAS 5949-29-1) | Acros Organics               |
-| [Data](/pdf/A-aperta/193_Citric-acid_Aa.pdf)     | 210.06138 |            | A. aperta                       | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/193_Citric-acid_Aa_HDX.pdf) | HDX       |            | A. aperta                       | Fauna Laboratories Ltd., KAZ |
+| pdf                                              | Precursor | Co-eluting | Spider    | Source                       | Author        |
+|--------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/193_Citric-acid_Aa.pdf)     | 210.06138 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/193_Citric-acid_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

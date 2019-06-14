@@ -56,9 +56,9 @@ tags = ["Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Arane
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider          | Source |
-|----------|-----------|------------|-----------------|--------|
-| [Data]() | 148.06098 |            | L-Glutamic acid | Fluka  |
+| pdf      | Precursor | Co-eluting | Spider          | Source | Author        |
+|----------|-----------|------------|-----------------|--------|---------------|
+| [Data]() | 148.06098 |            | L-Glutamic acid | Fluka  | Y. M. Forster |
 
 ## References
 

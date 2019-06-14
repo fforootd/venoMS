@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc5333"
 categories = ["C24H42N6O2","P447","D224","HDX456",
+"4-OH-IndAc5333","5333",
 "Pisauridae"]
 tags = ["Dolomedes okefinokensis"]
 +++
@@ -46,9 +47,9 @@ tags = ["Dolomedes okefinokensis"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

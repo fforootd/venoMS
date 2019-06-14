@@ -1,6 +1,7 @@
 +++
 title = "IndAcßAla353"
 categories = ["C24H40N6O2","P445","D223","HDX453",
+"IndAcßAla353","ßAla353",
 "Zodariidae"]
 tags = ["Lachesana sp.*"]
 +++
@@ -46,9 +47,9 @@ tags = ["Lachesana sp.*"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

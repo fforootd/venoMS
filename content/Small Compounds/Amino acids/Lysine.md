@@ -37,9 +37,9 @@ tags = ["Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Phoneutri
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider   | Source |
-|----------|-----------|------------|----------|--------|
-| [Data]() | 147.11335 |            | L-Lysine | Fluka  |
+| pdf      | Precursor | Co-eluting | Spider   | Source | Author        |
+|----------|-----------|------------|----------|--------|---------------|
+| [Data]() | 147.11335 |            | L-Lysine | Fluka  | Y. M. Forster |
 
 ## References
 

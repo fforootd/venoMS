@@ -40,9 +40,9 @@ tags = ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf                               | Precursor | Co-eluting | Spider    | Source |
-|-----------------------------------|-----------|------------|-----------|--------|
-| [Data](/pdf/132_Leucine_2-88.pdf) | 132.10245 |            | L-Leucine | Fluka  |
+| pdf                               | Precursor | Co-eluting | Spider    | Source | Author        |
+|-----------------------------------|-----------|------------|-----------|--------|---------------|
+| [Data](/pdf/132_Leucine_2-88.pdf) | 132.10245 |            | L-Leucine | Fluka  | Y. M. Forster |
 
 ## References
 

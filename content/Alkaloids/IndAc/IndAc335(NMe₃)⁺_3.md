@@ -1,6 +1,7 @@
 +++
 title = "IndAc335(NMe₃)⁺"
 categories = ["C24H42N5O","P416","D208","HDX420",
+"IndAc335(NMe3)","335(NMe3)",
 "Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
@@ -49,10 +50,10 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                 | Precursor | Co-eluting | Spider    | Source                       |
-|-----------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/416_IndAc335(NMe3)_Aa.pdf)     | 416.33894 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/416_IndAc335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                 | Precursor | Co-eluting | Spider    | Source                       | Author        |
+|-----------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/416_IndAc335(NMe3)_Aa.pdf)     | 416.33894 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/416_IndAc335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

@@ -1,6 +1,7 @@
 +++
 title = "IndLac4(Me₂)3(Me₂)3²⁺"
 categories = ["C25H45N5O2","D223",
+"IndLac4(Me2)3(Me2)3","4(Me2)3(Me2)3",
 "Macrothelidae"]
 tags = ["Macrothele gigas"]
 +++
@@ -45,9 +46,9 @@ tags = ["Macrothele gigas"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -32,7 +32,7 @@ draft = true
 | Precursor HDX 2           |             |
 | Precursor HDX 3           |             |
 |                           |             |
-| Rt                        |             |
+| Rt                        | 1.44        |
 | Rt HDX                    |             |
 
 ## MS/MS fragments
@@ -50,9 +50,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider                        | Source        |
-|-----|-----------|------------|-------------------------------|---------------|
-|     | 162.07663 |            | L-Glutamic acid 5-methylester | Sigma Aldrich |
+| pdf      | Precursor | Co-eluting | Spider                        | Source        | Author        |
+|----------|-----------|------------|-------------------------------|---------------|---------------|
+| [Data]() | 162.07663 |            | L-Glutamic acid 5-methylester | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

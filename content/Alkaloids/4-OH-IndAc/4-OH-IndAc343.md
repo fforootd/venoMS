@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc343"
 categories = ["C20H33N5O2","P323","D162","HDX330",
+"4-OH-IndAc334","334",
 "Agelenidae","Thomisidae"]
 tags = ["Agelenopsis aperta","Ozyptila lugubris"]
 +++
@@ -45,10 +46,10 @@ tags = ["Agelenopsis aperta","Ozyptila lugubris"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                              | Precursor | Co-eluting    | Spider    | Source                       |
-|------------------------------------------------------------------|-----------|---------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/376_4-OH-IndAc334_4-OH-IndAc343_Aa.pdf)     | 376.27125 | 4-OH-IndAc334 | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/376_4-OH-IndAc334_4-OH-IndAc343_Aa_HDX.pdf) | HDX       | 4-OH-IndAc334 | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                              | Precursor | Co-eluting    | Spider    | Source                       | Author        |
+|------------------------------------------------------------------|-----------|---------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/376_4-OH-IndAc334_4-OH-IndAc343_Aa.pdf)     | 376.27125 | 4-OH-IndAc334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/376_4-OH-IndAc334_4-OH-IndAc343_Aa_HDX.pdf) | HDX       | 4-OH-IndAc334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

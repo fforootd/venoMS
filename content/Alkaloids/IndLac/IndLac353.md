@@ -1,6 +1,7 @@
 +++
 title = "IndLac353"
 categories = ["C22H37N5O2","P404","D202","HDX412",
+"IndLac353","353",
 "Halonoproctidae"]
 tags = ["Hebestatis theveneti"]
 +++
@@ -45,9 +46,9 @@ tags = ["Hebestatis theveneti"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

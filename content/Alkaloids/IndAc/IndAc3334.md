@@ -1,6 +1,7 @@
 +++
 title = "IndAc3334"
 categories = ["C23H40N6O","P417","D209","HDX425",
+"IndAc3334","3334",
 "Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
@@ -46,11 +47,11 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                                | Precursor | Co-eluting            | Spider    | Source                       |
-|--------------------------------------------------------------------|-----------|-----------------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/417_IndAc3334_IndAc3343_Aa.pdf)               | 417.33419 | IndAc3343             | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/417_IndAc3334_IndAc3343_Aa_2.pdf)             | 209.17101 | IndAc3343             | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/417_IndAc3334_IndAc3343_IndAc3433_Aa_HDX.pdf) | HDX       | IndAc3343 / IndAc3433 | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                                | Precursor | Co-eluting            | Spider    | Source                       | Author        |
+|--------------------------------------------------------------------|-----------|-----------------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/417_IndAc3334_IndAc3343_Aa.pdf)               | 417.33419 | IndAc3343             | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/417_IndAc3334_IndAc3343_Aa_2.pdf)             | 209.17101 | IndAc3343             | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/417_IndAc3334_IndAc3343_IndAc3433_Aa_HDX.pdf) | HDX       | IndAc3343 / IndAc3433 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

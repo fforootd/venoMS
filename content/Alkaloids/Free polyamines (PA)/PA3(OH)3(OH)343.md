@@ -1,6 +1,7 @@
 +++
 title = "PA3(OH)3(OH)343"
 categories = ["C16H40N6O2","P349","D175","HDX358",
+"PA3(OH)3(OH)343","3(OH)3(OH)343",
 "Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
@@ -49,10 +50,10 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                  | Precursor | Co-eluting | Spider    | Source                       |
-|------------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/349_PA3(OH)3(OH)343_Aa.pdf)     | 349.32910 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/349_PA3(OH)3(OH)343_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                  | Precursor | Co-eluting | Spider    | Source                       | Author        |
+|------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/349_PA3(OH)3(OH)343_Aa.pdf)     | 349.32910 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/349_PA3(OH)3(OH)343_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

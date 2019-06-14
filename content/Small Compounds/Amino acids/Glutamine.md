@@ -41,9 +41,9 @@ tags = ["Lycosa indagatrix"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider      | Source |
-|----------|-----------|------------|-------------|--------|
-| [Data]() | 147.07697 |            | L-Glutamine | Fluka  |
+| pdf      | Precursor | Co-eluting | Spider      | Source | Author        |
+|----------|-----------|------------|-------------|--------|---------------|
+| [Data]() | 147.07697 |            | L-Glutamine | Fluka  | Y. M. Forster |
 
 ## References
 

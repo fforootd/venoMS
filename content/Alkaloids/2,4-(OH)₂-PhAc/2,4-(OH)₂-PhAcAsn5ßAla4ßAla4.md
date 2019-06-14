@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla4ßAla4"
 categories = ["C31H54N8O7","P651","D326","HDX664",
+"2,4-(OH)2-PhAcAsn5ßAla4ßAla4","Asn5ßAla4ßAla4",
 "Araneidae"]
 tags = ["Nephila clavata","Nephilingis borbonica"]
 +++
@@ -48,9 +49,9 @@ tags = ["Nephila clavata","Nephilingis borbonica"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

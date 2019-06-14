@@ -48,9 +48,9 @@ tags = ["Lycosa indagatrix"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                  | Precursor | Co-eluting | Spider       | Source |
-|--------------------------------------|-----------|------------|--------------|--------|
-| [Data](/pdf/205_Tryptophan_9-38.pdf) | 205.09770 |            | L-Tryptophan | Merck  |
+| pdf                                  | Precursor | Co-eluting | Spider       | Source | Author        |
+|--------------------------------------|-----------|------------|--------------|--------|---------------|
+| [Data](/pdf/205_Tryptophan_9-38.pdf) | 205.09770 |            | L-Tryptophan | Merck  | Y. M. Forster |
 
 ## References
 

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz3(OH)343"
 categories = ["C20H37N5O3","P396","D198","HDX404",
+"4-OH-Bz3(OH)343","3(OH)343",
 "Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
@@ -46,11 +47,11 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                                  | Precursor | Co-eluting      | Spider    | Source                       |
-|----------------------------------------------------------------------|-----------|-----------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa.pdf)     | 396.29746 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_2.pdf)   | 198.65264 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_HDX.pdf) | HDX       | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                                  | Precursor | Co-eluting      | Spider    | Source                       | Author        |
+|----------------------------------------------------------------------|-----------|-----------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa.pdf)     | 396.29746 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_2.pdf)   | 198.65264 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_HDX.pdf) | HDX       | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

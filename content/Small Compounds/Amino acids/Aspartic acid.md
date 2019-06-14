@@ -46,9 +46,9 @@ tags = ["Aphonopelma hentzi","Araneus gemma",
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider          | Source        |
-|----------|-----------|------------|-----------------|---------------|
-| [Data]() | 134.04533 |            | L-Aspartic acid | Sigma Aldrich |
+| pdf      | Precursor | Co-eluting | Spider          | Source        | Author        |
+|----------|-----------|------------|-----------------|---------------|---------------|
+| [Data]() | 134.04533 |            | L-Aspartic acid | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

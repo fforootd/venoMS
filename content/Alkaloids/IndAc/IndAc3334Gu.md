@@ -1,6 +1,7 @@
 +++
 title = "IndAc3334Gu"
 categories = ["C24H42N8O","P459","D230","HDX469",
+"IndAc3334Gu","3334Gu",
 "Agelenidae"]
 tags = ["Pireneitega luctuosa"]
 +++
@@ -46,9 +47,9 @@ tags = ["Pireneitega luctuosa"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

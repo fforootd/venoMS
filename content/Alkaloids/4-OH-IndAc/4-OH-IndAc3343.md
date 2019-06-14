@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3343"
 categories = ["C23H40N6O2","P433","D217","HDX442",
+"4-OH-IndAc3343","3343",
 "Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
@@ -51,11 +52,11 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                                               | Precursor | Co-eluting                      | Spider    | Source                       |
-|-----------------------------------------------------------------------------------|-----------|---------------------------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/433_4-OH-IndAc3343_Aa.pdf)                                   | 433.32910 |                                 | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/433_4-OH-IndAc3343_Aa_2.pdf)                                 | 217.16846 |                                 | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Aa_HDX.pdf) | HDX       | 4-OH-IndAc3334 / 4-OH-IndAc3433 | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                                               | Precursor | Co-eluting                      | Spider    | Source                       | Author        |
+|-----------------------------------------------------------------------------------|-----------|---------------------------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/433_4-OH-IndAc3343_Aa.pdf)                                   | 433.32910 |                                 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/433_4-OH-IndAc3343_Aa_2.pdf)                                 | 217.16846 |                                 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Aa_HDX.pdf) | HDX       | 4-OH-IndAc3334 / 4-OH-IndAc3433 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

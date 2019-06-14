@@ -41,11 +41,11 @@ tags = ["Agelenopsis aperta","Cyriopagopus lividum","Latrodectus menavodi" ]
 
 ## Recorded MS/MS spectra
 
-| pdf                                            | Precursor | Co-eluting | Spider    | Source                       |
-|------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/268_Adenosine_2-29.pdf)            | 268.10457 |            | Adenosine | Sigma Aldrich                |
-| [Data](/pdf/A-aperta/268_Adenosine_Aa.pdf)     | 268.10457 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/268_Adenosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                            | Precursor | Co-eluting | Spider    | Source                       | Author        |
+|------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
+| [Data](/pdf/268_Adenosine_2-29.pdf)            | 268.10457 |            | Adenosine | Sigma Aldrich                | Y. M. Forster |
+| [Data](/pdf/A-aperta/268_Adenosine_Aa.pdf)     | 268.10457 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/268_Adenosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

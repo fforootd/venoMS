@@ -55,9 +55,9 @@ tags = ["Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider              | Source        |
-|----------|-----------|------------|---------------------|---------------|
-| [Data]() | 104.07115 |            | γ-Aminobutyric acid | Sigma Aldrich |
+| pdf      | Precursor | Co-eluting | Spider              | Source        | Author        |
+|----------|-----------|------------|---------------------|---------------|---------------|
+| [Data]() | 104.07115 |            | γ-Aminobutyric acid | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

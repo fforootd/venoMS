@@ -1,6 +1,7 @@
 +++
 title = "IndAc3(OH)333(OH)3"
 categories = ["C25H45N7O3","P492","D246","HDX501",
+"IndAc3(OH)333(OH)3","3(OH)333(OH)3",
 "Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
@@ -54,11 +55,11 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                     | Precursor | Co-eluting | Spider    | Source                       |
-|---------------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa.pdf)     | 492.36621 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa_2.pdf)   | 246.68702 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                     | Precursor | Co-eluting | Spider    | Source                       | Author        |
+|---------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa.pdf)     | 492.36621 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa_2.pdf)   | 246.68702 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

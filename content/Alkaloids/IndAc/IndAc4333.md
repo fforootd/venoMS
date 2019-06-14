@@ -1,6 +1,7 @@
 +++
 title = "IndAc4333"
 categories = ["C23H40N6O","P417","D209","HDX425",
+"IndAc4333","4333",
 "Agelenidae"]
 tags = ["Agelenopsis aperta","Hololena curta"]
 +++
@@ -50,13 +51,13 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                            | Precursor | Co-eluting | Spider           | Source                       |
-|------------------------------------------------|-----------|------------|------------------|------------------------------|
-| [Data](/pdf/417_IndAc4333_9-00.pdf)            | 417.33419 |       | synth. IndAc4333 | UZH Bienz lab, CHE           |
-| [Data](/pdf/417_IndAc4333_9-00_2.pdf)          | 417.33419 |        | synth. IndAc4333 | UZH Bienz lab, CHE           |
-| [Data](/pdf/A-aperta/417_IndAc4333_Aa.pdf)     | 417.33419 |            | A. aperta        | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/417_IndAc4333_Aa_2.pdf)   | 209.17101 |            | A. aperta        | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/417_IndAc4333_Aa_HDX.pdf) | HDX       |            | A. aperta        | Fauna Laboratories Ltd., KAZ |
+| pdf                                            | Precursor | Co-eluting | Spider           | Source                       | Author        |
+|------------------------------------------------|-----------|------------|------------------|------------------------------|---------------|
+| [Data](/pdf/417_IndAc4333_9-00.pdf)            | 417.33419 |            | synth. IndAc4333 | UZH Bienz lab, CHE           | Y. M. Forster |
+| [Data](/pdf/417_IndAc4333_9-00_2.pdf)          | 209.17101 |            | synth. IndAc4333 | UZH Bienz lab, CHE           | Y. M. Forster |
+| [Data](/pdf/A-aperta/417_IndAc4333_Aa.pdf)     | 417.33419 |            | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/417_IndAc4333_Aa_2.pdf)   | 209.17101 |            | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/417_IndAc4333_Aa_HDX.pdf) | HDX       |            | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

@@ -49,9 +49,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                               | Precursor | Co-eluting | Spider    | Source |
-|-----------------------------------|-----------|------------|-----------|--------|
-| [Data](/pdf/118_Betaine_1-15.pdf) | 118.08680 |            | Betaine   | Acros  |
+| pdf                               | Precursor | Co-eluting | Spider  | Source | Author        |
+|-----------------------------------|-----------|------------|---------|--------|---------------|
+| [Data](/pdf/118_Betaine_1-15.pdf) | 118.08680 |            | Betaine | Acros  | Y. M. Forster |
 
 ## References
 

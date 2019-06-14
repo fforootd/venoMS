@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5ßAla4Arg"
 categories = ["C32H53N11O5","P672","D336","HDX687",
+"IndAcAsn5ßAla4Arg","Asn5ßAla4Arg",
 "Araneidae"]
 tags = ["Nephila clavata"]
 +++
@@ -46,9 +47,9 @@ tags = ["Nephila clavata"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -50,9 +50,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                | Precursor | Co-eluting | Spider                    | Source                                 |
-|------------------------------------|-----------|------------|---------------------------|----------------------------------------|
-| [Data](/pdf/138_Homarine_1-22.pdf) | 138.05550 |            | Homarine (CAS 6253-06-1) | Dominique Kamber, University of Zurich |
+| pdf                                | Precursor | Co-eluting | Spider                   | Source                                 | Author        |
+|------------------------------------|-----------|------------|--------------------------|----------------------------------------|---------------|
+| [Data](/pdf/138_Homarine_1-22.pdf) | 138.05550 |            | Homarine (CAS 6253-06-1) | Dominique Kamber, University of Zurich | Y. M. Forster |
 
 ## References
 

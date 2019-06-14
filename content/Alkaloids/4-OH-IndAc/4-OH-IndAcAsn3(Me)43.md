@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn3(Me)43"
 categories = ["C25H41N7O4","P504","D252","HDX514",
+"4-OH-IndAcAsn3(Me)43","Asn3(Me)43",
 "Araneidae"]
 tags = ["Larinioides patagiatus"]
 +++
@@ -45,9 +46,9 @@ tags = ["Larinioides patagiatus"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -37,9 +37,9 @@ tags = ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider      | Source |
-|----------|-----------|------------|-------------|--------|
-| [Data]() | 120.06607 |            | L-Threonine | Fluka  |
+| pdf      | Precursor | Co-eluting | Spider      | Source | Author        |
+|----------|-----------|------------|-------------|--------|---------------|
+| [Data]() | 120.06607 |            | L-Threonine | Fluka  | Y. M. Forster |
 
 ## References
 

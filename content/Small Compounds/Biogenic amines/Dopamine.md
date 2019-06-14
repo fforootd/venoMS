@@ -37,9 +37,9 @@ tags = ["Araneus gemma","Hololena curta"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider                     | Source     |
-|----------|-----------|------------|----------------------------|------------|
-| [Data]() | 154.08680 |            | Dopamine HCL (CAS 62-31-7) | Fluorochem |
+| pdf      | Precursor | Co-eluting | Spider                     | Source     | Author        |
+|----------|-----------|------------|----------------------------|------------|---------------|
+| [Data]() | 154.08680 |            | Dopamine HCL (CAS 62-31-7) | Fluorochem | Y. M. Forster |
 
 ## References
 

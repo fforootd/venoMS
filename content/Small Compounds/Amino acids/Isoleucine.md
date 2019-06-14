@@ -41,9 +41,9 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                 | Precursor | Co-eluting | Spider       | Source |
-|-------------------------------------|-----------|------------|--------------|--------|
-| [Data](/pdf/132_Isoeucine_2-65.pdf) | 132.10245 |            | L-Isoleucine | Fluka  |
+| pdf                                 | Precursor | Co-eluting | Spider       | Source | Author        |
+|-------------------------------------|-----------|------------|--------------|--------|---------------|
+| [Data](/pdf/132_Isoeucine_2-65.pdf) | 132.10245 |            | L-Isoleucine | Fluka  | Y. M. Forster |
 
 ## References
 

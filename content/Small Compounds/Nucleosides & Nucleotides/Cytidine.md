@@ -40,11 +40,11 @@ tags = ["Agelenopsis aperta","Eratigena agrestis"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                           | Precursor | Co-eluting | Spider    | Source                       |
-|-----------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/244_Cytidine_1-42.pdf)            | 244.09334 |            | Cytidine | Fluka                        |
-| [Data](/pdf/A-aperta/244_Cytidine_Aa.pdf)     | 244.09334 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/244_Cytidine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                           | Precursor | Co-eluting | Spider    | Source                       | Author        |
+|-----------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
+| [Data](/pdf/244_Cytidine_1-42.pdf)            | 244.09334 |            | Cytidine  | Fluka                        | Y. M. Forster |
+| [Data](/pdf/A-aperta/244_Cytidine_Aa.pdf)     | 244.09334 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/244_Cytidine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

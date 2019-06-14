@@ -1,6 +1,7 @@
 +++
 title = "2,5-(OH)₂-Bz343(4-OH-Bz)"
 categories = ["C24H34N4O5","P459","D230","HDX467",
+"2,5-(OH)2-Bz343(4-OH-Bz)","343(4-OH-Bz)",
 "Gnaphosidae"]
 tags = ["Drassodes sp."]
 +++
@@ -45,9 +46,9 @@ tags = ["Drassodes sp."]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

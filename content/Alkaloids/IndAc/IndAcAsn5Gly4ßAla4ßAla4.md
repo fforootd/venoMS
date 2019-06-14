@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5Gly4ßAla4ßAla4"
 categories = ["C39H67N11O6","P786","D393","HDX800",
+"IndAcAsn5Gly4ßAla4ßAla4","Asn5Gly4ßAla4ßAla4",
 "Araneidae"]
 tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
@@ -50,9 +51,9 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

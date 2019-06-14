@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5Gly4ßAla4ßAla4ßAla4"
 categories = ["C46H81N13O7","P928","D464","HDX944",
+"IndAcAsn5Gly4ßAla4ßAla4ßAla4","Asn5Gly4ßAla4ßAla4ßAla4",
 "Araneidae"]
 tags = ["Nephilingis borbonica","Nephilingis cruentata"]
 +++
@@ -52,9 +53,9 @@ tags = ["Nephilingis borbonica","Nephilingis cruentata"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

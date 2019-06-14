@@ -37,9 +37,9 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor  | Co-eluting | Spider         | Source |
-|----------|------------|------------|----------------|--------|
-| [Data]() | 150.05887  |            | D/L-Methionine | Fluka  |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3(OH)3(OH)43"
 categories = ["C23H40N6O4","P465","D233","HDX474",
+"4-OH-IndAc3(OH)3(OH)43","3(OH)3(OH)43",
 "Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
@@ -46,9 +47,9 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

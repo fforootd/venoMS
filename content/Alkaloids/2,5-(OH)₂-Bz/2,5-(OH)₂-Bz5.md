@@ -1,6 +1,7 @@
 +++
 title = "2,5-(OH)₂-Bz5"
 categories = ["C15H21N2O3","P239","D120","HDX245",
+"2,5-(OH)2-Bz5","5",
 "Gnaphosidae"]
 tags = ["Drassodes sp."]
 +++
@@ -43,9 +44,9 @@ tags = ["Drassodes sp."]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

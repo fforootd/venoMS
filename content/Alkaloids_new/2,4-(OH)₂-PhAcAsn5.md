@@ -1,6 +1,7 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5"
 categories = ["C17H26N4O5","P367","D184","HDX374",
+"2,4-(OH)2-PhAcAsn5","AcAsn5",
 "Araneidae"]
 tags = ["Parawixia bistriata"]
 draft = true
@@ -45,9 +46,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

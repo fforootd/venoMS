@@ -1,6 +1,7 @@
 +++
 title = "IndAc3(OH)334Gu"
 categories = ["C24H42N8O2","P475","D238","HDX485",
+"IndAc3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
@@ -52,10 +53,10 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                  | Precursor | Co-eluting | Spider    | Source                       |
-|------------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/475_IndAc3(OH)334Gu_Aa.pdf)     | 475.35090 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/475_IndAc3(OH)334Gu_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                  | Precursor | Co-eluting | Spider    | Source                       | Author        |
+|------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/475_IndAc3(OH)334Gu_Aa.pdf)     | 475.35090 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/475_IndAc3(OH)334Gu_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

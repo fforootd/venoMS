@@ -48,9 +48,9 @@ tags = ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                | Precursor | Co-eluting | Spider                         | Source        |
-|------------------------------------|-----------|------------|--------------------------------|---------------|
-| [Data](/pdf/175_Arginine_1-12.pdf) | 175.11950 |            | L-Arginine HCl (CAS 1119-34-2) | Sigma Aldrich |
+| pdf                                | Precursor | Co-eluting | Spider                         | Source        | Author        |
+|------------------------------------|-----------|------------|--------------------------------|---------------|---------------|
+| [Data](/pdf/175_Arginine_1-12.pdf) | 175.11950 |            | L-Arginine HCl (CAS 1119-34-2) | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

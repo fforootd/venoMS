@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn433"
 categories = ["C24H39N7O3","P474","D237","HDX484",
+"IndAcAsn433","Asn433",
 "Araneidae"]
 tags = ["Larinioides patagiatus","Nephilingis borbonica","Nephilingis cruentata"]
 +++
@@ -46,9 +47,9 @@ tags = ["Larinioides patagiatus","Nephilingis borbonica","Nephilingis cruentata"
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

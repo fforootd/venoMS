@@ -1,6 +1,7 @@
 +++
 title = "PhAcAsn3(Me)43"
 categories = ["C23H40N6O3","P449","D225","HDX457",
+"PhAcAsn3(Me)43","Asn3(Me)43",
 "Araneidae"]
 tags = ["Larinioides patagiatus"]
 +++
@@ -55,10 +56,10 @@ tags = ["Larinioides patagiatus"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                        | Precursor | Co-eluting | Spider           | Source             |
-|--------------------------------------------|-----------|------------|------------------|--------------------|
-| [Data](/pdf/449_PhAcAsn3(Me)43_4-83.pdf)   | 449.32402 |            | synth. IndAc4333 | UZH Bienz lab, CHE |
-| [Data](/pdf/449_PhAcAsn3(Me)43_4-83_2.pdf) | 225.16592 |            | synth. IndAc4333 | UZH Bienz lab, CHE |
+| pdf                                        | Precursor | Co-eluting | Spider           | Source             | Author        |
+|--------------------------------------------|-----------|------------|------------------|--------------------|---------------|
+| [Data](/pdf/449_PhAcAsn3(Me)43_4-83.pdf)   | 449.32402 |            | synth. IndAc4333 | UZH Bienz lab, CHE | Y. M. Forster |
+| [Data](/pdf/449_PhAcAsn3(Me)43_4-83_2.pdf) | 225.16592 |            | synth. IndAc4333 | UZH Bienz lab, CHE | Y. M. Forster |
 
 ## References
 

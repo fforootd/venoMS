@@ -1,6 +1,7 @@
 +++
 title = "4-OH-PhAcAsn5ßAla3"
 categories = ["C23H38N6O5","P479","D240","HDX489",
+"4-OH-PhAcAsn5ßAla3","Asn5ßAla3",
 "Araneidae"]
 tags = ["Nephila clavata"]
 +++
@@ -46,9 +47,9 @@ tags = ["Nephila clavata"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -41,9 +41,9 @@ tags = ["Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider                       | Source |
-|----------|-----------|------------|------------------------------|--------|
-| [Data]() | 112.08747 |            | Histamine 2HCl (CAS 56-92-8) | Fluka  |
+| pdf      | Precursor | Co-eluting | Spider                       | Source | Author        |
+|----------|-----------|------------|------------------------------|--------|---------------|
+| [Data]() | 112.08747 |            | Histamine 2HCl (CAS 56-92-8) | Fluka  | Y. M. Forster |
 
 ## References
 

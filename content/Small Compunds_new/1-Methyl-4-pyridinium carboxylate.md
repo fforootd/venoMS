@@ -41,9 +41,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                                         | Precursor | Co-eluting | Spider                                             | Source                                 |
-|-------------------------------------------------------------|-----------|------------|----------------------------------------------------|----------------------------------------|
-| [Data](/pdf/138_1-Methyl-4-pyridinium-carboxylate_1-19.pdf) | 138.05550 |            | 1-Methyl-4-pyridinium carboxylate (CAS 36455-39-7) | Dominique Kamber, University of Zurich |
+| pdf                                                         | Precursor | Co-eluting | Spider                                             | Source                                 | Author        |
+|-------------------------------------------------------------|-----------|------------|----------------------------------------------------|----------------------------------------|---------------|
+| [Data](/pdf/138_1-Methyl-4-pyridinium-carboxylate_1-19.pdf) | 138.05550 |            | 1-Methyl-4-pyridinium carboxylate (CAS 36455-39-7) | Dominique Kamber, University of Zurich | Y. M. Forster |
 
 ## References
 

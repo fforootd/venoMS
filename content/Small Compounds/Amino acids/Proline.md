@@ -37,9 +37,9 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider    | Source         |
-|----------|-----------|------------|-----------|----------------|
-| [Data]() | 116.07115 |            | L-Proline | Acros Organics |
+| pdf      | Precursor | Co-eluting | Spider    | Source         | Author        |
+|----------|-----------|------------|-----------|----------------|---------------|
+| [Data]() | 116.07115 |            | L-Proline | Acros Organics | Y. M. Forster |
 
 ## References
 

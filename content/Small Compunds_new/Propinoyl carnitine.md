@@ -45,9 +45,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf                                          | Precursor | Co-eluting | Spider                | Source        |
-|----------------------------------------------|-----------|------------|-----------------------|---------------|
-| [Data](/pdf/218_Propinoylcarnitine_3-12.pdf) | 218.13923 |            | Propinoyl-L-carnitine | Sigma Aldrich |
+| pdf                                          | Precursor | Co-eluting | Spider                | Source        | Author        |
+|----------------------------------------------|-----------|------------|-----------------------|---------------|---------------|
+| [Data](/pdf/218_Propinoylcarnitine_3-12.pdf) | 218.13923 |            | Propinoyl-L-carnitine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

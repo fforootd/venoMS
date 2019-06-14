@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn5"
 categories = ["C18H27N5O3","P374","D187","HDX382",
+"IndAcAsn5","Asn5",
 "Araneidae"]
 tags = ["Argiope lobata"]
 +++
@@ -44,9 +45,9 @@ tags = ["Argiope lobata"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

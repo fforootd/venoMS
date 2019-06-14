@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcAsn433ßAla4"
 categories = ["C31H53N9O5","P632","D316","HDX645",
+"4-OH-IndAcAsn433ßAla4","Asn433ßAla4",
 "Araneidae"]
 tags = ["Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
@@ -48,9 +49,9 @@ tags = ["Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -37,9 +37,9 @@ tags = ["Eratigena agrestis"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider      | Source                       |
-|-----|-----------|------------|-------------|------------------------------|
-|     | 364.05631 |            | E. agrestis | Fauna Laboratories Ltd., KAZ |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

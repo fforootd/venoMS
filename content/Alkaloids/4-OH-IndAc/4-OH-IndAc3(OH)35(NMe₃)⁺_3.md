@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAc3(OH)35(NMe₃)⁺"
 categories = ["C24H42N5O3","P448","D224","HDX453",
+"4-OH-IndAc3(OH)35(NMe3)","3(OH)35(NMe3)",
 "Agelenidae"]
 tags = ["Agelenopsis aperta"]
 +++
@@ -52,10 +53,10 @@ tags = ["Agelenopsis aperta"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                                          | Precursor | Co-eluting | Spider    | Source                       |
-|--------------------------------------------------------------|-----------|------------|-----------|------------------------------|
-| [Data](/pdf/A-aperta/448_4-OH-IndAc3(OH)35(NMe3)_Aa.pdf)     | 448.32876 |            | A. aperta | Fauna Laboratories Ltd., KAZ |
-| [Data](/pdf/A-aperta/448_4-OH-IndAc3(OH)35(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ |
+| pdf                                                          | Precursor | Co-eluting | Spider    | Source                       | Author        |
+|--------------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
+| [Data](/pdf/A-aperta/448_4-OH-IndAc3(OH)35(NMe3)_Aa.pdf)     | 448.32876 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/448_4-OH-IndAc3(OH)35(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

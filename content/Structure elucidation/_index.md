@@ -1,5 +1,5 @@
 +++
-title = "Structure elucidation tools"
+title = "Analytical tools"
 weight = 30
 +++
 

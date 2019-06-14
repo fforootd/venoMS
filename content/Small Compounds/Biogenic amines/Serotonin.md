@@ -46,9 +46,9 @@ tags = ["Acanthoscurria paulensis","Acanthoscurria sternalis",
 
 ## Recorded MS/MS spectra
 
-| pdf                                 | Precursor | Co-eluting | Spider                       | Source |
-|-------------------------------------|-----------|------------|------------------------------|--------|
-| [Data](/pdf/177_Serotonin_4-31.pdf) | 203.22358 |            | Serotonin HCl (CAS 153-98-0) | Fluka  |
+| pdf                                 | Precursor | Co-eluting | Spider                       | Source | Author        |
+|-------------------------------------|-----------|------------|------------------------------|--------|---------------|
+| [Data](/pdf/177_Serotonin_4-31.pdf) | 203.22358 |            | Serotonin HCl (CAS 153-98-0) | Fluka  | Y. M. Forster |
 
 ## References
 

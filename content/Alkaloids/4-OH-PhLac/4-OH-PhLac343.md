@@ -1,6 +1,7 @@
 +++
 title = "4-OH-PhLac343"
 categories = ["C19H34N4O3","P321","D161","HDX329",
+"4-OH-PhLac343","343",
 "Atracidae","Theraphosidae"]
 tags = ["Acanthoscurria geniculata","Atrax robustus",
 "Chilobrachys sp.",
@@ -48,9 +49,9 @@ tags = ["Acanthoscurria geniculata","Atrax robustus",
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

@@ -45,10 +45,9 @@ tags = ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                     | Precursor | Co-eluting | Spider        | Source |
-|-----------------------------------------|-----------|------------|---------------|--------|
-| [Data](/pdf/166_Phenylalanine_4-84.pdf) | 166.08680 |            | Phenylalanine | Fluka  |
-
+| pdf                                     | Precursor | Co-eluting | Spider        | Source | Author        |
+|-----------------------------------------|-----------|------------|---------------|--------|---------------|
+| [Data](/pdf/166_Phenylalanine_4-84.pdf) | 166.08680 |            | Phenylalanine | Fluka  | Y. M. Forster |
 ## References
 
 | Title                                                                                                                                      | Reference                                                                        | Spider        | Name | Content              | Link                                                         |

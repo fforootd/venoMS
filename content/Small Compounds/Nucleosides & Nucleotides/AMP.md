@@ -37,9 +37,9 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodo
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider                                                    | Source |
-|----------|-----------|------------|-----------------------------------------------------------|--------|
-| [Data]() | 348.07091 |            | Adenosine-5'-monophosphate, disodium salt (CAS 4578-31-8) | Fluka  |
+| pdf      | Precursor | Co-eluting | Spider                                                    | Source | Author        |
+|----------|-----------|------------|-----------------------------------------------------------|--------|---------------|
+| [Data]() | 348.07091 |            | Adenosine-5'-monophosphate, disodium salt (CAS 4578-31-8) | Fluka  | Y. M. Forster |
 
 ## References
 

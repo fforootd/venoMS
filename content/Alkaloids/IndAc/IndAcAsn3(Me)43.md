@@ -1,6 +1,7 @@
 +++
 title = "IndAcAsn3(Me)43"
 categories = ["C25H41N7O3","P488","D244","HDX497",
+"IndAcAsn3(Me)43","Asn3(Me)43",
 "Araneidae"]
 tags = ["Larinioides patagiatus"]
 +++
@@ -55,10 +56,10 @@ tags = ["Larinioides patagiatus"]
 
 ## Recorded MS/MS spectra
 
-| pdf                                         | Precursor | Co-eluting | Spider              | Source             |
-|---------------------------------------------|-----------|------------|---------------------|--------------------|
-| [Data](/pdf/488_IndAcAsn3(Me)43_7-08.pdf)   | 488.33492 |        | synth. IndAc3(Me)43 | UZH Bienz lab, CHE |
-| [Data](/pdf/488_IndAcAsn3(Me)43_7-08_2.pdf) | 244.67137 |       | synth. IndAc3(Me)43 | UZH Bienz lab, CHE |
+| pdf                                         | Precursor | Co-eluting | Spider              | Source             | Author        |
+|---------------------------------------------|-----------|------------|---------------------|--------------------|---------------|
+| [Data](/pdf/488_IndAcAsn3(Me)43_7-08.pdf)   | 488.33492 |            | synth. IndAc3(Me)43 | UZH Bienz lab, CHE | Y. M. Forster |
+| [Data](/pdf/488_IndAcAsn3(Me)43_7-08_2.pdf) | 244.67137 |            | synth. IndAc3(Me)43 | UZH Bienz lab, CHE | Y. M. Forster |
 
 ## References
 

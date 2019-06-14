@@ -1,6 +1,7 @@
 +++
 title = "4-OH-Bz5"
 categories = ["C12H18N2O2","P223","D112","HDX228",
+"4-OH-Bz5","5",
 "Gnaphosidae"]
 tags = ["Drassodes sp."]
 +++
@@ -43,9 +44,9 @@ tags = ["Drassodes sp."]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source |
-|-----|-----------|------------|--------|--------|
-|     |           |            |        |        |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

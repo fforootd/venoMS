@@ -1,6 +1,7 @@
 +++
 title = "4-OH-IndAcßAla353"
 categories = ["C24H40N6O3","P461","D231","HDX470",
+"4-OH-IndAcßAla353","ßAla353",
 "Zodariidae"]
 tags = ["Lachesana sp.*"]
 +++
@@ -46,9 +47,9 @@ tags = ["Lachesana sp.*"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 

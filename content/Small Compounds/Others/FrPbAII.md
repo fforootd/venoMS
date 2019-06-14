@@ -48,9 +48,9 @@ tags = ["Parawixia bistriata"]
 
 ## Recorded MS/MS spectra
 
-| pdf                               | Precursor | Co-eluting | Spider    | Source   |
-|-----------------------------------|-----------|------------|-----------|----------|
-| [Data](/pdf/175_FrPbAII_1-15.pdf) | 175.11950 |            | FrPbAII   | Biotrend |
+| pdf                               | Precursor | Co-eluting | Spider  | Source   | Author        |
+|-----------------------------------|-----------|------------|---------|----------|---------------|
+| [Data](/pdf/175_FrPbAII_1-15.pdf) | 175.11950 |            | FrPbAII | Biotrend | Y. M. Forster |
 
 ## References
 

@@ -1,6 +1,7 @@
 +++
 title = "2,5-(OH)₂-Bz3(OH)334Gu"
 categories = ["C21H39N7O4","P454","D227","HDX465",
+"2,5-(OH)2-Bz3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
 tags = ["Coelotes pastoralis"]
 +++
@@ -46,9 +47,9 @@ tags = ["Coelotes pastoralis"]
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider    | Source                              |
-|-----|-----------|------------|-----------|-------------------------------------|
-|     |           |            |           |                                     |
+| pdf | Precursor | Co-eluting | Spider | Source | Author |
+|-----|-----------|------------|--------|--------|--------|
+|     |           |            |        |        |        |
 
 ## References
 
