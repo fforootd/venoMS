@@ -7,39 +7,46 @@ tags = ["Atrax robustus"]
 
 ![](/img/Tyramine.png)
 
+![](/img_MSMS/138_Tyramine.png)
+
 ## General Description
 
-| Name                      | Value                                                       |
-|---------------------------|-------------------------------------------------------------|
-| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=KO004083) |
-| Discovered                | 1979 / A. robustus                                          |
-| Synonym                   |                                                             |
-| Molecular formula         | C₈H₁₁NO                                                     |
-| CAS                       | 51-67-2                                                     |
-|                           |                                                             |
-| Precursor 1 [M+H]⁺        | 138.09189                                                   |
-| Precursor 2 [M+H-NH₃]⁺    | 121.06534                                                   |
-| Precursor 3               |                                                             |
-|                           |                                                             |
-| HDX                       | 3                                                           |
-| Precursor HDX 1 [d₃-M+D]⁺ | 142.11699                                                   |
-| Precursor HDX 2           |                                                             |
-| Precursor HDX 3           |                                                             |
-|                           |                                                             |
-| Rt                        |                                                             |
-| Rt HDX                    |                                                             |
+| Name                      | Value              |
+|---------------------------|--------------------|
+| Level                     | I                  |
+| Discovered                | 1979 / A. robustus |
+| Synonym                   |                    |
+| Molecular formula         | C₈H₁₁NO            |
+| CAS                       | 51-67-2            |
+|                           |                    |
+| Precursor 1 [M+H]⁺        | 138.09189          |
+| Precursor 2 [M+H-NH₃]⁺    | 121.06534          |
+| Precursor 3               |                    |
+|                           |                    |
+| HDX                       | 3                  |
+| Precursor HDX 1 [d₃-M+D]⁺ | 142.11699          |
+| Precursor HDX 2           |                    |
+| Precursor HDX 3           |                    |
+|                           |                    |
+| Rt                        | 2.83               |
+| Rt HDX                    |                    |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation     |
+|-----------|-------------------|----------------|
+| 138.09189 | C₈H₁₂NO           | [M+H]⁺         |
+| 121.06534 | C₈H₉O             | [M+H-NH₃]⁺     |
+| 103.05478 | C₈H₇              | [M+H-NH₃-H₂O]⁺ |
+| 95.04969  | C₆H₇O             |                |
+| 93.07043  | C₇H₉              |                |
+| 91.05478  | C₇H₇              |                |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider   | Source        | Author        |
-|----------|-----------|------------|----------|---------------|---------------|
-| [Data]() | 138.09189 |            | Tyramine | Sigma Aldrich | Y. M. Forster |
+| pdf                                | Precursor | Co-eluting | Spider   | Source        | Author        |
+|------------------------------------|-----------|------------|----------|---------------|---------------|
+| [Data](/pdf/138_Tyramine_2-83.pdf) | 138.09189 |            | Tyramine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

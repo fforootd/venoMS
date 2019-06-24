@@ -8,6 +8,8 @@ draft = true
 
 ![](/img/Tryptamine.png)
 
+![](/img_MSMS/161_Tryptamine.png)
+
 ## General Description
 
 | Name                      | Value              |
@@ -27,7 +29,7 @@ draft = true
 | Precursor HDX 2           |                    |
 | Precursor HDX 3           |                    |
 |                           |                    |
-| Rt                        |                    |
+| Rt                        | 10.04              |
 | Rt HDX                    |                    |
 
 ## MS/MS fragments
@@ -35,12 +37,13 @@ draft = true
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
 | 144.08132 | C₁₀H₁₀N           | [M+H-NH₃]⁺ |
+| 117.07043 | C₉H₉              |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider     | Source | Author        |
-|-----|-----------|------------|------------|--------|---------------|
-|     | 161.10787 |            | Tryptamine | Fluka  | Y. M. Forster |
+| pdf                                   | Precursor | Co-eluting | Spider     | Source | Author        |
+|---------------------------------------|-----------|------------|------------|--------|---------------|
+| [Data](/pdf/161_Tryptamine_10-04.pdf) | 161.10787 |            | Tryptamine | Fluka  | Y. M. Forster |
 
 ## References
 
@@ -55,4 +58,3 @@ draft = true
 | Peucetia viridans | Oxyopidae | 2019 / Y. M. Forster |
 
 ## Comments
-1-Methyl-4-pyridinium carboxylate and trigonelline can not be destinguished by Rt nor MS/MS.

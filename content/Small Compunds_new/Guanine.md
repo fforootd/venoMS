@@ -8,6 +8,8 @@ draft = true
 
 ![](/img/Guanine.png)
 
+![](/img_MSMS/152_Guanine.png)
+
 ## General Description
 
 | Name                      | Value               |
@@ -27,20 +29,24 @@ draft = true
 | Precursor HDX 2           |                     |
 | Precursor HDX 3           |                     |
 |                           |                     |
-| Rt                        |                     |
+| Rt                        | 1.42                |
 | Rt HDX                    |                     |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
+| 153.04125 | C₅H₅N₄O₂          |            |
 | 152.05723 | C₅H₆N₅O           | [M+H]⁺     |
+| 135.03069 | C₅H₃N₄O           | [M+H-NH₃]⁺ |
+| 128.04600 | C₄H₆N₃O₂          |            |
+| 110.03544 | C₄H₄N₃O           |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider  | Source | Author        |
-|-----|-----------|------------|---------|--------|---------------|
-|     | 152.05723 |            | Guanine | Merck  | Y. M. Forster |
+| pdf                               | Precursor | Co-eluting | Spider  | Source | Author        |
+|-----------------------------------|-----------|------------|---------|--------|---------------|
+| [Data](/pdf/152_Guanine_1-42.pdf) | 152.05723 |            | Guanine | Merck  | Y. M. Forster |
 
 ## References
 

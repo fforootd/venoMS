@@ -11,39 +11,44 @@ tags = ["Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
 
 ![](/img/Histamine.png)
 
+![](/img_MSMS/112_Histamine.png)
+
 ## General Description
 
-| Name                      | Value                                                       |
-|---------------------------|-------------------------------------------------------------|
-| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=KO003129) |
-| Discovered                | 1957 / L. erythrognatha & P. fera                           |
-| Synonym                   |                                                             |
-| Molecular formula         | C₅H₉N₃                                                      |
-| CAS                       | 51-45-6                                                     |
-|                           |                                                             |
-| Precursor 1 [M+H]⁺        | 112.08747                                                   |
-| Precursor 2               |                                                             |
-| Precursor 3               |                                                             |
-|                           |                                                             |
-| HDX                       | 3                                                           |
-| Precursor HDX 1 [d₃-M+D]⁺ | 116.11258                                                   |
-| Precursor HDX 2           |                                                             |
-| Precursor HDX 3           |                                                             |
-|                           |                                                             |
-| Rt                        |                                                             |
-| Rt HDX                    |                                                             |
+| Name                      | Value                             |
+|---------------------------|-----------------------------------|
+| Level                     | I                                 |
+| Discovered                | 1957 / L. erythrognatha & P. fera |
+| Synonym                   |                                   |
+| Molecular formula         | C₅H₉N₃                            |
+| CAS                       | 51-45-6                           |
+|                           |                                   |
+| Precursor 1 [M+H]⁺        | 112.08747                         |
+| Precursor 2               |                                   |
+| Precursor 3               |                                   |
+|                           |                                   |
+| HDX                       | 3                                 |
+| Precursor HDX 1 [d₃-M+D]⁺ | 116.11258                         |
+| Precursor HDX 2           |                                   |
+| Precursor HDX 3           |                                   |
+|                           |                                   |
+| Rt                        | 1.09                              |
+| Rt HDX                    |                                   |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation |
+|-----------|-------------------|------------|
+| 112.08747 | C₅H₁₀N₃           | [M+H]⁺     |
+| 95.06092  | C₅H₇N₂            | [M+H-NH₃]⁺ |
+| 83.06092  | C₄H₇N₂            |            |
+| 68.05002  | C₄H₆N             |            |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider                       | Source | Author        |
-|----------|-----------|------------|------------------------------|--------|---------------|
-| [Data]() | 112.08747 |            | Histamine 2HCl (CAS 56-92-8) | Fluka  | Y. M. Forster |
+| pdf                                 | Precursor | Co-eluting | Spider                       | Source | Author        |
+|-------------------------------------|-----------|------------|------------------------------|--------|---------------|
+| [Data](/pdf/112_Histamine_1-09.pdf) | 112.08747 |            | Histamine 2HCl (CAS 56-92-8) | Fluka  | Y. M. Forster |
 
 ## References
 

@@ -11,7 +11,9 @@ tags = ["Alopecosa sp.",
 draft = true
 +++
 
-![](/img/Glutamic acid 5-methylester.png)
+![](/img/Glutamic_acid_5-methylester.png)
+
+![](/img_MSMS/162_Glutamic_acid_5-methylester.png)
 
 ## General Description
 
@@ -50,9 +52,9 @@ draft = true
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider                        | Source        | Author        |
-|----------|-----------|------------|-------------------------------|---------------|---------------|
-| [Data]() | 162.07663 |            | L-Glutamic acid 5-methylester | Sigma Aldrich | Y. M. Forster |
+| pdf                                                   | Precursor | Co-eluting | Spider                        | Source        | Author        |
+|-------------------------------------------------------|-----------|------------|-------------------------------|---------------|---------------|
+| [Data](/pdf/162_Glutamic_acid_5-methylester_1-44.pdf) | 162.07663 |            | L-Glutamic acid 5-methylester | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

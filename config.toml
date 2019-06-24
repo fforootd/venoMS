@@ -45,7 +45,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-bookmark'></i> <label>FRIOC</label>"
-url = ""
+url = "https://spider.rootd.ch"
 weight = 1
 
 [[menu.shortcuts]]

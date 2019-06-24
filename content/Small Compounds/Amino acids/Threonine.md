@@ -7,11 +7,13 @@ tags = ["Cupiennius salei"]
 
 ![](/img/Threonine.png)
 
+![](/img_MSMS/120_Threonine.png)
+
 ## General Description
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | V               |
+| Level                     | I               |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₄H₉NO₃         |
@@ -26,20 +28,24 @@ tags = ["Cupiennius salei"]
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
-| Rt                        |                 |
+| Rt                        | 1.14            |
 | Rt HDX                    |                 |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation       |
+|-----------|-------------------|------------------|
+| 120.06607 | C₄H₁₀NO₃          | [M+H]⁺           |
+| 102.05550 | C₄H₈NO₂           | [M+H-H₂O]⁺       |
+| 84.04494  | C₄H₆NO            | [M+H-2H₂O]⁺      |
+| 74.06059  | C₃H₈NO            | [M+H-HCOOH]⁺     |
+| 56.05002  | C₃H₆N             | [M+H-HCOOH-H₂O]⁺ |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider      | Source | Author        |
-|----------|-----------|------------|-------------|--------|---------------|
-| [Data]() | 120.06607 |            | L-Threonine | Fluka  | Y. M. Forster |
+| pdf                                 | Precursor | Co-eluting | Spider      | Source | Author        |
+|-------------------------------------|-----------|------------|-------------|--------|---------------|
+| [Data](/pdf/120_Threonine_1-14.pdf) | 120.06607 |            | L-Threonine | Fluka  | Y. M. Forster |
 
 ## References
 

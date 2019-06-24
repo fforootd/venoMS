@@ -7,39 +7,47 @@ tags = ["Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Phoneutri
 
 ![](/img/Lysine.png)
 
+![](/img_MSMS/147_Lysine.png)
+
 ## General Description
 
-| Name                      | Value                                                       |
-|---------------------------|-------------------------------------------------------------|
-| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PR100167) |
-| Discovered                | 1957 / L. erythrognatha & P. fera                           |
-| Synonym                   |                                                             |
-| Molecular formula         | C₆H₁₄N₂O₂                                                   |
-| CAS                       | 56-87-1                                                     |
-|                           |                                                             |
-| Precursor 1 [M+H]⁺        | 147.11335                                                   |
-| Precursor 2               |                                                             |
-| Precursor 3               |                                                             |
-|                           |                                                             |
-| HDX                       | 5                                                           |
-| Precursor HDX 1 [d₅-M+D]⁺ | 153.15101                                                   |
-| Precursor HDX 2           |                                                             |
-| Precursor HDX 3           |                                                             |
-|                           |                                                             |
-| Rt                        |                                                             |
-| Rt HDX                    |                                                             |
+| Name                      | Value                             |
+|---------------------------|-----------------------------------|
+| Level                     | I                                 |
+| Discovered                | 1957 / L. erythrognatha & P. fera |
+| Synonym                   |                                   |
+| Molecular formula         | C₆H₁₄N₂O₂                         |
+| CAS                       | 56-87-1                           |
+|                           |                                   |
+| Precursor 1 [M+H]⁺        | 147.11335                         |
+| Precursor 2               |                                   |
+| Precursor 3               |                                   |
+|                           |                                   |
+| HDX                       | 5                                 |
+| Precursor HDX 1 [d₅-M+D]⁺ | 153.15101                         |
+| Precursor HDX 2           |                                   |
+| Precursor HDX 3           |                                   |
+|                           |                                   |
+| Rt                        | 1.08                              |
+| Rt HDX                    |                                   |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation       |
+|-----------|-------------------|------------------|
+| 147.11335 | C₆H₁₅N₂O₂         | [M+H]⁺           |
+| 130.08680 | C₆H₁₂NO₂          | [M+H-NH₃]⁺       |
+| 129.10279 | C₆H₁₃N₂O          | [M+H-H₂O]⁺       |
+| 102.09189 | C₅H₁₂NO           |                  |
+| 84.08132  | C₅H₁₀N            |                  |
+| 74.09697  | C₄H₁₂N            |                  |
+| 56.05024  | C₃H₆N             |                  |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider   | Source | Author        |
-|----------|-----------|------------|----------|--------|---------------|
-| [Data]() | 147.11335 |            | L-Lysine | Fluka  | Y. M. Forster |
+| pdf                              | Precursor | Co-eluting | Spider   | Source | Author        |
+|----------------------------------|-----------|------------|----------|--------|---------------|
+| [Data](/pdf/147_Lysine_1-08.pdf) | 147.11335 |            | L-Lysine | Fluka  | Y. M. Forster |
 
 ## References
 

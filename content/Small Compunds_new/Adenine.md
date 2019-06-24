@@ -8,6 +8,8 @@ draft = true
 
 ![](/img/Adenine.png)
 
+![](/img_MSMS/136_Adenine.png)
+
 ## General Description
 
 | Name                      | Value               |
@@ -27,20 +29,22 @@ draft = true
 | Precursor HDX 2           |                     |
 | Precursor HDX 3           |                     |
 |                           |                     |
-| Rt                        |                     |
+| Rt                        | 1.42                |
 | Rt HDX                    |                     |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
+| 137.04634 | C₅H₅N₄O           |            |
 | 136.06232 | C₅H₆N₅            | [M+H]⁺     |
+| 119.03577 | C₅H₃N₄            |            |
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider  | Source | Author        |
-|-----|-----------|------------|---------|--------|---------------|
-|     | 136.06232 |            | Adenine | Fluka  | Y. M. Forster |
+| pdf                               | Precursor | Co-eluting | Spider  | Source | Author        |
+|-----------------------------------|-----------|------------|---------|--------|---------------|
+| [Data](/pdf/136_Adenine_1-42.pdf) | 136.06232 |            | Adenine | Fluka  | Y. M. Forster |
 
 ## References
 

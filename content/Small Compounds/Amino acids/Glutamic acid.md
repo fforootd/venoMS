@@ -22,49 +22,53 @@ tags = ["Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Arane
 
 ![](/img/Glutamic_acid.png)
 
+![](/img_MSMS/148_Glutamic_acid.png)
+
 ## General Description
 
-| Name                      | Value                                                       |
-|---------------------------|-------------------------------------------------------------|
-| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PB000463) |
-| Discovered                | 1957 / L. erythrognatha & P. fera                           |
-| Synonym                   |                                                             |
-| Molecular formula         | C₅H₉NO₄                                                     |
-| CAS                       | 56-86-0                                                     |
-|                           |                                                             |
-| Precursor 1 [M+H]⁺        | 148.06098                                                   |
-| Precursor 2               |                                                             |
-| Precursor 3               |                                                             |
-|                           |                                                             |
-| HDX                       | 4                                                           |
-| Precursor HDX 1 [d₄-M+D]⁺ | 153.09236                                                   |
-| Precursor HDX 2           |                                                             |
-| Precursor HDX 3           |                                                             |
-|                           |                                                             |
-| Rt                        | 1.16                                                        |
-| Rt HDX                    | 1.14                                                        |
+| Name                      | Value                             |
+|---------------------------|-----------------------------------|
+| Level                     | I                                 |
+| Discovered                | 1957 / L. erythrognatha & P. fera |
+| Synonym                   |                                   |
+| Molecular formula         | C₅H₉NO₄                           |
+| CAS                       | 56-86-0                           |
+|                           |                                   |
+| Precursor 1 [M+H]⁺        | 148.06098                         |
+| Precursor 2               |                                   |
+| Precursor 3               |                                   |
+|                           |                                   |
+| HDX                       | 4                                 |
+| Precursor HDX 1 [d₄-M+D]⁺ | 153.09236                         |
+| Precursor HDX 2           |                                   |
+| Precursor HDX 3           |                                   |
+|                           |                                   |
+| Rt                        | 1.15                              |
+| Rt HDX                    |                                   |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation       |
 |-----------|-------------------|------------------|
 | 148.06098 | C₅H₁₀NO₄          | [M+H]⁺           |
+| 131.03443 | C₅H₇O₄            | [M+H-NH₃]⁺       |
 | 130.05042 | C₅H₈NO₃           | [M+H-H₂O]⁺       |
 | 102.05550 | C₄H₈NO₂           | [M+H-HCOOH]⁺     |
+| 85.02895  | C₄H₅O₂            | [M+H-HCOOH-NH₃]⁺ |
 | 84.04494  | C₄H₆NO            | [M+H-HCOOH-H₂O]⁺ |
 | 56.05002  | C₃H₆N             |                  |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider          | Source | Author        |
-|----------|-----------|------------|-----------------|--------|---------------|
-| [Data]() | 148.06098 |            | L-Glutamic acid | Fluka  | Y. M. Forster |
+| pdf                                     | Precursor | Co-eluting | Spider          | Source | Author        |
+|-----------------------------------------|-----------|------------|-----------------|--------|---------------|
+| [Data](/pdf/148_Glutamic_acid_1-15.pdf) | 148.06098 |            | L-Glutamic acid | Fluka  | Y. M. Forster |
 
 ## References
 
-| Title                                                                                                                                                | Reference                                                                                                                                          | Spider          | Name | Content              | Link                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------|----------------------|------------------------------------------------------------------|
-| Die Giftsekrete der Vogelspinnen                                                                                                                     | F. G. Fischer, H. Bohn, Justus Liebigs Annalen der Chemie 1957, 603, 232-250                                                                      | div.            |      | paper chromatography | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.19576030124) |
+| Title                                                                                                                                                | Reference                                                                                                                                          | Spider          | Name | Content              | Link                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------|----------------------|--------------------------------------------------------------------------|
+| Die Giftsekrete der Vogelspinnen                                                                                                                     | F. G. Fischer, H. Bohn, Justus Liebigs Annalen der Chemie 1957, 603, 232-250                                                                       | div.            |      | paper chromatography | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.19576030124) |
 | An investigation of certain components of the venom of the female Sydney funnel web spider, Atrax robustus Cambr.                                    | C. M. Gilbo, N. W. Coles, Aust. J. Biol. Sci. 1964, 17, 3, 758-763                                                                                 | A. robustus     |      | paper chromatography | [Link](https://doi.org/10.1071/BI9640758)                                |
 | Composition and properties of tarantula Dugesiella hentzi (Girard) venom                                                                             | F. L. Schanbacher, C. K. Lee, J. E. Hall, I. B. Wilson, D. E: Howell, D. E. G. V. Odell, Toxicon 1973, 11, 1, 21-29                                | A. hentzi       |      |                      | [Link](https://doi.org/10.1016/0041-0101(73)90147-5)                     |
 | Presence of proteins and glutamate as major constituents of the venom of the spider Araneus gemma                                                    | S. L. Early, E. K. Michaelis, Toxicon 1987, 25, 4, 433-442                                                                                         | A. gemma        |      |                      | [Link](https://doi.org/10.1016/0041-0101(87)90077-8)                     |
@@ -73,7 +77,7 @@ tags = ["Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Arane
 | Tarantula (Eurypelma californicum) venom, a multicomponent system                                                                                    | A. Savel-Niemann, Biol. Chem. 1989, 370, 1, 485-498                                                                                                | E. californicum |      |                      | [Link](https://doi.org/10.1515/bchm3.1989.370.1.485)                     |
 | Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae)           | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302                                                                             | C. salei        |      |                      | [Link](https://doi.org/10.1016/0041-0101(94)90082-5)                     |
 | NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species               | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, Proc. Natl. Acad. Sci. U.S.A. 2008, 105, 14283-14287 | div.            |      | NMR-screening        | [Link](https://doi.org/10.1073/pnas.0806840105)                          |
-| Mass spectrometric characterisation and quantification of selected low molecular mass compounds from the venom of Haplopelma lividum (Theraphosidae) | S. Moore, W. F. Smyth, V. A. Gault, E. O'Kane, S. McClean, Rapid Commun. Mass. Spectrom. 2009, 23, 1747-1755                                       | C. lividum      |      | HPLC-ESI-MS/MS                     | [Link](https://doi.org/10.1002/rcm.4063)                                 |
+| Mass spectrometric characterisation and quantification of selected low molecular mass compounds from the venom of Haplopelma lividum (Theraphosidae) | S. Moore, W. F. Smyth, V. A. Gault, E. O'Kane, S. McClean, Rapid Commun. Mass. Spectrom. 2009, 23, 1747-1755                                       | C. lividum      |      | HPLC-ESI-MS/MS       | [Link](https://doi.org/10.1002/rcm.4063)                                 |
 
 ## Spider species
 

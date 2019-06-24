@@ -26,14 +26,14 @@ tags = ["Eratigena agrestis"]
 | Precursor HDX 2           |                    |
 | Precursor HDX 3           |                    |
 |                           |                    |
-| Rt                        | 2.46               |
-| Rt HDX                    | 1.91               |
+| Rt                        |                    |
+| Rt HDX                    |                    |
 
 ## MS/MS fragments
 
-| m/z       | Molecular formula | Annotation     |
-|-----------|-------------------|----------------|
-| 152.05723 | C₅H₈N₅O           | [guanidine+H]⁺ |
+| m/z | Molecular formula | Annotation |
+|-----|-------------------|------------|
+|     |                   |            |
 
 ## Recorded MS/MS spectra
 

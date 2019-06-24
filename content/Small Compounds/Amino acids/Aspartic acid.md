@@ -10,29 +10,31 @@ tags = ["Aphonopelma hentzi","Araneus gemma",
 "Vitalius dubius"]
 +++
 
-![](/img/Aspartic acid.png)
+![](/img/Aspartic_acid.png)
+
+![](/img_MSMS/134_Aspartic_acid.png)
 
 ## General Description
 
-| Name                      | Value                                                       |
-|---------------------------|-------------------------------------------------------------|
-| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PB000453) |
-| Discovered                | 1957 / V. dubius                                            |
-| Synonym                   |                                                             |
-| Molecular formula         | C₄H₇NO₄                                                     |
-| CAS                       | 56-84-8                                                     |
-|                           |                                                             |
-| Precursor 1 [M+H]⁺        | 134.04533                                                   |
-| Precursor 2               |                                                             |
-| Precursor 3               |                                                             |
-|                           |                                                             |
-| HDX                       | 4                                                           |
-| Precursor HDX 1 [d₄-M+D]⁺ | 139.07671                                                   |
-| Precursor HDX 2           |                                                             |
-| Precursor HDX 3           |                                                             |
-|                           |                                                             |
-| Rt                        |                                                             |
-| Rt HDX                    |                                                             |
+| Name                      | Value            |
+|---------------------------|------------------|
+| Level                     | I                |
+| Discovered                | 1957 / V. dubius |
+| Synonym                   |                  |
+| Molecular formula         | C₄H₇NO₄          |
+| CAS                       | 56-84-8          |
+|                           |                  |
+| Precursor 1 [M+H]⁺        | 134.04533        |
+| Precursor 2               |                  |
+| Precursor 3               |                  |
+|                           |                  |
+| HDX                       | 4                |
+| Precursor HDX 1 [d₄-M+D]⁺ | 139.07671        |
+| Precursor HDX 2           |                  |
+| Precursor HDX 3           |                  |
+|                           |                  |
+| Rt                        | 1.13             |
+| Rt HDX                    |                  |
 
 ## MS/MS fragments
 
@@ -42,13 +44,12 @@ tags = ["Aphonopelma hentzi","Araneus gemma",
 | 116.03477 | C₄H₆NO₃           | [M+H-H₂O]⁺   |
 | 88.03985  | C₃H₆NO₂           | [M+H-HCOOH]⁺ |
 | 74.02420  | C₂H₄NO₂           |              |
-| 70.02929  | C₃H₄NO            |              |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider          | Source        | Author        |
-|----------|-----------|------------|-----------------|---------------|---------------|
-| [Data]() | 134.04533 |            | L-Aspartic acid | Sigma Aldrich | Y. M. Forster |
+| pdf                                     | Precursor | Co-eluting | Spider          | Source        | Author        |
+|-----------------------------------------|-----------|------------|-----------------|---------------|---------------|
+| [Data](/pdf/134_Aspartic_acid_1-13.pdf) | 134.04533 |            | L-Aspartic acid | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

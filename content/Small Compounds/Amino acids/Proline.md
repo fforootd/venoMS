@@ -7,11 +7,13 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 
 ![](/img/Proline.png)
 
+![](/img_MSMS/116_Proline.png)
+
 ## General Description
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | V                  |
+| Level                     | I                  |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | C₅H₉NO₂            |
@@ -26,20 +28,21 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 | Precursor HDX 2           |                    |
 | Precursor HDX 3           |                    |
 |                           |                    |
-| Rt                        |                    |
+| Rt                        | 1.20               |
 | Rt HDX                    |                    |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation   |
+|-----------|-------------------|--------------|
+| 116.07115 | C₅H₁₀NO₂          | [M+H]⁺       |
+| 70.07567  | C₄H₈N             | [M+H-HCOOH]⁺ |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider    | Source         | Author        |
-|----------|-----------|------------|-----------|----------------|---------------|
-| [Data]() | 116.07115 |            | L-Proline | Acros Organics | Y. M. Forster |
+| pdf                               | Precursor | Co-eluting | Spider    | Source         | Author        |
+|-----------------------------------|-----------|------------|-----------|----------------|---------------|
+| [Data](/pdf/116_Proline_1-20.pdf) | 116.07115 |            | L-Proline | Acros Organics | Y. M. Forster |
 
 ## References
 

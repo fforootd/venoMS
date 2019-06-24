@@ -7,11 +7,13 @@ tags = ["Cupiennius salei"]
 
 ![](/img/Taurine.png)
 
+![](/img_MSMS/126_Taurine.png)
+
 ## General Description
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | V               |
+| Level                     | I               |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₂H₇NO₃S        |
@@ -26,20 +28,21 @@ tags = ["Cupiennius salei"]
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
-| Rt                        |                 |
+| Rt                        | 1.10            |
 | Rt HDX                    |                 |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation |
+|-----------|-------------------|------------|
+| 126.02249 | C₂H₈NO₃S          | [M+H]⁺     |
+| 108.01192 | C₂H₆NO₂S          | [M+H-H₂O]⁺ |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider  | Source        | Author        |
-|----------|-----------|------------|---------|---------------|---------------|
-| [Data]() | 126.02249 |            | Taurine | Sigma Aldrich | Y. M. Forster |
+| pdf                               | Precursor | Co-eluting | Spider  | Source        | Author        |
+|-----------------------------------|-----------|------------|---------|---------------|---------------|
+| [Data](/pdf/126_Taurine_1-10.pdf) | 126.02249 |            | Taurine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

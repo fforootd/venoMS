@@ -22,27 +22,29 @@ tags = ["Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","
 
 ![](/img/GABA.png)
 
+![](/img_MSMS/104_GABA.png)
+
 ## General Description
 
-| Name                      | Value                                                  |
-|---------------------------|--------------------------------------------------------|
-| Level                     | II [Link](https://doi.org/10.1016/j.jasms.2006.09.013) |
-| Discovered                | 1957 / div.                                            |
-| Synonym                   |                                                        |
-| Molecular formula         | C₄H₉NO₂                                                |
-| CAS                       | 56-12-2                                                |
-|                           |                                                        |
-| Precursor 1 [M+H]⁺        | 104.07115                                              |
-| Precursor 2               |                                                        |
-| Precursor 3               |                                                        |
-|                           |                                                        |
-| HDX                       | 3                                                      |
-| Precursor HDX 1 [d₄-M+D]⁺ | 108.09626                                              |
-| Precursor HDX 2           |                                                        |
-| Precursor HDX 3           |                                                        |
-|                           |                                                        |
-| Rt                        |                                                        |
-| Rt HDX                    |                                                        |
+| Name                      | Value       |
+|---------------------------|-------------|
+| Level                     | I           |
+| Discovered                | 1957 / div. |
+| Synonym                   |             |
+| Molecular formula         | C₄H₉NO₂     |
+| CAS                       | 56-12-2     |
+|                           |             |
+| Precursor 1 [M+H]⁺        | 104.07115   |
+| Precursor 2               |             |
+| Precursor 3               |             |
+|                           |             |
+| HDX                       | 3           |
+| Precursor HDX 1 [d₄-M+D]⁺ | 108.09626   |
+| Precursor HDX 2           |             |
+| Precursor HDX 3           |             |
+|                           |             |
+| Rt                        | 1.17        |
+| Rt HDX                    |             |
 
 ## MS/MS fragments
 
@@ -52,12 +54,13 @@ tags = ["Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","
 | 87.04460  | C₄H₇O₂            | [M+H-NH₃]⁺     |
 | 86.06059  | C₄H₈NO            | [M+H-H₂O]⁺     |
 | 69.03404  | C₄H₅O             | [M+H-NH₃-H₂O]⁺ |
+| 68.05002  | C₄H₆N             | [M+H-2H₂O]⁺    |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider              | Source        | Author        |
-|----------|-----------|------------|---------------------|---------------|---------------|
-| [Data]() | 104.07115 |            | γ-Aminobutyric acid | Sigma Aldrich | Y. M. Forster |
+| pdf                            | Precursor | Co-eluting | Spider              | Source        | Author        |
+|--------------------------------|-----------|------------|---------------------|---------------|---------------|
+| [Data](/pdf/104_GABA_1-17.pdf) | 104.07115 |            | γ-Aminobutyric acid | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

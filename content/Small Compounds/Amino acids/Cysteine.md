@@ -7,11 +7,13 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 
 ![](/img/Cysteine.png)
 
+![](/img_MSMS/122_Cysteine.png)
+
 ## General Description
 
 | Name                      | Value                |
 |---------------------------|----------------------|
-| Level                     | V                    |
+| Level                     | I                    |
 | Discovered                | 1988 / L. indagatrix |
 | Synonym                   |                      |
 | Molecular formula         | C₃H₇NO₂S             |
@@ -26,20 +28,24 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 | Precursor HDX 2           |                      |
 | Precursor HDX 3           |                      |
 |                           |                      |
-| Rt                        |                      |
+| Rt                        | 1.17                 |
 | Rt HDX                    |                      |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation     |
+|-----------|-------------------|----------------|
+| 122.02757 | C₃H₈NO₂S          | [M+H]⁺         |
+| 105.00103 | C₃H₅O₂S           | [M+H-NH₃]⁺     |
+| 86.99046  | C₃H₃OS            | [M+H-NH₃-H₂O]⁺ |
+| 76.02210  | C₂H₆NS            | [M+H-HCOOH]⁺   |
+| 58.99555  | C₂H₃              |                |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider     | Source | Author        |
-|----------|-----------|------------|------------|--------|---------------|
-| [Data]() | 122.02757 |            | L-Cysteine | Fluka  | Y. M. Forster |
+| pdf                                | Precursor | Co-eluting | Spider     | Source | Author        |
+|------------------------------------|-----------|------------|------------|--------|---------------|
+| [Data](/pdf/122_Cysteine_1-17.pdf) | 122.02757 |            | L-Cysteine | Fluka  | Y. M. Forster |
 
 ## References
 

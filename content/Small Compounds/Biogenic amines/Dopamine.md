@@ -7,11 +7,13 @@ tags = ["Araneus gemma","Hololena curta"]
 
 ![](/img/Dopamine.png)
 
+![](/img_MSMS/154_Dopamine.png)
+
 ## General Description
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | V               |
+| Level                     | I               |
 | Discovered                | 1987 / A. gemma |
 | Synonym                   |                 |
 | Molecular formula         | C₈H₁₁NO₂        |
@@ -26,20 +28,24 @@ tags = ["Araneus gemma","Hololena curta"]
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
-| Rt                        |                 |
+| Rt                        | 2.04            |
 | Rt HDX                    |                 |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation |
+|-----------|-------------------|------------|
+| 154.08680 | C₈H₁₂NO₂          | [M+H]⁺     |
+| 137.06025 | C₈H₉NO₂           | [M+H-NH₃]⁺ |
+| 119.04969 | C₈H₇NO            |            |
+| 109.06534 | C₇H₉NO            |            |
+| 91.05478  | C₇H₇              |            |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider                     | Source     | Author        |
-|----------|-----------|------------|----------------------------|------------|---------------|
-| [Data]() | 154.08680 |            | Dopamine HCL (CAS 62-31-7) | Fluorochem | Y. M. Forster |
+| pdf                                | Precursor | Co-eluting | Spider                     | Source     | Author        |
+|------------------------------------|-----------|------------|----------------------------|------------|---------------|
+| [Data](/pdf/154_Dopamine_2-04.pdf) | 154.08680 |            | Dopamine HCL (CAS 62-31-7) | Fluorochem | Y. M. Forster |
 
 ## References
 

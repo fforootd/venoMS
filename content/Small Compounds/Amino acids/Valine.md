@@ -7,11 +7,13 @@ tags = ["Cupiennius salei"]
 
 ![](/img/Valine.png)
 
+![](/img_MSMS/118_Valine.png)
+
 ## General Description
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | 5               |
+| Level                     | I               |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₅H₁₁NO₂        |
@@ -26,20 +28,22 @@ tags = ["Cupiennius salei"]
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
-| Rt                        |                 |
+| Rt                        | 1.45            |
 | Rt HDX                    |                 |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation     |
+|-----------|-------------------|----------------|
+| 118.08680 | C₅H₁₂NO₂          | [M+H]⁺         |
+| 72.08132  | C₄H₁₀NO           | [M+H-H₂O]⁺     |
+| 55.05478  | C₄H₇O             | [M+H-H₂O-NH₃]⁺ |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider   | Source | Author        |
-|----------|-----------|------------|----------|--------|---------------|
-| [Data]() | 118.08680 |            | L-Valine | Fluka  | Y. M. Forster |
+| pdf                              | Precursor | Co-eluting | Spider   | Source | Author        |
+|----------------------------------|-----------|------------|----------|--------|---------------|
+| [Data](/pdf/118_Valine_1-45.pdf) | 118.08680 |            | L-Valine | Fluka  | Y. M. Forster |
 
 ## References
 

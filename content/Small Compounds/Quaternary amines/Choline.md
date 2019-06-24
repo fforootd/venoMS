@@ -7,39 +7,43 @@ tags = ["Araneus diadematus","Ariadna sp."]
 
 ![](/img/Choline.png)
 
+![](/img_MSMS/104_Choline.png)
+
 ## General Description
 
-| Name                   | Value                                                       |
-|------------------------|-------------------------------------------------------------|
-| Level                  | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PR100405) |
-| Discovered             | 2008 / A. diadematus & Ariadna sp.                          |
-| Synonym                |                                                             |
-| Molecular formula      | C₅H₁₄NO                                                     |
-| CAS                    | 62-49-7                                                     |
-|                        |                                                             |
-| Precursor 1  M⁺        | 104.10754                                                   |
-| Precursor 2            |                                                             |
-| Precursor 3            |                                                             |
-|                        |                                                             |
-| HDX                    | 1                                                           |
-| Precursor HDX 1  d₁-M⁺ | 105.11381                                                   |
-| Precursor HDX 2        |                                                             |
-| Precursor HDX 3        |                                                             |
-|                        |                                                             |
-| Rt                     |                                                             |
-| Rt HDX                 |                                                             |
+| Name                   | Value                              |
+|------------------------|------------------------------------|
+| Level                  | I                                  |
+| Discovered             | 2008 / A. diadematus & Ariadna sp. |
+| Synonym                |                                    |
+| Molecular formula      | C₅H₁₄NO                            |
+| CAS                    | 62-49-7                            |
+|                        |                                    |
+| Precursor 1  M⁺        | 104.10754                          |
+| Precursor 2            |                                    |
+| Precursor 3            |                                    |
+|                        |                                    |
+| HDX                    | 1                                  |
+| Precursor HDX 1  d₁-M⁺ | 105.11381                          |
+| Precursor HDX 2        |                                    |
+| Precursor HDX 3        |                                    |
+|                        |                                    |
+| Rt                     | 1.15                               |
+| Rt HDX                 |                                    |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation  |
+|-----------|-------------------|-------------|
+| 104.10754 | C₅H₁₄NO           | M⁺          |
+| 60.08132  | C₃H₁₀N            | [HN(CH₃)₃]⁺ |
+| 58.06567  | C₃H₈N             |             |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider                              | Source        | Author        |
-|----------|-----------|------------|-------------------------------------|---------------|---------------|
-| [Data]() | 104.10754 |            | Choline, 45% in MeOH (CAS 123-41-1) | Sigma Aldrich | Y. M. Forster |
+| pdf                               | Precursor | Co-eluting | Spider                              | Source        | Author        |
+|-----------------------------------|-----------|------------|-------------------------------------|---------------|---------------|
+| [Data](/pdf/104_Choline_1-15.pdf) | 104.10754 |            | Choline, 45% in MeOH (CAS 123-41-1) | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

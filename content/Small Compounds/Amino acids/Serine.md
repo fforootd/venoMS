@@ -7,27 +7,29 @@ tags = ["Cupiennius salei"]
 
 ![](/img/Serine.png)
 
+![](/img_MSMS/106_Serine.png)
+
 ## General Description
 
-| Name                      | Value                                                       |
-|---------------------------|-------------------------------------------------------------|
-| Level                     | II [Link](http://massbank.jp/RecordDisplay.jsp?id=PB000401) |
-| Discovered                | 1994 / C. salei                                             |
-| Synonym                   |                                                             |
-| Molecular formula         | C₃H₇NO₃                                                     |
-| CAS                       | 56-45-1                                                     |
-|                           |                                                             |
-| Precursor 1 [M+H]⁺        | 106.05042                                                   |
-| Precursor 2               |                                                             |
-| Precursor 3               |                                                             |
-|                           |                                                             |
-| HDX                       | 4                                                           |
-| Precursor HDX 1 [d₄-M+D]⁺ | 111.08180                                                   |
-| Precursor HDX 2           |                                                             |
-| Precursor HDX 3           |                                                             |
-|                           |                                                             |
-| Rt                        |                                                             |
-| Rt HDX                    |                                                             |
+| Name                      | Value           |
+|---------------------------|-----------------|
+| Level                     | I               |
+| Discovered                | 1994 / C. salei |
+| Synonym                   |                 |
+| Molecular formula         | C₃H₇NO₃         |
+| CAS                       | 56-45-1         |
+|                           |                 |
+| Precursor 1 [M+H]⁺        | 106.05042       |
+| Precursor 2               |                 |
+| Precursor 3               |                 |
+|                           |                 |
+| HDX                       | 4               |
+| Precursor HDX 1 [d₄-M+D]⁺ | 111.08180       |
+| Precursor HDX 2           |                 |
+| Precursor HDX 3           |                 |
+|                           |                 |
+| Rt                        | 1.10            |
+| Rt HDX                    |                 |
 
 ## MS/MS fragments
 
@@ -40,9 +42,9 @@ tags = ["Cupiennius salei"]
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider   | Source        | Author        |
-|----------|-----------|------------|----------|---------------|---------------|
-| [Data]() | 106.05042 |            | L-Serine | Sigma Aldrich | Y. M. Forster |
+| pdf                              | Precursor | Co-eluting | Spider   | Source        | Author        |
+|----------------------------------|-----------|------------|----------|---------------|---------------|
+| [Data](/pdf/106_Serine_1-10.pdf) | 106.05042 |            | L-Serine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

@@ -7,6 +7,8 @@ tags =["Cupiennius salei"]
 
 ![](/img/Ornithine.png)
 
+![](/img_MSMS/133_Ornithine.png)
+
 ## General Description
 
 | Name                      | Value           |
@@ -26,20 +28,24 @@ tags =["Cupiennius salei"]
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
-| Rt                        | 1.06                |
+| Rt                        | 1.06            |
 | Rt HDX                    |                 |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation |
+|-----------|-------------------|------------|
+| 133.09770 | C₅H₁₃N₂O₂         | [M+H]⁺     |
+| 116.07115 | C₅H₁₀NO₂          | [M+H-NH₃]⁺ |
+| 115.08714 | C₅H₁₁N₂O          | [M+H-H₂O]⁺ |
+| 73.06534  | C₄H₉O             |            |
+| 70.06567  | C₄H₈N             |            |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider      | Source | Author        |
-|----------|-----------|------------|-------------|--------|---------------|
-| [Data]() | 133.09770 |            | L-Ornithine | Fluka  | Y. M. Forster |
+| pdf                                 | Precursor | Co-eluting | Spider      | Source | Author        |
+|-------------------------------------|-----------|------------|-------------|--------|---------------|
+| [Data](/pdf/133_Ornithine_1-06.pdf) | 133.09770 |            | L-Ornithine | Fluka  | Y. M. Forster |
 
 ## References
 

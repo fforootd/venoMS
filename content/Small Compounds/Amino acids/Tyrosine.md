@@ -7,6 +7,8 @@ tags= ["Cupiennius salei"]
 
 ![](/img/Tyrosine.png)
 
+![](/img_MSMS/182_Tyrosine.png)
+
 ## General Description
 
 | Name                      | Value           |
@@ -26,7 +28,7 @@ tags= ["Cupiennius salei"]
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
-| Rt                        | 2.94            |
+| Rt                        | 3.01            |
 | Rt HDX                    |                 |
 
 ## MS/MS fragments
@@ -42,12 +44,13 @@ tags= ["Cupiennius salei"]
 | 119.04969 | C₈H₇O             |                |
 | 95.04969  | C₆H₇O             |                |
 | 91.05478  | C₇H₇              |                |
+| 86.09697  | C₅H₁₂N            |                |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider     | Source        | Author        |
-|----------|-----------|------------|------------|---------------|---------------|
-| [Data]() | 182.08172 |            | L-Tyrosine | Sigma Aldrich | Y. M. Forster |
+| pdf                                | Precursor | Co-eluting | Spider     | Source        | Author        |
+|------------------------------------|-----------|------------|------------|---------------|---------------|
+| [Data](/pdf/182_Tyrosine_3-01.pdf) | 182.08172 |            | L-Tyrosine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 

@@ -7,11 +7,13 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodo
 
 ![](/img/AMP.png)
 
+![](/img_MSMS/348_AMP.png)
+
 ## General Description
 
 | Name                      | Value                              |
 |---------------------------|------------------------------------|
-| Level                     | V                                  |
+| Level                     | I                                  |
 | Discovered                | 1975 / A. hentzi & Aphonopelma sp. |
 | Synonym                   |                                    |
 | Molecular formula         | C₁₀H₁₄N₅O₇P                        |
@@ -26,25 +28,26 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodo
 | Precursor HDX 2           |                                    |
 | Precursor HDX 3           |                                    |
 |                           |                                    |
-| Rt                        |                                    |
+| Rt                        | 1.42 (broad)                       |
 | Rt HDX                    |                                    |
 
 ## MS/MS fragments
 
-| m/z | Molecular formula | Annotation |
-|-----|-------------------|------------|
-|     |                   |            |
+| m/z       | Molecular formula | Annotation   |
+|-----------|-------------------|--------------|
+| 348.07091 | C₁₀H₁₅N₅O₇P       | [M+H]⁺       |
+| 136.06232 | C₅H₆N₅            | [adenine+H]⁺ |
 
 ## Recorded MS/MS spectra
 
-| pdf      | Precursor | Co-eluting | Spider                                                    | Source | Author        |
-|----------|-----------|------------|-----------------------------------------------------------|--------|---------------|
-| [Data]() | 348.07091 |            | Adenosine-5'-monophosphate, disodium salt (CAS 4578-31-8) | Fluka  | Y. M. Forster |
+| pdf                           | Precursor | Co-eluting | Spider                                                    | Source | Author        |
+|-------------------------------|-----------|------------|-----------------------------------------------------------|--------|---------------|
+| [Data](/pdf/348_AMP_1-42.pdf) | 348.07091 |            | Adenosine-5'-monophosphate, disodium salt (CAS 4578-31-8) | Fluka  | Y. M. Forster |
 
 ## References
 
-| Title                                                                                             | Reference                                                                                                                                                                                                       | Spider                      | Name | Content | Link                                                 |
-|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------|---------|------------------------------------------------------|
+| Title                                                                                             | Reference                                                                                                                                                                                                       | Spider                      | Name | Content | Link                                                         |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------|---------|--------------------------------------------------------------|
 | Adenosine triphosphate in tarantula spider venoms and its synergistic effect with the venom toxin | T. K. Chan, C. R. Geren, D. E. Howell, G. V. Odell, Toxicon 1975, 13, 1, 61-66                                                                                                                                  | A. hentzi & Aphonopelma sp. |      |         | [Link](https://doi.org/10.1016/0041-0101(75)90159-2)         |
 | Biochemical analysis of tarantula venom (Eurypelma californicum)                                  | A. Savel-Niemann, D. Roth, Naturwissenschaften 1989, 76, 5, 212-213                                                                                                                                             | E. californicum             |      |         | [Link](https://link.springer.com/article/10.1007/BF00627688) |
 | Tarantula (Eurypelma californicum) venom, a multicomponent system                                 | A. Savel-Niemann, Biol. Chem. 1989, 370, 1, 485-498                                                                                                                                                             | E. californicum             |      |         | [Link](https://doi.org/10.1515/bchm3.1989.370.1.485)         |
