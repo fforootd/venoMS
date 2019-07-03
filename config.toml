@@ -1,6 +1,7 @@
 baseURL = "https://fforootd.github.io/venoms"
 
 languageCode = "en-us"
+publishDir= "docs"
 DefaultContentLanguage = "en"
 title = "venoMS"
 theme = "docdock"
@@ -10,6 +11,7 @@ pygmentsStyle = "monokailight"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
+
 
 [params]
 editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
