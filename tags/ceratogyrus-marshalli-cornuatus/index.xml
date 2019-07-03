@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ceratogyrus Marshalli Cornuatus on venoMS</title>
-    <link>https://fforootd.github.io/venoMS/tags/ceratogyrus-marshalli-cornuatus/</link>
+    <link>https://fforootd.github.io/venoms/tags/ceratogyrus-marshalli-cornuatus/</link>
     <description>Recent content in Ceratogyrus Marshalli Cornuatus on venoMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fforootd.github.io/venoMS/tags/ceratogyrus-marshalli-cornuatus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fforootd.github.io/venoms/tags/ceratogyrus-marshalli-cornuatus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Citric acid</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/citric-acid/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/citric-acid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/citric-acid/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/citric-acid/</guid>
       <description>General Description    Name Value     Level II Link   Discovered 1979 / A. robustus   Synonym    Molecular formula C₆H₈O₇   CAS 77-92-9       Precursor 1 [M+H]⁺ 193.03482   Precursor 2 [M+NH₄]⁺ 210.06138   Precursor 3 [M+Na]⁺ 215.01677       HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 198.</description>
     </item>
     
     <item>
       <title>Octopamine</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/biogenic-amines/octopamine/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/biogenic-amines/octopamine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/biogenic-amines/octopamine/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/biogenic-amines/octopamine/</guid>
       <description>General Description    Name Value     Level V   Discovered 1979 / A. robustus   Synonym    Molecular formula C₈H₁₁NO₂   CAS 104-14-3       Precursor 1 [M+H]⁺ 154.08680   Precursor 2    Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 159.11818   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry P.</description>
     </item>
     

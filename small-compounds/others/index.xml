@@ -2,182 +2,182 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Others on venoMS</title>
-    <link>https://fforootd.github.io/venoMS/small-compounds/others/</link>
+    <link>https://fforootd.github.io/venoms/small-compounds/others/</link>
     <description>Recent content in Others on venoMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fforootd.github.io/venoMS/small-compounds/others/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fforootd.github.io/venoms/small-compounds/others/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1-Guanidino-6-hydroxy-3,5-dihydro-ß-carboline</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/1-guanidino-6-hydroxy-35-dihydro-%C3%9F-carboline/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/1-guanidino-6-hydroxy-35-dihydro-%C3%9F-carboline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/1-guanidino-6-hydroxy-35-dihydro-%C3%9F-carboline/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/1-guanidino-6-hydroxy-35-dihydro-%C3%9F-carboline/</guid>
       <description>General Description    Name Value     Level V   Discovered 2009 / P. bistriata   Synonym    Molecular formula C₁₂H₁₅N₅O   CAS 1187959-50-7       Precursor 1 [M+H]⁺ 246.13549   Precursor 2    Precursor 3        HDX 7   Precursor HDX 1 [d₇-M+D]⁺ 254.18570   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Monoamine oxidase inhibitory activities of indolylalkaloid toxins from the venom of the colonial spider Parawixia bistriata: functional characterization of PwTx-I D.</description>
     </item>
     
     <item>
       <title>5-Methoxytryptamine</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/5-methoxytryptamine/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/5-methoxytryptamine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/5-methoxytryptamine/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/5-methoxytryptamine/</guid>
       <description>General Description    Name Value     Level V   Discovered 1979 / A. robustus   Synonym    Molecular formula C₁₁H₁₄N₂O   CAS 608-07-1       Precursor 1 [M+H]⁺ 191.11844   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 195.14354   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry P.</description>
     </item>
     
     <item>
       <title>Bis(agmatine)oxalamide</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/bisagmatineoxalamide/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/bisagmatineoxalamide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/bisagmatineoxalamide/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/bisagmatineoxalamide/</guid>
       <description>General Description    Name Value     Level V   Discovered 1993 / P. tristis   Synonym    Molecular formula C₁₂H₂₆N₈O₂   CAS 151368-32-0       Precursor 1 [M+H]⁺ 315.22570   Precursor 2    Precursor 3        HDX 8   Precursor HDX 1 [d₈-M+D]⁺ 324.28218   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Identification of bis(agmatine)oxalamide in venom from the primitive hunting spider, Plectreurys tristis (Simon) G.</description>
     </item>
     
     <item>
       <title>Citric acid</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/citric-acid/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/citric-acid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/citric-acid/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/citric-acid/</guid>
       <description>General Description    Name Value     Level II Link   Discovered 1979 / A. robustus   Synonym    Molecular formula C₆H₈O₇   CAS 77-92-9       Precursor 1 [M+H]⁺ 193.03482   Precursor 2 [M+NH₄]⁺ 210.06138   Precursor 3 [M+Na]⁺ 215.01677       HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 198.</description>
     </item>
     
     <item>
       <title>DOPAC</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/dopac/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/dopac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/dopac/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/dopac/</guid>
       <description>General Description    Name Value     Level V   Discovered 1987 / A. gemma   Synonym    Molecular formula C₈H₈O₄   CAS 102-32-9       Precursor 1 [M+H]⁺ 169.05008   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 173.07519   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Presence of proteins and glutamate as major constituents of the venom of the spider Araneus gemma S.</description>
     </item>
     
     <item>
       <title>Epinine</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/epinine/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/epinine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/epinine/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/epinine/</guid>
       <description>General Description    Name Value     Level V   Discovered 1987 / A. gemma   Synonym    Molecular formula C₉H₁₃NO₂   CAS 501-15-5       Precursor 1 [M+H]⁺ 168.10245   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 172.12756   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Presence of proteins and glutamate as major constituents of the venom of the spider Araneus gemma S.</description>
     </item>
     
     <item>
       <title>FrPbAII</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/frpbaii/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/frpbaii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/frpbaii/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/frpbaii/</guid>
       <description>General Description    Name Value     Level I   Discovered 2006 / P. bistriata   Synonym    Molecular formula C₆H₁₄N₄O₂   CAS 764724-17-6       Precursor 1 [M+H]⁺ 175.11950   Precursor 2 [M+Na]⁺ 197.10144   Precursor 3 [2M+H]⁺ 349.23118   Precursor 4 [2M+Na]⁺ 371.21312       HDX 7   Precursor HDX 1 [d₇-M+D]⁺ 183.</description>
     </item>
     
     <item>
       <title>GABA</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/gaba/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/gaba/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/gaba/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/gaba/</guid>
       <description>General Description    Name Value     Level I   Discovered 1957 / div.   Synonym    Molecular formula C₄H₉NO₂   CAS 56-12-2       Precursor 1 [M+H]⁺ 104.07115   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₄-M+D]⁺ 108.09626   Precursor HDX 2    Precursor HDX 3        Rt 1.</description>
     </item>
     
     <item>
       <title>Glucose</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/glucose/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/glucose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/glucose/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/glucose/</guid>
       <description>General Description    Name Value     Level V   Discovered 1979 / A. robustus   Synonym    Molecular formula C₆H₁₂O₆   CAS 50-99-7       Precursor 1 [M+H]⁺ 181.07121   Precursor 2    Precursor 3        HDX 5   Precursor HDX 1 [d₅-M+D]⁺ 187.10887   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry P.</description>
     </item>
     
     <item>
       <title>Glycerin</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/glycerin/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/glycerin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/glycerin/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/glycerin/</guid>
       <description>General Description    Name Value     Level V   Discovered 1979 / A. robustus   Synonym    Molecular formula C₃H₈O₃   CAS 56-81-5       Precursor 1 [M+H]⁺ 93.05517   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 97.08028   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry P.</description>
     </item>
     
     <item>
       <title>Glycine</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/glycine/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/glycine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/glycine/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/glycine/</guid>
       <description>General Description    Name Value     Level V   Discovered 1979 / A. robustus   Synonym    Molecular formula C₂H₅NO₂   CAS 56-40-6       Precursor 1 [M+H]⁺ 76.03985   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 80.06496   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry P.</description>
     </item>
     
     <item>
       <title>Lactic acid</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/lactic-acid/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/lactic-acid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/lactic-acid/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/lactic-acid/</guid>
       <description>General Description    Name Value     Level V   Discovered 1979 / A. robustus   Synonym    Molecular formula C₃H₆O₃   CAS 50-21-5       Precursor 1 [M+H]⁺ 91.03952   Precursor 2    Precursor 3        HDX 2   Precursor HDX 1 [d₂-M+D]⁺ 94.05835   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry P.</description>
     </item>
     
     <item>
       <title>Nigriventrine</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/nigriventrine/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/nigriventrine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/nigriventrine/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/nigriventrine/</guid>
       <description>General Description    Name Value     Level II Link   Discovered 2011 / P. nigriventer   Synonym    Molecular formula C₁₂H₁₄N₄O₁₃   CAS 1337960-95-8       Precursor 1 [M+H]⁺ 423.06356   Precursor 2    Precursor 3        HDX 6   Precursor HDX 1[d₆-M+D]⁺ 430.10750   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Nigriventrine: A low molecuolar mass neuroactive compound from the venom of the spider Phoneutria nigriventer P.</description>
     </item>
     
     <item>
       <title>Phosphoric acid</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/phosphoric-acid/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/phosphoric-acid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/phosphoric-acid/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/phosphoric-acid/</guid>
       <description>General Description    Name Value     Level V   Discovered 1979 / A. robustus   Synonym    Molecular formula H₃O₄P   CAS 7664-38-2       Precursor 1 [M+H]⁺ 98.98472   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 103.00982   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry P.</description>
     </item>
     
     <item>
       <title>PwTx-I</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/pwtx-i/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/pwtx-i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/pwtx-i/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/pwtx-i/</guid>
       <description>General Description    Name Value     Level II Link   Discovered 2005 / P. bistriata   Synonym 6-Hydroxytrypargine   Molecular formula C₁₅H₂₁N₅O   CAS 1188405-18-6       Precursor 1 [M+H]⁺ 288.18244   Precursor 2    Precursor 3        HDX 7   Precursor HDX 1 [d₇-M+D]⁺ 296.23265   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Structure determination of hydroxytrypargine: A new tetrahydro-beta-carboline toxin from the venom of the spider Parawixia bistriata L.</description>
     </item>
     
     <item>
       <title>PwTx-II</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/pwtx-ii/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/pwtx-ii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/pwtx-ii/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/pwtx-ii/</guid>
       <description>General Description    Name Value     Level II Link   Discovered 2005 / P. bistriata   Synonym 1,4-Guanidinobutoxy-6-hydroxy-1,2,3,4-tetrahydro-ß-carboline   Molecular formula C₁₆H₂₁N₅O₂   CAS 880354-41-6       Precursor 1 [M+H]⁺ 316.17735   Precursor 2    Precursor 3        HDX 7   Precursor HDX 1 [d₇-M+D]⁺ 324.22756   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Structure determination of hydroxytrypargine: A new tetrahydro-beta-carboline toxin from the venom of the spider Parawixia bistriata L.</description>
     </item>
     
     <item>
       <title>Taurine</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/taurine/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/taurine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/taurine/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/taurine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1994 / C. salei   Synonym    Molecular formula C₂H₇NO₃S   CAS 107-35-7       Precursor 1 [M+H]⁺ 126.02249   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 130.04759   Precursor HDX 2    Precursor HDX 3        Rt 1.</description>
     </item>
     
     <item>
       <title>Urea</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/urea/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/urea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/urea/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/urea/</guid>
       <description>General Description    Name Value     Level V   Discovered 1979 / A. robustus   Synonym    Molecular formula CH₄N₂O   CAS 57-13-6       Precursor 1 M+H]⁺ 61.04019   Precursor 2    Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 66.07157   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry P.</description>
     </item>
     
     <item>
       <title>Uric acid</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/uric-acid/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/uric-acid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/uric-acid/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/uric-acid/</guid>
       <description>General Description    Name Value     Level V   Discovered 2001 / L. menavodi   Synonym    Molecular formula C₅H₄N₄O₃   CAS 69-93-2       Precursor 1 [M+H]⁺ 169.03617   Precursor 2    Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 174.06754   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     The main products of the low molecular mass fraction in the venom of the spider Latrodectus menavodi A.</description>
     </item>
     

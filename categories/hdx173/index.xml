@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hdx173 on venoMS</title>
-    <link>https://fforootd.github.io/venoMS/categories/hdx173/</link>
+    <link>https://fforootd.github.io/venoms/categories/hdx173/</link>
     <description>Recent content in Hdx173 on venoMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fforootd.github.io/venoMS/categories/hdx173/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fforootd.github.io/venoms/categories/hdx173/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DOPAC</title>
-      <link>https://fforootd.github.io/venoMS/small-compounds/others/dopac/</link>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/dopac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoMS/small-compounds/others/dopac/</guid>
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/dopac/</guid>
       <description>General Description    Name Value     Level V   Discovered 1987 / A. gemma   Synonym    Molecular formula C₈H₈O₄   CAS 102-32-9       Precursor 1 [M+H]⁺ 169.05008   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 173.07519   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Presence of proteins and glutamate as major constituents of the venom of the spider Araneus gemma S.</description>
     </item>
     
