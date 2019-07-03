@@ -31,7 +31,7 @@ The expulsion of ammonia from an a-type ion [a-NH₃]⁺.
 ##### z-type ions
 The result of an intramolecular nucleophilic substitution starting from the tail side results in a cyclic ion z by the loss of an uncharged amine.
 
-![](/img_Rules/_z-type-frag.png?classes=border)
+![](/img_Rules/z-type-frag.png?classes=border)
 
 However, z-type ions can also be the result of a [transaminative Zip-reaction](https://doi.org/10.1016/j.jasms.2004.07.020) or a stepwise fragmentation of the polyamine backbone, which are then called z'-type ions.
 
