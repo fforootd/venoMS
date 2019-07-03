@@ -1,7 +1,6 @@
 baseURL = "https://fforootd.github.io/venoms"
 
 languageCode = "en-us"
-publishDir= "docs"
 DefaultContentLanguage = "en"
 title = "venoMS"
 theme = "docdock"
