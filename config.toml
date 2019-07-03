@@ -1,4 +1,4 @@
-baseURL = "https://fforootd.github.io/venoMS/"
+baseURL = "https://fforootd.github.io/venoms/"
 RelativeURLs=true
 CanonifyURLs=true
 languageCode = "en-us"
