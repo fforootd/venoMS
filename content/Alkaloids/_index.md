@@ -3,7 +3,7 @@ title = "(Acyl)polyamines"
 weight = 10
 +++
 
-![](/img_Rules/_APA_Intro.png)
+![](/img_Rules/APA_Intro.png)
 
 An acylpolyamines contains one (mainly) aromatic head moiety, a polyamine backbone chain of various length and an alkaline tail. Optional an amino acid linker, such as asparagine, can be part of the molecule. The combination of various head moieties with polyamine chains of different length and the optional hydroxylation or methylation of the amines lead to an almost infinite diversity of structures. As an example, the first fully characterized acylpolyamine, Arg 636, is shown above.
 
