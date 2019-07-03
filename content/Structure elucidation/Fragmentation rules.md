@@ -3,13 +3,13 @@ title = "Fragmentation Rules for Acylpolyamines"
 weight = 10
 +++
 
-It was found that acylpolyamines have a very characteristic fragmentational behaviour in tandem mass spectrometry. The fragmentation study of synthetic acylpolyamines showed that polyamine derivatives undergo mainly [intramolecular nucleophilic substitution reactions](https://doi.org/10.1255/ejms.1213) at the protonated amino groups. The fragmentational behaviour of acylpolyamines can be summarised in seven general fragment types, namely a-, b-, c- and ta-ions for fragments with the head moiety and z-, y- and tz-type ions for fragments containing the tail side. The nomenclature for these fragment ions is inspired by the nomenclature used in peptide fragmentation without meaning to imply similar structures or similar fragmentation reactions. As an example the complete interpretation of the MS/MS spectra of the synthetic polyamine toxins 4-OH-Bz3334 and IndAcAsn3(Me)43 are shown below. A detailed description for each fragment ion typ is attached below. 
+It was found that acylpolyamines have a very characteristic fragmentational behaviour in tandem mass spectrometry. The fragmentation study of synthetic acylpolyamines showed that polyamine derivatives undergo mainly [intramolecular nucleophilic substitution reactions](https://doi.org/10.1255/ejms.1213) at the protonated amino groups. The fragmentational behaviour of acylpolyamines can be summarised in seven general fragment types, namely a-, b-, c- and ta-ions for fragments with the head moiety and z-, y- and tz-type ions for fragments containing the tail side. The nomenclature for these fragment ions is inspired by the nomenclature used in peptide fragmentation without meaning to imply similar structures or similar fragmentation reactions. As an example, the complete interpretation of the MS/MS spectra of the synthetic polyamine toxins 4-OH-Bz3334 and IndAcAsn3(Me)43 are shown below. A detailed description for each fragment ion type is attached below.
 
 ![](/img_Rules/_4-OH-Bz3334.png?classes=border)
 
 ![](/img_Rules/_IndAcAsn3(Me)43.png?classes=border)
 
-The comparison of the MS/MS spectra of the isomeric agatoxins 4-OH-Bz3334, 4-OH-Bz3343, 4-OH-Bz3433 and 4-OH-Bz4333 and the related acylpolyamines with the 2,5-(OH)₂-Bz and IndAc head moieties demonstated that the overall fragmentation pattern depends primarily on the polyamine backchain.
+The comparison of the MS/MS spectra of the isomeric agatoxins 4-OH-Bz3334, 4-OH-Bz3343, 4-OH-Bz3433 and 4-OH-Bz4333 and the related acylpolyamines with the 2,5-(OH)₂-Bz and IndAc head moieties demonstrated that the overall fragmentation pattern depends primarily on the polyamine backchain.
 
 ![](/img_Rules/_Synth_APA_Overview.png)
 

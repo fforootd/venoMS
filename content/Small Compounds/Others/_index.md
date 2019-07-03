@@ -3,4 +3,4 @@ title = "Others"
 weight = 50
 +++
 
-Small compounds in spider venoms can be nucleosides, amino acids and others.
+Besides the mentioned groups several other structures which function remained often unknown yet were detected.

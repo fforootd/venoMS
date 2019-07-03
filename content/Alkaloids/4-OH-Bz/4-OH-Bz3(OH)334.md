@@ -16,7 +16,7 @@ tags = ["Agelenopsis aperta"]
 
 ## General Description
 
-| Name                        | Value            | 
+| Name                        | Value            |
 |-----------------------------|------------------|
 | Level                       | I                |
 | Discovered                  | 2001 / A. aperta |
