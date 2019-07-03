@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phoneutria Nigriventer on venoMS</title>
-    <link>https://fforootd.github.io/venoms/tags/phoneutria-nigriventer/</link>
+    <link>https://fforootd.github.io/venoMS/tags/phoneutria-nigriventer/</link>
     <description>Recent content in Phoneutria Nigriventer on venoMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fforootd.github.io/venoms/tags/phoneutria-nigriventer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fforootd.github.io/venoMS/tags/phoneutria-nigriventer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Histamine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/biogenic-amines/histamine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/biogenic-amines/histamine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/biogenic-amines/histamine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/biogenic-amines/histamine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1957 / L. erythrognatha &amp;amp; P. fera   Synonym    Molecular formula C₅H₉N₃   CAS 51-45-6       Precursor 1 [M+H]⁺ 112.08747   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 116.</description>
     </item>
     
     <item>
       <title>Nigriventrine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/others/nigriventrine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/others/nigriventrine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/others/nigriventrine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/others/nigriventrine/</guid>
       <description>General Description    Name Value     Level II Link   Discovered 2011 / P. nigriventer   Synonym    Molecular formula C₁₂H₁₄N₄O₁₃   CAS 1337960-95-8       Precursor 1 [M+H]⁺ 423.06356   Precursor 2    Precursor 3        HDX 6   Precursor HDX 1[d₆-M+D]⁺ 430.10750   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Nigriventrine: A low molecuolar mass neuroactive compound from the venom of the spider Phoneutria nigriventer P.</description>
     </item>
     
     <item>
       <title>Serotonin</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/biogenic-amines/serotonin/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/biogenic-amines/serotonin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/biogenic-amines/serotonin/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/biogenic-amines/serotonin/</guid>
       <description>General Description    Name Value     Level I   Discovered 1963 / div.   Synonym 5-Hydroxytryptamine / 5-HT   Molecular formula C₁₀H₁₂N₂O   CAS 50-67-9       Precursor 1 [M+H]⁺ 177.10279   Precursor 2 [M+H-NH₃]⁺ 160.07624   Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 182.</description>
     </item>
     

@@ -2,164 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cupiennius on venoMS</title>
-    <link>https://fforootd.github.io/venoms/categories/cupiennius/</link>
+    <link>https://fforootd.github.io/venoMS/categories/cupiennius/</link>
     <description>Recent content in Cupiennius on venoMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fforootd.github.io/venoms/categories/cupiennius/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fforootd.github.io/venoMS/categories/cupiennius/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alanine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/alanine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/alanine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/alanine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/alanine/</guid>
       <description>General Description    Name Value     Level V   Discovered 1994 / C. salei   Synonym    Molecular formula C₃H₇NO₂   CAS 56-41-7       Precursor 1 [M+H]⁺ 90.05550   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 94.08061   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae) L.</description>
     </item>
     
     <item>
       <title>Arginine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/arginine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/arginine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/arginine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/arginine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1994 / C. salei   Synonym    Molecular formula C₆H₁₄N₄O₂   CAS 74-79-3       Precursor 1 [M+H]⁺ 175.11950   Precursor 2    Precursor 3        HDX 7   Precursor HDX 1 [d₇-M+D]⁺ 183.16971   Precursor HDX 2    Precursor HDX 3        Rt 1.</description>
     </item>
     
     <item>
       <title>Aspartic acid</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/aspartic-acid/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/aspartic-acid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/aspartic-acid/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/aspartic-acid/</guid>
       <description>General Description    Name Value     Level I   Discovered 1957 / V. dubius   Synonym    Molecular formula C₄H₇NO₄   CAS 56-84-8       Precursor 1 [M+H]⁺ 134.04533   Precursor 2    Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 139.07671   Precursor HDX 2    Precursor HDX 3        Rt 1.</description>
     </item>
     
     <item>
       <title>Citric acid</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/others/citric-acid/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/others/citric-acid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/others/citric-acid/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/others/citric-acid/</guid>
       <description>General Description    Name Value     Level II Link   Discovered 1979 / A. robustus   Synonym    Molecular formula C₆H₈O₇   CAS 77-92-9       Precursor 1 [M+H]⁺ 193.03482   Precursor 2 [M+NH₄]⁺ 210.06138   Precursor 3 [M+Na]⁺ 215.01677       HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 198.</description>
     </item>
     
     <item>
       <title>Glutamic acid</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/glutamic-acid/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/glutamic-acid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/glutamic-acid/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/glutamic-acid/</guid>
       <description>General Description    Name Value     Level I   Discovered 1957 / L. erythrognatha &amp;amp; P. fera   Synonym    Molecular formula C₅H₉NO₄   CAS 56-86-0       Precursor 1 [M+H]⁺ 148.06098   Precursor 2    Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 153.</description>
     </item>
     
     <item>
       <title>Glycine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/others/glycine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/others/glycine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/others/glycine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/others/glycine/</guid>
       <description>General Description    Name Value     Level V   Discovered 1979 / A. robustus   Synonym    Molecular formula C₂H₅NO₂   CAS 56-40-6       Precursor 1 [M+H]⁺ 76.03985   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 80.06496   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry P.</description>
     </item>
     
     <item>
       <title>Histamine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/biogenic-amines/histamine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/biogenic-amines/histamine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/biogenic-amines/histamine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/biogenic-amines/histamine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1957 / L. erythrognatha &amp;amp; P. fera   Synonym    Molecular formula C₅H₉N₃   CAS 51-45-6       Precursor 1 [M+H]⁺ 112.08747   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 116.</description>
     </item>
     
     <item>
       <title>Histidine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/histidine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/histidine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/histidine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/histidine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1994 / C. salei   Synonym    Molecular formula C₆H₉N₃O₂   CAS 71-00-1       Precursor 1 [M+H]⁺ 156.07730   Precursor 2    Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 161.10868   Precursor HDX 2    Precursor HDX 3        Rt 1.</description>
     </item>
     
     <item>
       <title>Isoleucine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/isoleucine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/isoleucine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/isoleucine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/isoleucine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1988 / L. indagatrix   Synonym    Molecular formula C₆H₁₃NO₂   CAS 73-32-5       Precursor 1 [M+H]⁺ 132.10245   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 136.12756   Precursor HDX 2    Precursor HDX 3        Rt 2.</description>
     </item>
     
     <item>
       <title>Leucine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/leucine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/leucine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/leucine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/leucine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1994 / C. salei   Synonym    Molecular formula C₆H₁₃NO₂   CAS 61-90-5       Precursor 1 [M+H]⁺ 132.10245   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 136.12756   Precursor HDX 2    Precursor HDX 3        Rt 2.</description>
     </item>
     
     <item>
       <title>Lysine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/lysine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/lysine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/lysine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/lysine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1957 / L. erythrognatha &amp;amp; P. fera   Synonym    Molecular formula C₆H₁₄N₂O₂   CAS 56-87-1       Precursor 1 [M+H]⁺ 147.11335   Precursor 2    Precursor 3        HDX 5   Precursor HDX 1 [d₅-M+D]⁺ 153.</description>
     </item>
     
     <item>
       <title>Methionine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/methionine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/methionine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/methionine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/methionine/</guid>
       <description>General Description    Name Value     Level V   Discovered 1988 / L. indagatrix   Synonym    Molecular formula C₅H₁₁NO₂S   CAS 63-68-3       Precursor 1 [M+H]⁺ 150.05887   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 154.08398   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Preliminary studies on the venom of three Indian spider G.</description>
     </item>
     
     <item>
       <title>Serine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/serine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/serine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/serine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/serine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1994 / C. salei   Synonym    Molecular formula C₃H₇NO₃   CAS 56-45-1       Precursor 1 [M+H]⁺ 106.05042   Precursor 2    Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 111.08180   Precursor HDX 2    Precursor HDX 3        Rt 1.</description>
     </item>
     
     <item>
       <title>Taurine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/others/taurine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/others/taurine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/others/taurine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/others/taurine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1994 / C. salei   Synonym    Molecular formula C₂H₇NO₃S   CAS 107-35-7       Precursor 1 [M+H]⁺ 126.02249   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 130.04759   Precursor HDX 2    Precursor HDX 3        Rt 1.</description>
     </item>
     
     <item>
       <title>Threonine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/threonine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/threonine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/threonine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/threonine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1994 / C. salei   Synonym    Molecular formula C₄H₉NO₃   CAS 72-19-5       Precursor 1 [M+H]⁺ 120.06607   Precursor 2    Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 125.09745   Precursor HDX 2    Precursor HDX 3        Rt 1.</description>
     </item>
     
     <item>
       <title>Tyrosine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/tyrosine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/tyrosine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/tyrosine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/tyrosine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1994 / C. salei   Synonym    Molecular formula C₉H₁₁NO₃   CAS 60-18-4       Precursor 1 [M+H]⁺ 182.08172   Precursor 2 [M+H-NH₃]⁺ 165.05517   Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 187.11310   Precursor HDX 2    Precursor HDX 3        Rt 3.</description>
     </item>
     
     <item>
       <title>Valine</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/valine/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/amino-acids/valine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/valine/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/amino-acids/valine/</guid>
       <description>General Description    Name Value     Level I   Discovered 1994 / C. salei   Synonym    Molecular formula C₅H₁₁NO₂   CAS 72-18-4       Precursor 1 [M+H]⁺ 118.08680   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 122.11191   Precursor HDX 2    Precursor HDX 3        Rt 1.</description>
     </item>
     

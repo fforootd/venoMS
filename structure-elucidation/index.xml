@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analytical tools on venoMS</title>
-    <link>https://fforootd.github.io/venoms/structure-elucidation/</link>
+    <link>https://fforootd.github.io/venoMS/structure-elucidation/</link>
     <description>Recent content in Analytical tools on venoMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fforootd.github.io/venoms/structure-elucidation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fforootd.github.io/venoMS/structure-elucidation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fragmentation Rules for Acylpolyamines</title>
-      <link>https://fforootd.github.io/venoms/structure-elucidation/fragmentation-rules/</link>
+      <link>https://fforootd.github.io/venoMS/structure-elucidation/fragmentation-rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/structure-elucidation/fragmentation-rules/</guid>
+      <guid>https://fforootd.github.io/venoMS/structure-elucidation/fragmentation-rules/</guid>
       <description>It was found that acylpolyamines have a very characteristic fragmentational behaviour in tandem mass spectrometry. The fragmentation study of synthetic acylpolyamines showed that polyamine derivatives undergo mainly intramolecular nucleophilic substitution reactions at the protonated amino groups. The fragmentational behaviour of acylpolyamines can be summarised in seven general fragment types, namely a-, b-, c- and ta-ions for fragments with the head moiety and z-, y- and tz-type ions for fragments containing the tail side.</description>
     </item>
     
     <item>
       <title>Characteristic Fragment Ions</title>
-      <link>https://fforootd.github.io/venoms/structure-elucidation/characteristic-fragment-ions/</link>
+      <link>https://fforootd.github.io/venoMS/structure-elucidation/characteristic-fragment-ions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/structure-elucidation/characteristic-fragment-ions/</guid>
+      <guid>https://fforootd.github.io/venoMS/structure-elucidation/characteristic-fragment-ions/</guid>
       <description>Head a&amp;rsquo; a0 a1(3) a1(4) a1(5) a1(Asn)     Ac   100.07624 114.09189 128.10754 157.06132   Bz  105.03404 162.09189 176.10156 190.12319 219.07697   PhAc 91.05478 119.04969 176.10754 190.12319 204.13884 233.09262   4-OH-Bz  121.02895 178.08680 192.10245 206.11810 235.07188   4-OH-PhAc 107.04969 135.04460 192.10245 206.11810 220.13375 249.08753   2,5-(OH)₂-Bz  137.02387 194.08172 208.09737 222.11302 251.06680   Phe 120.08133 148.</description>
     </item>
     
     <item>
       <title>Analytical Method</title>
-      <link>https://fforootd.github.io/venoms/structure-elucidation/method/</link>
+      <link>https://fforootd.github.io/venoMS/structure-elucidation/method/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/structure-elucidation/method/</guid>
+      <guid>https://fforootd.github.io/venoMS/structure-elucidation/method/</guid>
       <description>Sample preparation The lyophilized spider venom ion was dissolved in H₂O/MeCN 3:1 + 0.05% TFA to a concentration of 1 μg/μl. Reference compounds were dissolved in H₂O/MeCN 3:1 + 0.05% TFA to a concentration of 10 μg/ml. All samples were stored at –20 °C prior to their use.
 Instruments The UHPLC-ESI-MS and MS/MS experiments were performed on a Dionex UltiMate 3000 HPLC instrument (Thermo Scientific, Germering, Germany) equipped with an autosampler, a pump and a diode-array detector (DAD) of the same producer series.</description>
     </item>

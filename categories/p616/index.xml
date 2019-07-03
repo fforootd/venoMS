@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P616 on venoMS</title>
-    <link>https://fforootd.github.io/venoms/categories/p616/</link>
+    <link>https://fforootd.github.io/venoMS/categories/p616/</link>
     <description>Recent content in P616 on venoMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fforootd.github.io/venoms/categories/p616/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fforootd.github.io/venoMS/categories/p616/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HF-7</title>
-      <link>https://fforootd.github.io/venoms/small-compounds/nucleosides-nucleotides/hf-7/</link>
+      <link>https://fforootd.github.io/venoMS/small-compounds/nucleosides-nucleotides/hf-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/small-compounds/nucleosides-nucleotides/hf-7/</guid>
+      <guid>https://fforootd.github.io/venoMS/small-compounds/nucleosides-nucleotides/hf-7/</guid>
       <description>General Description    Name Value     Level III   Discovered 1999 / H. curta   Synonym    Molecular formula C₁₈H₂₅N₅O₁₅S₂   CAS 158118-33-3       Precursor 1 [M+H]⁺ 616.08668   Precursor 2    Precursor 3        HDX 6   Precursor HDX 1 [d₆-M+D]⁺ 623.13062   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Structure and total synthesis of HF-7, a neuroactive glyconucleoside disulfate from the funnel web spider Hololena curta J.</description>
     </item>
     
     <item>
       <title>IndAcAsn433ßAla4</title>
-      <link>https://fforootd.github.io/venoms/alkaloids/indac/indacasn433%C3%9Fala4/</link>
+      <link>https://fforootd.github.io/venoMS/alkaloids/indac/indacasn433%C3%9Fala4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fforootd.github.io/venoms/alkaloids/indac/indacasn433%C3%9Fala4/</guid>
+      <guid>https://fforootd.github.io/venoMS/alkaloids/indac/indacasn433%C3%9Fala4/</guid>
       <description>General Description    Name Value     Level V   Discovered 1997 / N. borbonica   Synonym NPTX 615 / NPTX 615B   Molecular formula C₃₁H₅₃N₉O₄   CAS &amp;mdash;       Precursor 1 [M+H]⁺ 616.42988   Precursor 2 [M+2H]²⁺ 308.71885   Precursor 3        HDX 11   Precursor HDX 1 [d₁₁-M+D]⁺ 628.</description>
     </item>
     
