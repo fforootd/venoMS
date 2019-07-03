@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hdx274 on venoMS</title>
+    <link>https://fforootd.github.io/venoms/categories/hdx274/</link>
+    <description>Recent content in Hdx274 on venoMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://fforootd.github.io/venoms/categories/hdx274/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adenosine</title>
+      <link>https://fforootd.github.io/venoms/small-compounds/nucleosides-nucleotides/adenosine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/small-compounds/nucleosides-nucleotides/adenosine/</guid>
+      <description>General Description    Name Value     Level I   Discovered 2001 / L. menavodi   Synonym    Molecular formula C₁₀H₁₃N₅O₄   CAS 58-61-7       Precursor 1 [M+H]⁺ 268.10457   Precursor 2    Precursor 3        HDX 5   Precursor HDX 1 [d₅-M+D]⁺ 274.14224   Precursor HDX 2    Precursor HDX 3        Rt 2.</description>
+    </item>
+    
+    <item>
+      <title>Inosine</title>
+      <link>https://fforootd.github.io/venoms/small-compounds/nucleosides-nucleotides/inosine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/small-compounds/nucleosides-nucleotides/inosine/</guid>
+      <description>General Description    Name Value     Level I   Discovered 1975 / L. reclusa   Synonym    Molecular formula C₁₀H₁₂N₄O₅   CAS 58-63-9       Precursor 1 [M+H]⁺ 269.08859   Precursor 2    Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 274.11997   Precursor HDX 2    Precursor HDX 3        Rt 2.</description>
+    </item>
+    
+  </channel>
+</rss>

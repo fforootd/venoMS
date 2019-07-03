@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pa353 on venoMS</title>
+    <link>https://fforootd.github.io/venoms/categories/pa353/</link>
+    <description>Recent content in Pa353 on venoMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://fforootd.github.io/venoms/categories/pa353/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PA353</title>
+      <link>https://fforootd.github.io/venoms/alkaloids/free-polyamines-pa/pa353/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/alkaloids/free-polyamines-pa/pa353/</guid>
+      <description>General Description    Name Value     Level V   Discovered    Synonym    Molecular formula C₁₁H₂₈N₄   CAS 56-19-9       Precursor 1 [M+H]⁺ 217.23923   Precursor 2 [M+2H]²⁺ 109.12353   Precursor 3        HDX 6   Precursor HDX 1 [d₆-M+D]⁺ 224.28316   Precursor HDX 2 [d₆-M+2D]²⁺ 113.</description>
+    </item>
+    
+  </channel>
+</rss>

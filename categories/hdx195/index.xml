@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hdx195 on venoMS</title>
+    <link>https://fforootd.github.io/venoms/categories/hdx195/</link>
+    <description>Recent content in Hdx195 on venoMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://fforootd.github.io/venoms/categories/hdx195/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5-Methoxytryptamine</title>
+      <link>https://fforootd.github.io/venoms/small-compounds/others/5-methoxytryptamine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/small-compounds/others/5-methoxytryptamine/</guid>
+      <description>General Description    Name Value     Level V   Discovered 1979 / A. robustus   Synonym    Molecular formula C₁₁H₁₄N₂O   CAS 608-07-1       Precursor 1 [M+H]⁺ 191.11844   Precursor 2    Precursor 3        HDX 3   Precursor HDX 1 [d₃-M+D]⁺ 195.14354   Precursor HDX 2    Precursor HDX 3        Rt    Rt HDX     MS/MS fragments    m/z Molecular formula Annotation           Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Analysis of the venom of the Sydney funnel-web spider, Atrax robustus using gas chromatography mass spectrometry P.</description>
+    </item>
+    
+  </channel>
+</rss>

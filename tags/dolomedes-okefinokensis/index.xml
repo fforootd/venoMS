@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dolomedes Okefinokensis on venoMS</title>
+    <link>https://fforootd.github.io/venoms/tags/dolomedes-okefinokensis/</link>
+    <description>Recent content in Dolomedes Okefinokensis on venoMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://fforootd.github.io/venoms/tags/dolomedes-okefinokensis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4-OH-IndAc5333</title>
+      <link>https://fforootd.github.io/venoms/alkaloids/4-oh-indac/4-oh-indac5333/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/alkaloids/4-oh-indac/4-oh-indac5333/</guid>
+      <description>General Description    Name Value     Level IV   Discovered 1993 / D. okefinokensis   Synonym CNS 2103   Molecular formula C₂₄H₄₂N₆O₂   CAS 144923-45-5       Precursor 1 [M+H]⁺ 447.34475   Precursor 2 [M+2H]²⁺ 224.17629   Precursor 3        HDX 8   Precursor HDX 1 [d₈-M+D]⁺ 456.</description>
+    </item>
+    
+    <item>
+      <title>CNS 2104</title>
+      <link>https://fforootd.github.io/venoms/alkaloids/unknown/uk_cns-2104/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/alkaloids/unknown/uk_cns-2104/</guid>
+      <description>General Description    Name Value     Level VI   Discovered 1993 / D. okefinokensis   Synonym CNS 2104   Molecular formula    CAS        Precursor 1 [M+H]⁺    Precursor 2 [M+2H]²⁺    Precursor 3        HDX    Precursor HDX 1 [d-M+D]⁺    Precursor HDX 2 [d-M+2D]²⁺    Precursor HDX 3        Rt    Rt HDX     Calculated MS/MS fragments    # a b c ta z y tz                Additional MS/MS fragments    m/z Annotation          Recorded MS/MS spectra    pdf Precursor Co-eluting Spider Source Author              References    Title Reference Spider Name Content Link     Characterization and synthesis of a new calcium antagonist from the venom of a Fishing spider K.</description>
+    </item>
+    
+  </channel>
+</rss>

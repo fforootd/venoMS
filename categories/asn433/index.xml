@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asn433 on venoMS</title>
+    <link>https://fforootd.github.io/venoms/categories/asn433/</link>
+    <description>Recent content in Asn433 on venoMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://fforootd.github.io/venoms/categories/asn433/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2,4-(OH)₂-PhAcAsn433</title>
+      <link>https://fforootd.github.io/venoms/alkaloids/24-oh-phac/24-oh-phacasn433/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/alkaloids/24-oh-phac/24-oh-phacasn433/</guid>
+      <description>General Description    Name Value     Level IV   Discovered 1997 / N. borbonica   Synonym NPTX 466 / NPTX 466B / LF 466E   Molecular formula C₂₂H₃₈N₆O₅   CAS 133698-34-7       Precursor 1 [M+H]⁺ 467.29820   Precursor 2 [M+2H]²⁺ 234.15301   Precursor 3        HDX 10   Precursor HDX 1 [d₁₀-M+D]⁺ 478.</description>
+    </item>
+    
+    <item>
+      <title>4-OH-IndAcAsn433</title>
+      <link>https://fforootd.github.io/venoms/alkaloids/4-oh-indac/4-oh-indacasn433/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/alkaloids/4-oh-indac/4-oh-indacasn433/</guid>
+      <description>General Description    Name Value     Level IV   Discovered 1997 / N. borbonica   Synonym LF 489E / NPTX 489 / NPTX 489B   Molecular formula C₂₄H₃₉N₇O₄   CAS 195884-64-1       Precursor 1 [M+H]⁺ 490.31418   Precursor 2 [M+2H]²⁺ 245.66100   Precursor 3        HDX 10   Precursor HDX 1 [d₁₀-M+D]⁺ 501.</description>
+    </item>
+    
+    <item>
+      <title>4-OH-PhAcAsn433</title>
+      <link>https://fforootd.github.io/venoms/alkaloids/4-oh-phac/4-oh-phacasn433/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/alkaloids/4-oh-phac/4-oh-phacasn433/</guid>
+      <description>General Description    Name Value     Level IV   Discovered 2009 / L. patagiatus   Synonym LF 450E   Molecular formula C₂₂H₃₈N₆O₄   CAS &amp;mdash;       Precursor 1 [M+H]⁺ 451.30328   Precursor 2 [M+2H]²⁺ 226.15555   Precursor 3        HDX 9   Precursor HDX 1 [d₉-M+D]⁺ 461.</description>
+    </item>
+    
+    <item>
+      <title>IndAcAsn433</title>
+      <link>https://fforootd.github.io/venoms/alkaloids/indac/indacasn433/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/alkaloids/indac/indacasn433/</guid>
+      <description>General Description    Name Value     Level II Link   Discovered 1997 / N. borbonica   Synonym LF 473E / NPTX 473 / NPTX 473B   Molecular formula C₂₄H₃₉N₇O₃   CAS 437763-68-3       Precursor 1 [M+H]⁺ 474.31927   Precursor 2 [M+2H]²⁺ 237.66355   Precursor 3        HDX 9   Precursor HDX 1 [d₉-M+D]⁺ 484.</description>
+    </item>
+    
+    <item>
+      <title>PhAcAsn433</title>
+      <link>https://fforootd.github.io/venoms/alkaloids/phac/phacasn433/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/alkaloids/phac/phacasn433/</guid>
+      <description>General Description    Name Value     Level IV   Discovered 2009 / L. patagiatus   Synonym LF 434E   Molecular formula C₂₂H₃₈N₆O₃   CAS &amp;mdash;       Precursor 1 [M+H]⁺ 435.30837   Precursor 2 [M+2H]²⁺ 218.15810   Precursor 3        HDX 8   Precursor HDX 1 [d₈-M+D]⁺ 444.</description>
+    </item>
+    
+  </channel>
+</rss>

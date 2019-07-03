@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3oh4 on venoMS</title>
+    <link>https://fforootd.github.io/venoms/categories/3oh4/</link>
+    <description>Recent content in 3oh4 on venoMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://fforootd.github.io/venoms/categories/3oh4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4-OH-IndAc3(OH)4</title>
+      <link>https://fforootd.github.io/venoms/alkaloids/4-oh-indac/4-oh-indac3oh4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/alkaloids/4-oh-indac/4-oh-indac3oh4/</guid>
+      <description>General Description    Name Value     Level IV   Discovered 2019 / A. aperta   Synonym &amp;mdash;   Molecular formula C₁₇H₂₆N₄O₃   CAS &amp;mdash;       Precursor 1 [M+H]⁺ 335.20831   Precursor 2 [M+2H]²⁺ 168.10807   Precursor 3        HDX 6   Precursor HDX 1 [d₆-M+D]⁺ 342.25224   Precursor HDX 2 [d₆-M+2D]²⁺ 172.</description>
+    </item>
+    
+    <item>
+      <title>IndAc3(OH)4</title>
+      <link>https://fforootd.github.io/venoms/alkaloids/indac/indac3oh4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/alkaloids/indac/indac3oh4/</guid>
+      <description>General Description    Name Value     Level IV   Discovered 2019 / A. aperta   Synonym &amp;mdash;   Molecular formula C₁₇H₂₆N₄O₂   CAS &amp;mdash;       Precursor 1 [M+H]⁺ 319.21340   Precursor 2 [M+2H]²⁺ 160.11061   Precursor 3        HDX 5   Precursor HDX 1 [d₅-M+D]⁺ 325.25106   Precursor HDX 2 [d₅-M+2D]²⁺ 163.</description>
+    </item>
+    
+  </channel>
+</rss>

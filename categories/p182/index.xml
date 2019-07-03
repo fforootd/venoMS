@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P182 on venoMS</title>
+    <link>https://fforootd.github.io/venoms/categories/p182/</link>
+    <description>Recent content in P182 on venoMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://fforootd.github.io/venoms/categories/p182/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tyrosine</title>
+      <link>https://fforootd.github.io/venoms/small-compounds/amino-acids/tyrosine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fforootd.github.io/venoms/small-compounds/amino-acids/tyrosine/</guid>
+      <description>General Description    Name Value     Level I   Discovered 1994 / C. salei   Synonym    Molecular formula C₉H₁₁NO₃   CAS 60-18-4       Precursor 1 [M+H]⁺ 182.08172   Precursor 2 [M+H-NH₃]⁺ 165.05517   Precursor 3        HDX 4   Precursor HDX 1 [d₄-M+D]⁺ 187.11310   Precursor HDX 2    Precursor HDX 3        Rt 3.</description>
+    </item>
+    
+  </channel>
+</rss>
