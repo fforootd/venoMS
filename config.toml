@@ -1,5 +1,6 @@
-baseURL = "https://fforootd.github.io/venoMS"
-
+baseURL = "https://fforootd.github.io/venoMS/"
+RelativeURLs=true
+CanonifyURLs=true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "venoMS"
