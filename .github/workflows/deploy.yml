@@ -16,9 +16,9 @@ jobs:
       with:
         args: --gc --minify --cleanDestinationDir
         
-    - name: add CNAME file
-      run: sudo cp CNAME docs/
-      shell: bash
+    #- name: add CNAME file
+    #  run: sudo cp CNAME docs/
+    #  shell: bash
 
     - name: deploy
       uses: peaceiris/actions-gh-pages@v2
