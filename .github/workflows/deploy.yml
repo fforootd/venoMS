@@ -1,4 +1,4 @@
-name:  deploy github pages
+name: deploy github pages
 
 on:
   push:
@@ -6,21 +6,23 @@ on:
     - master
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-18.04
     steps:
-    - uses: actions/checkout@master
-
-    - name: build
-      uses: peaceiris/actions-hugo@v0.58.0
+    - uses: actions/checkout@v1
       with:
-        args: --gc --minify --cleanDestinationDir
-        
-    #- name: add CNAME file
-    #  run: sudo cp CNAME docs/
-    #  shell: bash
+        submodules: true
 
-    - name: deploy
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.59.1'
+        # extended: true
+
+    - name: Build
+      run: hugo --minify
+
+    - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
