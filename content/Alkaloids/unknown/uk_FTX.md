@@ -65,4 +65,4 @@ tags = ["Agelenopsis aperta"]
 
 ## Comments
 
-FTX is a unknown compound (200 - 400 Da), probably a polyamine with a C:N ratio of 2:1. May guanidino moiety. No oxygen.
+FTX is a unknown compound (200 - 400 Da), probably a polyamine with a C:N ratio of 2:1. May contain guanidino moiety. No oxygen.

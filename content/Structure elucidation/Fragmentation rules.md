@@ -20,7 +20,7 @@ The result of an intramolecular nucleophilic substitution starting from the acet
 
 ![](/img_Rules/_a-type-frag_2.png?classes=border)
 
-The a-type fragment ions are, togehther with the overall fragmentation pattern, the most important fragment ions for the structure elucidation of unknown acylpolyamines.
+The a-type fragment ions are, together with the overall fragmentation pattern, the most important fragment ions for the structure elucidation of unknown acylpolyamines.
 
 ##### b-type ions
 The expulsion of water from an a-type ion [a-H₂O]⁺.
@@ -29,7 +29,7 @@ The expulsion of water from an a-type ion [a-H₂O]⁺.
 The expulsion of ammonia from an a-type ion [a-NH₃]⁺.
 
 ##### z-type ions
-The result of an intramolecular nucleophilic substitution starting from the tail side results in a cyclic ion z by the loss of an uncharged amine.
+An intramolecular nucleophilic substitution starting from the tail side results in a cyclic ion (z) by the loss of an uncharged amine.
 
 ![](/img_Rules/_z-type-frag.png?classes=border)
 

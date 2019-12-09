@@ -56,6 +56,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 ## References
 
 | Title     | Reference   | Spider    | Name   | Content  | Link |
+|------|------|------|------|------|------|
 | Detection of new spider toxins from a Nephilengys borbonica venom gland using on-line µ-column HPLC continuous flow (FRIT) FAB LC/MS and MS/MS| Y. Itagaki, T. Fujita, H. Naoki, T. Yasuhara, M. Andriantsiferana, T. Nakajima, Nat. Toxins 1997, 5, 1-13 | N. borbonica | NPTX 643 | LC-FAB-MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A1%3C1%3A%3AAID-NT1%3E3.0.CO%3B2-8) |
 | Total synthesis of NPTX-643, a neurotoxin of the Madagascar spider (Nephilengys borbonica) having a novel acylpolyamine structure| M. Miyashita, T. Kanemura, M. Matsushita, S. Hatakeyama, Y. Itagaki, T. Nakajima, M. Miyazawa, H. Irie, Heterocycles 1998, 47, 171-175 |  | NPTX 643 | Synthesis | [Link](https://www.infona.pl/resource/bwmeta1.element.elsevier-21290103-a950-3a60-bcdd-28a2c2b92696) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines| Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52 | N. borbonica | NPTX 643C | Review | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314) |

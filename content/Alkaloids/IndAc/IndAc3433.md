@@ -62,8 +62,8 @@ tags = ["Agelenopsis aperta"]
 
 ## References
 
-| Title                                                                                                        | Reference|spider|name|content|link                                                                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Title | Reference|spider|name|content|link|
+|-------|------|------|------|------|------|
 | Solid-phase synthesis of polyamine spider toxins and correlation with natural products by HPLC-MS/MS         | N. Manov, M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Helv. Chim. Acta 2002, 85, 2827-2846|A. aperta|Synthesis, NMR, APCI-MS/MS|[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%28200209%2985%3A9%3C2827%3A%3AAID-HLCA2827%3E3.0.CO%3B2-5) |
 | Tandem mass spectrometric investigation of acylpolyamines of spider venoms and their 15N-labeled derivatives | M. Tzouros, N. Manov, S. Bienz, L. Bigler, J. Am. Soc. Mass Spectrom. 2004, 15, 1636-1643|APCI-MS/MS|[Link](https://doi.org/10.1016/j.jasms.2004.07.020)                           |
 

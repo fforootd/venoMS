@@ -5,7 +5,7 @@ draft = false
 +++
 
 ##### Sample preparation
-The lyophilized spider venom ion was dissolved in H₂O/MeCN 3:1 + 0.05% TFA to a concentration of 1 μg/μl. Reference compounds were dissolved in H₂O/MeCN 3:1 + 0.05% TFA to a concentration of 10 μg/ml. All samples were stored at –20 °C prior to their use.
+The lyophilized spider venom was dissolved in H₂O/MeCN 3:1 + 0.05% TFA to a concentration of 1 μg/μl. Reference compounds were dissolved in H₂O/MeCN 3:1 + 0.05% TFA to a concentration of 10 μg/ml. All samples were stored at –20 °C prior to their use.
 
 ##### Instruments
 The UHPLC-ESI-MS and MS/MS experiments were performed on a Dionex UltiMate 3000 HPLC instrument (Thermo Scientific, Germering, Germany) equipped with an autosampler, a pump and a diode-array detector (DAD) of the same producer series. The UHPLC system was connected to a QExactive Orbitrap FT mass spectrometer (Thermo Scientific, Waltham, MA, USA) equipped with an HESI source.

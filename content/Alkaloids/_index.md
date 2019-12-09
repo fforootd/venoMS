@@ -5,7 +5,7 @@ weight = 10
 
 ![](/img_Rules/_APA_Intro.png)
 
-An acylpolyamines contains one (mainly) aromatic head moiety, a polyamine backbone chain of various length and an alkaline tail. Optional an amino acid linker, such as asparagine, can be part of the molecule. The combination of various head moieties with polyamine chains of different length and the optional hydroxylation or methylation of the amines lead to an almost infinite diversity of structures. As an example, the first fully characterized acylpolyamine, Arg 636, is shown above.
+An acylpolyamines contains one (mainly) aromatic head moiety, a polyamine backbone chain of various length and an alkaline tail. Optionally, an amino acid linker, such as asparagine, can be part of the molecule. The combination of various head moieties with polyamine chains of different length and the optional hydroxylation or methylation of the amines lead to an almost infinite diversity of structures. As an example, the first fully characterized acylpolyamine, Arg 636, is shown above.
 
 Acylpolyamines are neuroactive compounds with blocking activity on cationic-selective ion channels, namely Ca²⁺ channels, K⁺ channels and ionotropic receptors. In insects, polyamine toxins act as non-competitive inhibitors and cause reversible paralysis by the use-dependent blocking of activated postsynaptic glutamate receptor (GluR) channels. In the vertebrate nervous systems, acylpolyamines were found to inhibit the channels of GluRs, nicotinic acetylcholine receptors or capsaicin receptors.
 
