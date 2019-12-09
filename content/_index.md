@@ -5,7 +5,7 @@ menu:
     main:
         weight: -1
 ---
-#### Welcome to venoMS
+#### venoMS - The low molecular mass spider toxin database
 
 venoMS is a free database for low molecular weight compounds found in spider venoms (< 1000 Da) and provides fast access to ESI-MS/MS spectra, fragment ion annotation and literature references about the structure elucidation, synthesis and biological activity of the metabolites. The spider taxonomy is based on the latest version of the World Spider Catalog.
 
