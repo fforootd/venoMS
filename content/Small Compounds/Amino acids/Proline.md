@@ -2,7 +2,8 @@
 title = "Proline"
 categories = ["C5H9NO2","P116","HDX118",
 "Ctenidae","Lycosidae"]
-tags = ["Cupiennius salei","Lycosa indagatrix"]
+tags = ["S-1","C-1",
+"Cupiennius salei","Lycosa indagatrix"]
 +++
 
 ![](/img/Proline.png)
@@ -13,7 +14,7 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | I                  |
+| Level                     | S-1 / C-1          |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | C₅H₉NO₂            |

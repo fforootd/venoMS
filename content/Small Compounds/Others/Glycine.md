@@ -2,7 +2,8 @@
 title = "Glycine"
 categories = ["C2H5NO2","P76","HDX80",
 "Atracidae","Cupiennius"]
-tags = ["Atrax robustus","Cupiennius salei"]
+tags = ["S-1","C-4",
+"Atrax robustus","Cupiennius salei"]
 +++
 
 ![](/img/Glycine.png)
@@ -11,7 +12,7 @@ tags = ["Atrax robustus","Cupiennius salei"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | V                  |
+| Level                     | S-1 / C-4                  |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | C₂H₅NO₂            |

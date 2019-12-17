@@ -2,7 +2,8 @@
 title = "Adrenaline"
 categories = ["C9H13NO5","P184","HDX189",
 "Araneidae","Cheiracanthiidae"]
-tags = ["Araneus gemma","Cheiracanthium japonicum"]
+tags = ["S-1","C-4",
+"Araneus gemma","Cheiracanthium japonicum"]
 +++
 
 ![](/img/Adrenaline.png)
@@ -11,7 +12,7 @@ tags = ["Araneus gemma","Cheiracanthium japonicum"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | V               |
+| Level                     | S-1 / C-4               |
 | Discovered                | 1987 / A. gemma |
 | Synonym                   | Epinephrine     |
 | Molecular formula         | C₉H₁₃NO₅        |

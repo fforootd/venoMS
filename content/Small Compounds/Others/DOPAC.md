@@ -2,7 +2,8 @@
 title = "DOPAC"
 categories = ["C8H8O4","P169","HDX173",
 "Araneidae"]
-tags = ["Araneus gemma"]
+tags = ["S-1","C-4",
+"Araneus gemma"]
 +++
 
 ![](/img/DOPAC.png)
@@ -11,7 +12,7 @@ tags = ["Araneus gemma"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | V               |
+| Level                     | S-1 / C-4               |
 | Discovered                | 1987 / A. gemma |
 | Synonym                   |                 |
 | Molecular formula         | C₈H₈O₄          |

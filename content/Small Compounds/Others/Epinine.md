@@ -2,7 +2,8 @@
 title = "Epinine"
 categories = ["C9H13NO2","P168","HDX172",
 "Araneidae"]
-tags = ["Araneus gemma"]
+tags = ["S-1","C-4",
+"Araneus gemma"]
 +++
 
 ![](/img/Epinine.png)
@@ -11,7 +12,7 @@ tags = ["Araneus gemma"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | V               |
+| Level                     | S-1 / C-4               |
 | Discovered                | 1987 / A. gemma |
 | Synonym                   |                 |
 | Molecular formula         | C₉H₁₃NO₂        |

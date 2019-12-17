@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn5ßAla43Arg"
 categories = ["C35H60N12O6","P745","D373","HDX762",
 "4-OH-IndAcAsn5ßAla43Arg","Asn5ßAla43Arg",
 "Araneidae"]
-tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla43Arg.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-4 / C-3                    |
 | Discovered                   | 1997 / N. cruentata  |
 | Synonym                      | NPTX 744 / NPTX 744A |
 | Molecular formula            | C₃₅H₆₀N₁₂O₆          |

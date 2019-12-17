@@ -3,7 +3,8 @@ title = "IndAcOrnAsn5ßAla4ßAla4ßAla4"
 categories = ["C45H79N13O7","P914","D457","HDX931",
 "IndAcOrnAsn5ßAla4ßAla4ßAla4","OrnAsn5ßAla4ßAla4ßAla4",
 "Araneidae"]
-tags = ["Nephila clavata"]
+tags = ["S-4","C-3",
+"Nephila clavata"]
 +++
 
 ![](/img/IndAcOrnAsn5bAla4bAla4bAla4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata"]
 
 | Name                         | Value             |
 |------------------------------|-------------------|
-| Level                        | V                 |
+| Level                        | S-4 / C-3                |
 | Discovered                   | 2005 / N. clavata |
 | Synonym                      | NPTX 913G         |
 | Molecular formula            | C₄₅H₇₉N₁₃O₇       |

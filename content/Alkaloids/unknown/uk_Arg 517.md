@@ -1,7 +1,8 @@
 +++
 title = "Arg 517"
 categories = ["Araneidae"]
-tags = ["Argiope florida","Argiope trifasciata"]
+tags = ["S-5","C-4",
+"Argiope florida","Argiope trifasciata"]
 +++
 
 ![](/img/2.png)
@@ -10,7 +11,7 @@ tags = ["Argiope florida","Argiope trifasciata"]
 
 | Name                       | Value                              |
 |----------------------------|------------------------------------|
-| Level                      | VI                                 |
+| Level                      | S-5 / C-4                                 |
 | Discovered                 | 1988 / A. florida & A. trifasciata |
 | Synonym                    | Arg 517                            |
 | Molecular formula          |                                    |

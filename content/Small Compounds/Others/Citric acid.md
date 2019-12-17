@@ -2,7 +2,8 @@
 title = "Citric acid"
 categories = ["C6H8O7","P193","HDX198",
 "Agelenidae","Araneidae","Atracidae","Cupiennius","Lycosidae","Nemesiidae","Palpimanidae","Pisauridae","Salticidae","Segestriidae","Sicariidae","Sparassidae","Theraphosidae","Thomisidae","Titanoecidae","Zodariidae"]
-tags = ["Aculepeira sp.","Agelenopsis aperta","Aphonopelma hentzi","Aphonopelma seemnani","Aphonopelma sp.","Araneus diadematus","Araneus tartaricus","Ariadna sp.","Atrax robustus",
+tags = ["S-1","C-4",
+"Aculepeira sp.","Agelenopsis aperta","Aphonopelma hentzi","Aphonopelma seemnani","Aphonopelma sp.","Araneus diadematus","Araneus tartaricus","Ariadna sp.","Atrax robustus",
 "Brachypelma emilia","Brachypelma smithi",
 "Ceratogyrus marshalli cornuatus","Chilobrachys sp.","Coelotes pastoralis","Cupiennius salei","Cyriopagopus albostriatus","Cyriopagopus hainanus","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Dolomedes gertschi","Dolomedes tenebrosus",

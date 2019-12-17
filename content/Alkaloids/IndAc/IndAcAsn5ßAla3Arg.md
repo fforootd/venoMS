@@ -3,7 +3,8 @@ title = "IndAcAsn5ßAla3Arg"
 categories = ["C31H51N11O5","P658","D329","HDX673",
 "IndAcAsn5ßAla3Arg","Asn5ßAla3Arg",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn5bAla3Arg.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Name                         | Value                      |
 |------------------------------|----------------------------|
-| Level                        | V                          |
+| Level                        | S-4 / C-3                          |
 | Discovered                   | 1997 / N. madagascariensis |
 | Synonym                      | NPTX 657 / NPTX 657E       |
 | Molecular formula            | C₃₁H₅₁N₁₁O₅                |

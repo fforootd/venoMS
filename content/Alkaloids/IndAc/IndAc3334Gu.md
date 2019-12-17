@@ -3,7 +3,8 @@ title = "IndAc3334Gu"
 categories = ["C24H42N8O","P459","D230","HDX469",
 "IndAc3334Gu","3334Gu",
 "Agelenidae"]
-tags = ["Pireneitega luctuosa"]
+tags = ["S-3","C-3",
+"Pireneitega luctuosa"]
 +++
 
 ![](/img/IndAc3334Gu.png)
@@ -12,7 +13,7 @@ tags = ["Pireneitega luctuosa"]
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | IV                 |
+| Level                       | S-3 / C-3                 |
 | Discovered                  | 2013 / P. luctuosa |
 | Synonym                     | ---                |
 | Molecular formula           | C₂₄H₄₂N₈O          |

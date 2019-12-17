@@ -3,7 +3,8 @@ title = "4-OH-IndAc343"
 categories = ["C20H33N5O2","P323","D162","HDX330",
 "4-OH-IndAc334","334",
 "Agelenidae","Thomisidae"]
-tags = ["Agelenopsis aperta","Ozyptila lugubris"]
+tags = ["S-3","C-3",
+"Agelenopsis aperta","Ozyptila lugubris"]
 +++
 
 ![](/img/4-OH-IndAc343.png)
@@ -12,7 +13,7 @@ tags = ["Agelenopsis aperta","Ozyptila lugubris"]
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | IV                 |
+| Level                       | S-3 / C-3                 |
 | Discovered                  | 2009 / O. lugubris |
 | Synonym                     | OZ 375             |
 | Molecular formula           | C₂₀H₃₃N₅O₂         |

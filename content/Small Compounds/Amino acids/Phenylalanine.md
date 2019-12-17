@@ -2,7 +2,8 @@
 title = "Phenylalanine"
 categories = ["C9H11NO2","P166","HDX170",
 "Ctenidae"]
-tags = ["Cupiennius salei"]
+tags = ["S-1","C-1",
+"Cupiennius salei"]
 +++
 
 ![](/img/Phenylalanine.png)
@@ -13,7 +14,7 @@ tags = ["Cupiennius salei"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | I               |
+| Level                     | S-1 / C-1               |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₉H₁₁NO₂        |

@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn5OrnArg"
 categories = ["C28H48N10O7","P637","D319","HDX654",
 "2,4-(OH)2-PhAcAsn5OrnArg","Asn5OrnArg",
 "Araneidae"]
-tags = ["Nephila clavata"]
+tags = ["S-1","C-3",
+"Nephila clavata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5OrnArg.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata"]
 
 | Name                         | Value             |
 |------------------------------|-------------------|
-| Level                        | V                 |
+| Level                        | S-1 / C-3         |
 | Discovered                   | 1990 / N. clavata |
 | Synonym                      | JSTX 4            |
 | Molecular formula            | C₂₈H₄₈N₁₀O₇       |

@@ -2,7 +2,8 @@
 title = "ADP"
 categories = ["C10H15N5O10P2","P428","HDX436",
 "Theraphosidae"]
-tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodora sp."]
+tags = ["S-1","C-2",
+"Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodora sp."]
 +++
 
 ![](/img/ADP.png)
@@ -11,7 +12,7 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodo
 
 | Name                      | Value                                                    |
 |---------------------------|----------------------------------------------------------|
-| Level                     | II [Link](https://doi.org/10.1016/j.toxicon.2013.06.006) |
+| Level                     | S-1 / [C-2](https://doi.org/10.1016/j.toxicon.2013.06.006) |
 | Discovered                | 1975 / A. hentzi & Aphonopelma sp.                       |
 | Synonym                   |                                                          |
 | Molecular formula         | C₁₀H₁₅N₅O₁₀P₂                                            |

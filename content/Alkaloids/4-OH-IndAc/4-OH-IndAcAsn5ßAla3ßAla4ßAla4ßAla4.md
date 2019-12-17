@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn5ßAla3ßAla4ßAla4ßAla4"
 categories = ["C46H81N13O8","P944","D472","HDX961",
 "4-OH-IndAcAsn5ßAla3ßAla4ßAla4ßAla4","Asn5ßAla3ßAla4ßAla4ßAla4",
 "Araneidae"]
-tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla3bAla4bAla4bAla4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 | Name                         | Value             |
 |------------------------------|-------------------|
-| Level                        | V                 |
+| Level                        | S-4 / C-3                 |
 | Discovered                   | 1998 / N. clavata |
 | Synonym                      | NPTX 943E         |
 | Molecular formula            | C₄₆H₈₁N₁₃O₈       |

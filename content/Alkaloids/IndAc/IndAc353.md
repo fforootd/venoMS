@@ -3,7 +3,8 @@ title = "IndAc353"
 categories = ["C21H35N5O","P374","D187","HDX381",
 "IndAc353","353",
 "Thomisidae"]
-tags = ["Ozyptila lugubris"]
+tags = ["S-3","C-3",
+"Ozyptila lugubris"]
 +++
 
 ![](/img/IndAc353.png)
@@ -12,7 +13,7 @@ tags = ["Ozyptila lugubris"]
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | IV                 |
+| Level                       | S-3 / C-3                 |
 | Discovered                  | 2009 / O. lugubris |
 | Synonym                     | OZ 373             |
 | Molecular formula           | C₂₁H₃₅N₅O          |

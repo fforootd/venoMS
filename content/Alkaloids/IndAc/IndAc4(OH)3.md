@@ -3,7 +3,8 @@ title = "IndAc4(OH)3"
 categories = ["C17H26N4O2","P319","D160","HDX325",
 "IndAc4(OH)3","4(OH)3",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-3",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc4(OH)3.png)
@@ -12,7 +13,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-3 / C-3               |
 | Discovered                  | 2019 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₁₇H₂₆N₄O₂       |

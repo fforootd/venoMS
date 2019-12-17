@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn433Lys"
 categories = ["C28H50N8O6","P595","D298","HDX609",
 "2,4-(OH)2-PhAcAsn433Lys","Asn433Lys",
 "Araneidae"]
-tags = ["Nephila clavipes","Nephila inaurata madagascariensis"]
+tags = ["S-1","C-3",
+"Nephila clavipes","Nephila inaurata madagascariensis"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn433Lys.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavipes","Nephila inaurata madagascariensis"]
 
 | Name                         | Value                                    |
 |------------------------------|------------------------------------------|
-| Level                        | IV                                       |
+| Level                        | S-1 / C-3                                       |
 | Discovered                   | 2001 / N. clavipes & N. madagascariensis |
 | Synonym                      | NPTX 594                                 |
 | Molecular formula            | C₂₈H₅₀N₈O₆                               |

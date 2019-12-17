@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn533Arg"
 categories = ["C31H53N11O5","P660","D330","HDX676",
 "4-OH-IndAcAsn533Arg","Asn533Arg",
 "Araneidae"]
-tags = ["Argiope aurantia","Argiope florida","Argiope lobata","Argiope trifasciata"]
+tags = ["S-1","C-3",
+"Argiope aurantia","Argiope florida","Argiope lobata","Argiope trifasciata"]
 +++
 
 ![](/img/4-OH-IndAcAsn533Arg.png)
@@ -12,7 +13,7 @@ tags = ["Argiope aurantia","Argiope florida","Argiope lobata","Argiope trifascia
 
 | Name                         | Value                                                        |
 |------------------------------|--------------------------------------------------------------|
-| Level                        | III                                                          |
+| Level                        | S-1 / C-3                                                          |
 | Discovered                   | 1987 / A. aurantia                                           |
 | Synonym                      | AR 659 / Arg 659 / Argiopinin 3 / Argiotoxin 659 / ArgTX 659 |
 | Molecular formula            | C₃₁H₅₃N₁₁O₅                                                  |

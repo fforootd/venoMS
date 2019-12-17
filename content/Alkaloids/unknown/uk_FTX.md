@@ -1,7 +1,8 @@
 +++
 title = "FTX"
 categories = ["Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-5","C-4",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/2.png)
@@ -10,7 +11,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                       | Value            |
 |----------------------------|------------------|
-| Level                      | VI               |
+| Level                      | S-5 / C-4               |
 | Discovered                 | 1989 / A. aperta |
 | Synonym                    |                  |
 | Molecular formula          |                  |

@@ -1,7 +1,8 @@
 +++
 title = "Arg 657"
 categories = ["Araneidae"]
-tags = ["Argiope lobata"]
+tags = ["S-5","C-4",
+"Argiope lobata"]
 +++
 
 ![](/img/2.png)
@@ -10,7 +11,7 @@ tags = ["Argiope lobata"]
 
 | Name                       | Value         |
 |----------------------------|---------------|
-| Level                      | VI            |
+| Level                      | S-5 / C-4            |
 | Discovered                 | ? / A. lobata |
 | Synonym                    | Arg 657       |
 | Molecular formula          |               |

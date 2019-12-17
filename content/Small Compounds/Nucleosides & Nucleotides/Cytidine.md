@@ -2,7 +2,8 @@
 title = "Cytidine"
 categories = ["C9H13N3O5","P244","HDX250",
 "Agelenidae"]
-tags = ["Agelenopsis aperta","Eratigena agrestis"]
+tags = ["S-1","C-1",
+"Agelenopsis aperta","Eratigena agrestis"]
 +++
 
 ![](/img/Cytidine.png)
@@ -13,7 +14,7 @@ tags = ["Agelenopsis aperta","Eratigena agrestis"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | I                  |
+| Level                     | S-1 / C-1                  |
 | Discovered                | 2004 / E. agrestis |
 | Synonym                   |                    |
 | Molecular formula         | C₉H₁₃N₃O₅          |

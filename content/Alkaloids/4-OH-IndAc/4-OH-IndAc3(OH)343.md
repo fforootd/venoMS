@@ -3,7 +3,8 @@ title = "4-OH-IndAc3(OH)343"
 categories = ["C23H40N6O3","P449","D225","HDX458",
 "4-OH-IndAc3(OH)343","3(OH)343",
 "Agelenidae"]
-tags = ["Agelenopsis aperta","Hololena curta"]
+tags = ["S-1","C-1",
+"Agelenopsis aperta","Hololena curta"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)343.png)
@@ -16,7 +17,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 | Name                        | Value                      |
 |-----------------------------|----------------------------|
-| Level                       | III                        |
+| Level                       | S-1 / C-1                  |
 | Discovered                  | 1990 / A. aperta           |
 | Synonym                     | AG 448 / Agel 448 / HO 448 |
 | Molecular formula           | C₂₃H₄₀N₆O₃                 |

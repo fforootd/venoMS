@@ -3,7 +3,8 @@ title = "4-OH-IndAcßAla343"
 categories = ["C23H38N6O3","P447","D224","HDX456",
 "4-OH-IndAcßAla343","ßAla343",
 "Zodariidae"]
-tags = ["Lachesana sp.*"]
+tags = ["S-3","C-3",
+"Lachesana sp.*"]
 +++
 
 ![](/img/4-OH-IndAcbAla343.png)
@@ -12,7 +13,7 @@ tags = ["Lachesana sp.*"]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3                   |
 | Discovered                  | 2009 / Lachesana sp. |
 | Synonym                     | LH 446               |
 | Molecular formula           | C₂₃H₃₈N₆O₃           |

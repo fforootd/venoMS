@@ -3,7 +3,8 @@ title = "4-OH-Bz34(4-OH-Bz)"
 categories = ["C21H27N3O4","P386","D193","HDX392",
 "4-OH-Bz34(4-OH-Bz)","34(4-OH-Bz)",
 "Gnaphosidae"]
-tags = ["Drassodes sp."]
+tags = ["S-3","C-3",
+"Drassodes sp."]
 +++
 
 ![](/img/4-OH-Bz34(4-OH-Bz).png)
@@ -12,7 +13,7 @@ tags = ["Drassodes sp."]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3                   |
 | Discovered                  | 2009 / Drassodes sp. |
 | Synonym                     | DR 385               |
 | Molecular formula           | C₂₁H₂₇N₃O₄           |

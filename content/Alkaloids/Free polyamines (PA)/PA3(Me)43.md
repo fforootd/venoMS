@@ -2,7 +2,7 @@
 title = "PA3(Me)43"
 categories = ["C11H28N4","P217","D109","HDX223",
 "PA3(Me)43","3(Me)43"]
-tags = []
+tags = ["S-X","C-3",]
 +++
 
 ![](/img/PA3(Me)43.png)
@@ -11,7 +11,7 @@ tags = []
 
 | Name                        | Value     |
 |-----------------------------|-----------|
-| Level                       | V         |
+| Level                       | S-X / C-3 |
 | Discovered                  |           |
 | Synonym                     |           |
 | Molecular formula           | C₁₁H₂₈N₄  |
@@ -51,8 +51,8 @@ tags = []
 
 ## References
 
-| Title                                                                                   | Reference                                                                | Spider        | Name | Content                            | Link                                            |
-|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------|------|------------------------------------|-------------------------------------------------|
+| Title                                                                                   | Reference                                                                | Spider        | Name | Content                                | Link                                            |
+|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------|------|----------------------------------------|-------------------------------------------------|
 | Structure elucidation of polyamine toxins in the venom of the spider Larinioides folium | S. Eichenberger, L. Bigler, S. Bienz, Helv. Chim. Acta 2007, 61, 161-164 | L. patagiatus |      | PA3(Me)43 as polyamine backbone in APA | [Link](https://doi.org/10.2533/chimia.2007.161) |
 
 ## Spider species

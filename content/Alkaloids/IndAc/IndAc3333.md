@@ -3,7 +3,8 @@ title = "IndAc3333"
 categories = ["C22H38N6O","P403","D202","HDX411",
 "IndAc3333","3333",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-1",
+"Agelenopsis aperta"]
 +++
 ![](/img/IndAc3333.png)
 
@@ -13,7 +14,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-3 / C-1               |
 | Discovered                  | 2019 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₂₂H₃₈N₆O        |

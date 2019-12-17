@@ -3,7 +3,8 @@ title = "IndAcAsn5"
 categories = ["C18H27N5O3","P374","D187","HDX382",
 "IndAcAsn5","Asn5",
 "Araneidae"]
-tags = ["Argiope lobata"]
+tags = ["S-4","C-3",
+"Argiope lobata"]
 +++
 
 ![](/img/IndAcAsn5.png)
@@ -12,7 +13,7 @@ tags = ["Argiope lobata"]
 
 | Name                        | Value                             |
 |-----------------------------|-----------------------------------|
-| Level                       | V                                 |
+| Level                       | S-4 / C-3                                 |
 | Discovered                  | ? / A. lobata                     |
 | Synonym                     | Arg 373 / Pseudoargiopinin 3      |
 | Molecular formula           | C₁₉H₂₇N₅O₃                        |

@@ -2,7 +2,8 @@
 title = "O-Acetylcholine"
 categories = ["C7H16NO2","P146","HDX146",
 "Sparassidae","Theraphosidae"]
-tags = ["Aphonopelma seemanni",
+tags = ["S-1","C-4",
+"Aphonopelma seemanni",
 "Chilobrachys sp.","Cyriopagopus albostriatus","Cyriopagopus hainanus","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Eusparassus oculatus",
 "Micrommata virescens virvirescenes"]
@@ -14,7 +15,7 @@ tags = ["Aphonopelma seemanni",
 
 | Name                | Value       |
 |---------------------|-------------|
-| Level               | III         |
+| Level               | S-1 / C-4         |
 | Discovered          | 2008 / div. |
 | Synonym             |             |
 | Molecular formula   | C₇H₁₆NO₂    |

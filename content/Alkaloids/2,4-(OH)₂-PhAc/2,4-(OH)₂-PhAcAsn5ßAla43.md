@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla43"
 categories = ["C27H47N7O6","P566","D283","HDX578",
 "2,4-(OH)2-PhAcAsn5ßAla43","Asn5ßAla43",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephila pilipes","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-1","C-2",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephila pilipes","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla43.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephila pilipes",
 
 | Name                         | Value                                                                          |
 |------------------------------|--------------------------------------------------------------------------------|
-| Level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Level                        | S-1 / [C-2](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
 | Discovered                   | 1987 / N. clavata                                                              |
 | Synonym                      | JSTX 3 / JSTX                                                                  |
 | Molecular formula            | C₂₇H₄₇N₇O₆                                                                     |

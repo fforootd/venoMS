@@ -2,7 +2,8 @@
 title = "AMP"
 categories = ["C10H14N5O7P","P348","HDX355",
 "Theraphosidae"]
-tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodora sp."]
+tags = ["S-1","C-1",
+"Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodora sp."]
 +++
 
 ![](/img/AMP.png)
@@ -13,7 +14,7 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum","Lasiodo
 
 | Name                      | Value                              |
 |---------------------------|------------------------------------|
-| Level                     | I                                  |
+| Level                     | S-1 / C-1                                  |
 | Discovered                | 1975 / A. hentzi & Aphonopelma sp. |
 | Synonym                   |                                    |
 | Molecular formula         | C₁₀H₁₄N₅O₇P                        |

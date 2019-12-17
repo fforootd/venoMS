@@ -3,7 +3,8 @@ title = "PA3(OH)3(OH)343"
 categories = ["C16H40N6O2","P349","D175","HDX358",
 "PA3(OH)3(OH)343","3(OH)3(OH)343",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/PA3(OH)3(OH)343.png)
@@ -14,7 +15,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-3 / C-1               |
 | Discovered                  | 2019 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₁₆H₄₀N₆O₂       |

@@ -3,7 +3,8 @@ title = "IndLac4(Me₂)3(Me₂)3²⁺"
 categories = ["C25H45N5O2","D223",
 "IndLac4(Me2)3(Me2)3","4(Me2)3(Me2)3",
 "Macrothelidae"]
-tags = ["Macrothele gigas"]
+tags = ["S-1","C-3",
+"Macrothele gigas"]
 +++
 
 ![](/img/IndLac4(Me2)3(Me2)3.png)
@@ -12,7 +13,7 @@ tags = ["Macrothele gigas"]
 
 | Name                            | Value           |
 |---------------------------------|-----------------|
-| Level                           | III             |
+| Level                           | S-1 / C-3             |
 | Discovered                      | 2004 / M. gigas |
 | Synonym                         | MG 30           |
 | Molecular formula               | C₂₅H₄₅N₅O₂²⁺    |

@@ -3,7 +3,8 @@ title = "4-OH-IndAc34"
 categories = ["C17H26N4O2","P319","D160","HDX326",
 "4-OH-IndAc34","34",
 "Thomisidae"]
-tags = ["Ozyptila lugubris"]
+tags = ["S-3","C-3",
+"Ozyptila lugubris"]
 +++
 
 ![](/img/4-OH-IndAc34.png)
@@ -12,9 +13,9 @@ tags = ["Ozyptila lugubris"]
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | IV                 |
-| Discovered               | 2009 / O. lugubris |
-| Synonym         | OZ 318A            |
+| Level                       | S-3 / C-3          |
+| Discovered                  | 2009 / O. lugubris |
+| Synonym                     | OZ 318A            |
 | Molecular formula           | C₁₇H₂₆N₄O₂         |
 | CAS                         | ---                |
 |                             |                    |
@@ -57,7 +58,7 @@ tags = ["Ozyptila lugubris"]
 
 ## Spider species
 
-| Spider species    | Family     | Discovered          |
+| Spider species    | Family     | Discovered             |
 |-------------------|------------|------------------------|
 | Ozyptila lugubris | Thomisidae | 2009 / S. Eichenberger |
 

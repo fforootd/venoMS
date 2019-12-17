@@ -2,7 +2,8 @@
 title = "Phosphoric acid"
 categories = ["H3O4P","P98","HDX103",
 "Atracidae","Theraphosidae"]
-tags = ["Atrax robustus","Stromatopelma calceatum griseipes"]
+tags = ["S-1","C-4",
+"Atrax robustus","Stromatopelma calceatum griseipes"]
 +++
 
 ![](/img/Phosphoric acid.png)
@@ -11,7 +12,7 @@ tags = ["Atrax robustus","Stromatopelma calceatum griseipes"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | V                  |
+| Level                     | S-1 / C-4                  |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | H₃O₄P              |

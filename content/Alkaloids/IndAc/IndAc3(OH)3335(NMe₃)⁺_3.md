@@ -3,7 +3,8 @@ title = "IndAc3(OH)3335(NMe₃)⁺"
 categories = ["C30H56N7O2","P546","D273","HDX552",
 "IndAc3(OH)3335(NMe3)","3(OH)3335(NMe3)",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc3(OH)3335(NMe3).png)
@@ -16,7 +17,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-3 / C-1               |
 | Discovered                  | 2019 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₃₀H₅₆N₇O₂⁺      |

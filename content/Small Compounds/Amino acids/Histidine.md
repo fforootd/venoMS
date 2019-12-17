@@ -2,7 +2,8 @@
 title = "Histidine"
 categories = ["C6H9N3O2","P156","HDX161",
 "Cupiennius"]
-tags = ["Cupiennius salei"]
+tags = ["S-1","C-1",
+"Cupiennius salei"]
 +++
 
 ![](/img/Histidine.png)
@@ -13,7 +14,7 @@ tags = ["Cupiennius salei"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | I               |
+| Level                     | S-1 / C-1               |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₆H₉N₃O₂        |

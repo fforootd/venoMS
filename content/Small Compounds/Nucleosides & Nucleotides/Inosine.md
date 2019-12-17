@@ -2,7 +2,8 @@
 title = "Inosine"
 categories = ["C10H12N4O5","P269","HDX274",
 "Araneidae","Sicariidae","Theraphosidae","Theridiidae"]
-tags = ["Cyriopagopus hainanus","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata"]
+tags = ["S-1","C-1",
+"Cyriopagopus hainanus","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata"]
 +++
 
 ![](/img/Inosine.png)
@@ -13,7 +14,7 @@ tags = ["Cyriopagopus hainanus","Latrodectus menavodi","Loxosceles reclusa","Par
 
 | Name                      | Value             |
 |---------------------------|-------------------|
-| Level                     | I                 |
+| Level                     | S-1 / C-1                 |
 | Discovered                | 1975 / L. reclusa |
 | Synonym                   |                   |
 | Molecular formula         | C₁₀H₁₂N₄O₅        |

@@ -2,6 +2,7 @@
 title = "IndAc4(OH)333"
 categories = ["C23H40N6O2","P433","D217","HDX441",
 "IndAc4(OH)333","4(OH)333"]
+tags = ["S-X","C-3"]
 +++
 
 ![](/img/IndAc4(OH)333.png)
@@ -10,7 +11,7 @@ categories = ["C23H40N6O2","P433","D217","HDX441",
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-X / C-3               |
 | Discovered                  | --- / --- |
 | Synonym                     | AG 432h          |
 | Molecular formula           | C₂₃H₄₀N₆O₂       |

@@ -2,7 +2,8 @@
 title = "2',5'-Bissulfated guanosine, 3'-ß-fucose"
 categories = ["C16H23N5O15S2","P590","HDX599",
 "Agelenenidae"]
-tags = ["Eratigena agrestis"]
+tags = ["S-2","C-4",
+"Eratigena agrestis"]
 +++
 
 ![](/img/2-5-bissulfated guanosine_3-b-fucose.png)
@@ -11,7 +12,7 @@ tags = ["Eratigena agrestis"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | III                |
+| Level                     | S-2 / C-4                |
 | Discovered                | 2004 / E. agrestis |
 | Synonym                   |                    |
 | Molecular formula         | C₁₆H₂₃N₅O₁₅S₂      |

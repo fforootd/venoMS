@@ -2,7 +2,8 @@
 title = "Choline"
 categories = ["C5H14NO","P104","HDX105",
 "Araneidae","Segestriidae"]
-tags = ["Araneus diadematus","Ariadna sp."]
+tags = ["S-1","C-1",
+"Araneus diadematus","Ariadna sp."]
 +++
 
 ![](/img/Choline.png)
@@ -13,7 +14,7 @@ tags = ["Araneus diadematus","Ariadna sp."]
 
 | Name                   | Value                              |
 |------------------------|------------------------------------|
-| Level                  | I                                  |
+| Level                  | S-1 / C-1                                  |
 | Discovered             | 2008 / A. diadematus & Ariadna sp. |
 | Synonym                |                                    |
 | Molecular formula      | C₅H₁₄NO                            |

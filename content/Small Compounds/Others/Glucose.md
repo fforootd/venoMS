@@ -2,7 +2,8 @@
 title = "Glucose"
 categories = ["C6H12O6","P181","HDX187",
 "Atracidae","Theraphosidae"]
-tags = ["Atrax robustus","Eurypelma californicum"]
+tags = ["S-1","C-4",
+"Atrax robustus","Eurypelma californicum"]
 +++
 
 ![](/img/Glucose.png)
@@ -11,7 +12,7 @@ tags = ["Atrax robustus","Eurypelma californicum"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | V                  |
+| Level                     | S-1 / C-4                  |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | C₆H₁₂O₆            |

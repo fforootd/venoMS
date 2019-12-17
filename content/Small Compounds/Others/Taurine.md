@@ -2,7 +2,8 @@
 title = "Taurine"
 categories = ["C2H7NO3S","P126","HDX130",
 "Cupiennius"]
-tags = ["Cupiennius salei"]
+tags = ["S-1","C-1",
+"Cupiennius salei"]
 +++
 
 ![](/img/Taurine.png)
@@ -13,7 +14,7 @@ tags = ["Cupiennius salei"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | I               |
+| Level                     | S-1 / C-1               |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₂H₇NO₃S        |

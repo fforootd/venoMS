@@ -2,7 +2,8 @@
 title = "Guanosine"
 categories = ["C10H13N5O5","P284","HDX291",
 "Agelenidae","Theridiidae"]
-tags = ["Agelenopsis aperta","Latrodectus menavodi"]
+tags = ["S-1","C-1",
+"Agelenopsis aperta","Latrodectus menavodi"]
 +++
 
 ![](/img/Guanosine.png)
@@ -13,7 +14,7 @@ tags = ["Agelenopsis aperta","Latrodectus menavodi"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | I                  |
+| Level                     | S-1 / C-1                  |
 | Discovered                | 2001 / L. menavodi |
 | Synonym                   |                    |
 | Molecular formula         | C₁₀H₁₃N₅O₅         |

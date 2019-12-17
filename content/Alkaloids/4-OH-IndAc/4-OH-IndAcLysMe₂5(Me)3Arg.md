@@ -3,7 +3,8 @@ title = "4-OH-IndAcLysMe₂5(Me)3Arg"
 categories = ["C33H58N10O4","P659","D330","HDX671",
 "4-OH-IndAcLysMe25(Me)3Arg","LysMe25(Me)3Arg",
 "Araneidae"]
-tags = ["Argiope lobata"]
+tags = ["S-4","C-3",
+"Argiope lobata"]
 +++
 
 ![](/img/4-OH-IndAcLysMe25(Me)3Arg.png)
@@ -12,7 +13,7 @@ tags = ["Argiope lobata"]
 
 | Name                         | Value                  |
 |------------------------------|------------------------|
-| Level                        | V                      |
+| Level                        | S-4 / C-3                      |
 | Discovered                   | 1989 / A. lobata       |
 | Synonym                      | Arg 658 / Argiopinin 5 |
 | Molecular formula            | C₃₃H₅₈N₁₀O₄            |

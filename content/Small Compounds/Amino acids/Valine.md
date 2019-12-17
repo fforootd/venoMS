@@ -2,7 +2,8 @@
 title = "Valine"
 categories = ["C5H11NO2","P118","HDX122",
 "Cupiennius"]
-tags = ["Cupiennius salei"]
+tags = ["S-1","C-1",
+"Cupiennius salei"]
 +++
 
 ![](/img/Valine.png)
@@ -13,7 +14,7 @@ tags = ["Cupiennius salei"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | I               |
+| Level                     | S-1 / C-1       |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₅H₁₁NO₂        |

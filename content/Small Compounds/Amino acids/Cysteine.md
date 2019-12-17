@@ -2,7 +2,8 @@
 title = "Cysteine"
 categories = ["C3H7NO2S","P122","HDX127",
 "Ctenidae","Lycosidae"]
-tags = ["Cupiennius salei","Lycosa indagatrix"]
+tags = ["S-1","C-1",
+"Cupiennius salei","Lycosa indagatrix"]
 +++
 
 ![](/img/Cysteine.png)
@@ -13,7 +14,7 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 
 | Name                      | Value                |
 |---------------------------|----------------------|
-| Level                     | I                    |
+| Level                     | S-1 / C-1            |
 | Discovered                | 1988 / L. indagatrix |
 | Synonym                   |                      |
 | Molecular formula         | C₃H₇NO₂S             |

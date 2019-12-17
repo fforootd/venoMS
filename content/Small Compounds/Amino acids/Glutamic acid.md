@@ -2,7 +2,8 @@
 title = "Glutamic acid"
 categories = ["C5H9NO4","P148","HDX153",
 "Araneidae","Cupiennius","Ctenidae","Cyrtaucheniidae","Eresidae","Gnaphosidae","Lycosidae","Nemesiidae","Oxyopidae","Philodromidae","Pisauridae","Plectreuridae","Sparassidae","Theraphosidae","Titanoecidae","Zodariidae"]
-tags = ["Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Araneus gemma","Araneus diadematus","Araneus sp.","Araneus tartaricus","Avicularia avicularis",
+tags = ["S-1","C-1",
+"Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Araneus gemma","Araneus diadematus","Araneus sp.","Araneus tartaricus","Avicularia avicularis",
 "Cupiennius salei","Cyriopagopus albostriatum","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Delena cancerides","Dolomedes gertschi","Dolomedes tenebrosus","Drassodes sp.",
 "Eresus sp.","Eriophora edax","Eurypelma californicum","Eurypelma vellutinum","Eusparassus oculatus",
@@ -28,7 +29,7 @@ tags = ["Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Arane
 
 | Name                      | Value                             |
 |---------------------------|-----------------------------------|
-| Level                     | I                                 |
+| Level                     | S-1 / C-1                         |
 | Discovered                | 1957 / L. erythrognatha & P. fera |
 | Synonym                   |                                   |
 | Molecular formula         | C₅H₉NO₄                           |

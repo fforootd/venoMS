@@ -1,7 +1,8 @@
 +++
 title = "Parawixin10"
 categories = ["Araneidae"]
-tags = ["Parawixia bistriata"]
+tags = ["S-5","C-4",
+"Parawixia bistriata"]
 +++
 
 ![](/img/2.png)
@@ -10,7 +11,7 @@ tags = ["Parawixia bistriata"]
 
 | Name                       | Value               |
 |----------------------------|---------------------|
-| Level                      | VI                  |
+| Level                      | S-5 / C-4                  |
 | Discovered                 | 2011 / P. bistriata |
 | Synonym                    |                     |
 | Molecular formula          |                     |

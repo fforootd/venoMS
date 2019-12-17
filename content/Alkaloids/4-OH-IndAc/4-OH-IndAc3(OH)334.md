@@ -3,7 +3,8 @@ title = "4-OH-IndAc3(OH)334"
 categories = ["C23H40N6O3","P449","D225","HDX458",
 "4-OH-IndAc3(OH)334","3(OH)334",
 "Agelenidae"]
-tags = ["Agelenopsis aperta","Pireneitega luctuosa"]
+tags = ["S-3","C-1",
+"Agelenopsis aperta","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)334.png)
@@ -16,7 +17,7 @@ tags = ["Agelenopsis aperta","Pireneitega luctuosa"]
 
 | Name                        | Value                          |
 |-----------------------------|--------------------------------|
-| Level                       | IV                             |
+| Level                       | S-3 / C-1                             |
 | Discovered                  | 2000 / A. aperta & P. luctuosa |
 | Synonym                     | AG 448a / PB 448               |
 | Molecular formula           | C₂₃H₄₀N₆O₃                     |

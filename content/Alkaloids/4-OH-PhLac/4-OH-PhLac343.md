@@ -3,7 +3,8 @@ title = "4-OH-PhLac343"
 categories = ["C19H34N4O3","P321","D161","HDX329",
 "4-OH-PhLac343","343",
 "Atracidae","Theraphosidae"]
-tags = ["Acanthoscurria geniculata","Atrax robustus",
+tags = ["S-2","C-3",
+"Acanthoscurria geniculata","Atrax robustus",
 "Chilobrachys sp.",
 "Psalmopoeus irminia",
 "Selenocosmia sp."]
@@ -15,7 +16,7 @@ tags = ["Acanthoscurria geniculata","Atrax robustus",
 
 | Name                        | Value       |
 |-----------------------------|-------------|
-| Level                       | IV          |
+| Level                       | S-2 / C-3   |
 | Discovered                  | 2017 / div. |
 | Synonym                     | PA 366      |
 | Molecular formula           | C₁₉H₃₄N₄O₃  |

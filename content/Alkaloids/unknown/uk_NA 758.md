@@ -1,7 +1,8 @@
 +++
 title = "NA 758"
 categories = ["Araneidae"]
-tags = ["Neoscona arabesca"]
+tags = ["S-5","C-4",
+"Neoscona arabesca"]
 +++
 
 ![](/img/2.png)
@@ -10,7 +11,7 @@ tags = ["Neoscona arabesca"]
 
 | Name                       | Value           |
 |----------------------------|-----------------|
-| Level                      | VI              |
+| Level                      | S-5 / C-4              |
 | Discovered                 | ? / N. arabesca |
 | Synonym                    | NA 758          |
 | Molecular formula          |                 |

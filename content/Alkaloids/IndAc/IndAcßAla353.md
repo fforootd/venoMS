@@ -3,7 +3,8 @@ title = "IndAcßAla353"
 categories = ["C24H40N6O2","P445","D223","HDX453",
 "IndAcßAla353","ßAla353",
 "Zodariidae"]
-tags = ["Lachesana sp.*"]
+tags = ["S-3","C-3",
+"Lachesana sp.*"]
 +++
 
 ![](/img/IndAcbAla353.png)
@@ -12,7 +13,7 @@ tags = ["Lachesana sp.*"]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3                  |
 | Discovered                  | 2009 / Lachesana sp. |
 | Synonym                     | LH 444               |
 | Molecular formula           | C₂₄H₄₀N₆O₂           |

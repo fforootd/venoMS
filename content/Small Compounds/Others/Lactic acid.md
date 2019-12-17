@@ -2,7 +2,8 @@
 title = "Lactic acid"
 categories = ["C3H6O3","P91","HDX94",
 "Atracidae","Theraphosidae"]
-tags = ["Atrax robustus","Stromatopelma calceatum griseipes"]
+tags = ["S-1","C-4",
+    "Atrax robustus","Stromatopelma calceatum griseipes"]
 +++
 
 ![](/img/Lactic acid.png)
@@ -11,7 +12,7 @@ tags = ["Atrax robustus","Stromatopelma calceatum griseipes"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | V                  |
+| Level                     | S-1 / C-4                  |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | C₃H₆O₃             |

@@ -2,7 +2,8 @@
 title = "Uric acid"
 categories = ["C5H4N4O3","P169","HDX174",
 "Theridiidae"]
-tags = ["Latrodectus menavodi"]
+tags = ["S-1","C-4",
+"Latrodectus menavodi"]
 +++
 
 ![](/img/Uric acid.png)
@@ -11,7 +12,7 @@ tags = ["Latrodectus menavodi"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | V                  |
+| Level                     | S-1 / C-4                  |
 | Discovered                | 2001 / L. menavodi |
 | Synonym                   |                    |
 | Molecular formula         | C₅H₄N₄O₃           |

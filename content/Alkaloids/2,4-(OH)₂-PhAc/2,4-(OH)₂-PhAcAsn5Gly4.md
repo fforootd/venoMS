@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn5Gly4"
 categories = ["C23H38N6O6","P495","D248","HDX506",
 "2,4-(OH)2-PhAcAsn5Gly4","Asn5Gly4",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5Gly4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-4 / C-3                    |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 494 / NPTX 494C |
 | Molecular formula            | C₂₃H₃₈N₆O₆           |

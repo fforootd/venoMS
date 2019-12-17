@@ -1,8 +1,9 @@
 +++
 title = "Alanine"
 categories = ["C3H7NO2","P90","HDX94",
-"Cupiennius"]
-tags = ["Cupiennius salei"]
+"Cupiennius",]
+tags = ["S-1","C-4",
+"Cupiennius salei"]
 +++
 
 ![](/img/Alanine.png)
@@ -11,7 +12,7 @@ tags = ["Cupiennius salei"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | V               |
+| Level                     | S-1 / C-4       |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₃H₇NO₂         |

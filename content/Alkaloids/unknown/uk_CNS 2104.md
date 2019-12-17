@@ -1,7 +1,8 @@
 +++
 title = "CNS 2104"
 categories = ["Pisauridae"]
-tags = ["Dolomedes okefinokensis"]
+tags = ["S-5","C-4",
+"Dolomedes okefinokensis"]
 +++
 
 ![](/img/2.png)
@@ -10,7 +11,7 @@ tags = ["Dolomedes okefinokensis"]
 
 | Name                       | Value                   |
 |----------------------------|-------------------------|
-| Level                      | VI                      |
+| Level                      | S-5 / C-4                      |
 | Discovered                 | 1993 / D. okefinokensis |
 | Synonym                    | CNS 2104                |
 | Molecular formula          |                         |

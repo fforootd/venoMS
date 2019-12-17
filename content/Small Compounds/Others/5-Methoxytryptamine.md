@@ -2,7 +2,8 @@
 title = "5-Methoxytryptamine"
 categories = ["C11H14N2O","P191","HDX195",
 "Atracidae"]
-tags = ["Atrax robustus"]
+tags = ["S-1","C-4",
+"Atrax robustus"]
 +++
 
 ![](/img/5-Methoxy-tryptamine.png)
@@ -11,7 +12,7 @@ tags = ["Atrax robustus"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | V                  |
+| Level                     | S-1 / C-4                  |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | C₁₁H₁₄N₂O          |

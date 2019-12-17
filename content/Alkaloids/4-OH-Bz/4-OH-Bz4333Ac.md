@@ -3,7 +3,8 @@ title = "4-OH-Bz4333Ac"
 categories = ["C22H39N5O3","P422","D211","HDX428",
 "4-OH-Bz4333Ac","4333Ac",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-Bz4333Ac.png)
@@ -14,7 +15,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-3 / C-1        |
 | Discovered                  | 2019 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₂₂H₃₉N₅O₃       |

@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn3(Me)43"
 categories = ["C25H41N7O4","P504","D252","HDX514",
 "4-OH-IndAcAsn3(Me)43","Asn3(Me)43",
 "Araneidae"]
-tags = ["Larinioides patagiatus"]
+tags = ["S-3","C-3",
+"Larinioides patagiatus"]
 +++
 ![](/img/4-OH-IndAcAsn3(Me)43.png)
 
@@ -11,9 +12,9 @@ tags = ["Larinioides patagiatus"]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
-| Discovered               | 2006 / L. patagiatus |
-| Synonym         | LF 503A              |
+| Level                       | S-3 / C-3            |
+| Discovered                  | 2006 / L. patagiatus |
+| Synonym                     | LF 503A              |
 | Molecular formula           | C₂₅H₄₁N₇O₄           |
 | CAS                         | ---                  |
 |                             |                      |
@@ -40,9 +41,9 @@ tags = ["Larinioides patagiatus"]
 
 ## Additional MS/MS fragments
 
-| m/z       | Annotation |
-|-----------|------------|
-|           |            |
+| m/z | Annotation |
+|-----|------------|
+|     |            |
 
 ## Recorded MS/MS spectra
 

@@ -3,7 +3,8 @@ title = "IndAcßAla343"
 categories = ["C23H38N6O2","P431","D216","HDX439",
 "IndAcßAla343","ßAla343",
 "Zodariidae"]
-tags = ["Lachesana sp.*"]
+tags = ["S-3","C-3",
+"Lachesana sp.*"]
 +++
 
 ![](/img/IndAcbAla343.png)
@@ -12,7 +13,7 @@ tags = ["Lachesana sp.*"]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3                   |
 | Discovered                  | 2009 / Lachesana sp. |
 | Synonym                     | LH 430               |
 | Molecular formula           | C₂₃H₃₈N₆O₂           |

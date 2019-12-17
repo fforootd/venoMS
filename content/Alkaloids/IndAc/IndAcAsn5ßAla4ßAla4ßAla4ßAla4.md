@@ -3,7 +3,8 @@ title = "IndAcAsn5ßAla4ßAla4ßAla4ßAla4"
 categories = ["C47H83N13O7","P942","D471","HDX958",
 "IndAcAsn5ßAla4ßAla4ßAla4ßAla4","Asn5ßAla4ßAla4ßAla4ßAla4",
 "Araneidae"]
-tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn5bAla4bAla4bAla4bAla4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-4 / C-3                    |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 941 / NPTX 941D |
 | Molecular formula            | C₄₇H₈₃N₁₃O₇          |

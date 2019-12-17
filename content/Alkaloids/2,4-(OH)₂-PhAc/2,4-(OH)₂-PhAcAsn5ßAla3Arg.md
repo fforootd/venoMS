@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla3Arg"
 categories = ["C29H50N10O7","P651","D326","HDX667",
 "2,4-(OH)2-PhAcAsn5ßAla3Arg","Asn5ßAla3Arg",
 "Araneidae"]
-tags = ["Argiope florida","Argiope trifasciata","Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Argiope florida","Argiope trifasciata","Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla3Arg.png)
@@ -12,7 +13,7 @@ tags = ["Argiope florida","Argiope trifasciata","Nephila clavata","Nephila inaur
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-4 / C-3                    |
 | Discovered                   | ? / ?                |
 | Synonym                      | Arg 650 / NPTX 650 E |
 | Molecular formula            | C₂₉H₅₀N₁₀O₇          |

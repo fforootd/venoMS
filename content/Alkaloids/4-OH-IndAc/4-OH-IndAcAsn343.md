@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn343"
 categories = ["C24H39N7O4","P490","D245","HDX501",
 "4-OH-IndAcAsn343","Asn343",
 "Araneidae"]
-tags = ["Larinioides patagiatus"]
+tags = ["S-3","C-3",
+"Larinioides patagiatus"]
 +++
 
 ![](/img/4-OH-IndAcAsn343.png)
@@ -12,7 +13,7 @@ tags = ["Larinioides patagiatus"]
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | IV                   |
+| Level                        | S-3 / C-3                   |
 | Discovered                   | 2009 / L. patagiatus |
 | Synonym                      | LF 489D              |
 | Molecular formula            | C₂₄H₃₉N₇O₄           |

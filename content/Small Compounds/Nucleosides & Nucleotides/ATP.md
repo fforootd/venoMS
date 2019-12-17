@@ -11,7 +11,7 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum"]
 
 | Name                      | Value                              |
 |---------------------------|------------------------------------|
-| Level                     | V                                  |
+| Level                     | S-1 / C-4                                  |
 | Discovered                | 1975 / A. hentzi & Aphonopelma sp. |
 | Synonym                   |                                    |
 | Molecular formula         | C₁₀H₁₆N₅O₁₃P₃                      |

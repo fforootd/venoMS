@@ -1,7 +1,8 @@
 +++
 title = "AN 622"
 categories = ["Araneidae"]
-tags = ["Araneus gemma"]
+tags = ["S-5","C-4",
+"Araneus gemma"]
 +++
 
 ![](/img/2.png)
@@ -10,7 +11,7 @@ tags = ["Araneus gemma"]
 
 | Name                       | Value        |
 |----------------------------|--------------|
-| Level                      | VI           |
+| Level                      | S-5 / C-4           |
 | Discovered                 | ? / A. gemma |
 | Synonym                    | AN 622       |
 | Molecular formula          |              |

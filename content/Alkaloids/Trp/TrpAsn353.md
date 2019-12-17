@@ -3,7 +3,8 @@ title = "TrpAsn353"
 categories = ["C26H44N8O3","P517","D259","HDX529",
 "TrpAsn353","Asn353",
 "Araneidae"]
-tags = ["Larinioides patagiatus"]
+tags = ["S-3","C-3",
+"Larinioides patagiatus"]
 +++
 
 ![](/img/TrpAsn353.png)
@@ -12,7 +13,7 @@ tags = ["Larinioides patagiatus"]
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | IV                   |
+| Level                        | S-3 / C-3                   |
 | Discovered                   | 2009 / L. patagiatus |
 | Synonym                      | LF 516B              |
 | Molecular formula            | C₂₆H₄₄N₈O₃           |

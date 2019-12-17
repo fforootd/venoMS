@@ -3,7 +3,8 @@ title = "4-OH-IndAcLysMe53Arg"
 categories = ["C31H54N10O4","P631","D316","HDX645",
 "4-OH-IndAcLysMe53Arg","LysMe53Arg",
 "Araneidae"]
-tags = ["Argiope lobata"]
+tags = ["S-4","C-3",
+"Argiope lobata"]
 +++
 
 ![](/img/4-OH-IndAcLysMe53Arg.png)
@@ -12,7 +13,7 @@ tags = ["Argiope lobata"]
 
 | Name                         | Value                  |
 |------------------------------|------------------------|
-| Level                        | V                      |
+| Level                        | S-4 / C-3              |
 | Discovered                   | 1988 / A. lobata       |
 | Synonym                      | Arg 630 / Argiopinin 4 |
 | Molecular formula            | C₃₁H₅₄N₁₀O₄            |

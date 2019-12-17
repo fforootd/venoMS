@@ -3,7 +3,8 @@ title = "4-OH-IndAc334"
 categories = ["C20H33N5O2","P376","D188","HDX384",
 "4-OH-IndAc334","334",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-3",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-IndAc334.png)
@@ -12,7 +13,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-3 / C-3               |
 | Discovered                  | 2019 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₂₀H₃₃N₅O₂       |

@@ -3,7 +3,8 @@ title = "IndAcAsn533Arg"
 categories = ["C31H53N11O4","P644","D322","HDX659",
 "IndAcAsn533Arg","Asn533Arg",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn533Arg.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Name                         | Value       |
 |------------------------------|-------------|
-| Level                        | V           |
+| Level                        | S-4 / S-3           |
 | Discovered                   | ? / ?       |
 | Synonym                      | NTPX 643F   |
 | Molecular formula            | C₃₁H₅₃N₁₁O₄ |

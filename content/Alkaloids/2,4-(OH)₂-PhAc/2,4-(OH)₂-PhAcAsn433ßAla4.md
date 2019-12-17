@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn433ßAla4"
 categories = ["C29H52N8O6","P609","D305","HDX622",
 "2,4-(OH)2-PhAcAsn433ßAla4","Asn433ßAla4",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-1","C-3",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn433bAla4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-1 / C-3            |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 608 / NPTX 608B |
 | Molecular formula            | C₂₉H₅₂N₈O₆           |
@@ -57,7 +58,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Title                                                                                                                                                        | Reference                                                                                                                     | Spider                      | Name         | Content                          | Link                                                                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------|----------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Detection of new spider toxins from a Nephilengys borbonica venom gland using on-line µ-column HPLC continuous flow (FRIT) FAB LC/MS and MS/MS               | Y. Itagaki, T. Fujita, H. Naoki, T. Yasuhara, M. Andriantsiferana, T. Nakajima, Nat. Toxins 1997, 5, 1-13                     | N. borbonica                | Name         | Content                          | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A1%3C1%3A%3AAID-NT1%3E3.0.CO%3B2-8)  |
+| Detection of new spider toxins from a Nephilengys borbonica venom gland using on-line µ-column HPLC continuous flow (FRIT) FAB LC/MS and MS/MS               | Y. Itagaki, T. Fujita, H. Naoki, T. Yasuhara, M. Andriantsiferana, T. Nakajima, Nat. Toxins 1997, 5, 1-13                     | N. borbonica                | NPTX 608         | CID                          | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A1%3C1%3A%3AAID-NT1%3E3.0.CO%3B2-8)  |
 | Mass spectrometric structure determination of spider toxins: Arginine-containing acylpolyamines from venoms of Brazilian garden spider Nephilengys cruentata | M. S. Palma, Y. Itagaki, T. Fujita, M. Hisada, H. Naoki, T. Nakajima, Nat. Toxins 1997, 5, 47-57                              | N. cruentata                |              | MS/MS                            | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A2%3C47%3A%3AAID-NT1%3E3.0.CO%3B2-X) |
 | Structural characterization of a new acylpolyaminetoxin from the venom of Brazilian garden spider Nephilenys cruentata                                       | M. S. Palma, Y. Itagaki, T. Fujita, H. Naoki, T. Nakajima, Toxicon 1998, 36, 485-493                                          | N. cruentata                | NPTX 608     | Frit-FAB-MS                      | [Link](https://www.sciencedirect.com/science/article/pii/S0041010197001396)                                        |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                    | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                                         | N. borbonica & N. cruentata | NPTX 608B    | Review                           | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                  |

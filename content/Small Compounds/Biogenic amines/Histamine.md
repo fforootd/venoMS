@@ -2,7 +2,8 @@
 title = "Histamine"
 categories = ["C5H9N3","P112","HDX116",
 "Araneidae","Cheiracanthiidae","Ctenidae","Cupiennius","Lamponidae","Lycosidae","Salticidae","Sicariidae","Sparassidae","Theraphosidae"]
-tags = ["Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
+tags = ["S-1","C-1",
+"Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
 "Eusparassus oculatus",
 "Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa godeffroyi","Lycosa indagatrix","Lycosa praegrandis",
 "Neoscona nautica",
@@ -17,7 +18,7 @@ tags = ["Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
 
 | Name                      | Value                             |
 |---------------------------|-----------------------------------|
-| Level                     | I                                 |
+| Level                     | S-1 / C-1                                 |
 | Discovered                | 1957 / L. erythrognatha & P. fera |
 | Synonym                   |                                   |
 | Molecular formula         | C₅H₉N₃                            |

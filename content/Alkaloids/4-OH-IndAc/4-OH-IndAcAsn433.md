@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn433"
 categories = ["C24H39N7O4","P490","D245","HDX501",
 "4-OH-IndAcAsn433","Asn433",
 "Araneidae"]
-tags =["Larinioides patagiatus","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags =["S-3","C-3",
+"Larinioides patagiatus","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn433.png)
@@ -12,7 +13,7 @@ tags =["Larinioides patagiatus","Nephila inaurata madagascariensis","Nephilingis
 
 | Name                         | Value                          |
 |------------------------------|--------------------------------|
-| Level                        | IV                             |
+| Level                        | S-3 / C-3                             |
 | Discovered                   | 1997 / N. borbonica            |
 | Synonym                      | LF 489E / NPTX 489 / NPTX 489B |
 | Molecular formula            | C₂₄H₃₉N₇O₄                     |

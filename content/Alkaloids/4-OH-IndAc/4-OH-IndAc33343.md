@@ -2,6 +2,7 @@
 title = "4-OH-IndAc33343"
 categories = ["C26H47N7O2","P490","D245","HDX500",
 "4-OH-IndAc33343","33343"]
+tags = ["S-3","C-3"]
 +++
 
 ![](/img/4-OH-IndAc33343.png)
@@ -10,7 +11,7 @@ categories = ["C26H47N7O2","P490","D245","HDX500",
 
 | Name                        | Value       |
 |-----------------------------|-------------|
-| Level                       | IV          |
+| Level                       | S-3 / C-3   |
 | Discovered                  | - / -       |
 | Synonym                     | AG 489b     |
 | Molecular formula           | C₂₆H₄₇N₇O₂  |

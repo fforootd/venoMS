@@ -3,7 +3,8 @@ title = "IndAc3433"
 categories = ["C23H40N6O","P417","D209","HDX425",
 "IndAc3433","3433",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-1","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc3433.png)
@@ -16,7 +17,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | I                |
+| Level                       | S-1 / C-1                |
 | Discovered                  | 2002 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₂₃H₄₀N₆O        |

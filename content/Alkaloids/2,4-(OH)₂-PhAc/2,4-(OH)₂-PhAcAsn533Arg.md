@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn533Arg"
 categories = ["C29H52N10O6","P637","D319","HDX653",
 "2,4-(OH)2-PhAcAsn533Arg","Asn533Arg",
 "Araneidae"]
-tags = ["Araneus gemma","Araneus ventricosus","Argiope aurantia","Argiope florida","Argiope lobata","Argiope sp.","Argiope trifasciata"]
+tags = ["S-1","C-2",
+"Araneus gemma","Araneus ventricosus","Argiope aurantia","Argiope florida","Argiope lobata","Argiope sp.","Argiope trifasciata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn533Arg.png)
@@ -12,7 +13,7 @@ tags = ["Araneus gemma","Araneus ventricosus","Argiope aurantia","Argiope florid
 
 | Name                         | Value                                                                          |
 |------------------------------|--------------------------------------------------------------------------------|
-| Level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Level                        | S-1 / [C-2](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
 | Discovered                   | 1986 / A. lobata                                                               |
 | Synonym                      | AR 636 / Arg 636 / Argiopine / Argiotoxin 636 / ArgTX 636 / ATX / AVTX 636     |
 | Molecular formula            | C₂₉H₅₂N₁₀O₆                                                                    |

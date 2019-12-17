@@ -2,7 +2,8 @@
 title = "Serotonin"
 categories = ["C10H12N2O","P177","HDX182",
 "Agelenidae","Cheiracanthiidae","Ctenidae","Lamponidae","Lycosidae","Theraphosidae","Theridiidae"]
-tags = ["Acanthoscurria paulensis","Acanthoscurria sternalis",
+tags = ["S-1","C-1",
+"Acanthoscurria paulensis","Acanthoscurria sternalis",
 "Cheiracanthium japonicum",
 "Hololena curta",
 "Lampona cylindrata","Lasiodora klugi","Latrodectus tredecimguttatus","Lycosa erythrognatha",
@@ -18,7 +19,7 @@ tags = ["Acanthoscurria paulensis","Acanthoscurria sternalis",
 
 | Name                      | Value                      |
 |---------------------------|----------------------------|
-| Level                     | I                          |
+| Level                     | S-1 / C-1                          |
 | Discovered                | 1963 / div.                |
 | Synonym                   | 5-Hydroxytryptamine / 5-HT |
 | Molecular formula         | C₁₀H₁₂N₂O                  |

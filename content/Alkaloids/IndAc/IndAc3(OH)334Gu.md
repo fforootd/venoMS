@@ -3,7 +3,8 @@ title = "IndAc3(OH)334Gu"
 categories = ["C24H42N8O2","P475","D238","HDX485",
 "IndAc3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc3(OH)334Gu.png)
@@ -14,7 +15,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-3 / C-1               |
 | Discovered                  | 2019 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₂₄H₄₂N₈O₂       |

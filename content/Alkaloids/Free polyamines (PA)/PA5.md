@@ -3,7 +3,8 @@ title = "PA5"
 categories = ["C5H14N2","P103","D52","HDX108",
 "PA5","5",
 "Araneidae","Ctenidae","Theraphosidae"]
-tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope bruennichi",
+tags = ["S-1","C-3",
+"Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope bruennichi",
 "Cupiennius salei",
 "Neoscona nautica",
 "Stromatopelma calceatum griseipe"]
@@ -15,7 +16,7 @@ tags = ["Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope br
 
 | Name                        | Value       |
 |-----------------------------|-------------|
-| Level                       | V           |
+| Level                       | S-1 / C-3           |
 | Discovered                  | 1980 / div. |
 | Synonym                     | Cadaverine  |
 | Molecular formula           | C₅H₁₄N₂     |

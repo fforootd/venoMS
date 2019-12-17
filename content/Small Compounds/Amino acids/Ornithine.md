@@ -2,7 +2,8 @@
 title = "Ornithine"
 categories = ["C5H12N2O2","P133","HDX139",
 "Ctenidae"]
-tags =["Cupiennius salei"]
+tags =["S-1","C-1",
+"Cupiennius salei"]
 +++
 
 ![](/img/Ornithine.png)
@@ -13,7 +14,7 @@ tags =["Cupiennius salei"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | I               |
+| Level                     | S-1 / C-1               |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₅H₁₂N₂O₂       |

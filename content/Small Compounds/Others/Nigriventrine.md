@@ -2,7 +2,8 @@
 title = "Nigriventrine"
 categories = ["C12H14N4O13","P423","HDX430",
 "Ctenidae"]
-tags = ["Phoneutria nigriventer"]
+tags = ["S-2","C-2",
+"Phoneutria nigriventer"]
 +++
 
 ![](/img/Nigriventrine.png)
@@ -11,7 +12,7 @@ tags = ["Phoneutria nigriventer"]
 
 | Name                     | Value                                                    |
 |--------------------------|----------------------------------------------------------|
-| Level                    | II [Link](https://doi.org/10.1016/j.toxicon.2010.11.021) |
+| Level                    | S-2 / [C-2](https://doi.org/10.1016/j.toxicon.2010.11.021) |
 | Discovered               | 2011 / P. nigriventer                                    |
 | Synonym                  |                                                          |
 | Molecular formula        | C₁₂H₁₄N₄O₁₃                                              |

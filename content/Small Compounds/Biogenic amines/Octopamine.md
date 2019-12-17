@@ -2,7 +2,8 @@
 title = "Octopamine"
 categories = ["C8H11NO2","P154","HDX159",
 "Agelenidae","Atracidae","Cheiracanthiidae","Nemesiidae","Sparassidae","Theraphosidae"]
-tags = ["Atrax robustus",
+tags = ["S-1","C-4",
+"Atrax robustus",
 "Ceratogyrus marshalli cornuatus","Cheiracanthium japonicum",
 "Delena cancerides",
 "Eusparassus oculatus",
@@ -17,7 +18,7 @@ tags = ["Atrax robustus",
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | V                  |
+| Level                     | S-1 / C-4                  |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | C₈H₁₁NO₂           |

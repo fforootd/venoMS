@@ -3,7 +3,8 @@ title = "IndAcAsn433"
 categories = ["C24H39N7O3","P474","D237","HDX484",
 "IndAcAsn433","Asn433",
 "Araneidae"]
-tags = ["Larinioides patagiatus","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-1","C-2",
+"Larinioides patagiatus","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn433.png)
@@ -12,7 +13,7 @@ tags = ["Larinioides patagiatus","Nephilingis borbonica","Nephilingis cruentata"
 
 | Name                        | Value                                                                          |
 |-----------------------------|--------------------------------------------------------------------------------|
-| Level                       | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Level                       | S-1 / [C-2](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
 | Discovered                  | 1997 / N. borbonica                                                            |
 | Synonym                     | LF 473E / NPTX 473 / NPTX 473B                                                 |
 | Molecular formula           | C₂₄H₃₉N₇O₃                                                                     |

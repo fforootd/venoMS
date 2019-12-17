@@ -3,7 +3,8 @@ title = "4-OH-Bz3334Gu"
 categories = ["C21H39N7O2","P422","D211","HDX432",
 "4-OH-Bz3334Gu","3334Gu",
 "Agelenidae"]
-tags = ["Pireneitega luctuosa"]
+tags = ["S-3","C-3",
+"Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-Bz3334Gu.png)
@@ -12,7 +13,7 @@ tags = ["Pireneitega luctuosa"]
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | IV                 |
+| Level                       | S-3 / C-3          |
 | Discovered                  | 2000 / P. luctuosa |
 | Synonym                     | PB 421             |
 | Molecular formula           | C₂₁H₃₉N₇O₂         |

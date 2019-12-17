@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn5Gly4"
 categories = ["C25H39N7O5","P518","D259","HDX529",
 "4-OH-IndAcAsn5Gly4","Asn5Gly4",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5Gly4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-4 / C-3            |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 517 / NPTX 517C |
 | Molecular formula            | C₂₅H₃₉N₇O₅           |

@@ -3,7 +3,8 @@ title = "IndAcAsn5OrnArg"
 categories = ["C30H49N11O5","P644","D322","HDX660",
 "IndAcAsn5OrnArg","Asn5OrnArg",
 "Araneidae"]
-tags = ["Nephila clavata"]
+tags = ["S-1","C-3",
+"Nephila clavata"]
 +++
 
 ![](/img/IndAcAsn5OrnArg.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata"]
 
 | Name                         | Value                   |
 |------------------------------|-------------------------|
-| Level                        | III                     |
+| Level                        | S-1 / C-3                     |
 | Discovered                   | 1988 / N. clavata       |
 | Synonym                      | Nephilatoxin 9 / NPTX 9 |
 | Molecular formula            | C₃₀H₄₉N₁₁O₅             |

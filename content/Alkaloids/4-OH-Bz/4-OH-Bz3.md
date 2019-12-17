@@ -3,7 +3,8 @@ title = "4-OH-Bz3"
 categories = ["C10H14N2O2","P195","D98","HDX200",
 "4-OH-Bz3","3",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-1","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-Bz3.png)
@@ -14,7 +15,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-1 / C-1        |
 | Discovered                  | 2019 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₁₀H₁₄N₂O₂       |

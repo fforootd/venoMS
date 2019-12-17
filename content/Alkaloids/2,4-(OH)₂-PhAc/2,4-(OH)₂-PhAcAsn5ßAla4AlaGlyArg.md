@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4AlaGlyArg"
 categories = ["C25H60N12O9","P793","D397","HDX811",
 "2,4-(OH)2-PhAcAsn5ßAla4AlaGlyArg","Asn5ßAla4AlaGlyArg",
 "Araneidae"]
-tags = ["Nephila clavata","Nephilingis borbonica"]
+tags = ["S-1","C-3",
+"Nephila clavata","Nephilingis borbonica"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla4AlaGlyArg.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephilingis borbonica"]
 
 | Name                         | Value             |
 |------------------------------|-------------------|
-| Level                        | III               |
+| Level                        | S-1 / C-3               |
 | Discovered                   | 1990 / N. clavata |
 | Synonym                      | Clavamine         |
 | Molecular formula            | C₃₅H₆₀N₁₂O₉       |

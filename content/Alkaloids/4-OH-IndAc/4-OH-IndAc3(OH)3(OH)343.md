@@ -3,7 +3,8 @@ title = "4-OH-IndAc3(OH)3(OH)343"
 categories = ["C26H47N7O4","P522","D261","HDX532",
 "4-OH-IndAc3(OH)3(OH)343","3(OH)3(OH)343",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)3(OH)343.png)
@@ -16,7 +17,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value             |
 |-----------------------------|-------------------|
-| Level                       | IV                |
+| Level                       | S-3 / C-1                |
 | Discovered                  | ? / A. aperta     |
 | Synonym                     | AG 521 / Agel 521 |
 | Molecular formula           | C₂₆H₄₇N₇O₄        |

@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcOrnAsn5ßAla4ßAla4ßAla4"
 categories = ["C43H78N12O9","P907","D454","HDX925",
 "2,4-(OH)2-PhAcOrnAsn5ßAla4ßAla4ßAla4","OrnAsn5ßAla4ßAla4ßAla4",
 "Araneidae"]
-tags = ["Nephila clavata"]
+tags = ["S-4","C-3",
+"Nephila clavata"]
 +++
 
 ![](/img/2-4-OH2-PhAcOrnAsn5bAla4bAla4bAla4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata"]
 
 | Name                         | Value             |
 |------------------------------|-------------------|
-| Level                        | V                 |
+| Level                        | S-4 / C-3         |
 | Discovered                   | 2005 / N. clavata |
 | Synonym                      | NPTX 906G         |
 | Molecular formula            | C₄₃H₇₈N₁₂O₉       |

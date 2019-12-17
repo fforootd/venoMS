@@ -3,7 +3,8 @@ title = "4-OH-Bz3(OH)343"
 categories = ["C20H37N5O3","P396","D198","HDX404",
 "4-OH-Bz3(OH)343","3(OH)343",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-3",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-Bz3(OH)343.png)

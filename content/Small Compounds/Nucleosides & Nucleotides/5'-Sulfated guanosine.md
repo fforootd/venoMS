@@ -2,7 +2,8 @@
 title = "5'-Sulfated guanosine"
 categories = ["C10H13N5O8S","P364","HDX371",
 "Agelenenidae"]
-tags = ["Eratigena agrestis"]
+tags = ["S-2","C-4",
+"Eratigena agrestis"]
 +++
 
 ![](/img/5-sulfated guanosine.png)
@@ -11,7 +12,7 @@ tags = ["Eratigena agrestis"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | III                |
+| Level                     | S-2 / C-4                |
 | Discovered                | 2004 / E. agrestis |
 | Synonym                   |                    |
 | Molecular formula         | C₁₀H₁₃N₅O₈S        |

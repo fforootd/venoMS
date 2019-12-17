@@ -2,7 +2,8 @@
 title = "PwTx-II"
 categories = ["C16H21N5O2","P316","HDX324",
 "Araneidae"]
-tags = ["Parawixia bistriata"]
+tags = ["S-2","C-2",
+"Parawixia bistriata"]
 +++
 
 ![](/img/PwTx-II.png)
@@ -11,7 +12,7 @@ tags = ["Parawixia bistriata"]
 
 | Name                      | Value                                                        |
 |---------------------------|--------------------------------------------------------------|
-| Level                     | II [Link](https://doi.org/10.1002/hlca.200590056)            |
+| Level                     | S-2 / [C-2](https://doi.org/10.1002/hlca.200590056)            |
 | Discovered                | 2005 / P. bistriata                                          |
 | Synonym                   | 1,4-Guanidinobutoxy-6-hydroxy-1,2,3,4-tetrahydro-ß-carboline |
 | Molecular formula         | C₁₆H₂₁N₅O₂                                                   |

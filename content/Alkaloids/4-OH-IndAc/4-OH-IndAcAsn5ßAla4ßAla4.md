@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn5ßAla4ßAla4"
 categories = ["C33H55N9O6","P674","D337","HDX687",
 "4-OH-IndAcAsn5ßAla4ßAla4","Asn5ßAla4ßAla4",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla4bAla4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-4 / C-3                   |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 673 / NPTX 673D |
 | Molecular formula            | C₃₃H₅₅N₉O₆           |

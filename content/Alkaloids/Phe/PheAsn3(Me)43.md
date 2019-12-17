@@ -3,7 +3,8 @@ title = "PheAsn3(Me)43"
 categories = ["C24H43N7O3","P478","D239","HDX488",
 "PheAsn3(Me)43","Asn3(Me)43",
 "Araneidae"]
-tags = ["Larinioides patagiatus"]
+tags = ["S-3","C-3",
+"Larinioides patagiatus"]
 +++
 
 ![](/img/PheAsn3(Me)43.png)
@@ -12,7 +13,7 @@ tags = ["Larinioides patagiatus"]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3                   |
 | Discovered                  | 2009 / L. patagiatus |
 | Synonym                     | LF 477A              |
 | Molecular formula           | C₂₄H₄₃N₇O₃           |

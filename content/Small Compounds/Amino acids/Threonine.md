@@ -2,7 +2,8 @@
 title = "Threonine"
 categories = ["C4H9NO3","P120","HDX125",
 "Cupiennius"]
-tags = ["Cupiennius salei"]
+tags = ["S-1","C-1",
+"Cupiennius salei"]
 +++
 
 ![](/img/Threonine.png)
@@ -13,7 +14,7 @@ tags = ["Cupiennius salei"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | I               |
+| Level                     | S-1 / C-1       |
 | Discovered                | 1994 / C. salei |
 | Synonym                   |                 |
 | Molecular formula         | C₄H₉NO₃         |

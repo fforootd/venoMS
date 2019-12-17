@@ -2,7 +2,8 @@
 title = "2'-Sulfated guanosine"
 categories = ["C10H13N5O8S","P364","HDX371",
 "Agelenenidae","Sicariidae"]
-tags = ["Coelotes pastoralis","Loxosceles sp."]
+tags = ["S-2","C-4",
+"Coelotes pastoralis","Loxosceles sp."]
 +++
 
 ![](/img/2-Sulfated_guanosine.png)
@@ -11,7 +12,7 @@ tags = ["Coelotes pastoralis","Loxosceles sp."]
 
 | Name                      | Value                                 |
 |---------------------------|---------------------------------------|
-| Level                     | III                                   |
+| Level                     | S-2 / C-4                             |
 | Discovered                | 2008 / C. pastoralis & Loxosceles sp. |
 | Synonym                   |                                       |
 | Molecular formula         | C₁₀H₁₃N₅O₈S                           |

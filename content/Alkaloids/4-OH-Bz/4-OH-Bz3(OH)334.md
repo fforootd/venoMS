@@ -3,7 +3,8 @@ title = "4-OH-Bz3(OH)334"
 categories = ["C20H37N5O3","P396","D198","HDX404",
 "4-OH-Bz3(OH)334","3(OH)334",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-1","C-1",
+"Agelenopsis aperta"]
 +++
 
 ## Related images
@@ -18,7 +19,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | I                |
+| Level                       | S-1 / C-1                |
 | Discovered                  | 2001 / A. aperta |
 | Synonym                     | AG 395a          |
 | Molecular formula           | C₂₀H₃₇N₅O₃       |

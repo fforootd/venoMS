@@ -2,7 +2,8 @@
 title = "Glutamine"
 categories = ["C5H10N2O3","P147","HDX153",
 "Lycosidae"]
-tags = ["Lycosa indagatrix"]
+tags = ["S-1","C-1",
+"Lycosa indagatrix"]
 +++
 
 ![](/img/Glutamine.png)
@@ -13,7 +14,7 @@ tags = ["Lycosa indagatrix"]
 
 | Name                      | Value                |
 |---------------------------|----------------------|
-| Level                     | I                    |
+| Level                     | S-1 / C-1                    |
 | Discovered                | 1988 / L. indagatrix |
 | Synonym                   |                      |
 | Molecular formula         | C₅H₁₀N₂O₃            |

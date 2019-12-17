@@ -3,7 +3,8 @@ title = "IndAcAsn5ßAla4"
 categories = ["C26H41N7O4","P516","D258","HDX526",
 "IndAcAsn5ßAla4","Asn5ßAla4",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-1","C-3",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn5bAla4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Name                        | Value                                |
 |-----------------------------|--------------------------------------|
-| Level                       | III                                  |
+| Level                       | S-1 / C-3                                  |
 | Discovered                  | 1988 / N. clavata                    |
 | Synonym                     | Nephilatoxin 12 / NPTX 12 / NPTX 515 |
 | Molecular formula           | C₂₆H₄₁N₇O₄                           |

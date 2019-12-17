@@ -3,7 +3,8 @@ title = "4-OH-PhAcAsn5ßAla3"
 categories = ["C23H38N6O5","P479","D240","HDX489",
 "4-OH-PhAcAsn5ßAla3","Asn5ßAla3",
 "Araneidae"]
-tags = ["Nephila clavata"]
+tags = ["S-1","C-2",
+"Nephila clavata"]
 +++
 
 ![](/img/4-OH-PhAcAsn5bAla3.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata"]
 
 | Name                        | Value                                                                          |
 |-----------------------------|--------------------------------------------------------------------------------|
-| Level                       | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Level                       | S-1 / C-2 [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
 | Discovered                  | 1994 / N. clavata                                                              |
 | Synonym                     | Joramine / Joroamine                                                           |
 | Molecular formula           | C₂₃H₃₈N₆O₅                                                                     |

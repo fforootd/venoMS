@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn5Lys(Me)3Arg"
 categories = ["C35H60N12O6","P745","D373","HDX762",
 "4-OH-IndAcAsn5Lys(Me)3Arg","Asn5Lys(Me)3Arg",
 "Araneidae"]
-tags = ["Argiope lobata"]
+tags = ["S-4","C-3",
+"Argiope lobata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5Lys(Me)3Arg.png)
@@ -12,7 +13,7 @@ tags = ["Argiope lobata"]
 
 | Name                         | Value                  |
 |------------------------------|------------------------|
-| Level                        | V                      |
+| Level                        | S-4 / C-3                     |
 | Discovered                   | 1989 / A. lobata       |
 | Synonym                      | Arg 744 / Argiopinin 2 |
 | Molecular formula            | C₃₅H₆₀N₁₂O₆            |

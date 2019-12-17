@@ -3,7 +3,8 @@ title = "2,5-(OH)₂-Bz353(4-OH-Bz)"
 categories = ["C25H36N4O5","P473","D237","HDX481",
 "2,5-(OH)2-Bz353(4-OH-Bz)","353(4-OH-Bz)",
 "Gnaphosidae"]
-tags = ["Drassodes sp."]
+tags = ["S-3","C-3",
+"Drassodes sp."]
 +++
 
 ![](/img/2-5-OH2-Bz353(4-OH-Bz).png)
@@ -12,7 +13,7 @@ tags = ["Drassodes sp."]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3            |
 | Discovered                  | 2009 / Drassodes sp. |
 | Synonym                     | DR 472               |
 | Molecular formula           | C₂₅H₃₆N₄O₅           |

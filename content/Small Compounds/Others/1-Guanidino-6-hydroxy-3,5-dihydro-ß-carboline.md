@@ -2,7 +2,8 @@
 title = "1-Guanidino-6-hydroxy-3,5-dihydro-ß-carboline"
 categories = ["C12H15N5O","P246","HDX254",
 "Araneidae"]
-tags = ["Parawixia bistriata"]
+tags = ["S-4","C-4",
+"Parawixia bistriata"]
 +++
 
 ![](/img/1-Guanidino-6-hydroxy-3-5-dihydro-beta-carboline.png)
@@ -11,7 +12,7 @@ tags = ["Parawixia bistriata"]
 
 | Name                      | Value               |
 |---------------------------|---------------------|
-| Level                     | V                   |
+| Level                     | S-4 / C-4                   |
 | Discovered                | 2009 / P. bistriata |
 | Synonym                   |                     |
 | Molecular formula         | C₁₂H₁₅N₅O           |

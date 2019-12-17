@@ -3,7 +3,8 @@ title = "4-OH-Bz5"
 categories = ["C12H18N2O2","P223","D112","HDX228",
 "4-OH-Bz5","5",
 "Gnaphosidae"]
-tags = ["Drassodes sp."]
+tags = ["S-1","C-3",
+"Drassodes sp."]
 +++
 
 ![](/img/4-OH-Bz5.png)
@@ -12,7 +13,7 @@ tags = ["Drassodes sp."]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-1 / C-3                   |
 | Discovered                  | 2009 / Drassodes sp. |
 | Synonym                     | DR 222               |
 | Molecular formula           | C₁₂H₁₈N₂O₂           |

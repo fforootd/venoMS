@@ -3,7 +3,8 @@ title = "PA3(OH)334Gu"
 categories = ["C14H35N7O","P318","D159","HDX328",
 "PA3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
-tags = ["Pireneitega luctuosa"]
+tags = ["S-3","C-3",
+"Pireneitega luctuosa"]
 +++
 
 ![](/img/PA3(OH)334Gu.png)
@@ -12,7 +13,7 @@ tags = ["Pireneitega luctuosa"]
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | IV                 |
+| Level                       | S-3 / C-3                 |
 | Discovered                  | 2005 / P. luctuosa |
 | Synonym                     | ---                |
 | Molecular formula           | C₁₄H₃₅N₇O          |

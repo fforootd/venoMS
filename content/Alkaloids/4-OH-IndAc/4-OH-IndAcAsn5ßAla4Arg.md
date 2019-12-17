@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn5ßAla4Arg"
 categories = ["C32H53N11O6","P688","D344","HDX704",
 "4-OH-IndAcAsn5ßAla4Arg","Asn5ßAla4Arg",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla4Arg.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruen
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-4 / C-3                    |
 | Discovered                   | 1997 / N. cruentata  |
 | Synonym                      | NPTX 687 / NPTX 687D |
 | Molecular formula            | C₃₂H₅₃N₁₁O₆          |

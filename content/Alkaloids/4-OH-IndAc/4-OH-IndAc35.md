@@ -3,7 +3,8 @@ title = "4-OH-IndAc35"
 categories = ["C18H28N4O2","P333","D167","HDX340",
 "4-OH-IndAc35","35",
 "Thomisidae"]
-tags = ["Ozyptila lugubris"]
+tags = ["S-3","C-3",
+"Ozyptila lugubris"]
 +++
 
 ![](/img/4-OH-IndAc35.png)
@@ -12,7 +13,7 @@ tags = ["Ozyptila lugubris"]
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | IV                 |
+| Level                       | S-3 / C-3                 |
 | Discovered                  | 2009 / O. lugubris |
 | Synonym                     | OZ 332A            |
 | Molecular formula           | C₁₈H₂₈N₄O₂         |

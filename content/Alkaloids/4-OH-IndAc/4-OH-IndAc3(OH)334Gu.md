@@ -3,7 +3,8 @@ title = "4-OH-IndAc3(OH)334Gu"
 categories = ["C24H42N8O3","P491","D246","HDX502",
 "4-OH-IndAc3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
-tags = ["Pireneitega luctuosa"]
+tags = ["S-3","C-3",
+"Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)334Gu.png)
@@ -12,7 +13,7 @@ tags = ["Pireneitega luctuosa"]
 
 | Name                         | Value              |
 |------------------------------|--------------------|
-| Level                        | IV                 |
+| Level                        | S-3 / C-3          |
 | Discovered                   | 2000 / P. luctuosa |
 | Synonym                      | PB 490             |
 | Molecular formula            | C₂₄H₄₂N₈O₃         |
@@ -41,9 +42,9 @@ tags = ["Pireneitega luctuosa"]
 
 ## Additional MS/MS fragments
 
-| m/z       | Annotation |
-|-----------|------------|
-|           |            |
+| m/z | Annotation |
+|-----|------------|
+|     |            |
 
 ## Recorded MS/MS spectra
 

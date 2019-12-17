@@ -2,7 +2,8 @@
 title = "Tryptophan"
 categories = ["C11H12N2O2","P205","HDX210",
 "Lycosidae"]
-tags = ["Lycosa indagatrix"]
+tags = ["S-1","C-1",
+"Lycosa indagatrix"]
 +++
 
 ![](/img/Tryptophan.png)
@@ -13,7 +14,7 @@ tags = ["Lycosa indagatrix"]
 
 | Name                      | Value                |
 |---------------------------|----------------------|
-| Level                     | I                    |
+| Level                     | S-1 / C-1                    |
 | Discovered                | 1988 / L. indagatrix |
 | Synonym                   |                      |
 | Molecular formula         | C₁₁H₁₂N₂O₂           |

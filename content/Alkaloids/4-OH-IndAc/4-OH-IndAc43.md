@@ -3,7 +3,8 @@ title = "4-OH-IndAc43"
 categories = ["C17H26N4O2","P319","D160","HDX326",
 "4-OH-IndAc43","43",
 "Thomisidae"]
-tags = ["Ozyptila lugubris"]
+tags = ["S-3","C-3",
+"Ozyptila lugubris"]
 +++
 
 ![](/img/4-OH-IndAc43.png)
@@ -12,7 +13,7 @@ tags = ["Ozyptila lugubris"]
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | IV                 |
+| Level                       | S-3 / C-3                 |
 | Discovered                  | 2009 / O. lugubris |
 | Synonym                     | OZ 318B            |
 | Molecular formula           | C₁₇H₂₆N₄O₂         |

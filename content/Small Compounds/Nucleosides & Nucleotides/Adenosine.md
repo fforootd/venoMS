@@ -2,7 +2,8 @@
 title = "Adenosine"
 categories = ["C10H13N5O4","P268","HDX274",
 "Agelenenidae","Theraphosidae","Theridiidae"]
-tags = ["Agelenopsis aperta","Cyriopagopus lividum","Latrodectus menavodi" ]
+tags = ["S-1","C-1",
+"Agelenopsis aperta","Cyriopagopus lividum","Latrodectus menavodi" ]
 +++
 
 ![](/img/Adenosine.png)
@@ -13,7 +14,7 @@ tags = ["Agelenopsis aperta","Cyriopagopus lividum","Latrodectus menavodi" ]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | I                  |
+| Level                     | S-1 / C-1                  |
 | Discovered                | 2001 / L. menavodi |
 | Synonym                   |                    |
 | Molecular formula         | C₁₀H₁₃N₅O₄         |

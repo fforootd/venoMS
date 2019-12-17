@@ -3,7 +3,8 @@ title = "PhAcAsn343"
 categories = ["C22H38N6O3","P435","D218","HDX444",
 "PhAcAsn343","Asn343",
 "Araneidae"]
-tags = ["Larinioides patagiatus"]
+tags = ["S-3","C-3",
+"Larinioides patagiatus"]
 +++
 
 ![](/img/PhAcAsn343.png)
@@ -12,7 +13,7 @@ tags = ["Larinioides patagiatus"]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3                   |
 | Discovered                  | 2009 / L. patagiatus |
 | Synonym                     | LF 434D              |
 | Molecular formula           | C₂₂H₃₈N₆O₃           |

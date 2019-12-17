@@ -3,7 +3,8 @@ title = "PhLacAsn353"
 categories = ["C24H42N6O4","P479","D240","HDX489",
 "PhLacAsn353","Asn353",
 "Araneidae"]
-tags = ["Larinioides patagiatus"]
+tags = ["S-3","C-3",
+"Larinioides patagiatus"]
 +++
 
 ![](/img/PhLacAsn353.png)
@@ -12,7 +13,7 @@ tags = ["Larinioides patagiatus"]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3                   |
 | Discovered                  | 2009 / L. patagiatus |
 | Synonym                     | LF 478B              |
 | Molecular formula           | C₂₄H₄₂N₆O₄           |

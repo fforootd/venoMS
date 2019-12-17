@@ -3,7 +3,8 @@ title = "4-OH-IndAc3(OH)333"
 categories = ["C22H38N6O3","P435","D218","HDX444",
 "4-OH-IndAc3(OH)333","3(OH)333",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)333.png)
@@ -16,9 +17,9 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
-| Discovered               | 2019 / A. aperta |
-| Synonym         | ---              |
+| Level                       | S-3 / C-1        |
+| Discovered                  | 2019 / A. aperta |
+| Synonym                     | ---              |
 | Molecular formula           | C₂₂H₃₈N₆O₃       |
 | CAS                         | ---              |
 |                             |                  |
@@ -62,9 +63,9 @@ tags = ["Agelenopsis aperta"]
 
 ## References
 
-| Title     | Reference   | Spider    | Name   | Content  | Link |
-|-----------|-------------|-----------|--------|----------|-----|
-|           |             |           |        |          |     |
+| Title | Reference | Spider | Name | Content | Link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 

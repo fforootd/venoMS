@@ -3,7 +3,8 @@ title = "IndAc3(OH)335(NMe₃)⁺"
 categories = ["C27H49N6O2","P489","D245","HDX494",
 "IndAc3(OH)335(NMe3)","3(OH)335(NMe3)",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-1","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc3(OH)335(NMe3).png)
@@ -14,7 +15,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value                                   |
 |-----------------------------|-----------------------------------------|
-| Level                       | III                                     |
+| Level                       | S-1 / C-1                                     |
 | Discovered                  | 1992 / A. aperta                        |
 | Synonym                     | AG 488 / AG 489a / Agel 489 / Agel 489a |
 | Molecular formula           | C₂₇H₄₉N₆O₂⁺                             |

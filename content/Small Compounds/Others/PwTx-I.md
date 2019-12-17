@@ -2,7 +2,8 @@
 title = "PwTx-I"
 categories = ["C15H21N5O","P288","HDX296",
 "Araneidae"]
-tags = ["Parawixia bistriata"]
+tags = ["S-2","C-2",
+"Parawixia bistriata"]
 +++
 
 ![](/img/PwTx-I.png)
@@ -11,7 +12,7 @@ tags = ["Parawixia bistriata"]
 
 | Name                      | Value                                             |
 |---------------------------|---------------------------------------------------|
-| Level                     | II [Link](https://doi.org/10.1002/hlca.200590056) |
+| Level                     | S-2 / [C-2](https://doi.org/10.1002/hlca.200590056) |
 | Discovered                | 2005 / P. bistriata                               |
 | Synonym                   | 6-Hydroxytrypargine                               |
 | Molecular formula         | C₁₅H₂₁N₅O                                         |

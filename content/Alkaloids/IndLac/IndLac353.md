@@ -3,7 +3,8 @@ title = "IndLac353"
 categories = ["C22H37N5O2","P404","D202","HDX412",
 "IndLac353","353",
 "Halonoproctidae"]
-tags = ["Hebestatis theveneti"]
+tags = ["S-4","C-3",
+"Hebestatis theveneti"]
 +++
 
 ![](/img/IndLac353.png)
@@ -12,7 +13,7 @@ tags = ["Hebestatis theveneti"]
 
 | Name                        | Value               |
 |-----------------------------|---------------------|
-| Level                       | V                   |
+| Level                       | S-4 / C-3                  |
 | Discovered                  | 1990 / H. theveneti |
 | Synonym                     | Het 403             |
 | Molecular formula           | C₂₂H₃₇N₅O₂          |

@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn3(Me)4(Me)3Arg"
 categories = ["C32H55N11O5","P674","D337","HDX688",
 "4-OH-IndAcAsn3(Me)4(Me)3Arg","Asn3(Me)4(Me)3Arg",
 "Araneidae"]
-tags = ["Argiope aurantia","Argiope florida","Argiope trifasciata"]
+tags = ["S-1","C-3",
+"Argiope aurantia","Argiope florida","Argiope trifasciata"]
 +++
 
 ![](/img/4-OH-IndAcAsn3(Me)4(Me)3Arg.png)
@@ -12,7 +13,7 @@ tags = ["Argiope aurantia","Argiope florida","Argiope trifasciata"]
 
 | Name                         | Value                        |
 |------------------------------|------------------------------|
-| Level                        | III                          |
+| Level                        | S-1 / C-3                          |
 | Discovered                   | 1987 / A. aurantia           |
 | Synonym                      | AR 673 / Arg 673 / ArgTX 673 |
 | Molecular formula            | C₃₂H₅₅N₁₁O₅                  |

@@ -3,7 +3,8 @@ title = "2,5-(OH)₂-Bz343(4-OH-Bz)"
 categories = ["C24H34N4O5","P459","D230","HDX467",
 "2,5-(OH)2-Bz343(4-OH-Bz)","343(4-OH-Bz)",
 "Gnaphosidae"]
-tags = ["Drassodes sp."]
+tags = ["S-3","C-3",
+"Drassodes sp."]
 +++
 
 ![](/img/2-5-OH2-Bz343(4-OH-Bz).png)
@@ -12,7 +13,7 @@ tags = ["Drassodes sp."]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3            |
 | Discovered                  | 2009 / Drassodes sp. |
 | Synonym                     | DR 458               |
 | Molecular formula           | C₂₄H₃₄N₄O₅           |

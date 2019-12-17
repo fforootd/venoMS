@@ -3,7 +3,8 @@ title = "IndAc43(OH)33"
 categories = ["C23H40N6O2","P433","D217","HDX441",
 "IndAc43(OH)33","43(OH)33",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/IndAc43(OH)33.png)
@@ -16,7 +17,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-3 / C-1               |
 | Discovered                  | 2019 / A. aperta |
 | Synonym                     | AG 432i          |
 | Molecular formula           | C₂₃H₄₀N₆O₂       |

@@ -3,7 +3,8 @@ title = "2,5-(OH)₂-Bz5"
 categories = ["C15H21N2O3","P239","D120","HDX245",
 "2,5-(OH)2-Bz5","5",
 "Gnaphosidae"]
-tags = ["Drassodes sp."]
+tags = ["S-3","C-1",
+"Drassodes sp."]
 +++
 
 ![](/img/2-5-OH2-Bz5.png)
@@ -12,7 +13,7 @@ tags = ["Drassodes sp."]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3            |
 | Discovered                  | 2009 / Drassodes sp. |
 | Synonym                     | DR 238               |
 | Molecular formula           | C₁₅H₂₁N₂O₃           |

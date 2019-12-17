@@ -3,7 +3,8 @@ title = "IndAcAsn5ßAla43"
 categories = ["C29H48N8O4","P573","D287","HDX584",
 "IndAcAsn5ßAla43","Asn5ßAla43",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-1","C-2",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn5bAla43.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Name                         | Value                                                                          |
 |------------------------------|--------------------------------------------------------------------------------|
-| Level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Level                        | S-1 / [C-2](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
 | Discovered                   | 1988 / N. clavata                                                              |
 | Synonym                      | Nephilatoxin 8 / NPTX 8                                                        |
 | Molecular formula            | C₂₉H₄₈N₈O₄                                                                     |

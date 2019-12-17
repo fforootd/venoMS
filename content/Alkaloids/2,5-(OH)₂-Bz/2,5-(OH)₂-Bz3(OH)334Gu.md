@@ -3,7 +3,8 @@ title = "2,5-(OH)₂-Bz3(OH)334Gu"
 categories = ["C21H39N7O4","P454","D227","HDX465",
 "2,5-(OH)2-Bz3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
-tags = ["Coelotes pastoralis"]
+tags = ["S-2","C-3",
+"Coelotes pastoralis"]
 +++
 
 ![](/img/2-5-OH2-Bz3(OH)334Gu.png)
@@ -12,7 +13,7 @@ tags = ["Coelotes pastoralis"]
 
 | Name                       | Value                |
 |----------------------------|----------------------|
-| Level                      | IV                   |
+| Level                      | S-2 / C-3            |
 | Discovered                 | 2008 / C. pastoralis |
 | Synonym                    | APA 5                |
 | Molecular formula          | C₂₁H₃₉N₇O₄           |

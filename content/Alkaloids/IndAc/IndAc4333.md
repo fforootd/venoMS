@@ -3,7 +3,8 @@ title = "IndAc4333"
 categories = ["C23H40N6O","P417","D209","HDX425",
 "IndAc4333","4333",
 "Agelenidae"]
-tags = ["Agelenopsis aperta","Hololena curta"]
+tags = ["S-1","C-1",
+"Agelenopsis aperta","Hololena curta"]
 +++
 
 ![](/img/IndAc4333.png)
@@ -16,7 +17,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 | Name                        | Value             |
 |-----------------------------|-------------------|
-| Level                       | I                 |
+| Level                       | S-1 / C-1                 |
 | Discovered                  | 1991 / H. curta   |
 | Synonym                     | AG 416b / HO 416b |
 | Molecular formula           | C₂₃H₄₀N₆O         |

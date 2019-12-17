@@ -2,7 +2,8 @@
 title = "Dopamine"
 categories = ["C8H11NO2","P154","HDX159",
 "Agelenidae","Araneidae"]
-tags = ["Araneus gemma","Hololena curta"]
+tags = ["S-1","C-1",
+"Araneus gemma","Hololena curta"]
 +++
 
 ![](/img/Dopamine.png)
@@ -13,7 +14,7 @@ tags = ["Araneus gemma","Hololena curta"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | I               |
+| Level                     | S-1 / C-1               |
 | Discovered                | 1987 / A. gemma |
 | Synonym                   |                 |
 | Molecular formula         | C₈H₁₁NO₂        |

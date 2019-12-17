@@ -3,7 +3,8 @@ title = "4-OH-IndAc3(OH)3(OH)43"
 categories = ["C23H40N6O4","P465","D233","HDX474",
 "4-OH-IndAc3(OH)3(OH)43","3(OH)3(OH)43",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-3",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)3(OH)43.png)
@@ -12,7 +13,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | IV                 |
+| Level                       | S-3 / C-3                |
 | Discovered                  | ? / A. aperta      |
 | Synonym                     | AG 464a / Agel 464 |
 | Molecular formula           | C₂₃H₄₀N₆O₄         |

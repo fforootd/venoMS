@@ -3,7 +3,8 @@ title = "IndAc3(OH)3343"
 categories = ["C26H47N7O2","P490","D245","HDX499",
 "IndAc3(OH)3343","3(OH)3343",
 "Agelenidae"]
-tags = ["Agelenopsis aperta","Hololena curta"]
+tags = ["S-1","C-1",
+"Agelenopsis aperta","Hololena curta"]
 +++
 
 ![](/img/IndAc3(OH)3343.png)
@@ -16,7 +17,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 | Name                        | Value                                     |
 |-----------------------------|-------------------------------------------|
-| Level                       | III                                       |
+| Level                       | S-1 / C-1                                       |
 | Discovered                  | 1990 / A. aperta                          |
 | Synonym                     | AG 489 / Agatoxin 489 / Agel 489 / HO 489 |
 | Molecular formula           | C₂₆H₄₇N₇O₂                                |

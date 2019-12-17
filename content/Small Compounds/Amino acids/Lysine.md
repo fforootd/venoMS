@@ -2,7 +2,8 @@
 title = "Lysine"
 categories = ["C6H14N2O2","P147","HDX153",
 "Ctenidae","Cupiennius","Lycosidae"]
-tags = ["Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Phoneutria fera"]
+tags = ["S-1","C-1",
+"Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Phoneutria fera"]
 +++
 
 ![](/img/Lysine.png)
@@ -13,7 +14,7 @@ tags = ["Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Phoneutri
 
 | Name                      | Value                             |
 |---------------------------|-----------------------------------|
-| Level                     | I                                 |
+| Level                     | S-1 / C-1                                 |
 | Discovered                | 1957 / L. erythrognatha & P. fera |
 | Synonym                   |                                   |
 | Molecular formula         | C₆H₁₄N₂O₂                         |

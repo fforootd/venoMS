@@ -3,7 +3,8 @@ title = "IndAcAsn5ßAla43ßAla4ßAla4"
 categories = ["C43H76N12O6","P857","D429","HDX872",
 "IndAcAsn5ßAla43ßAla4ßAla4","Asn5ßAla43ßAla4ßAla4",
 "Araneidae"]
-tags =["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
+tags =["S-4","C-3",
+"Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn5bAla43bAla4bAla4.png)
@@ -12,7 +13,7 @@ tags =["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-4 / C-3                    |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 856 / NPTX 856A |
 | Molecular formula            | C₄₃H₇₆N₁₂O₆          |

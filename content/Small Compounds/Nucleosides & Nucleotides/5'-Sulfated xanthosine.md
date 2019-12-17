@@ -2,7 +2,8 @@
 title = "5'-Sulfated xanthosine"
 categories = ["C10H12N4O9S","P365","HDX371",
 "Agelenenidae"]
-tags = ["Eratigena agrestis"]
+tags = ["S-2","C-4",
+"Eratigena agrestis"]
 +++
 
 ![](/img/5-sulfated xanthosine.png)
@@ -11,7 +12,7 @@ tags = ["Eratigena agrestis"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | III                |
+| Level                     | S-2 / C-4                |
 | Discovered                | 2004 / E. agrestis |
 | Synonym                   |                    |
 | Molecular formula         | C₁₀H₁₂N₄O₉S        |

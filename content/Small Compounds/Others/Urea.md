@@ -2,7 +2,8 @@
 title = "Urea"
 categories = ["CH4N2O","P61","HDX66",
 "Atracidae"]
-tags = ["Atrax robustus"]
+tags = ["S-1","C-4",
+"Atrax robustus"]
 +++
 
 ![](/img/Urea.png)
@@ -11,7 +12,7 @@ tags = ["Atrax robustus"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | V                  |
+| Level                     | S-1 / C-4                  |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | CH₄N₂O             |

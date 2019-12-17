@@ -3,7 +3,8 @@ title = "4-OH-Bz3(OH)335(NMe₂)"
 categories = ["C23H43N5O3","P438","D219","HDX444",
 "4-OH-Bz3(OH)335(NMe2)","3(OH)335(NMe2)",
 "Agelenidae"]
-tags = ["Agelenopsis aperta"]
+tags = ["S-3","C-1",
+"Agelenopsis aperta"]
 +++
 
 ![](/img/4-OH-Bz3(OH)335(NMe2).png)
@@ -16,7 +17,7 @@ tags = ["Agelenopsis aperta"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-3 / C-1               |
 | Discovered                  | 2019 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₂₃H₄₃N₅O₃       |

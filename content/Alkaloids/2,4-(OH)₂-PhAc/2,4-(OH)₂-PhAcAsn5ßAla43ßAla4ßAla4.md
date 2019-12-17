@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla43ßAla4ßAla4"
 categories = ["C41H75N11O8","P850","D425","HDX866",
 "2,4-(OH)2-PhAcAsn5ßAla43ßAla4ßAla4","Asn5ßAla43ßAla4ßAla4",
 "Araneidae"]
-tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla43bAla4bAla4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-4 / C-3                    |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 849 / NPTX 849A |
 | Molecular formula            | C₄₁H₇₅N₁₁O₈          |

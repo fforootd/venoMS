@@ -3,7 +3,8 @@ title = "PA3(OH)43"
 categories = ["C10H26N4O","P219","D110","HDX226",
 "PA3(OH)43","3(OH)43",
 "Agelenidae"]
-tags = ["Agelenopsis aperta","Hololena curta"]
+tags = ["S-3","C-3",
+"Agelenopsis aperta","Hololena curta"]
 +++
 
 ![](/img/PA3(OH)43.png)
@@ -12,7 +13,7 @@ tags = ["Agelenopsis aperta","Hololena curta"]
 
 | Name                        | Value                       |
 |-----------------------------|-----------------------------|
-| Level                       | IV                          |
+| Level                       | S-3 / C-3                   |
 | Discovered                  | 2005 / A. aperta & H. curta |
 | Synonym                     | ---                         |
 | Molecular formula           | C₁₀H₂₆N₄O                   |

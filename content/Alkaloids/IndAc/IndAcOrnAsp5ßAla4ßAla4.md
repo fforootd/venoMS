@@ -3,7 +3,8 @@ title = "IndAcOrnAsp5ßAla4ßAla4"
 categories = ["C38H64N10O7","P773","D387","HDX788",
 "IndAcOrnAsp5ßAla4ßAla4","OrnAsp5ßAla4ßAla4",
 "Araneidae"]
-tags = ["Nephila clavata"]
+tags = ["S-1","C-3",
+"Nephila clavata"]
 +++
 
 ![](/img/IndAcOrnAsp5bAla4bAla4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata"]
 
 | Name                         | Value                   |
 |------------------------------|-------------------------|
-| Level                        | III                     |
+| Level                        | S-1 / C-3                     |
 | Discovered                   | 1988 / N. clavata       |
 | Synonym                      | Nephilatoxin 7 / NPTX 7 |
 | Molecular formula            | C₃₈H₆₄N₁₀O₇             |

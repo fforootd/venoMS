@@ -2,7 +2,8 @@
 title = "Tyramine"
 categories = ["C8H11NO","P138","HDX142",
 "Atracidae"]
-tags = ["Atrax robustus"]
+tags = ["S-1","C-1",
+"Atrax robustus"]
 +++
 
 ![](/img/Tyramine.png)
@@ -13,7 +14,7 @@ tags = ["Atrax robustus"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | I                  |
+| Level                     | S-1 / C-1                  |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | C₈H₁₁NO            |

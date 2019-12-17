@@ -3,7 +3,8 @@ title = "4-OH-Bz35(4-OH-Bz)"
 categories = ["C22H29N3O4","P400","D200","HDX406",
 "4-OH-Bz35(4-OH-Bz)","35(4-OH-Bz)",
 "Gnaphosidae"]
-tags = ["Drassodes sp."]
+tags = ["S-3","C-3",
+"Drassodes sp."]
 +++
 
 ![](/img/4-OH-Bz35(4-OH-Bz).png)
@@ -12,7 +13,7 @@ tags = ["Drassodes sp."]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3            |
 | Discovered                  | 2009 / Drassodes sp. |
 | Synonym                     | DR 399               |
 | Molecular formula           | C₂₂H₂₉N₃O₄           |

@@ -3,7 +3,8 @@ title = "4-OH-IndAc5333"
 categories = ["C24H42N6O2","P447","D224","HDX456",
 "4-OH-IndAc5333","5333",
 "Pisauridae"]
-tags = ["Dolomedes okefinokensis"]
+tags = ["S-1","C-3",
+"Dolomedes okefinokensis"]
 +++
 
 ![](/img/4-OH-IndAc5333.png)
@@ -12,7 +13,7 @@ tags = ["Dolomedes okefinokensis"]
 
 | Name                        | Value                   |
 |-----------------------------|-------------------------|
-| Level                       | IV                      |
+| Level                       | S-1 / C-3                      |
 | Discovered                  | 1993 / D. okefinokensis |
 | Synonym                     | CNS 2103                |
 | Molecular formula           | C₂₄H₄₂N₆O₂              |

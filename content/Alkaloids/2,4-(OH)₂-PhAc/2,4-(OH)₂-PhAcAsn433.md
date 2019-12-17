@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn433"
 categories = ["C22H38N6O5","P467","D234","HDX478",
 "2,4-(OH)2-PhAcAsn433","Asn433",
 "Araneidae"]
-tags = ["Larinioides patagiatus","Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-1","C-3",
+"Larinioides patagiatus","Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn433.png)
@@ -12,7 +13,7 @@ tags = ["Larinioides patagiatus","Nephila clavata","Nephila inaurata madagascari
 
 | Name                         | Value                          |
 |------------------------------|--------------------------------|
-| Level                        | IV                             |
+| Level                        | S-1 / C-3                      |
 | Discovered                   | 1997 / N. borbonica            |
 | Synonym                      | NPTX 466 / NPTX 466B / LF 466E |
 | Molecular formula            | C₂₂H₃₈N₆O₅                     |

@@ -2,7 +2,8 @@
 title = "Noradrenaline"
 categories = ["C8H11NO3","P170","HDX176",
 "Agelenidae","Araneidae","Cheiracanthiidae","Lamponidae"]
-tags = ["Araneus gemma","Cheiracanthium japonicum","Hololena curta","Lampona cylindrata"]
+tags = ["S-1","C-4",
+"Araneus gemma","Cheiracanthium japonicum","Hololena curta","Lampona cylindrata"]
 +++
 
 ![](/img/Noradrenaline.png)
@@ -11,7 +12,7 @@ tags = ["Araneus gemma","Cheiracanthium japonicum","Hololena curta","Lampona cyl
 
 | Name                      | Value               |
 |---------------------------|---------------------|
-| Level                     | V                   |
+| Level                     | S-1 / C-4                   |
 | Discovered                | 1991 / C. japonicum |
 | Synonym                   |                     |
 | Molecular formula         | C₈H₁₁NO₃            |

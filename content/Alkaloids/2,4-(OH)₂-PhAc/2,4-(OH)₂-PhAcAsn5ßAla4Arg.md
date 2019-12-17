@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4Arg"
 categories = ["C30H52N10O7","P665","D333","HDX681",
 "2,4-(OH)2-PhAcAsn5ßAla4Arg","Asn5ßAla4Arg",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila pilipes","Nephilingis borbonica"]
+tags = ["S-1","C-2",
+"Nephila clavata","Nephila pilipes","Nephilingis borbonica"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla4Arg.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila pilipes","Nephilingis borbonica"]
 
 | Name                         | Value                                                                          |
 |------------------------------|--------------------------------------------------------------------------------|
-| Level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Level                        | S-1 / [C-2](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
 | Discovered                   | 1986 / N. pilipes                                                              |
 | Synonym                      | NSTX 3                                                                         |
 | Molecular formula            | C₃₀H₅₂N₁₀O₇                                                                    |

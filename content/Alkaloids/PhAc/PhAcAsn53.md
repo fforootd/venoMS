@@ -3,7 +3,8 @@ title = "PhAcAsn53"
 categories = ["C20H33N5O3","P392","D196","HDX400",
 "PhAcAsn53","Asn53",
 "Araneidae"]
-tags =["Larinioides patagiatus"]
+tags =["S-3","C-3",
+"Larinioides patagiatus"]
 +++
 
 ![](/img/PhAcAsn53.png)
@@ -12,7 +13,7 @@ tags =["Larinioides patagiatus"]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3                   |
 | Discovered                  | 2009 / L. patagiatus |
 | Synonym                     | LF 391F              |
 | Molecular formula           | C₂₀H₃₃N₅O₃           |

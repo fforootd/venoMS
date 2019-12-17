@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn433ßAla4"
 categories = ["C31H53N9O5","P632","D316","HDX645",
 "4-OH-IndAcAsn433ßAla4","Asn433ßAla4",
 "Araneidae"]
-tags = ["Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn433bAla4.png)
@@ -12,7 +13,7 @@ tags = ["Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | V                    |
+| Level                        | S-4 / C-3                    |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 631 / NPTX 631B |
 | Molecular formula            | C₃₁H₅₃N₉O₅           |

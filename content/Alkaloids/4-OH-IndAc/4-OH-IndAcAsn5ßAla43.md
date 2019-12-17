@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn5ßAla43"
 categories = ["C29H48N8O5","P589","D295","HDX601",
 "4-OH-IndAcAsn5ßAla43","Asn5ßAla43",
 "Araneidae"]
-tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-1","C-2",
+"Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla43.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
 
 | Name                         | Value                                                                          |
 |------------------------------|--------------------------------------------------------------------------------|
-| Level                        | II [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Level                        | S-1 / [C-2](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
 | Discovered                   | 1996 / N. clavata                                                              |
 | Synonym                      | Nephilatoxin 1 / NPTX 1                                                        |
 | Molecular formula            | C₂₉H₄₈N₈O₅                                                                     |

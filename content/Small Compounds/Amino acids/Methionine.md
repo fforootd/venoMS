@@ -2,7 +2,8 @@
 title = "Methionine"
 categories = ["C5H11NO2S","P150","HDX154",
 "Cupiennius","Lycosidae"]
-tags = ["Cupiennius salei","Lycosa indagatrix"]
+tags = ["S-1","C-3",
+"Cupiennius salei","Lycosa indagatrix"]
 +++
 
 ![](/img/Methionine.png)
@@ -11,7 +12,7 @@ tags = ["Cupiennius salei","Lycosa indagatrix"]
 
 | Name                      | Value                |
 |---------------------------|----------------------|
-| Level                     | V                    |
+| Level                     | S-1 / C-4            |
 | Discovered                | 1988 / L. indagatrix |
 | Synonym                   |                      |
 | Molecular formula         | C₅H₁₁NO₂S            |

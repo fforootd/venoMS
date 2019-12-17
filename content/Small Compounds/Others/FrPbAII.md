@@ -2,7 +2,8 @@
 title = "FrPbAII"
 categories = ["C6H14N4O2","P175","HDX183",
 "Araneidae"]
-tags = ["Parawixia bistriata"]
+tags = ["S-1","C-1",
+"Parawixia bistriata"]
 +++
 
 ![](/img/FrPbAII.png)
@@ -13,7 +14,7 @@ tags = ["Parawixia bistriata"]
 
 | Name                      | Value               |
 |---------------------------|---------------------|
-| Level                     | I                   |
+| Level                     | S-1 / C-1                   |
 | Discovered                | 2006 / P. bistriata |
 | Synonym                   |                     |
 | Molecular formula         | C₆H₁₄N₄O₂           |

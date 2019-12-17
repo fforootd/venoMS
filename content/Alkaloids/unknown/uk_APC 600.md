@@ -1,7 +1,8 @@
 +++
 title = "APC 600"
 categories = ["Theraphosidae"]
-tags = ["Aphonopelma chalcodes"]
+tags = ["S-5","C-4",
+"Aphonopelma chalcodes"]
 +++
 
 ![](/img/2.png)
@@ -10,7 +11,7 @@ tags = ["Aphonopelma chalcodes"]
 
 | Name                       | Value               |
 |----------------------------|---------------------|
-| Level                      | VI                  |
+| Level                      | S-5 / C-4                  |
 | Discovered                 | 1990 / A. chalcodes |
 | Synonym                    | APC 600             |
 | Molecular formula          |                     |

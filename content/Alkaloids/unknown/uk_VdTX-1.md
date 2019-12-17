@@ -1,7 +1,8 @@
 +++
 title = "VdTX 1"
 categories = ["Theraphosidae"]
-tags = ["Vitalius dubius"]
+tags = ["S-5","C-4",
+"Vitalius dubius"]
 +++
 
 ![](/img/2.png)
@@ -10,7 +11,7 @@ tags = ["Vitalius dubius"]
 
 | Name                       | Value            |
 |----------------------------|------------------|
-| Level                      | VI               |
+| Level                      | S-5 / C-4              |
 | Discovered                 | 2013 / V. dubius |
 | Synonym                    | VdTX 1           |
 | Molecular formula          |                  |

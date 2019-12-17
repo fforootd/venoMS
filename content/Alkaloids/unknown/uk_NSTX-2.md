@@ -1,7 +1,8 @@
 +++
 title = "NSTX 2"
 categories = ["Araneidae"]
-tags = ["Nephila pilipes"]
+tags = ["S-5","C-4",
+"Nephila pilipes"]
 +++
 
 ![](/img/2.png)
@@ -10,7 +11,7 @@ tags = ["Nephila pilipes"]
 
 | Name                       | Value             |
 |----------------------------|-------------------|
-| Level                      | VI                |
+| Level                      | S-5 / C-4               |
 | Discovered                 | 1987 / N. pilipes |
 | Synonym                    | NSTX 2            |
 | Molecular formula          |                   |

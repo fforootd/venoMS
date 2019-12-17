@@ -2,7 +2,8 @@
 title = "HF-7"
 categories = ["C18H25N5O15S2","P616","HDX623",
 "Agelenidae"]
-tags = ["Hololena curta"]
+tags = ["S-2","C-4",
+"Hololena curta"]
 +++
 
 ![](/img/HF-7.png)
@@ -11,7 +12,7 @@ tags = ["Hololena curta"]
 
 | Name                      | Value           |
 |---------------------------|-----------------|
-| Level                     | III             |
+| Level                     | S-2 / C-4             |
 | Discovered                | 1999 / H. curta |
 | Synonym                   |                 |
 | Molecular formula         | C₁₈H₂₅N₅O₁₅S₂   |

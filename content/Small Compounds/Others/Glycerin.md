@@ -2,7 +2,8 @@
 title = "Glycerin"
 categories = ["C3H8O3","P93","HDX97",
 "Atracidae"]
-tags = ["Atrax robustus"]
+tags = ["S-1","C-4",
+"Atrax robustus"]
 +++
 
 ![](/img/Glycerin.png)
@@ -11,7 +12,7 @@ tags = ["Atrax robustus"]
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | V                  |
+| Level                     | S-1 / C-4                  |
 | Discovered                | 1979 / A. robustus |
 | Synonym                   |                    |
 | Molecular formula         | C₃H₈O₃             |

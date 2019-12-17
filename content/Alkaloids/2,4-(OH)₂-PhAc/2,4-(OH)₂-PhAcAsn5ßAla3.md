@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla3"
 categories = ["C23H38N6O6","P495","D248","HDX506",
 "2,4-(OH)2-PhAcAsn5ßAla3","Asn5ßAla3",
 "Araneidae "]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-1","C-3",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla3.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Name                         | Value                             |
 |------------------------------|-----------------------------------|
-| Level                        | III                               |
+| Level                        | S-1 / C-3                               |
 | Discovered                   | 1994 / N. clavata                 |
 | Synonym                      | Spidamine                         |
 | Molecular formula            | C₂₃H₃₈N₆O₆                        |

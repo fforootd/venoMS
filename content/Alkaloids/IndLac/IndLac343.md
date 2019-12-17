@@ -3,7 +3,8 @@ title = "IndLac343"
 categories = ["C21H35N5O2","P390","D195","HDX398",
 "IndLac343","343",
 "Atracidae","Halonoproctidae","Theraphosidae"]
-tags = ["Atrax robustus",
+tags = ["S-1","C-3",
+"Atrax robustus",
 "Ceratogyrus darlingi",
 "Harpactirella sp.","Hebestatis theveneti"]
 +++
@@ -14,7 +15,7 @@ tags = ["Atrax robustus",
 
 | Name                        | Value                                   |
 |-----------------------------|-----------------------------------------|
-| Level                       | III                                     |
+| Level                       | S-1 / C-3                                     |
 | Discovered                  | 1990 / H. theveneti & Harpactirella sp. |
 | Synonym                     | Het 389                                 |
 | Molecular formula           | C₂₁H₃₅N₅O₂                              |

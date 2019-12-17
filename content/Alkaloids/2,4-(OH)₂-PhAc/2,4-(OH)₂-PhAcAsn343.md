@@ -3,7 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn343"
 categories = ["C22H38N6O5","P467","D234","HDX478",
 "2,4-(OH)2-PhAcAsn343","Asn343",
 "Araneidae"]
-tags = ["Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
+tags = ["S-1","C-3",
+"Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn343.png)
@@ -12,7 +13,7 @@ tags = ["Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
 
 | Name                         | Value             |
 |------------------------------|-------------------|
-| Level                        | IV                |
+| Level                        | S-1 / C-3         |
 | Discovered                   | 1990 / N. clavata |
 | Synonym                      | JSTX-1 / LF 466D  |
 | Molecular formula            | C₂₂H₃₈N₆O₅        |

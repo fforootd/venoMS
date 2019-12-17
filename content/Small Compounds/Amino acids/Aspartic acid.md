@@ -2,7 +2,8 @@
 title = "Aspartic acid"
 categories = ["C4H7NO4","P134","HDX134",
 "Araneidae","Cupiennius","Ctenidae","Lycosidae","Theraphosidae"]
-tags = ["Aphonopelma hentzi","Araneus gemma",
+tags = ["S-1","C-1",
+"Aphonopelma hentzi","Araneus gemma",
 "Cupiennius salei",
 "Eurypelma californicum",
 "Lycosa erythrognatha",
@@ -18,7 +19,7 @@ tags = ["Aphonopelma hentzi","Araneus gemma",
 
 | Name                      | Value            |
 |---------------------------|------------------|
-| Level                     | I                |
+| Level                     | S-1 / C-1        |
 | Discovered                | 1957 / V. dubius |
 | Synonym                   |                  |
 | Molecular formula         | C₄H₇NO₄          |

@@ -2,7 +2,8 @@
 title = "Bis(agmatine)oxalamide"
 categories = ["C12H26N8O2","P315","HDX324",
 "Plectreuridae"]
-tags = ["Plectreurys tristis"]
+tags = ["S-4","C-4",
+"Plectreurys tristis"]
 +++
 
 ![](/img/Bis(agmatine)oxalamide.png)
@@ -11,7 +12,7 @@ tags = ["Plectreurys tristis"]
 
 | Name                      | Value             |
 |---------------------------|-------------------|
-| Level                     | V                 |
+| Level                     | S-4 / C-4                 |
 | Discovered                | 1993 / P. tristis |
 | Synonym                   |                   |
 | Molecular formula         | C₁₂H₂₆N₈O₂        |

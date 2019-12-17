@@ -3,7 +3,8 @@ title = "4-OH-IndAcAsn5ßAla3Arg"
 categories = ["C31H51N11O6","P674","D337","HDX690",
 "4-OH-IndAcAsn5ßAla3Arg","Asn5ßAla3Arg",
 "Araneidae"]
-tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-4","C-3",
+"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla3Arg.png)
@@ -12,7 +13,7 @@ tags = ["Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbo
 
 | Name                         | Value       |
 |------------------------------|-------------|
-| Level                        | V           |
+| Level                        | S-4 / C-3           |
 | Discovered                   | ? / ?       |
 | Synonym                      | NPTX 673E   |
 | Molecular formula            | C₃₁H₅₁N₁₁O₆ |

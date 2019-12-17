@@ -3,7 +3,8 @@ title = "IndAcAsn533"
 categories = ["C25H41N7O3","P488","D244","HDX498",
 "IndAcAsn533","Asn533",
 "Araneidae"]
-tags = ["Larinioides patagiatus"]
+tags = ["S-3","C-3",
+"Larinioides patagiatus"]
 +++
 
 ![](/img/IndAcAsn533.png)
@@ -12,7 +13,7 @@ tags = ["Larinioides patagiatus"]
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | IV                   |
+| Level                       | S-3 / C-3                   |
 | Discovered                  | 2009 / L. patagiatus |
 | Synonym                     | LF 487C              |
 | Molecular formula           | C₂₅H₄₁N₇O₃           |

@@ -2,7 +2,8 @@
 title = "GABA"
 categories = ["C4H9NO2","P104","HDX108",
 "Agelenidae","Atracidae","Filistatidae","Macrothelidae","Nemesiidae","Pisauridae","Sparassidae","Theraphosidae","Theridiidae","Thomisidae","Zodariidae"]
-tags = ["Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","Aphonopelma sp.","Atrax robustus","Avicularia avicularia",
+tags = ["S-1","C-1",
+"Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","Aphonopelma sp.","Atrax robustus","Avicularia avicularia",
 "Ceratogyrus marshalli","Cyriopagopus hainanus","Cyriopagopus schmidti",
 "Dolomedes gertschi","Dolomedes tenebrosus",
 "Eurypelma californicum","Eurypelma vellutinum","Eusparassus oculatus",
@@ -28,7 +29,7 @@ tags = ["Acanthoscurria paulensis","Aphonopelma hentzi","Aphonopelma seemanni","
 
 | Name                      | Value       |
 |---------------------------|-------------|
-| Level                     | I           |
+| Level                     | S-1 / C-1   |
 | Discovered                | 1957 / div. |
 | Synonym                   |             |
 | Molecular formula         | C₄H₉NO₂     |
