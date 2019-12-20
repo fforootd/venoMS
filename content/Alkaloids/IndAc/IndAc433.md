@@ -71,7 +71,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
+| Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 | Hololena curta     | Agelenidae | 1991 / G. B. Quistad |
 
 ## Comments

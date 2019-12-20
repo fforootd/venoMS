@@ -13,8 +13,8 @@ tags = ["S-3","C-3",
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | S-3 / C-3               |
-| Discovered                  | 2019 / A. aperta |
+| Level                       | S-3 / C-3        |
+| Discovered                  | 2020 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₁₇H₂₆N₄O₃       |
 | CAS                         | ---              |
@@ -53,14 +53,14 @@ tags = ["S-3","C-3",
 
 ## References
 
-| Title     | Reference   | Spider    | Name   | Content  | Link |
-|-----------|-------------|-----------|--------|----------|-----|
-|           |             |           |        |          |     |
+| Title | Reference | Spider | Name | Content | Link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
 
 ## Spider species
 
-| Spider species     | Family     | Discovered       |
-|--------------------|------------|------------------|
-| Agelenopsis aperta | Agelenidae | 2019 / A. aperta |
+| Spider species     | Family     | Discovered           |
+|--------------------|------------|----------------------|
+| Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

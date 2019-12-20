@@ -16,7 +16,7 @@ tags = ["S-3","C-1",
 | Name                        | Value            |
 |-----------------------------|------------------|
 | Level                       | S-3 / C-1               |
-| Discovered                  | 2019 / A. aperta |
+| Discovered                  | 2020 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₂₅H₄₄N₆O₂       |
 | CAS                         | ---              |
@@ -70,6 +70,6 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
+| Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

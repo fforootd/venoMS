@@ -18,7 +18,7 @@ tags = ["S-3","C-1",
 | Name                        | Value            |
 |-----------------------------|------------------|
 | Level                       | S-3 / C-1               |
-| Discovered                  | 2019 / A. aperta |
+| Discovered                  | 2020 / A. aperta |
 | Synonym                     | AG 432i          |
 | Molecular formula           | C₂₃H₄₀N₆O₂       |
 | CAS                         | 389872-77-9      |
@@ -74,7 +74,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
+| Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments
 IndAc43(OH)33 was described for A. aperta by Chesnov in 2001 (AG 432i). Eichenberger showed in 2009 that the described structure was an artefact (APCI reduction). However, IndAc43(OH)33 (9.89 min) was identified in A. aperta (2019) with different retention times from IndAc4(OH)3(OH)33 (11.52 min).

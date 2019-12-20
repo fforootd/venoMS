@@ -4,7 +4,8 @@ categories = ["C10H14N2O2","P195","D98","HDX200",
 "4-OH-Bz3","3",
 "Agelenidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta"]
+"Agelenopsis aperta",
+"Eratigena agrestis"]
 +++
 
 ![](/img/4-OH-Bz3.png)
@@ -16,7 +17,7 @@ tags = ["S-1","C-1",
 | Name                        | Value            |
 |-----------------------------|------------------|
 | Level                       | S-1 / C-1        |
-| Discovered                  | 2019 / A. aperta |
+| Discovered                  | 2020 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₁₀H₁₄N₂O₂       |
 | CAS                         | 195152-34-2      |
@@ -51,6 +52,7 @@ tags = ["S-1","C-1",
 |-----------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
 | [Data](/pdf/A-aperta/195_4-OH-Bz3_Aa.pdf)     | 195.11335 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/195_4-OH-Bz3_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/195_4-OH-Bz3_Ea.pdf) | 195.11335 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -62,6 +64,6 @@ tags = ["S-1","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
+| Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

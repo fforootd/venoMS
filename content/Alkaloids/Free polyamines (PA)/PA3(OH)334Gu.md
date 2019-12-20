@@ -4,16 +4,21 @@ categories = ["C14H35N7O","P318","D159","HDX328",
 "PA3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
 tags = ["S-3","C-3",
+"Eratigena agrestis",
 "Pireneitega luctuosa"]
 +++
 
 ![](/img/PA3(OH)334Gu.png)
 
+![](/img_MSMS/318_PA3(OH)334Gu_Ea.png?classes=border)
+
+![](/img_MSMS/318_PA3(OH)334Gu_Ea_2.png?classes=border)
+
 ## General Description
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | S-3 / C-3                 |
+| Level                       | S-3 / C-3          |
 | Discovered                  | 2005 / P. luctuosa |
 | Synonym                     | ---                |
 | Molecular formula           | C₁₄H₃₅N₇O          |
@@ -48,21 +53,23 @@ tags = ["S-3","C-3",
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source | Author |
-|-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| pdf                                               | Precursor | Co-eluting | Spider      | Source                       | Author        |
+|---------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
+| [Data](/pdf/E-agrestis/318_PA3(OH)334Gu_Ea.pdf)   | 318.29814 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/318_PA3(OH)334Gu_Ea_2.pdf) | 159.65298 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
-| Title                                                                                                                                                                               | Reference                                                                           | Spider      | Name | Content         | Link                                                                                 |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------|------|-----------------|--------------------------------------------------------------------------------------|
-| New linear polyamine derivatives in spider venoms                                                                                                                                   | M. Tzouros, S. Chesnov, S. Bienz, M. Hesse, L. Bigler, Toxicon 2005, 46, 350-354    | P. luctuosa |      | APCI-MS/MS (ns) | [Link](https://doi.org/10.1016/j.toxicon.2005.04.018)                                |
-| A template approach for the characterization of linear polyamines and derivatives in spider venom                                                                                   | M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Eur. J. Mass Spectrom. 2013, 19, 57-69 | P. luctuosa |      | APCI-MS/MS      | [Link](https://doi.org/10.1255/ejms.1213)                                            |
+| Title                                                                                             | Reference                                                                           | Spider      | Name | Content         | Link                                                  |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------|------|-----------------|-------------------------------------------------------|
+| New linear polyamine derivatives in spider venoms                                                 | M. Tzouros, S. Chesnov, S. Bienz, M. Hesse, L. Bigler, Toxicon 2005, 46, 350-354    | P. luctuosa |      | APCI-MS/MS (ns) | [Link](https://doi.org/10.1016/j.toxicon.2005.04.018) |
+| A template approach for the characterization of linear polyamines and derivatives in spider venom | M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Eur. J. Mass Spectrom. 2013, 19, 57-69 | P. luctuosa |      | APCI-MS/MS      | [Link](https://doi.org/10.1255/ejms.1213)             |
 
 ## Spider species
 
 | Spider species       | Family     | Discovered        |
 |----------------------|------------|-------------------|
+| Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
 | Pireneitega luctuosa | Agelenidae | 2005 / M. Tzouros |
 
 ## Comments

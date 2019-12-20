@@ -14,7 +14,7 @@ tags = ["S-1","C-1",
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | S-1 / C-1                  |
+| Level                     | S-1 / C-1          |
 | Discovered                | 2004 / E. agrestis |
 | Synonym                   |                    |
 | Molecular formula         | C₉H₁₃N₃O₅          |
@@ -41,23 +41,24 @@ tags = ["S-1","C-1",
 
 ## Recorded MS/MS spectra
 
-| pdf                                           | Precursor | Co-eluting | Spider    | Source                       | Author        |
-|-----------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
-| [Data](/pdf/244_Cytidine_1-42.pdf)            | 244.09334 |            | Cytidine  | Fluka                        | Y. M. Forster |
-| [Data](/pdf/A-aperta/244_Cytidine_Aa.pdf)     | 244.09334 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-aperta/244_Cytidine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| pdf                                           | Precursor | Co-eluting | Spider      | Source                       | Author        |
+|-----------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
+| [Data](/pdf/244_Cytidine_1-42.pdf)            | 244.09334 |            | Cytidine    | Fluka                        | Y. M. Forster |
+| [Data](/pdf/A-aperta/244_Cytidine_Aa.pdf)     | 244.09334 |            | A. aperta   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/244_Cytidine_Aa_HDX.pdf) | HDX       |            | A. aperta   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/244_Cytidine_Ea.pdf)   | 244.09334 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
-| Title                                                                                                                  | Reference                                                                  | Spider      | Name | Content | Link                                           |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|------|---------|------------------------------------------------|
+| Title                                                                                                                  | Reference                                                                  | Spider      | Name | Content | Link                                                   |
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|------|---------|--------------------------------------------------------|
 | A new approach to natural products discovery exemplified by the identification of sulfated nucleosides in spider venom | A. E. Taggi, J. Meinwald, F. C. Schroeder, JACS 2004, 126, 33, 10364-10369 | E. agrestis |      |         | [Link](https://pubs.acs.org/doi/abs/10.1021/ja047416n) |
 
 ## Spider species
 
 | Spider species     | Family     | Discovered             |
 |--------------------|------------|------------------------|
-| Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster   |
+| Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster   |
 | Eratigena agrestis | Agelenidae | 2004 / F. C. Schroeder |
 
 ## Comments

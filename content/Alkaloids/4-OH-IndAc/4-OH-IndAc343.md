@@ -62,7 +62,7 @@ tags = ["S-3","C-3",
 
 | Spider species     | Family     | Discovered             |
 |--------------------|------------|------------------------|
-| Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster   |
+| Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster   |
 | Ozyptila lugubris  | Thomisidae | 2009 / S. Eichenberger |
 
 ## Comments

@@ -16,7 +16,7 @@ tags = ["S-3","C-1",
 | Name                        | Value            |
 |-----------------------------|------------------|
 | Level                       | S-3 / C-1               |
-| Discovered                  | 2019 / A. aperta |
+| Discovered                  | 2020 / A. aperta |
 | Synonym                     | AG 448b          |
 | Molecular formula           | C₂₃H₄₀N₆O₃       |
 | CAS                         | 389872-62-2      |
@@ -70,7 +70,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Agelenopsis aperta | Agelenidae | 2019 / Y. M. Forster |
+| Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments
 4-OH-IndAc4(OH)333 was described for A. aperta by Chesnov in 2001 (AG 448b). Eichenberger showed in 2009 that the described structure was an artifact (APCI reduction). However, 4-OH-IndAc4(OH)333 (8.23 min) awas identified in A. aperta (2019) with different retention times from 4-OH_IndAc4(OH)3(OH)33 (9.48 min).

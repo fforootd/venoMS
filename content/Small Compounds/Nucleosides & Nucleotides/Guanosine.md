@@ -58,7 +58,7 @@ tags = ["S-1","C-1",
 
 | Spider species       | Family       | Discovered           |
 |----------------------|--------------|----------------------|
-| Agelenopsis aperta   | Agelenenidae | 2019 / Y. M. Forster |
+| Agelenopsis aperta   | Agelenenidae | 2020 / Y. M. Forster |
 | Latrodectus menavodi | Theridiidae  | 2001 / A. Horni      |
 
 ## Comments
