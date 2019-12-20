@@ -23,7 +23,7 @@ jobs:
       run: hugo --minify
 
     - name: add CNAME file
-      run: sudo cp CNAME docs/
+      run: sudo cp CNAME public/
       shell: bash
 
     - name: Deploy
