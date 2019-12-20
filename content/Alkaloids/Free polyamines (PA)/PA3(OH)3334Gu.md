@@ -1,15 +1,15 @@
 +++
-title = "Ac3(OH)334Gu"
-categories = ["C16H37N7O2","P360","D180","HDX",
-"Ac3(OH)334Gu","3(OH)334Gu",
+title = "PA3(OH)3334Gu"
+categories = ["C17H42N8O","P375","D188","HDX386",
+"PA3(OH)3334Gu","3(OH)3334Gu",
 "Agelenidae"]
 tags = ["S-3","C-1",
 "Eratigena agrestis"]
 +++
 
-![](/img/Ac3(OH)334Gu.png)
+![](/img/PA3(OH)3334Gu.png)
 
-![](/img_MSMS/360_Ac3(OH)334Gu_Ea.png?classes=border)
+![](/img_MSMS/375_PA3(OH)3334Gu_Ea.png?classes=border)
 
 ## General Description
 
@@ -18,29 +18,25 @@ tags = ["S-3","C-1",
 | Level                      | S-3 / C-1          |
 | Discovered                 | 2020 / E. agrestis |
 | Synonym                    | ---                |
-| Molecular formula          | C₁₆H₃₇N₇O₂                   |
+| Molecular formula          | C₁₇H₄₂N₈O                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 360.30870                   |
-| Precursor 2 [M+2H]²⁺       | 180.65826                   |
+| Precursor 1 [M+H]⁺         | 375.35599                   |
+| Precursor 2 [M+2H]²⁺       | 188.18191                   |
 | Precursor 3                |                    |
 |                            |                    |
-| HDX                        | 8                   |
-| Precursor HDX   [d₈-M+D]⁺   | 369.36519                   |
-| Precursor HDX 2 [d₈-M+2D]²⁺ | 185.68965                   |
+| HDX                        | 10                   |
+| Precursor HDX   [d₁₀-M+D]⁺   | 386.42503                   |
+| Precursor HDX 2 [d₁₀-M+2D]²⁺ | 194.21957                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         | 1.60                   |
+| Rt                         |                    |
 | Rt HDX                     |                    |
 
 ## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 100.07624 | 82.06568 | 83.04969 | 133.09770 | 114.10312 | 97.07657 | 131.12967 |
-| 2 | 173.12900 | 155.11844 | 156.10245 | 190.15555 | 171.16097 | 154.13442 | 188.18752 |
-| 3 | 230.18685 | 212.17629 | 213.16030 | 247.21340 | 228.21882 | 211.19227 | 261.24028 |
-| 4 | 301.26035 | 283.24979 | 284.23380 | 360.30870 | 301.27158 | 284.24503 | 318.29813 |
 
 
 ## Additional MS/MS fragments
@@ -53,7 +49,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/E-agrestis/360_Ac3(OH)334Gu_Ea.pdf)   | 360.30870 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/375_PA3(OH)3334Gu_Ea.pdf)   | 375.35599 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+
 
 ## References
 

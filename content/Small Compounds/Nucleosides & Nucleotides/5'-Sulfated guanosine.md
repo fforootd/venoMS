@@ -2,17 +2,19 @@
 title = "5'-Sulfated guanosine"
 categories = ["C10H13N5O8S","P364","HDX371",
 "Agelenenidae"]
-tags = ["S-2","C-4",
+tags = ["S-2","C-1",
 "Eratigena agrestis"]
 +++
 
 ![](/img/5-sulfated guanosine.png)
 
+![](/img_MSMS/364_5-sulfated-guanosine_Ea.png?classes=border)
+
 ## General Description
 
 | Name                      | Value              |
 |---------------------------|--------------------|
-| Level                     | S-2 / C-4                |
+| Level                     | S-2 / C-1          |
 | Discovered                | 2004 / E. agrestis |
 | Synonym                   |                    |
 | Molecular formula         | C₁₀H₁₃N₅O₈S        |
@@ -38,14 +40,14 @@ tags = ["S-2","C-4",
 
 ## Recorded MS/MS spectra
 
-| pdf | Precursor | Co-eluting | Spider | Source | Author |
-|-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| pdf                                                     | Precursor | Co-eluting | Spider      | Source                       | Author        |
+|---------------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
+| [Data](/pdf/E-agrestis/364_5-sulfated-guanosine_Ea.pdf) | 364.05631 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
-| Title                                                                                                                  | Reference                                                                  | Spider      | Name | Content | Link                                           |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|------|---------|------------------------------------------------|
+| Title                                                                                                                  | Reference                                                                  | Spider      | Name | Content | Link                                                   |
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|------|---------|--------------------------------------------------------|
 | A new approach to natural products discovery exemplified by the identification of sulfated nucleosides in spider venom | A. E. Taggi, J. Meinwald, F. C. Schroeder, JACS 2004, 126, 33, 10364-10369 | E. agrestis |      |         | [Link](https://pubs.acs.org/doi/abs/10.1021/ja047416n) |
 
 ## Spider species

@@ -1,15 +1,15 @@
 +++
-title = "Ac3(OH)334Gu"
-categories = ["C16H37N7O2","P360","D180","HDX",
-"Ac3(OH)334Gu","3(OH)334Gu",
+title = "4-OH-Bz334Gu"
+categories = ["C18H32N6O2","P365","D183","HDX374",
+"4-OH-Bz334Gu","334Gu",
 "Agelenidae"]
 tags = ["S-3","C-1",
 "Eratigena agrestis"]
 +++
 
-![](/img/Ac3(OH)334Gu.png)
+![](/img/4-OH-Bz334Gu.png)
 
-![](/img_MSMS/360_Ac3(OH)334Gu_Ea.png?classes=border)
+![](/img_MSMS/365_4-OH-Bz334Gu_Ea.png?classes=border)
 
 ## General Description
 
@@ -18,19 +18,19 @@ tags = ["S-3","C-1",
 | Level                      | S-3 / C-1          |
 | Discovered                 | 2020 / E. agrestis |
 | Synonym                    | ---                |
-| Molecular formula          | C₁₆H₃₇N₇O₂                   |
+| Molecular formula          | C₁₈H₃₂N₆O₂                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 360.30870                   |
-| Precursor 2 [M+2H]²⁺       | 180.65826                   |
+| Precursor 1 [M+H]⁺         | 365.26650                   |
+| Precursor 2 [M+2H]²⁺       | 183.13716                   |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 8                   |
-| Precursor HDX   [d₈-M+D]⁺   | 369.36519                   |
-| Precursor HDX 2 [d₈-M+2D]²⁺ | 185.68965                   |
+| Precursor HDX   [d₈-M+D]⁺   | 374.32299                   |
+| Precursor HDX 2 [d₈-M+2D]²⁺ | 188.16855                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         | 1.60                   |
+| Rt                         | 4.13                   |
 | Rt HDX                     |                    |
 
 ## Calculated MS/MS fragments
@@ -53,7 +53,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/E-agrestis/360_Ac3(OH)334Gu_Ea.pdf)   | 360.30870 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/365_4-OH-Bz334Gu_Ea.pdf)   | 365.26650 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+
 
 ## References
 

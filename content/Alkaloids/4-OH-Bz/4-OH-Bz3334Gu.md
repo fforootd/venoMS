@@ -3,17 +3,22 @@ title = "4-OH-Bz3334Gu"
 categories = ["C21H39N7O2","P422","D211","HDX432",
 "4-OH-Bz3334Gu","3334Gu",
 "Agelenidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
+"Eratigena agrestis",
 "Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-Bz3334Gu.png)
 
+![](/img_MSMS/422_4-OH-Bz3334Gu_Ea.png?classes=border)
+
+![](/img_MSMS/422_4-OH-Bz3334Gu_Ea_2.png?classes=border)
+
 ## General Description
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | S-3 / C-3          |
+| Level                       | S-3 / C-1          |
 | Discovered                  | 2000 / P. luctuosa |
 | Synonym                     | PB 421             |
 | Molecular formula           | C₂₁H₃₉N₇O₂         |
@@ -50,7 +55,8 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/E-agrestis/422_4-OH-Bz3334Gu_Ea.pdf) | 422.32435 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/422_4-OH-Bz3334Gu_Ea_2.pdf) | 211.66609  |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
