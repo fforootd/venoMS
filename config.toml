@@ -1,4 +1,4 @@
-baseURL = "https://ms-uzh.github.io/venoms/"
+baseURL = "https://www.venoms.ch"
 RelativeURLs=true
 CanonifyURLs=true
 languageCode = "en-us"
