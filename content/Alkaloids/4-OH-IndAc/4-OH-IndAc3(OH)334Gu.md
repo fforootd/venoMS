@@ -3,17 +3,21 @@ title = "4-OH-IndAc3(OH)334Gu"
 categories = ["C24H42N8O3","P491","D246","HDX502",
 "4-OH-IndAc3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
-tags = ["S-3","C-3",
-"Pireneitega luctuosa"]
+tags = ["S-3","C-1",
+"Eratigena agrestis","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)334Gu.png)
+
+![](/img_MSMS/491_4-OH-IndAc3(OH)334Gu_Ea.png?classes=border)
+
+![](/img_MSMS/491_4-OH-IndAc3(OH)334Gu_Ea_2.png?classes=border)
 
 ## General Description
 
 | Name                         | Value              |
 |------------------------------|--------------------|
-| Level                        | S-3 / C-3          |
+| Level                        | S-3 / C-1          |
 | Discovered                   | 2000 / P. luctuosa |
 | Synonym                      | PB 490             |
 | Molecular formula            | C₂₄H₄₂N₈O₃         |
@@ -50,7 +54,8 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/E-agrestis/491_4-OH-IndAc3(OH)334Gu_Ea.pdf) | 491.34581 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/491_4-OH-IndAc3(OH)334Gu_Ea_2.pdf) | 246.17682 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

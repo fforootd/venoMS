@@ -4,10 +4,12 @@ categories = ["C24H46N5O2","P436","D218","HDX441",
 "4-OH-Bz3335(NMe3)","3335(NMe3)",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta"]
+"Agelenopsis aperta","Eratigena agrestis"]
 +++
 
 ![](/img/4-OH-Bz3335(NMe3).png)
+
+![](/img_MSMS/436_4-OH-Bz3335(NMe3)_Ea.png?classes=border)
 
 ![](/img_MSMS/436_4-OH-Bz3335(NMe3)_Aa_2.png?classes=border)
 
@@ -61,6 +63,8 @@ tags = ["S-3","C-1",
 |--------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
 | [Data](/pdf/A-aperta/436_4-OH-Bz3335(NMe3)_Aa_2.pdf)   | 218.68649 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/436_4-OH-Bz3335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/436_4-OH-Bz3335(NMe3)_Ea.pdf) | 436.36515 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/436_4-OH-Bz3335(NMe3)_Ea_2.pdf) | 218.68649 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -73,5 +77,6 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
+| Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -3,17 +3,19 @@ title = "2,5-(OH)₂-Bz3(OH)334Gu"
 categories = ["C21H39N7O4","P454","D227","HDX465",
 "2,5-(OH)2-Bz3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
-tags = ["S-2","C-3",
-"Coelotes pastoralis"]
+tags = ["S-2","C-1",
+"Coelotes pastoralis","Eratigena agrestis"]
 +++
 
 ![](/img/2-5-OH2-Bz3(OH)334Gu.png)
+
+![](/img_MSMS/454_2-5-OH2-Bz3(OH)334Gu_Ea.png?classes=border)
 
 ## General Description
 
 | Name                       | Value                |
 |----------------------------|----------------------|
-| Level                      | S-2 / C-3            |
+| Level                      | S-2 / C-1            |
 | Discovered                 | 2008 / C. pastoralis |
 | Synonym                    | APA 5                |
 | Molecular formula          | C₂₁H₃₉N₇O₄           |
@@ -50,7 +52,7 @@ tags = ["S-2","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/E-agrestis/454_2-5-OH2-Bz3(OH)334Gu_Ea.pdf) | 454.31418 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -63,5 +65,6 @@ tags = ["S-2","C-3",
 | Spider species      | Family     | Discovered             |
 |---------------------|------------|------------------------|
 | Coelotes pastoralis | Agelenidae | 2008 / F. C. Schroeder |
+| Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

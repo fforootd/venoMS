@@ -3,17 +3,21 @@ title = "4-OH-IndAc3334Gu"
 categories = ["C24H42N8O2","P475","D238","HDX486",
 "4-OH-IndAc3334Gu","3334Gu",
 "Agelenidae"]
-tags = ["S-3","C-3",
-"Pireneitega luctuosa"]
+tags = ["S-3","C-1",
+"Eratigena agrestis","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc3334Gu.png)
+
+![](/img_MSMS/475_4-OH-IndAc3334Gu_Ea.png?classes=border)
+
+![](/img_MSMS/475_4-OH-IndAc3334Gu_Ea_2.png?classes=border)
 
 ## General Description
 
 | Name                         | Value              |
 |------------------------------|--------------------|
-| Level                        | S-3 / C-3          |
+| Level                        | S-3 / C-1          |
 | Discovered                   | 2002 / P. luctuosa |
 | Synonym                      | PB 474             |
 | Molecular formula            | C₂₄H₄₂N₈O₂         |
@@ -50,7 +54,8 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/E-agrestis/475_4-OH-IndAc3334Gu_Ea.pdf) | 475.35090 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/475_4-OH-IndAc3334Gu_Ea_2.pdf) | 238.17936 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -62,6 +67,7 @@ tags = ["S-3","C-3",
 
 | Spider species       | Family     | Discovered        |
 |----------------------|------------|-------------------|
+| Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
 | Pireneitega luctuosa | Agelenidae | 2002 / S. Chesnov |
 
 ## Comments
