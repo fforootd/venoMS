@@ -50,6 +50,7 @@ tags = ["S-3","C-1",
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/E-agrestis/506_4-OH-IndAc4(OH)3333_Ea.pdf)   | 506.38186 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/506_4-OH-IndAc4(OH)3333_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References

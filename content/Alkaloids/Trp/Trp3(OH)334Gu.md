@@ -9,7 +9,7 @@ tags = ["S-3","C-1",
 
 ![](/img/Trp3(OH)334Gu.png)
 
-![](/img_MSMS/504_Trp3(OH)334Gu_Ea.png?classes=border)
+![](/img_MSMS/504_Trp3(OH)334Gu_Ea_2.png?classes=border)
 
 ## General Description
 
@@ -52,7 +52,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/E-agrestis/504_Trp3(OH)334Gu_Ea.pdf)   | 504.37745 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/504_Trp3(OH)334Gu_Ea_2.pdf)   | 252.69264 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/504_Trp3(OH)334Gu_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References

@@ -3,7 +3,7 @@ title = "4-OH-IndAc3(OH)3"
 categories = ["C16H24N4O3","P321","D161","HDX328",
 "4-OH-IndAc3(OH)3","3(OH)3",
 "Agelenidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Eratigena agrestis"]
 +++
 
@@ -15,7 +15,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value                            |
 |-----------------------------|----------------------------------|
-| Level                       | S-3 / C-3                        |
+| Level                       | S-3 / C-1                        |
 | Discovered                  | 2020 / E. agrestis & P. luctuosa |
 | Synonym                     | ---                              |
 | Molecular formula           | C₁₆H₂₄N₄O₃                       |
@@ -51,6 +51,7 @@ tags = ["S-3","C-3",
 | pdf                                                 | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-----------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/E-agrestis/321_4-OH-IndAc3(OH)3_Ea.pdf) | 321.19266 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/321_4-OH-IndAc3(OH)3_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

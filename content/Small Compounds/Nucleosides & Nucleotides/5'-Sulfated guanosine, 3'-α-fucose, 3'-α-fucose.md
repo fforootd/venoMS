@@ -2,16 +2,19 @@
 title = "5'-Sulfated guanosine, 3'-α-fucose, 3'-α-fucose"
 categories = ["C22H33N5O16S","P656","HDX667",
 "Agelenenidae"]
-tags = ["S-2","C-4",
+tags = ["S-2","C-1",
 "Eratigena agrestis"]
 +++
 
 ![](/img/5-sulfated guanosine_3-a-fucose_3-a-fucose.png)
+
+![](/img_MSMS/656_5-sulfated-guanosine-3-a-fucose-3-a-fucose_Ea.png?classes=border)
+
 ## General Description
 
 | Name                       | Value              |
 |----------------------------|--------------------|
-| Level                      | S-2 / C-4                |
+| Level                      | S-2 / C-1          |
 | Discovered                 | 2004 / E. agrestis |
 | Synonym                    |                    |
 | Molecular formula          | C₂₂H₃₃N₅O₁₆S       |
@@ -39,7 +42,7 @@ tags = ["S-2","C-4",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/E-agrestis/656_5-sulfated-guanosine-3-a-fucose-3-a-fucose_Ea.pdf) | 656.17213 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

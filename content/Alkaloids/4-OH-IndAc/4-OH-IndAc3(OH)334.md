@@ -62,6 +62,7 @@ tags = ["S-3","C-1",
 | [Data](/pdf/A-aperta/449_4-OH-IndAc3(OH)334_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/449_4-OH-IndAc3(OH)334_Ea.pdf) | 449.32401 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/449_4-OH-IndAc3(OH)334_Ea_2.pdf) | 225.16592 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/449_4-OH-IndAc3(OH)334_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
