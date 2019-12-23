@@ -56,6 +56,7 @@ tags = ["S-3","C-1",
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/E-agrestis/468_OH-OMe-Bz3(OH)334Gu_Ea.pdf)   | 468.32983  |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/468_OH-OMe-Bz3(OH)334Gu_Ea_2.pdf)   | 234.66883  |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/468_OH-OMe-Bz3(OH)334Gu_Ea_HDX.pdf)   | HDX  |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
