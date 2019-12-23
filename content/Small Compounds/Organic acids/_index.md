@@ -1,5 +1,5 @@
 +++
-title = "Others"
+title = "Organic acids"
 weight = 50
 +++
 
