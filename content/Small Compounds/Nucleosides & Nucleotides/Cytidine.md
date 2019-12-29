@@ -3,7 +3,7 @@ title = "Cytidine"
 categories = ["C9H13N3O5","P244","HDX250",
 "Agelenidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Eratigena agrestis"]
+"Agelena orientalis","Agelenopsis aperta","Eratigena agrestis"]
 +++
 
 ![](/img/Cytidine.png)
@@ -46,7 +46,9 @@ tags = ["S-1","C-1",
 | [Data](/pdf/244_Cytidine_1-42.pdf)            | 244.09334 |            | Cytidine    | Fluka                        | Y. M. Forster |
 | [Data](/pdf/A-aperta/244_Cytidine_Aa.pdf)     | 244.09334 |            | A. aperta   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/244_Cytidine_Aa_HDX.pdf) | HDX       |            | A. aperta   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-orientalis/244_Cytidine_Ao.pdf)     | 244.09334 |            | A. orientalis   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/244_Cytidine_Ea.pdf)   | 244.09334 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/244_Cytidine_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -58,6 +60,7 @@ tags = ["S-1","C-1",
 
 | Spider species     | Family     | Discovered             |
 |--------------------|------------|------------------------|
+| Agelena orientalis | Agelenidae | 2020 / Y. M. Forster |
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster   |
 | Eratigena agrestis | Agelenidae | 2004 / F. C. Schroeder |
 

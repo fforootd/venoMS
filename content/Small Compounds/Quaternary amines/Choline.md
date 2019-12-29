@@ -1,9 +1,9 @@
 +++
 title = "Choline"
 categories = ["C5H14NO","P104","HDX105",
-"Araneidae","Atracidae","Segestriidae"]
+"Agelenidae","Araneidae","Atracidae","Segestriidae"]
 tags = ["S-1","C-1",
-"Araneus diadematus","Ariadna sp.","Atrax robustus"]
+"Agelena orientalis","Araneus diadematus","Ariadna sp.","Atrax robustus"]
 +++
 
 ![](/img/Choline.png)
@@ -45,6 +45,7 @@ tags = ["S-1","C-1",
 | pdf                               | Precursor | Co-eluting | Spider                              | Source        | Author        |
 |-----------------------------------|-----------|------------|-------------------------------------|---------------|---------------|
 | [Data](/pdf/104_Choline_1-15.pdf) | 104.10754 |            | Choline, 45% in MeOH (CAS 123-41-1) | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/A-orientalis/104_Choline_Ao.pdf) | 104.10754 |           | A. orientalis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-robustus/104_Choline_GABA_Ar.pdf) | 104.10754 | GABA           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/104_Choline_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
@@ -58,6 +59,7 @@ tags = ["S-1","C-1",
 
 | Spider species     | Family       | Discovered             |
 |--------------------|--------------|------------------------|
+| Agelena orientalis | Agelenidae | 2020 / Y. M. Forster |
 | Araneus diadematus | Araneidae    | 2008 / F. C. Schroeder |
 | Ariadna sp.        | Segestriidae | 2008 / F. C. Schroeder |
 | Atrax robustus | Atracidae | 2020 / Y. M. Forster |

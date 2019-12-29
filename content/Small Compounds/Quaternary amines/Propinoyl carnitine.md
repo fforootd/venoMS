@@ -49,6 +49,7 @@ tags = ["S-1","C-1",
 |----------------------------------------------|-----------|------------|-----------------------|---------------|---------------|
 | [Data](/pdf/218_Propinoylcarnitine_3-12.pdf) | 218.13923 |            | Propinoyl-L-carnitine | Sigma Aldrich | Y. M. Forster |
 | [Data](/pdf/E-agrestis/218_Propinoyl-carnitine_Ea.pdf) | 218.13923 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/218_Propinoyl-carnitine_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

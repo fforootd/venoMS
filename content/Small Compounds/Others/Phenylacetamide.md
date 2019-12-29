@@ -51,6 +51,7 @@ tags = ["S-3","C-1",
 | [Data](/pdf/A-robustus/136_Phenylacetamide_Ar.pdf) | 136.07624 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/136_Phenylacetamide_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/E-agrestis/136_Phenylacetamide_Ea.pdf) | 136.07624 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/136_Phenylacetamide_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References

@@ -43,6 +43,7 @@ tags = ["S-2","C-1",
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
 | [Data](/pdf/E-agrestis/656_5-sulfated-guanosine-3-a-fucose-3-a-fucose_Ea.pdf) | 656.17213 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/656_5-sulfated-guanosine-3-a-fucose-3-a-fucose_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

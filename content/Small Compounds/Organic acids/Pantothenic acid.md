@@ -53,6 +53,7 @@ tags = ["S-1","C-1",
 |-----------------------------------------------------|-----------|------------|---------------------------------------|------------------------------|---------------|
 | [Data](/pdf/220_Pantothenic-acid_4-57.pdf)          | 220.11850 |            | Calcium pantothenate (CAS 63409-48-3) | Fluka                        | Y. M. Forster |
 | [Data](/pdf/E-agrestis/220_Pantothenic-acid_Ea.pdf) | 220.11850 |            | E. agrestis                           | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/220_Pantothenic-acid_Ea_HDX.pdf) | HDX |            | E. agrestis                           | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

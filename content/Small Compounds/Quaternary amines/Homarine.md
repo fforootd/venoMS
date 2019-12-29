@@ -21,7 +21,7 @@ tags = ["S-1","C-1",
 | Name               | Value               |
 |--------------------|---------------------|
 | Level              | S-1 / C-1           |
-| Discovered         | 2019 / P. bistriata |
+| Discovered         | 2020 / div. |
 | Synonym            |                     |
 | Molecular formula  | C₇H₈NO₂             |
 | CAS                | 824-77-1            |
@@ -54,6 +54,7 @@ tags = ["S-1","C-1",
 |------------------------------------|-----------|------------|--------------------------|----------------------------------------|---------------|
 | [Data](/pdf/138_Homarine_1-22.pdf) | 138.05550 |            | Homarine (CAS 6253-06-1) | Dominique Kamber, University of Zurich | Y. M. Forster |
 | [Data](/pdf/E-agrestis/138_Homarine_Ea.pdf) | 138.05550 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/138_Homarine_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
