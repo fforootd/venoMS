@@ -64,7 +64,9 @@ tags = ["S-1","C-1",
 | pdf                                     | Precursor | Co-eluting | Spider          | Source | Author        |
 |-----------------------------------------|-----------|------------|-----------------|--------|---------------|
 | [Data](/pdf/148_Glutamic_acid_1-15.pdf) | 148.06098 |            | L-Glutamic acid | Fluka  | Y. M. Forster |
-| [Data](/pdf/Drassodes-sp1/148_Glutamic_acid_Dr-sp1.pdf) | 148.06098 |           | Drassodes sp.1 | Fauna Laboratories Ltd., | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/148_Glutamic-acid_Dr-sp1.pdf) | 148.06098 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-tristis/148_Glutamic-acid_Pt.pdf) | 148.06098 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/148_Glutamic-acid_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USAZ | Y. M. Forster |
 
 ## References
 

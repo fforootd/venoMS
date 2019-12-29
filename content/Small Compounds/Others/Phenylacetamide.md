@@ -50,10 +50,11 @@ tags = ["S-3","C-1",
 |----------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/A-robustus/136_Phenylacetamide_Ar.pdf) | 136.07624 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/136_Phenylacetamide_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/Drassodes-sp1/136_Phenylacetamide_Dr-sp1.pdf) | 136.07624 |           | Drassodes sp.1 | Fauna Laboratories Ltd., | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/136_Phenylacetamide_Dr-sp1.pdf) | 136.07624 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/136_Phenylacetamide_Ea.pdf) | 136.07624 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/136_Phenylacetamide_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-
+| [Data](/pdf/P-tristis/136_Phenylacetamide_Pt.pdf) | 136.07624 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/136_Phenylacetamide_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

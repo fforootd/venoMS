@@ -1,9 +1,10 @@
 +++
-title = "Bis(agmatine)oxalamide"
-categories = ["C12H26N8O2","P315","HDX324",
+title = "Me-agmatine-agmatine-oxalamide"
+categories = ["C13H26N8O2","P329","HDX328",
 "Plectreuridae"]
 tags = ["S-3","C-1",
 "Plectreurys tristis"]
+draft = "true"
 +++
 
 ![](/img/Bis(agmatine)oxalamide.png)
@@ -12,18 +13,18 @@ tags = ["S-3","C-1",
 
 | Name                      | Value             |
 |---------------------------|-------------------|
-| Level                     | S-3 / C-1                 |
-| Discovered                | 1993 / P. tristis |
+| Level                     | S-3 / C-1         |
+| Discovered                | 2020 / P. tristis |
 | Synonym                   |                   |
-| Molecular formula         | C₁₂H₂₆N₈O₂        |
-| CAS                       | 151368-32-0       |
+| Molecular formula         | C₁₃H₂₆N₈O₂        |
+| CAS                       |                   |
 |                           |                   |
-| Precursor 1 [M+H]⁺        | 315.22570         |
+| Precursor 1 [M+H]⁺        | 329.24135         |
 | Precursor 2               |                   |
 | Precursor 3               |                   |
 |                           |                   |
 | HDX                       | 8                 |
-| Precursor HDX 1 [d₈-M+D]⁺ | 324.28218         |
+| Precursor HDX 1 [d₈-M+D]⁺ | 338.29783         |
 | Precursor HDX 2           |                   |
 | Precursor HDX 3           |                   |
 |                           |                   |
@@ -40,8 +41,8 @@ tags = ["S-3","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/P-tristis/315_Bis(agmatine)oxalamide_Pt.pdf) | 315.22570 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-tristis/315_Bis(agmatine)oxalamide_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/329_Me-agmatine-agmatine-oxalamide_Pt.pdf) | 329.24135 |           | P. tristis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-tristis/329_Me-agmatine-agmatine-oxalamide_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

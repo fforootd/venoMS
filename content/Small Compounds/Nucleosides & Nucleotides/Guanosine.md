@@ -49,7 +49,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-aperta/284_Guanosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KZA | Y. M. Forster |
 | [Data](/pdf/A-robustus/284_Guanosine_Ar.pdf) | 284.09949 |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/284_Guanosine_Ar_HDX.pdf) | HDX |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/Drassodes-sp1/284_Guanosine_Dr-sp1.pdf) | 284.09949 |           | Drassodes sp.1 | Fauna Laboratories Ltd., | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/284_Guanosine_Dr-sp1.pdf) | 284.09949 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

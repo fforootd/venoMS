@@ -55,7 +55,7 @@ tags = ["S-1","C-1",
 | pdf                                                   | Precursor | Co-eluting | Spider                        | Source        | Author        |
 |-------------------------------------------------------|-----------|------------|-------------------------------|---------------|---------------|
 | [Data](/pdf/162_Glutamic_acid_5-methylester_1-44.pdf) | 162.07663 |            | L-Glutamic acid 5-methylester | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/Drassodes-sp1/162_Glutamic-acid_5-methylester_Dr-sp1.pdf) | 162.07663 |           | Drassodes sp.1 | Fauna Laboratories Ltd., | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/162_Glutamic-acid_5-methylester_Dr-sp1.pdf) | 162.07663 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

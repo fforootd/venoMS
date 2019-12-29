@@ -52,6 +52,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/138_Trigonelline_1-21.pdf) | 138.05550 |            | Trigonelline HCl (CAS 6138-41-6) | Sigma Aldrich | Y. M. Forster |
 | [Data](/pdf/A-robustus/138_Trigonelline_Ar.pdf) | 138.05550 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/138_Trigonelline_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/P-tristis/138_Trigonelline_Pt.pdf) | 138.05550 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/138_Trigonelline_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

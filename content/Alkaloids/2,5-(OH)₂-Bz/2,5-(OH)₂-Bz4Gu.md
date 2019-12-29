@@ -47,7 +47,7 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/Drassodes-sp1/267_2-5-OH2-Bz4Gu_Dr-sp1.pdf) | 267.14572 |           | Drassodes sp.1 | Fauna Laboratories Ltd., | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/267_2-5-OH2-Bz4Gu_Dr-sp1.pdf) | 267.14572 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References

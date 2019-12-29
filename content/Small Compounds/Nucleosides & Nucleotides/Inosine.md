@@ -1,9 +1,9 @@
 +++
 title = "Inosine"
 categories = ["C10H12N4O5","P269","HDX274",
-"Araneidae","Atracidae","Sicariidae","Theraphosidae","Theridiidae"]
+"Araneidae","Atracidae","Plectreuridae","Sicariidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Atrax robustus","Cyriopagopus hainanus","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata"]
+"Atrax robustus","Cyriopagopus hainanus","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata","Plectreurys tristis"]
 +++
 
 ![](/img/Inosine.png)
@@ -45,6 +45,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/269_Inosine_2-83.pdf) | 269.08859 |         | Inosine | Sigma Aldrich | Y. M. Forster |
 | [Data](/pdf/A-robustus/269_Inosine_Ar.pdf) | 269.08859 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/269_Inosine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/P-tristis/269_Inosine_Pt.pdf) | 269.08859 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/269_Inosine_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -64,5 +66,6 @@ tags = ["S-1","C-1",
 | Latrodectus menavodi  | Theridiidae   | 2001 / A. Horni           |
 | Loxosceles reclusa    | Sicariidae    | 1975 / C. R. Geren        |
 | Parawixia bistriata   | Araneidae     | 2004 / M. C. A. Rodrigues |
+| Plectreurys tristis | Plectreuridae | 2020 / Y. M. Forster |
 
 ## Comments

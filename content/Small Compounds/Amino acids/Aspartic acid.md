@@ -1,13 +1,13 @@
 +++
 title = "Aspartic acid"
 categories = ["C4H7NO4","P134","HDX134",
-"Araneidae","Cupiennius","Ctenidae","Lycosidae","Theraphosidae"]
+"Araneidae","Cupiennius","Ctenidae","Lycosidae","Plectreuridae","Theraphosidae"]
 tags = ["S-1","C-1",
 "Aphonopelma hentzi","Araneus gemma",
 "Cupiennius salei",
 "Eurypelma californicum",
 "Lycosa erythrognatha",
-"Phoneutria fera",
+"Phoneutria fera","Plectreurys tristis",
 "Vitalius dubius"]
 +++
 
@@ -51,6 +51,8 @@ tags = ["S-1","C-1",
 | pdf                                     | Precursor | Co-eluting | Spider          | Source        | Author        |
 |-----------------------------------------|-----------|------------|-----------------|---------------|---------------|
 | [Data](/pdf/134_Aspartic_acid_1-13.pdf) | 134.04533 |            | L-Aspartic acid | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/P-tristis/134_Aspartic-acid_Pt.pdf) | 134.04533  |           | Plectreurys tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/134_Aspartic-acid_Pt_HDX.pdf) | HDX  |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -74,6 +76,7 @@ tags = ["S-1","C-1",
 | Eurypelma californicum | Theraphosidae | 1989 / A. Savel-Niemann  |
 | Lycosa erythrognatha   | Lycosidae     | 1957 / F. G. Fischer     |
 | Phoneutria fera        | Ctenidae      | 1957 / F. G. Fischer     |
+| Plectreurys tristis | Plectreuridae | 2020 / Y. M. Forster |
 | Vitalius dubius        | Theraphosidae | 1957 / F. G. Fischer     |
 
 ## Comments

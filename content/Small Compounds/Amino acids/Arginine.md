@@ -52,7 +52,7 @@ tags = ["S-1","C-1",
 | pdf                                | Precursor | Co-eluting | Spider                         | Source        | Author        |
 |------------------------------------|-----------|------------|--------------------------------|---------------|---------------|
 | [Data](/pdf/175_Arginine_1-12.pdf) | 175.11950 |            | L-Arginine HCl (CAS 1119-34-2) | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/Drassodes-sp1/175_Arginine_Dr-sp1.pdf) | 175.11950 |           | Drassodes sp.1 | Fauna Laboratories Ltd., | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/175_Arginine_Dr-sp1.pdf) | 175.11950 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

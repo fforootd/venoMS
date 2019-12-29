@@ -1,9 +1,12 @@
 +++
 title = "Choline"
 categories = ["C5H14NO","P104","HDX105",
-"Agelenidae","Araneidae","Atracidae","Segestriidae"]
+"Agelenidae","Araneidae","Atracidae",
+"Plectreuridae",
+"Segestriidae"]
 tags = ["S-1","C-1",
-"Agelena orientalis","Araneus diadematus","Ariadna sp.","Atrax robustus"]
+"Agelena orientalis","Araneus diadematus","Ariadna sp.","Atrax robustus",
+"Plectreurys tristis"]
 +++
 
 ![](/img/Choline.png)
@@ -48,6 +51,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-orientalis/104_Choline_Ao.pdf) | 104.10754 |           | A. orientalis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-robustus/104_Choline_GABA_Ar.pdf) | 104.10754 | GABA           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/104_Choline_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/P-tristis/104_Choline_Pt.pdf) | 104.10754 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/104_Choline_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -63,5 +68,6 @@ tags = ["S-1","C-1",
 | Araneus diadematus | Araneidae    | 2008 / F. C. Schroeder |
 | Ariadna sp.        | Segestriidae | 2008 / F. C. Schroeder |
 | Atrax robustus | Atracidae | 2020 / Y. M. Forster |
+| Plectreurys tristis | Plectreuridae | 2020 / Y. M. Forster |
 
 ## Comments

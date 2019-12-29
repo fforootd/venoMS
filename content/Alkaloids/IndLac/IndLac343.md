@@ -2,11 +2,11 @@
 title = "IndLac343"
 categories = ["C21H35N5O2","P390","D195","HDX398",
 "IndLac343","343",
-"Atracidae","Halonoproctidae","Theraphosidae"]
+"Atracidae","Halonoproctidae","Plectreuridae","Theraphosidae"]
 tags = ["S-1","C-3",
 "Atrax robustus",
 "Ceratogyrus darlingi",
-"Harpactirella sp.","Hebestatis theveneti"]
+"Harpactirella sp.","Hebestatis theveneti","Plectreurys tristis"]
 +++
 
 ![](/img/IndLac343.png)
@@ -54,6 +54,8 @@ tags = ["S-1","C-3",
 | [Data](/pdf/A-robustus/390_IndLac343_Ar.pdf) | 390.28690  |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/390_IndLac343_Ar_2.pdf) | 195.64736  |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/390_IndLac343_Ar_HDX.pdf) | HDX  |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/P-tristis/390_IndLac343_Pt.pdf) | 390.28690 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/390_IndLac343_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -71,5 +73,6 @@ tags = ["S-1","C-3",
 | Ceratogyrus darlingi | Theraphosidae   | 2017 / D. Wilson     |
 | Harpactirella sp.    | Theraphosidae   | 1990 / W. S. Skinner |
 | Hebestatis theveneti | Halonoproctidae | 1990 / W. S. Skinner |
+| Plectreurys tristis | Plectreuridae | 2020 / Y. M. Forster |
 
 ## Comments
