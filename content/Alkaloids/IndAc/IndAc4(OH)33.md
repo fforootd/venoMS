@@ -2,9 +2,9 @@
 title = "IndAc4(OH)33"
 categories = ["C20H33N5O2","P376","D188","HDX383",
 "IndAc4(OH)33","4(OH)33",
-"Agelenidae"]
+"Agelenidae","Segestriidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta"]
+"Agelenopsis aperta","Ariadna sp."]
 +++
 
 ![](/img/IndAc4(OH)33.png)
@@ -56,6 +56,8 @@ tags = ["S-3","C-1",
 |---------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
 | [Data](/pdf/A-aperta/376_IndAc4(OH)33_Aa.pdf)     | 376.27125 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/376_IndAc4(OH)33_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/376_IndAc4(OH)33_Ar-sp.pdf) | 376.27125 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/376_IndAc4(OH)33_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -68,5 +70,7 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
+| Ariadna sp. | Segestriidae | 2020 / Y. M. Forster |
+
 
 ## Comments

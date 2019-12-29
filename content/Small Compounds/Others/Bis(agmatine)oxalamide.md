@@ -1,9 +1,9 @@
 +++
 title = "Bis(agmatine)oxalamide"
 categories = ["C12H26N8O2","P315","HDX324",
-"Plectreuridae"]
+"Plectreuridae","Segestriidae"]
 tags = ["S-3","C-1",
-"Plectreurys tristis"]
+"Ariadna sp.","Plectreurys tristis"]
 +++
 
 ![](/img/Bis(agmatine)oxalamide.png)
@@ -40,6 +40,8 @@ tags = ["S-3","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
+| [Data](/pdf/Ariadna-sp/315_Bis(agmatine)oxalamide_Ar-sp.pdf) | 315.22570 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/315_Bis(agmatine)oxalamide_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/315_Bis(agmatine)oxalamide_Pt.pdf) | 315.22570 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/315_Bis(agmatine)oxalamide_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
@@ -53,6 +55,7 @@ tags = ["S-3","C-1",
 
 | Spider species      | Family        | Discovered           |
 |---------------------|---------------|----------------------|
+| Ariadna sp. | Segestriidae | 2020 / Y. M. Forster |
 | Plectreurys tristis | Plectreuridae | 1993 / G. B. Quistad |
 
 ## Comments

@@ -2,9 +2,9 @@
 title = "IndAc3(OH)3343"
 categories = ["C26H47N7O2","P490","D245","HDX499",
 "IndAc3(OH)3343","3(OH)3343",
-"Agelenidae"]
+"Agelenidae","Segestriidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Hololena curta"]
+"Agelenopsis aperta","Ariadna sp.","Hololena curta"]
 +++
 
 ![](/img/IndAc3(OH)3343.png)
@@ -60,6 +60,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-aperta/490_IndAc3(OH)3343_Aa.pdf)     | 490.38695 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/490_IndAc3(OH)3343_Aa_2.pdf)   | 245.69739 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/490_IndAc3(OH)3343_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/490_IndAc3(OH)3343_Ar-sp.pdf) | 490.38695 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/490_IndAc3(OH)3343_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -90,6 +92,7 @@ tags = ["S-1","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 1990 / V. J. Jasys   |
+| Ariadna sp. | Segestriidae | 2020 / Y. M. Forster |
 | Hololena curta     | Agelenidae | 1991 / G. B. Quistad |
 
 ## Comments

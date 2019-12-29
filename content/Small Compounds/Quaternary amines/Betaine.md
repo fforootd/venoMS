@@ -52,6 +52,8 @@ tags = ["S-1","C-1",
 | pdf                               | Precursor | Co-eluting | Spider  | Source | Author        |
 |-----------------------------------|-----------|------------|---------|--------|---------------|
 | [Data](/pdf/118_Betaine_1-15.pdf) | 118.08680 |            | Betaine | Acros  | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/118_Betaine_Ar-sp.pdf) | 118.08680 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/118_Betaine_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/A-robustus/118_Betaine_Ar.pdf) | 118.08680 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/118_Betaine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/118_Betaine_Dr-sp1.pdf) | 118.08680 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
