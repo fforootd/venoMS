@@ -63,6 +63,8 @@ tags = ["S-1","C-4",
 |--------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
 | [Data](/pdf/A-aperta/193_Citric-acid_Aa.pdf)     | 210.06138 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/193_Citric-acid_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-robustus/193_Citric-acid_Ar.pdf) | 210.06138 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/193_Citric-acid_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References
 

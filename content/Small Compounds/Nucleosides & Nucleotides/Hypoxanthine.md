@@ -40,7 +40,8 @@ tags = ["S-1","C-2",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/A-robustus/137_Hypoxanthine_Ar.pdf) |137.04634 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/137_Hypoxanthine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References
 

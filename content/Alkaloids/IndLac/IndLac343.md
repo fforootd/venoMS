@@ -51,7 +51,9 @@ tags = ["S-1","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/A-robustus/390_IndLac343_Ar.pdf) | 390.28690  |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/390_IndLac343_Ar_2.pdf) | 195.64736  |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/390_IndLac343_Ar_HDX.pdf) | HDX  |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References
 

@@ -1,9 +1,9 @@
 +++
 title = "Guanosine"
 categories = ["C10H13N5O5","P284","HDX291",
-"Agelenidae","Theridiidae"]
+"Agelenidae","Atracidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Latrodectus menavodi"]
+"Agelenopsis aperta","Atrax robustus","Latrodectus menavodi"]
 +++
 
 ![](/img/Guanosine.png)
@@ -47,6 +47,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/284_Guanosine_2-77.pdf)            | 284.09949 |            | Guanosine | Sigma Aldrich                | Y. M. Forster |
 | [Data](/pdf/A-aperta/284_Guanosine_Aa.pdf)     | 284.09949 |            | A. aperta | Fauna Laboratories Ltd., KZA | Y. M. Forster |
 | [Data](/pdf/A-aperta/284_Guanosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KZA | Y. M. Forster |
+| [Data](/pdf/A-robustus/284_Guanosine_Ar.pdf) | 284.09949 |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/284_Guanosine_Ar_HDX.pdf) | HDX |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References
 
@@ -59,6 +61,7 @@ tags = ["S-1","C-1",
 | Spider species       | Family       | Discovered           |
 |----------------------|--------------|----------------------|
 | Agelenopsis aperta   | Agelenenidae | 2020 / Y. M. Forster |
+| Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Latrodectus menavodi | Theridiidae  | 2001 / A. Horni      |
 
 ## Comments

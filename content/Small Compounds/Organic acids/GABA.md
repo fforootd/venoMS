@@ -62,6 +62,8 @@ tags = ["S-1","C-1",
 | pdf                            | Precursor | Co-eluting | Spider              | Source        | Author        |
 |--------------------------------|-----------|------------|---------------------|---------------|---------------|
 | [Data](/pdf/104_GABA_1-17.pdf) | 104.07115 |            | γ-Aminobutyric acid | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/A-robustus/104_Choline_GABA_Ar.pdf) | 104.07115 | Choline           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/104_GABA_Ar_HDX.pdf) | HDX |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References
 

@@ -1,9 +1,9 @@
 +++
 title = "4-OH-PhLac343"
-categories = ["C19H34N4O3","P321","D161","HDX329",
+categories = ["C19H34N4O3","P367","D184","HDX375",
 "4-OH-PhLac343","343",
 "Atracidae","Theraphosidae"]
-tags = ["S-2","C-3",
+tags = ["S-2","C-1",
 "Acanthoscurria geniculata","Atrax robustus",
 "Chilobrachys sp.",
 "Psalmopoeus irminia",
@@ -16,19 +16,19 @@ tags = ["S-2","C-3",
 
 | Name                        | Value       |
 |-----------------------------|-------------|
-| Level                       | S-2 / C-3   |
+| Level                       | S-2 / C-1   |
 | Discovered                  | 2017 / div. |
 | Synonym                     | PA 366      |
 | Molecular formula           | C₁₉H₃₄N₄O₃  |
 | CAS                         | ---         |
 |                             |             |
-| Precursor 1 [M+H]⁺          | 321.26544   |
-| Precursor 2 [M+2H]²⁺        | 161.13663   |
+| Precursor 1 [M+H]⁺          | 367.27092   |
+| Precursor 2 [M+2H]²⁺        | 184.13937   |
 | Precursor 3                 |             |
 |                             |             |
 | HDX                         | 7           |
-| Precursor HDX 1 [d₇-M+D]⁺   | 329.31565   |
-| Precursor HDX 2 [d₇-M+2D]²⁺ | 165.66488   |
+| Precursor HDX 1 [d₇-M+D]⁺   | 375.32113   |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 188.66762   |
 | Precursor HDX 3             |             |
 |                             |             |
 | Rt                          |             |
@@ -38,9 +38,9 @@ tags = ["S-2","C-3",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 176.10754 | 158.09698 | 159.08099 | 193.13409 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 247.18104 | 229.17048 | 230.15449 | 264.20759 | 129.13917 | 112.11262 | 146.16572 |
-| 3 | 304.23889 | 286.22833 | 287.21234 | 321.26544 | 186.19702 | 169.17047 | 203.22357 |
+| 1 | 222.11302 | 204.10245 | 205.08647 | 239.13957 | 58.06567  | 41.03912  | 75.09222  |
+| 2 | 293.18652 | 275.17595 | 276.15997 | 310.21307 | 129.13917 | 112.11262 | 146.16572 |
+| 3 | 350.24437 | 332.23380 | 333.21782 | 367.27092 | 186.19702 | 169.17047 | 203.22357 |
 
 ## Additional MS/MS fragments
 
@@ -52,7 +52,8 @@ tags = ["S-2","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/A-robustus/367_4-OH-PhLac343_Ar.pdf)   | 367.27092 |            | A. robustus | Alpha Biotoxin, BEL  | Y. M. Forster |
+| [Data](/pdf/A-robustus/367_4-OH-PhLac343_Ar_HDX.pdf)   | HDX |            | A. robustus | Alpha Biotoxin, BEL  | Y. M. Forster |
 
 ## References
 

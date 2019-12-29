@@ -1,9 +1,9 @@
 +++
 title = "Adenosine"
 categories = ["C10H13N5O4","P268","HDX274",
-"Agelenenidae","Theraphosidae","Theridiidae"]
+"Agelenenidae","Atracidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Cyriopagopus lividum","Latrodectus menavodi" ]
+"Agelenopsis aperta","Atrax robustus","Cyriopagopus lividum","Latrodectus menavodi" ]
 +++
 
 ![](/img/Adenosine.png)
@@ -47,6 +47,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/268_Adenosine_2-29.pdf)            | 268.10457 |            | Adenosine | Sigma Aldrich                | Y. M. Forster |
 | [Data](/pdf/A-aperta/268_Adenosine_Aa.pdf)     | 268.10457 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/268_Adenosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-robustus/268_Adenosine_Ar.pdf) | 268.10457 |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/268_Adenosine_Ar_HDX.pdf) | HDX |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References
 
@@ -60,6 +62,7 @@ tags = ["S-1","C-1",
 | Spider species       | Family        | Discovered           |
 |----------------------|---------------|----------------------|
 | Agelenopsis aperta   | Agelenenidae  | 2020 / Y. M. Forster |
+| Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Cyriopagopus lividum | Theraphosidae | 2005 / S. Moore      |
 | Latrodectus menavodi | Theridiidae   | 2001 / A. Horni      |
 

@@ -1,9 +1,9 @@
 +++
 title = "Serotonin"
 categories = ["C10H12N2O","P177","HDX182",
-"Agelenidae","Cheiracanthiidae","Ctenidae","Lamponidae","Lycosidae","Theraphosidae","Theridiidae"]
+"Agelenidae","Atracidae","Cheiracanthiidae","Ctenidae","Lamponidae","Lycosidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Acanthoscurria paulensis","Acanthoscurria sternalis",
+"Acanthoscurria paulensis","Acanthoscurria sternalis","Atrax robustus",
 "Cheiracanthium japonicum",
 "Hololena curta",
 "Lampona cylindrata","Lasiodora klugi","Latrodectus tredecimguttatus","Lycosa erythrognatha",
@@ -49,7 +49,9 @@ tags = ["S-1","C-1",
 
 | pdf                                 | Precursor | Co-eluting | Spider                       | Source | Author        |
 |-------------------------------------|-----------|------------|------------------------------|--------|---------------|
-| [Data](/pdf/177_Serotonin_4-31.pdf) | 203.22358 |            | Serotonin HCl (CAS 153-98-0) | Fluka  | Y. M. Forster |
+| [Data](/pdf/177_Serotonin_4-31.pdf) | 177.10279 |            | Serotonin HCl (CAS 153-98-0) | Fluka  | Y. M. Forster |
+| [Data](/pdf/A-robustus/177_Serotonin_Ar.pdf) | 177.10279 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/177_Serotonin_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References
 

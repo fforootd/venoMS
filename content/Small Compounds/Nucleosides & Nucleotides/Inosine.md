@@ -1,9 +1,9 @@
 +++
 title = "Inosine"
 categories = ["C10H12N4O5","P269","HDX274",
-"Araneidae","Sicariidae","Theraphosidae","Theridiidae"]
+"Araneidae","Atracidae","Sicariidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Cyriopagopus hainanus","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata"]
+"Atrax robustus","Cyriopagopus hainanus","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata"]
 +++
 
 ![](/img/Inosine.png)
@@ -42,7 +42,9 @@ tags = ["S-1","C-1",
 
 | pdf                               | Precursor | Co-eluting | Spider  | Source        | Author        |
 |-----------------------------------|-----------|------------|---------|---------------|---------------|
-| [Data](/pdf/269_Inosine_2-83.pdf) | 269.08859 |            | Inosine | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/269_Inosine_2-83.pdf) | 269.08859 |         | Inosine | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/A-robustus/269_Inosine_Ar.pdf) | 269.08859 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/269_Inosine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References
 
@@ -57,6 +59,7 @@ tags = ["S-1","C-1",
 
 | Spider species        | Family        | Discovered                |
 |-----------------------|---------------|---------------------------|
+| Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Cyriopagopus hainanus | Theraphosidae | 1995 / Y. She             |
 | Latrodectus menavodi  | Theridiidae   | 2001 / A. Horni           |
 | Loxosceles reclusa    | Sicariidae    | 1975 / C. R. Geren        |

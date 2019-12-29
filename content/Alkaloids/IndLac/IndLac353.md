@@ -2,9 +2,9 @@
 title = "IndLac353"
 categories = ["C22H37N5O2","P404","D202","HDX412",
 "IndLac353","353",
-"Halonoproctidae"]
-tags = ["S-4","C-3",
-"Hebestatis theveneti"]
+"Atracidae","Halonoproctidae"]
+tags = ["S-3","C-3",
+"Atrax robustus","Hebestatis theveneti"]
 +++
 
 ![](/img/IndLac353.png)
@@ -13,7 +13,7 @@ tags = ["S-4","C-3",
 
 | Name                        | Value               |
 |-----------------------------|---------------------|
-| Level                       | S-4 / C-3                  |
+| Level                       | S-3 / C-3                  |
 | Discovered                  | 1990 / H. theveneti |
 | Synonym                     | Het 403             |
 | Molecular formula           | C₂₂H₃₇N₅O₂          |
@@ -49,7 +49,9 @@ tags = ["S-4","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/A-robustus/404_IndLac353_Ar.pdf) | 404.30255  |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/404_IndLac353_Ar_2.pdf) | 202.65519   |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/404_IndLac353_Ar_HDX.pdf) | HDX   |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References
 
@@ -62,6 +64,7 @@ tags = ["S-4","C-3",
 
 | Spider species       | Family          | Discovered           |
 |----------------------|-----------------|----------------------|
+| Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Hebestatis theveneti | Halonoproctidae | 1990 / W. S. Skinner |
 
 ## Comments

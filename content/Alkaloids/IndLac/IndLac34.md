@@ -1,13 +1,13 @@
 +++
-title = "New"
-categories = ["CHNO","P","D","HDX",
-"New","PA",
+title = "IndLac34"
+categories = ["C18H28N4O2","P333","D167","HDX340",
+"IndLac34","34",
 "Atracida"]
 tags = ["S-3","C-1",
 "Atrax robustus"]
 +++
 
-![](/img/new.png)
+![](/img/IndLac34.png)
 
 ## General Description
 
@@ -16,16 +16,16 @@ tags = ["S-3","C-1",
 | Level                      | S-3 / C-1          |
 | Discovered                 | 2020 / A. robustus |
 | Synonym                    | ---                |
-| Molecular formula          |                    |
+| Molecular formula          | C₁₈H₂₈N₄O₂                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1 [M+H]⁺         |                    |
-| Precursor 2 [M+2H]²⁺       |                    |
+| Precursor 1 [M+H]⁺         | 333.22905                    |
+| Precursor 2 [M+2H]²⁺       | 167.11844                   |
 | Precursor 3                |                    |
 |                            |                    |
-| HDX                        |                    |
-| Precursor HDX   [d-M+D]⁺   |                    |
-| Precursor HDX 2 [d-M+2D]²⁺ |                    |
+| HDX                        | 6                   |
+| Precursor HDX   [d₆-M+D]⁺   | 340.27298                   |
+| Precursor HDX 2 [d₆-M+2D]²⁺ | 171.14354                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         |                    |
@@ -35,7 +35,8 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-
+| 1 | 245.12900 | 227.11844 | 228.10245 | 262.15555 | 72.08132 | 55.05477 | 89.10787 |
+| 2 | 316.20250 | 298.19194 | 299.17595 | 333.22905 | 129.13917 | 112.11262 | 146.16572 |
 
 ## Additional MS/MS fragments
 
@@ -47,8 +48,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/A-robustus/358_Prop3334Gu_Ar.pdf)   | 358.32944 |            | A. robustus | Alpha Biotoxin, BEL  | Y. M. Forster |
-
+| [Data](/pdf/A-robustus/333_IndLac34_Ar.pdf)   | 333.22905  |            | A. robustus | Alpha Biotoxin, BEL  | Y. M. Forster |
+| [Data](/pdf/A-robustus/333_IndLac34_Ar_HDX.pdf)   | HDX  |            | A. robustus | Alpha Biotoxin, BEL  | Y. M. Forster |
 
 ## References
 
