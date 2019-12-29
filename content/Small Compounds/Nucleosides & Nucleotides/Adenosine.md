@@ -1,9 +1,9 @@
 +++
 title = "Adenosine"
 categories = ["C10H13N5O4","P268","HDX274",
-"Agelenenidae","Atracidae","Theraphosidae","Theridiidae"]
+"Agelenenidae","Atracidae","Gnaphosidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Atrax robustus","Cyriopagopus lividum","Latrodectus menavodi" ]
+"Agelenopsis aperta","Atrax robustus","Cyriopagopus lividum","Drassodes sp.","Latrodectus menavodi" ]
 +++
 
 ![](/img/Adenosine.png)
@@ -49,6 +49,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-aperta/268_Adenosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-robustus/268_Adenosine_Ar.pdf) | 268.10457 |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/268_Adenosine_Ar_HDX.pdf) | HDX |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/268_Adenosine_Dr-sp1.pdf) | 268.10457 |           | Drassodes sp.1 | Fauna Laboratories Ltd., | Y. M. Forster |
 
 ## References
 
@@ -64,6 +65,7 @@ tags = ["S-1","C-1",
 | Agelenopsis aperta   | Agelenenidae  | 2020 / Y. M. Forster |
 | Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Cyriopagopus lividum | Theraphosidae | 2005 / S. Moore      |
+| Drassodes sp. | Gnaphosidae | 2020 / Y. M. Forster |
 | Latrodectus menavodi | Theridiidae   | 2001 / A. Horni      |
 
 ## Comments

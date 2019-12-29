@@ -1,9 +1,9 @@
 +++
 title = "Arginine"
 categories = ["C6H14N4O2","P175","HDX183",
-"Cupiennius"]
+"Cupiennius","Gnaphosidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei"]
+"Cupiennius salei","Drassodes sp."]
 +++
 
 ![](/img/Arginine.png)
@@ -52,6 +52,7 @@ tags = ["S-1","C-1",
 | pdf                                | Precursor | Co-eluting | Spider                         | Source        | Author        |
 |------------------------------------|-----------|------------|--------------------------------|---------------|---------------|
 | [Data](/pdf/175_Arginine_1-12.pdf) | 175.11950 |            | L-Arginine HCl (CAS 1119-34-2) | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/175_Arginine_Dr-sp1.pdf) | 175.11950 |           | Drassodes sp.1 | Fauna Laboratories Ltd., | Y. M. Forster |
 
 ## References
 
@@ -64,5 +65,6 @@ tags = ["S-1","C-1",
 | Spider species   | Family     | Discovered             |
 |------------------|------------|------------------------|
 | Cupiennius salei | Cupiennius | 1994 / L. Kuhn-Nentwig |
+| Drassodes sp. | Gnaphosidae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -64,6 +64,7 @@ tags = ["S-1","C-1",
 | pdf                                     | Precursor | Co-eluting | Spider          | Source | Author        |
 |-----------------------------------------|-----------|------------|-----------------|--------|---------------|
 | [Data](/pdf/148_Glutamic_acid_1-15.pdf) | 148.06098 |            | L-Glutamic acid | Fluka  | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/148_Glutamic_acid_Dr-sp1.pdf) | 148.06098 |           | Drassodes sp.1 | Fauna Laboratories Ltd., | Y. M. Forster |
 
 ## References
 

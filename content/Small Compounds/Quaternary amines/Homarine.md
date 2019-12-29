@@ -1,10 +1,10 @@
 +++
 title = "Homarine"
 categories = ["7H8NO2C","P138","HDX138",
-"Agelenidae","Araneidae","Lycosidae","Oxyopidae","Sparassidae","Theridiidae"]
+"Agelenidae","Araneidae","Gnaphosidae","Lycosidae","Oxyopidae","Sparassidae","Theridiidae"]
 tags = ["S-1","C-1",
 "Alopecosa sp.",
-"Desertosa sp.",
+"Desertosa sp.","Drassodes sp.",
 "Eratigena agrestis",
 "Geolycosa sp.",
 "Heteropoda davidbowie","Hippocosa sp.",
@@ -53,6 +53,7 @@ tags = ["S-1","C-1",
 | pdf                                | Precursor | Co-eluting | Spider                   | Source                                 | Author        |
 |------------------------------------|-----------|------------|--------------------------|----------------------------------------|---------------|
 | [Data](/pdf/138_Homarine_1-22.pdf) | 138.05550 |            | Homarine (CAS 6253-06-1) | Dominique Kamber, University of Zurich | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/138_Homarine_Dr-sp1.pdf) | 138.05550 |           | Drassodes sp.1 | Fauna Laboratories Ltd., | Y. M. Forster |
 | [Data](/pdf/E-agrestis/138_Homarine_Ea.pdf) | 138.05550 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/138_Homarine_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
@@ -68,6 +69,7 @@ tags = ["S-1","C-1",
 |-----------------------|-------------|----------------------|
 | Alopecosa sp.         | Lycosidae   | 2020 / Y. M. Forster |
 | Desertosa sp.         | Lycosidae   | 2020 / Y. M. Forster |
+| Drassodes sp. | Gnaphosidae | 2020 / Y. M. Forster |
 | Eratigena agrestis    | Agelenidae  | 2020 / Y. M. Forster |
 | Geolycosa sp.         | Lycosidae   | 2020 / Y. M. Forster |
 | Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
