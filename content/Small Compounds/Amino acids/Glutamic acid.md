@@ -66,6 +66,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/148_Glutamic_acid_1-15.pdf) | 148.06098 |            | L-Glutamic acid | Fluka  | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp1/148_Glutamic-acid_Al-sp1.pdf) | 148.06098 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/148_Glutamic-acid_Al-sp4.pdf) | 148.06098 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/148_Glutamic-acid_Al-sp5.pdf) | 148.06098 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/148_Glutamic-acid_Ar-sp.pdf) | 148.06098 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/148_Glutamic-acid_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/148_Glutamic-acid_Dr-sp1.pdf) | 148.06098 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |

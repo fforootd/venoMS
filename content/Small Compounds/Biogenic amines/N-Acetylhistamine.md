@@ -49,6 +49,7 @@ tags = ["S-1","C-2",
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
 | [Data](/pdf/Alopecosa-sp4/154_N-acetylhystamine_Al-sp4.pdf) | 154.09804 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/154_N-acetylhystamine_Al-sp5.pdf) | 154.09804 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/D-canities/154_N-acetylhystamine_Dc.pdf) | 154.09804 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 
 ## References

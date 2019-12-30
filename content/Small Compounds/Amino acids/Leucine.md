@@ -46,6 +46,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/132_Leucine_2-88.pdf) | 132.10245 |            | L-Leucine | Fluka  | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp1/132_Leucine_Al-sp1.pdf) | 132.10245 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/132_Leucine_Al-sp4.pdf) | 132.10245 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/132_Leucine_Al-sp5.pdf) | 132.10245 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

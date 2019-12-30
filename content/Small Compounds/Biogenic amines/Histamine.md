@@ -53,6 +53,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/112_Histamine_1-09.pdf) | 112.08747 |            | Histamine 2HCl (CAS 56-92-8) | Fluka  | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp1/112_Histamine_Al-sp1.pdf) | 112.08747 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/112_Histamine_Al-sp4.pdf) | 112.08747 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/112_Histamine_Al-sp5.pdf) | 112.08747 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

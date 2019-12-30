@@ -54,6 +54,7 @@ tags = ["S-1","C-1",
 |-------------------------------------|-----------|------------|---------------------------------|---------------|---------------|
 | [Data](/pdf/162_Carnitine_1-18.pdf) | 162.11302 |            | L-Carnitine HCl (CAS 6645-46-1) | Sigma Aldrich | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/162_Carnitine_Al-sp4.pdf) | 162.11302 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/162_Carnitine_Al-sp5.pdf) | 162.11302 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/D-canities/162_Carnitine_Dc.pdf) | 162.11302 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/162_Carnitine_St-sp4.pdf) | 162.11302 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 

@@ -49,6 +49,7 @@ tags = ["S-1","C-1",
 |------------------------------------|-----------|------------|----------|---------------|---------------|
 | [Data](/pdf/138_Tyramine_2-83.pdf) | 138.09189 |            | Tyramine | Sigma Aldrich | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/138_Tyramine_Al-sp4.pdf) | 138.09189 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/138_Tyramine_Al-sp5.pdf) | 138.09189 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

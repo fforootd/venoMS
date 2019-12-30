@@ -47,6 +47,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/132_Isoeucine_2-65.pdf) | 132.10245 |           | L-Isoleucine | Fluka  | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp1/132_Isoeucine_Al-sp1.pdf) | 132.10245 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/132_Isoeucine_Al-sp4.pdf) | 132.10245 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/132_Isoeucine_Al-sp5.pdf) | 132.10245 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
