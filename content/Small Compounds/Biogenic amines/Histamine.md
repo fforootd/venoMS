@@ -3,6 +3,7 @@ title = "Histamine"
 categories = ["C5H9N3","P112","HDX116",
 "Araneidae","Cheiracanthiidae","Ctenidae","Cupiennius","Lamponidae","Lycosidae","Salticidae","Sicariidae","Sparassidae","Theraphosidae"]
 tags = ["S-1","C-1",
+"Alopecosa sp.",
 "Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
 "Eusparassus oculatus",
 "Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa godeffroyi","Lycosa indagatrix","Lycosa praegrandis",
@@ -50,6 +51,7 @@ tags = ["S-1","C-1",
 | pdf                                 | Precursor | Co-eluting | Spider                       | Source | Author        |
 |-------------------------------------|-----------|------------|------------------------------|--------|---------------|
 | [Data](/pdf/112_Histamine_1-09.pdf) | 112.08747 |            | Histamine 2HCl (CAS 56-92-8) | Fluka  | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/112_Histamine_Al-sp1.pdf) | 112.08747 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -74,6 +76,7 @@ tags = ["S-1","C-1",
 
 | Spider species           | Family           | Discovered                 |
 |--------------------------|------------------|----------------------------|
+| Alopecosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Cheiracanthium japonicum | Cheiracanthiidae | 1991 / K. Hagiwara         |
 | Cupiennius salei         | Cupiennius       | 1994 / L. Kuhn-Nentwig     |
 | Cyriopagopus lividum     | Theraphosidae    | 2008 / F. C. Schroeder     |

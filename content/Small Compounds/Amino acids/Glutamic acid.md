@@ -3,7 +3,7 @@ title = "Glutamic acid"
 categories = ["C5H9NO4","P148","HDX153",
 "Araneidae","Cupiennius","Ctenidae","Cyrtaucheniidae","Eresidae","Gnaphosidae","Lycosidae","Nemesiidae","Oxyopidae","Philodromidae","Pisauridae","Plectreuridae","Segestriidae","Sparassidae","Theraphosidae","Titanoecidae","Zodariidae"]
 tags = ["S-1","C-1",
-"Acanthoscurria paulensis","Anemesia incana","Aphonopelma hentzi","Araneus gemma","Araneus diadematus","Araneus sp.","Araneus tartaricus","Ariadna sp.","Avicularia avicularis",
+"Acanthoscurria paulensis","Alopecosa sp.","Anemesia incana","Aphonopelma hentzi","Araneus gemma","Araneus diadematus","Araneus sp.","Araneus tartaricus","Ariadna sp.","Avicularia avicularis",
 "Cupiennius salei","Cyriopagopus albostriatum","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Delena cancerides","Dolomedes gertschi","Dolomedes tenebrosus","Drassodes sp.",
 "Eresus sp.","Eriophora edax","Eurypelma californicum","Eurypelma vellutinum","Eusparassus oculatus",
@@ -64,6 +64,7 @@ tags = ["S-1","C-1",
 | pdf                                     | Precursor | Co-eluting | Spider          | Source | Author        |
 |-----------------------------------------|-----------|------------|-----------------|--------|---------------|
 | [Data](/pdf/148_Glutamic_acid_1-15.pdf) | 148.06098 |            | L-Glutamic acid | Fluka  | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/148_Glutamic-acid_Al-sp1.pdf) | 148.06098 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/148_Glutamic-acid_Ar-sp.pdf) | 148.06098 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/148_Glutamic-acid_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/148_Glutamic-acid_Dr-sp1.pdf) | 148.06098 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -92,6 +93,7 @@ tags = ["S-1","C-1",
 | Spider species                    | Family          | Discovered                 |
 |-----------------------------------|-----------------|----------------------------|
 | Acanthoscurria paulensis          | Theraphosidae   | 1957 / F. G. Fischer       |
+| Alopecosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Anemesia incana                   | Cyrtaucheniidae | 2008 / F. C. Schroeder     |
 | Aphonopelma hentzi                | Theraphosidae   | 1973 / F. L. Schanbacher   |
 | Araneus gemma                     | Araneidae       | 1987 / S. L. Early         |

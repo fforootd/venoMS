@@ -48,6 +48,7 @@ tags = ["S-3","C-1",
 
 | pdf                                                | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |----------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
+| [Data](/pdf/Alopecosa-sp1/136_Phenylacetamide_Al-sp1.pdf) | 136.07624 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-robustus/136_Phenylacetamide_Ar.pdf) | 136.07624 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/136_Phenylacetamide_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/136_Phenylacetamide_Dr-sp1.pdf) | 136.07624 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |

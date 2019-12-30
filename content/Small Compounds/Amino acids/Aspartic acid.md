@@ -3,7 +3,7 @@ title = "Aspartic acid"
 categories = ["C4H7NO4","P134","HDX134",
 "Araneidae","Cupiennius","Ctenidae","Lycosidae","Plectreuridae","Segestriidae","Theraphosidae"]
 tags = ["S-1","C-1",
-"Ariadna sp.","Aphonopelma hentzi","Araneus gemma",
+"Alopecosa sp.","Ariadna sp.","Aphonopelma hentzi","Araneus gemma",
 "Cupiennius salei",
 "Eurypelma californicum",
 "Lycosa erythrognatha",
@@ -51,6 +51,7 @@ tags = ["S-1","C-1",
 | pdf                                     | Precursor | Co-eluting | Spider          | Source        | Author        |
 |-----------------------------------------|-----------|------------|-----------------|---------------|---------------|
 | [Data](/pdf/134_Aspartic_acid_1-13.pdf) | 134.04533 |            | L-Aspartic acid | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/104_Choline_Al-sp1.pdf) | 134.04533 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/134_Aspartic-acid_Ar-sp.pdf) | 134.04533 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/134_Aspartic-acid_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/134_Aspartic-acid_Pt.pdf) | 134.04533  |           | Plectreurys tristis | Spider Pharm, USA | Y. M. Forster |
@@ -72,6 +73,7 @@ tags = ["S-1","C-1",
 
 | Spider species         | Family        | Discovered               |
 |------------------------|---------------|--------------------------|
+| Alopecosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Aphonopelma hentzi     | Theraphosidae | 1973 / F. L. Schanbacher |
 | Araneus gemma          | Araneidae     | 1987 / S. L. Early       |
 | Ariadna sp. | Segestriidae | 2020 / Y. M. Forster |

@@ -1,9 +1,9 @@
 +++
 title = "Leucine"
 categories = ["C6H13NO2","P132","HDX136",
-"Cupiennius"]
+"Ctenidae","Lycosidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei"]
+"Alopecosa sp.","Cupiennius salei"]
 +++
 
 ![](/img/Leucine.png)
@@ -44,6 +44,7 @@ tags = ["S-1","C-1",
 | pdf                               | Precursor | Co-eluting | Spider    | Source | Author        |
 |-----------------------------------|-----------|------------|-----------|--------|---------------|
 | [Data](/pdf/132_Leucine_2-88.pdf) | 132.10245 |            | L-Leucine | Fluka  | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/132_Leucine_Al-sp1.pdf) | 132.10245 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -55,6 +56,7 @@ tags = ["S-1","C-1",
 
 | Spider species   | Family   | Discovered             |
 |------------------|----------|------------------------|
+| Alopecosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Cupiennius salei | Ctenidae | 1994 / L. Kuhn-Nentwig |
 
 ## Comments

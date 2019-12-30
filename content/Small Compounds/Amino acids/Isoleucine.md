@@ -3,7 +3,7 @@ title = "Isoleucine"
 categories = ["C6H13NO2","P132","HDX136",
 "Cupiennius","Lycosidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei","Lycosa indagatrix"]
+"Alopecosa sp.","Cupiennius salei","Lycosa indagatrix"]
 +++
 
 ![](/img/Isoleucine.png)
@@ -45,6 +45,7 @@ tags = ["S-1","C-1",
 | pdf                                 | Precursor | Co-eluting | Spider       | Source | Author        |
 |-------------------------------------|-----------|------------|--------------|--------|---------------|
 | [Data](/pdf/132_Isoeucine_2-65.pdf) | 132.10245 |            | L-Isoleucine | Fluka  | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/132_Isoeucine_Al-sp1.pdf) | 132.10245 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -57,6 +58,7 @@ tags = ["S-1","C-1",
 
 | Spider species    | Family    | Discovered                 |
 |-------------------|-----------|----------------------------|
+| Alopecosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Cupiennius salei  | Ctenidae  | 1994 / L. Kuhn-Nentwig     |
 | Lycosa indagatrix | Lycosidae | 1988 / G. Ridling Margaret |
 
