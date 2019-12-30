@@ -7,7 +7,7 @@ tags = ["S-1","C-1",
 "Cupiennius salei","Cyriopagopus albostriatum","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Delena cancerides","Desertosa sp.","Dolomedes gertschi","Dolomedes tenebrosus","Drassodes sp.",
 "Eresus sp.","Eriophora edax","Eurypelma californicum","Eurypelma vellutinum","Eusparassus oculatus",
-"Grammostola actaeon","Grammostola anthracina","Grammostola pulchripes",
+"Geolycosa sp.","Grammostola actaeon","Grammostola anthracina","Grammostola pulchripes",
 "Hogna sp.","Holconia flindersi",
 "Isopedella canberrensus",
 "Larinioides cornutus","Larinioides sp.","Lachesana sp.","Lycosa erythrognatha","Lycosa indagatrix","Lycosa proegrandis",
@@ -72,6 +72,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Desertosa-sp3/148_Glutamic-acid_De-sp3.pdf) | 148.06098 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/148_Glutamic-acid_Dr-sp1.pdf) | 148.06098 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/148_Glutamic-acid_Er-sp2.pdf) | 148.06098 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/148_Glutamic-acid_Ge-sp.pdf) | 148.06098 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/P-tristis/148_Glutamic-acid_Pt.pdf) | 148.06098 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/148_Glutamic-acid_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/148_Glutamic-acid_St-sp4.pdf) | 148.06098 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -119,6 +120,7 @@ tags = ["S-1","C-1",
 | Eurypelma californicum            | Theraphosidae   | 1989 / A. Savel-Niemann    |
 | Eurypelma vellutinum              | Theraphosidae   | 1957 / F. G. Fischer       |
 | Eusparassus oculatus              | Sparassidae     | 2008 / F. C. Schroeder     |
+| Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Grammostola actaeon               | Theraphosidae   | 1957 / F. G. Fischer       |
 | Grammostola anthracina            | Theraphosidae   | 1957 / F. G. Fischer       |
 | Grammostola pulchripes            | Theraphosidae   | 1957 / F. G. Fischer       |

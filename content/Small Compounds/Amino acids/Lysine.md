@@ -3,7 +3,7 @@ title = "Lysine"
 categories = ["C6H14N2O2","P147","HDX153",
 "Ctenidae","Cupiennius","Lycosidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Phoneutria fera"]
+"Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Geolycosa sp.","Phoneutria fera"]
 +++
 
 ![](/img/Lysine.png)
@@ -49,6 +49,7 @@ tags = ["S-1","C-1",
 | pdf                              | Precursor | Co-eluting | Spider   | Source | Author        |
 |----------------------------------|-----------|------------|----------|--------|---------------|
 | [Data](/pdf/147_Lysine_1-08.pdf) | 147.11335 |            | L-Lysine | Fluka  | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/147_Lysine_Ge-sp.pdf) | 147.11335 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 
 ## References
 
@@ -63,6 +64,7 @@ tags = ["S-1","C-1",
 | Spider species       | Family     | Discovered                 |
 |----------------------|------------|----------------------------|
 | Cupiennius salei     | Cupiennius | 1994 / L. Kuhn-Nentwig     |
+| Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Lycosa erythrognatha | Lycosidae  | 1957 / F. G. Fischer       |
 | Lycosa indagatrix    | Lycosidae  | 1988 / G. Ridling Margaret |
 | Phoneutria fera      | Ctenidae   | 1957 / F. G. Fischer       |

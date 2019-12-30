@@ -54,6 +54,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-robustus/138_Trigonelline_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/P-tristis/138_Trigonelline_Pt.pdf) | 138.05550 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/138_Trigonelline_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/138_Trigonelline_Ge-sp.pdf) | 138.05550 | Homarine          | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 
 ## References
 

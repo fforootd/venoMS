@@ -3,7 +3,7 @@ title = "Cytidine"
 categories = ["C9H13N3O5","P244","HDX250",
 "Agelenidae","Eresidae","Lycosidae"]
 tags = ["S-1","C-1",
-"Agelena orientalis","Agelenopsis aperta","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Stegodyphus sp."]
+"Agelena orientalis","Agelenopsis aperta","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Stegodyphus sp."]
 +++
 
 ![](/img/Cytidine.png)
@@ -54,6 +54,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/E-agrestis/244_Cytidine_Ea.pdf)   | 244.09334 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/244_Cytidine_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/244_Cytidine_Er-sp2.pdf) | 244.09334 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/244_Cytidine_Ge-sp.pdf) | 244.09334 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/244_Cytidine_St-sp4.pdf) | 244.09334 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
@@ -72,6 +73,7 @@ tags = ["S-1","C-1",
 | Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Eratigena agrestis | Agelenidae | 2004 / F. C. Schroeder |
 | Eresus sp. | Eresidae | 2020 / Y. M. Forster |
+| Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Stegodyphus sp. | Eresidae | 2020 / Y. M. Forster |
 
 ## Comments

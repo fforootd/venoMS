@@ -3,7 +3,7 @@ title = "Arginine"
 categories = ["C6H14N4O2","P175","HDX183",
 "Cupiennius","Eresidae","Gnaphosidae","Lycosidae","Segestriidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Ariadna sp.","Cupiennius salei","Desertosa sp.","Drassodes sp.","Eresus sp.","Stegodyphus sp."]
+"Alopecosa sp.","Ariadna sp.","Cupiennius salei","Desertosa sp.","Drassodes sp.","Eresus sp.","Geolycosa sp.","Stegodyphus sp."]
 +++
 
 ![](/img/Arginine.png)
@@ -58,6 +58,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Desertosa-sp3/175_Arginine_De-sp3.pdf) | 175.11950 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/175_Arginine_Dr-sp1.pdf) | 175.11950 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/175_Arginine_Er-sp2.pdf) | 175.11950 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/175_Arginine_Ge-sp.pdf) | 175.11950 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/175_Arginine_St-sp4.pdf) | 175.11950 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
@@ -76,6 +77,7 @@ tags = ["S-1","C-1",
 | Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Drassodes sp. | Gnaphosidae | 2020 / Y. M. Forster |
 | Eresus sp. | Eresidae | 2020 / Y. M. Forster |
+| Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Stegodyphus sp. | Eresidae | 2020 / Y. M. Forster |
 
 ## Comments

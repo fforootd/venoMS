@@ -6,7 +6,7 @@ tags = ["S-1","C-1",
 "Alopecosa sp.",
 "Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
 "Desertosa sp.",
-"Eusparassus oculatus",
+"Eusparassus oculatus","Geolycosa sp.",
 "Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa godeffroyi","Lycosa indagatrix","Lycosa praegrandis",
 "Neoscona nautica",
 "Phidippus sp.","Phoneutria fera","Phoneutria nigriventer"]
@@ -56,6 +56,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Alopecosa-sp4/112_Histamine_Al-sp4.pdf) | 112.08747 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp5/112_Histamine_Al-sp5.pdf) | 112.08747 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Desertosa-sp3/112_Histamine_De-sp3.pdf) | 112.08747 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/112_Histamine_Ge-sp.pdf) | 112.08747 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 
 ## References
 
@@ -86,6 +87,7 @@ tags = ["S-1","C-1",
 | Cyriopagopus lividum     | Theraphosidae    | 2008 / F. C. Schroeder     |
 | Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Eusparassus oculatus     | Sparassidae      | 2008 / F. C. Schroeder     |
+| Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Lampona cylindrata       | Lamponidae       | 2000 / L. D. Rash          |
 | Loxosceles intermedia    | Sicariidae       | 2009 / K. S. Paludo        |
 | Lycosa erythrognatha     | Lycosidae        | 1957 / F. G. Fischer       |
