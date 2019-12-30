@@ -42,6 +42,7 @@ tags = ["S-1","C-2",
 |-----|-----------|------------|--------|--------|--------|
 | [Data](/pdf/A-robustus/137_Hypoxanthine_Ar.pdf) |137.04634 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/137_Hypoxanthine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/D-canities/137_Hypoxanthine_Dc.pdf) | 137.04634 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

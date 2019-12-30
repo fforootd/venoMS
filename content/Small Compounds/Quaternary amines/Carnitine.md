@@ -53,6 +53,7 @@ tags = ["S-1","C-1",
 | pdf                                 | Precursor | Co-eluting | Spider                          | Source        | Author        |
 |-------------------------------------|-----------|------------|---------------------------------|---------------|---------------|
 | [Data](/pdf/162_Carnitine_1-18.pdf) | 162.11302 |            | L-Carnitine HCl (CAS 6645-46-1) | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/D-canities/162_Carnitine_Dc.pdf) | 162.11302 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

@@ -48,7 +48,7 @@ tags = ["S-1","C-2",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/D-canities/154_N-acetylhystamine_Dc.pdf) | 154.09804 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
