@@ -61,6 +61,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Hippocosa-sp1/112_Histamine_Hi-sp1.pdf) | 112.08747 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/112_Histamine_Hc.pdf) | 112.08747 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/112_Histamine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-praegrandis/112_Histamine_Lp.pdf) | 112.08747 |           | L. praegrandis| Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

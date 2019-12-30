@@ -3,7 +3,7 @@ title = "Arginine"
 categories = ["C6H14N4O2","P175","HDX183",
 "Cupiennius","Eresidae","Gnaphosidae","Lycosidae","Segestriidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Ariadna sp.","Cupiennius salei","Desertosa sp.","Drassodes sp.","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Stegodyphus sp."]
+"Alopecosa sp.","Ariadna sp.","Cupiennius salei","Desertosa sp.","Drassodes sp.","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Lycosa praegrandis","Stegodyphus sp."]
 +++
 
 ![](/img/Arginine.png)
@@ -59,7 +59,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Drassodes-sp1/175_Arginine_Dr-sp1.pdf) | 175.11950 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/175_Arginine_Er-sp2.pdf) | 175.11950 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Geolycosa-sp/175_Arginine_Ge-sp.pdf) | 175.11950 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
-| [Data](/pdf/Hippocosa-sp1/104_Choline_Hi-sp1.pdf) | 175.11950 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hippocosa-sp1/175_Arginine_Hi-sp1.pdf) | 175.11950 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-praegrandis/175_Arginine_Lp.pdf) | 175.11950 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/175_Arginine_St-sp4.pdf) | 175.11950 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
@@ -80,6 +81,7 @@ tags = ["S-1","C-1",
 | Eresus sp. | Eresidae | 2020 / Y. M. Forster |
 | Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
+| Lycosa praegrandis | Lycosidae | 2020 / Y. M. Forster |
 | Stegodyphus sp. | Eresidae | 2020 / Y. M. Forster |
 
 ## Comments

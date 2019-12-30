@@ -53,6 +53,7 @@ tags = ["S-1","C-2",
 | [Data](/pdf/Desertosa-sp3/154_N-acetylhystamine_De-sp3.pdf) | 154.09804 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/D-canities/154_N-acetylhystamine_Dc.pdf) | 154.09804 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/154_N-acetylhystamine_Hi-sp1.pdf) | 154.09804 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-praegrandis/154_N-acetylhystamine_Lp.pdf) | 154.09804 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

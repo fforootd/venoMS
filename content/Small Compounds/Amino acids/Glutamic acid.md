@@ -10,7 +10,7 @@ tags = ["S-1","C-1",
 "Geolycosa sp.","Grammostola actaeon","Grammostola anthracina","Grammostola pulchripes",
 "Hippocosa sp.","Hogna caroliensis","Hogna sp.","Holconia flindersi",
 "Isopedella canberrensus",
-"Larinioides cornutus","Larinioides sp.","Lachesana sp.","Lycosa erythrognatha","Lycosa indagatrix","Lycosa proegrandis",
+"Larinioides cornutus","Larinioides sp.","Lachesana sp.","Lycosa erythrognatha","Lycosa indagatrix","Lycosa praegrandis",
 "Micrommata virescens virvirescens",
 "Neosparassus diana",
 "Olio sp.",
@@ -76,6 +76,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Hippocosa-sp1/148_Glutamic-acid_Hi-sp1.pdf) | 148.06098 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc.pdf) | 148.06098 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-praegrandis/148_Glutamic-acid_Lp.pdf) | 148.06098 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-tristis/148_Glutamic-acid_Pt.pdf) | 148.06098 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/148_Glutamic-acid_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/148_Glutamic-acid_St-sp4.pdf) | 148.06098 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -137,7 +138,7 @@ tags = ["S-1","C-1",
 | Lachesana sp.                     | Zodariidae      | 2008 / F. C. Schroeder     |
 | Lycosa erythrognatha              | Lycosidae       | 1957 / F. G. Fischer       |
 | Lycosa indagatrix                 | Lycosidae       | 1988 / G. Ridling Margaret |
-| Lycosa proegrandis                | Lycosidae       | 2008 / F. C. Schroeder     |
+| Lycosa praegrandis                | Lycosidae       | 2008 / F. C. Schroeder     |
 | Micrommata virescens virvirescens | Sparassidae     | 2008 / F. C. Schroeder     |
 | Neosparassus diana                | Sparassidae     | 2008 / F. C. Schroeder     |
 | Olio sp.                          | Sparassidae     | 2008 / F. C. Schroeder     |
