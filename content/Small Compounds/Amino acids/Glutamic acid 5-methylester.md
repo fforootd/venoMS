@@ -60,6 +60,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Desertosa-sp3/162_Glutamic-acid_5-methylester_De-sp3.pdf) | 162.07663 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/162_Glutamic-acid_5-methylester_Dr-sp1.pdf) | 162.07663 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/162_Glutamic-acid_5-methylester_Er-sp2.pdf) | 162.07663 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hippocosa-sp1/162_Glutamic-acid_5-methylester_Hi-sp1.pdf) | 162.07663 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/162_Glutamic-acid_5-methylester_St-sp4.pdf) | 162.07663 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

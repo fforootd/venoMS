@@ -3,7 +3,7 @@ title = "Tyramine"
 categories = ["C8H11NO","P138","HDX142",
 "Atracidae","Lycosidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Atrax robustus","Geolycosa sp."]
+"Alopecosa sp.","Atrax robustus","Geolycosa sp.","Hippocosa sp."]
 +++
 
 ![](/img/Tyramine.png)
@@ -51,6 +51,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Alopecosa-sp4/138_Tyramine_Al-sp4.pdf) | 138.09189 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp5/138_Tyramine_Al-sp5.pdf) | 138.09189 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Geolycosa-sp/138_Tyramine_Ge-sp.pdf) | 138.09189 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/Hippocosa-sp1/138_Tyramine_Hi-sp1.pdf) | 138.09189 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -65,5 +66,6 @@ tags = ["S-1","C-1",
 | Alopecosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Atrax robustus | Atracidae | 1979 / P. H. Duffield |
 | Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
+| Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
 
 ## Comments
