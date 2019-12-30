@@ -61,6 +61,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Eresus-sp2/118_Betaine_Er-sp2.pdf) | 118.08680 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-tristis/118_Betaine_Pt.pdf) | 118.08680 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/118_Betaine_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Stegodyphus-sp4/118_Betaine_St-sp4.pdf) | 118.08680 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

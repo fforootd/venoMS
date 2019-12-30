@@ -7,7 +7,7 @@ categories = ["C5H14NO","P104","HDX105",
 tags = ["S-1","C-1",
 "Agelena orientalis","Araneus diadematus","Ariadna sp.","Atrax robustus",
 "Diguetia canities","Eresus sp.",
-"Plectreurys tristis"]
+"Plectreurys tristis","Stegodyphus sp."]
 +++
 
 ![](/img/Choline.png)
@@ -56,6 +56,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Eresus-sp2/104_Choline_Er-sp2.pdf) | 104.10754 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-tristis/104_Choline_Pt.pdf) | 104.10754 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/104_Choline_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Stegodyphus-sp4/104_Choline_St-sp4.pdf) | 104.10754 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+
 
 ## References
 
@@ -74,5 +76,6 @@ tags = ["S-1","C-1",
 | Diguetia canities | Diguetidae | 2020 / Y. M. Forster |
 | Eresus sp. | Eresidae | 2020 / Y. M. Forster |
 | Plectreurys tristis | Plectreuridae | 2020 / Y. M. Forster |
+| Stegodyphus sp. | Eresidae | 2020 / Y. M. Forster |
 
 ## Comments
