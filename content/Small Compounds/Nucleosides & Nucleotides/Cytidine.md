@@ -1,9 +1,9 @@
 +++
 title = "Cytidine"
 categories = ["C9H13N3O5","P244","HDX250",
-"Agelenidae","Eresidae","Lycosidae","Oxyopidae"]
+"Agelenidae","Eresidae","Lycosidae","Oxyopidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelena orientalis","Agelenopsis aperta","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Stegodyphus sp."]
+"Agelena orientalis","Agelenopsis aperta","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Latrodectus mactans","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Stegodyphus sp."]
 +++
 
 ![](/img/Cytidine.png)
@@ -58,6 +58,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Hippocosa-sp1/244_Cytidine_Hi-sp1.pdf) | 244.09334 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/244_Cytidine_Hc.pdf) | 244.09334 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/244_Cytidine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-mactans/244_Cytidine_Lm.pdf) | 244.09334 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/244_Cytidine_Lp.pdf) | 244.09334 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/244_Cytidine_Ly-sp1.pdf) | 244.09334 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/244_Cytidine_Ly-sp3.pdf) | 244.09334 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -85,6 +86,7 @@ tags = ["S-1","C-1",
 | Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Hogna caroliensis | Lycosidae | 2020 / Y. M. Forster |
+| Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Lycosa praegrandis | Lycosidae | 2020 / Y. M. Forster |
 | Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |

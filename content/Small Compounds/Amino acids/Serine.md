@@ -1,9 +1,9 @@
 +++
 title = "Serine"
 categories = ["C3H7NO3","P106","HDX111",
-"Cupiennius"]
+"Cupiennius","Theridiidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei"]
+"Cupiennius salei","Latrodectus mactans"]
 +++
 
 ![](/img/Serine.png)
@@ -46,6 +46,7 @@ tags = ["S-1","C-1",
 | pdf                              | Precursor | Co-eluting | Spider   | Source        | Author        |
 |----------------------------------|-----------|------------|----------|---------------|---------------|
 | [Data](/pdf/106_Serine_1-10.pdf) | 106.05042 |            | L-Serine | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/L-mactans/106_Serine_Lm.pdf) | 106.05042 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -58,5 +59,6 @@ tags = ["S-1","C-1",
 | Spider species   | Family     | Discovered             |
 |------------------|------------|------------------------|
 | Cupiennius salei | Cupiennius | 1994 / L. Kuhn-Nentwig |
+| Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 
 ## Comments

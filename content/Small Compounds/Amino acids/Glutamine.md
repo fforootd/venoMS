@@ -1,9 +1,9 @@
 +++
 title = "Glutamine"
 categories = ["C5H10N2O3","P147","HDX153",
-"Lycosidae","Pholcidae"]
+"Lycosidae","Pholcidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Lycosa indagatrix","Physocyclus mexicanus"]
+"Latrodectus mactans","Lycosa indagatrix","Physocyclus mexicanus"]
 +++
 
 ![](/img/Glutamine.png)
@@ -49,6 +49,7 @@ tags = ["S-1","C-1",
 | pdf                                 | Precursor | Co-eluting | Spider      | Source | Author        |
 |-------------------------------------|-----------|------------|-------------|--------|---------------|
 | [Data](/pdf/147_Glutamine_1-12.pdf) | 147.07697 |            | L-Glutamine | Fluka  | Y. M. Forster |
+| [Data](/pdf/L-mactans/147_Glutamine_Lm.pdf) | 147.07697 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/147_Lysine_Glutamine_Pm.pdf) | 147.07697 | Lysine          | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
@@ -61,6 +62,7 @@ tags = ["S-1","C-1",
 
 | Spider species    | Family    | Discovered                 |
 |-------------------|-----------|----------------------------|
+| Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Lycosa indagatrix | Lycosidae | 1988 / G. Ridling Margaret |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 

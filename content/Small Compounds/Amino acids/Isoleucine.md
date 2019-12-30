@@ -1,9 +1,9 @@
 +++
 title = "Isoleucine"
 categories = ["C6H13NO2","P132","HDX136",
-"Cupiennius","Lycosidae","Pholcidae","Sparassidae"]
+"Cupiennius","Lycosidae","Pholcidae","Sparassidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Cupiennius salei","Geolycosa sp.","Heteropoda davidbowie","Hippocosa sp.","Lycosa indagatrix","Physocyclus mexicanus"]
+"Alopecosa sp.","Cupiennius salei","Geolycosa sp.","Heteropoda davidbowie","Hippocosa sp.","Latrodectus mactans","Lycosa indagatrix","Physocyclus mexicanus"]
 +++
 
 ![](/img/Isoleucine.png)
@@ -51,6 +51,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Geolycosa-sp/132_Isoeucine_Ge-sp.pdf) | 132.10245 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/H-davidbowie/132_Isoeucine_Hd.pdf) | 132.10245 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/132_Isoeucine_Hi-sp1.pdf) | 132.10245 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-mactans/132_Isoeucine_Lm.pdf) | 132.10245 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/132_Isoeucine_Pm.pdf) | 132.10245 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
@@ -69,6 +70,7 @@ tags = ["S-1","C-1",
 | Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
+| Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Lycosa indagatrix | Lycosidae | 1988 / G. Ridling Margaret |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 

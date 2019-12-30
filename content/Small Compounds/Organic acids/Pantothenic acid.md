@@ -1,9 +1,9 @@
 +++
 title = "Pantothenic acid"
 categories = ["C9H17NO5","P220","HDX225",
-"Agelenidae","Araneidae"]
+"Agelenidae","Araneidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Eratigena agrestis","Parawixia bistriata"]
+"Eratigena agrestis","Latrodectus mactans","Parawixia bistriata"]
 +++
 
 ![](/img/Pantothenic acid.png)
@@ -54,6 +54,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/220_Pantothenic-acid_4-57.pdf)          | 220.11850 |            | Calcium pantothenate (CAS 63409-48-3) | Fluka                        | Y. M. Forster |
 | [Data](/pdf/E-agrestis/220_Pantothenic-acid_Ea.pdf) | 220.11850 |            | E. agrestis                           | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/220_Pantothenic-acid_Ea_HDX.pdf) | HDX |            | E. agrestis                           | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-mactans/220_Pantothenic-acid_Lm.pdf) | 220.11850 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -66,6 +67,7 @@ tags = ["S-1","C-1",
 | Spider species      | Family     | Discovered           |
 |---------------------|------------|----------------------|
 | Eratigena agrestis  | Agelenidae | 2020 / Y. M. Forster |
+| Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Parawixia bistriata | Araneidae  | 2020 / Y. M. Forster |
 
 ## Comments
