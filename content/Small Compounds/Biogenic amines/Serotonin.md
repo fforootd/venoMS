@@ -57,6 +57,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/H-caroliensis/177_Serotonin_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/177_Serotonin_Lp.pdf) | 177.10279 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/177_Serotonin_Ly-sp1.pdf) | 177.10279 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp5/177_Serotonin_Ly-sp5.pdf) | 177.10279 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
