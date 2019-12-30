@@ -73,6 +73,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp4/118_Betaine_Ly-sp4.pdf) | 118.08680 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/118_Betaine_Ly-sp5.pdf) | 118.08680 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-viridans/118_Betaine_Pv.pdf) | 118.08680 |           | P. viridans | Spider Pharm, USA  | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/118_Betaine_Pm.pdf) | 118.08680 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/118_Betaine_Pt.pdf) | 118.08680 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/118_Betaine_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/118_Betaine_St-sp4.pdf) | 118.08680 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -102,10 +103,9 @@ tags = ["S-1","C-1",
 | Lycosa praegrandis    | Lycosidae     | 2020 / Y. M. Forster |
 | Lycosa sp.            | Lycosidae     | 2020 / Y. M. Forster |
 | Parawixia bistriata   | Araneidae     | 2020 / Y. M. Forster |
-| Physocyclus mexicanus | Pholcidae     | 2020 / Y. M. Forster |
-| Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
-| Plectreurys tristis   | Plectreuridae | 2020 / Y. M. Forster |
 | Peucetia viridans     | Oxyopidae     | 2020 / Y. M. Forster |
+| Physocyclus mexicanus | Pholcidae     | 2020 / Y. M. Forster |
+| Plectreurys tristis   | Plectreuridae | 2020 / Y. M. Forster |
 | Steatoda grossa       | Theridiidae   | 2020 / Y. M. Forster |
 | Stegodyphus sp.       | Eresidae      | 2020 / Y. M. Forster |
 

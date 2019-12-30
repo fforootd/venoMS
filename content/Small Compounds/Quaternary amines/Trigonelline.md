@@ -53,10 +53,12 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-robustus/138_Trigonelline_Ar.pdf) | 138.05550 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/138_Trigonelline_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/P-tristis/138_Trigonelline_Pt.pdf) | 138.05550 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-tristis/138_Trigonelline_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Geolycosa-sp/138_Homarine_Trigonelline_Ge-sp.pdf) | 138.05550 | Homarine          | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/138_Homarine_Trigonelline_Ly-sp3.pdf) | 138.05550 | Homarine | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-viridans/138_Homarine_Trigonelline_Pv.pdf) | 138.05550 | Homarine          | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/138_Trigonelline_Pm.pdf) | 138.05550 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/138_Trigonelline_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+
 
 ## References
 
@@ -72,9 +74,10 @@ tags = ["S-1","C-1",
 | Geolycosa sp.         | Lycosidae     | 2020 / Y. M. Forster |
 | Heteropoda davidbowie | Sparassidae   | 2020 / Y. M. Forster |
 | Lycosa sp.            | Lycosidae     | 2020 / Y. M. Forster |
+| Peucetia viridans     | Oxyopidae     | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae     | 2020 / Y. M. Forster |
 | Plectreurys tristis   | Plectreuridae | 2020 / Y. M. Forster |
-| Peucetia viridans     | Oxyopidae     | 2020 / Y. M. Forster |
+
 
 ## Comments
 1-Methyl-4-pyridinium carboxylate and trigonelline can not be destinguished by Rt nor MS/MS.

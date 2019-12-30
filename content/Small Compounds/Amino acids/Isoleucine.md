@@ -1,9 +1,9 @@
 +++
 title = "Isoleucine"
 categories = ["C6H13NO2","P132","HDX136",
-"Cupiennius","Lycosidae"]
+"Cupiennius","Lycosidae","Pholcidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Cupiennius salei","Geolycosa sp.","Hippocosa sp.","Lycosa indagatrix"]
+"Alopecosa sp.","Cupiennius salei","Geolycosa sp.","Hippocosa sp.","Lycosa indagatrix","Physocyclus mexicanus"]
 +++
 
 ![](/img/Isoleucine.png)
@@ -50,6 +50,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Alopecosa-sp5/132_Isoeucine_Al-sp5.pdf) | 132.10245 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Geolycosa-sp/132_Isoeucine_Ge-sp.pdf) | 132.10245 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/132_Isoeucine_Hi-sp1.pdf) | 132.10245 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/132_Isoeucine_Pm.pdf) | 132.10245 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -67,5 +68,6 @@ tags = ["S-1","C-1",
 | Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Lycosa indagatrix | Lycosidae | 1988 / G. Ridling Margaret |
+| Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 
 ## Comments

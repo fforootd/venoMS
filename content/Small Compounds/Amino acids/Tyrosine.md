@@ -1,9 +1,9 @@
 +++
 title = "Tyrosine"
 categories = ["C9H11NO3","P182","HDX187",
-"Cupiennius"]
+"Cupiennius","Pholcidae"]
 tags= ["S-1","C-1",
-"Cupiennius salei"]
+"Cupiennius salei","Physocyclus mexicanus"]
 +++
 
 ![](/img/Tyrosine.png)
@@ -53,6 +53,9 @@ tags= ["S-1","C-1",
 |------------------------------------|-----------|------------|------------|---------------|---------------|
 | [Data](/pdf/182_Tyrosine_3-01.pdf) | 182.08172 |            | L-Tyrosine | Sigma Aldrich | Y. M. Forster |
 
+| [Data](/pdf/P-mexicanus/182_Tyrosine_Pm.pdf) | 182.08172 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+
+
 ## References
 
 | Title                                                                                                                                      | Reference                                                              | Spider   | Name | Content | Link                                         |
@@ -64,5 +67,6 @@ tags= ["S-1","C-1",
 | Spider species   | Family     | Discovered             |
 |------------------|------------|------------------------|
 | Cupiennius salei | Cupiennius | 1994 / L. Kuhn-Nentwig |
+| Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 
 ## Comments

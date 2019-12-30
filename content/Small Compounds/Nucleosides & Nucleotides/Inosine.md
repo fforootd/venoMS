@@ -1,9 +1,9 @@
 +++
 title = "Inosine"
 categories = ["C10H12N4O5","P269","HDX274",
-"Araneidae","Atracidae","Diguetidae","Eresidae","Plectreuridae","Sicariidae","Theraphosidae","Theridiidae"]
+"Araneidae","Atracidae","Diguetidae","Eresidae","Pholcidae","Plectreuridae","Sicariidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Atrax robustus","Cyriopagopus hainanus","Diguetia canities","Eresus sp.","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata","Plectreurys tristis"]
+"Atrax robustus","Cyriopagopus hainanus","Diguetia canities","Eresus sp.","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata","Physocyclus mexicanus","Plectreurys tristis"]
 +++
 
 ![](/img/Inosine.png)
@@ -47,6 +47,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-robustus/269_Inosine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/D-canities/269_Inosine_Dc.pdf) | 269.08859 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/269_Inosine_Er-sp2.pdf) | 269.08859 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/269_Inosine_Pm.pdf) | 269.08859 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/269_Inosine_Pt.pdf) | 269.08859 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/269_Inosine_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
@@ -70,6 +71,7 @@ tags = ["S-1","C-1",
 | Latrodectus menavodi  | Theridiidae   | 2001 / A. Horni           |
 | Loxosceles reclusa    | Sicariidae    | 1975 / C. R. Geren        |
 | Parawixia bistriata   | Araneidae     | 2004 / M. C. A. Rodrigues |
+| Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 | Plectreurys tristis | Plectreuridae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -1,9 +1,9 @@
 +++
 title = "Lysine"
 categories = ["C6H14N2O2","P147","HDX153",
-"Ctenidae","Cupiennius","Lycosidae"]
+"Ctenidae","Cupiennius","Lycosidae","Pholcidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Lycosa sp.","Geolycosa sp.","Phoneutria fera"]
+"Cupiennius salei","Lycosa erythrognatha","Lycosa indagatrix","Lycosa sp.","Geolycosa sp.","Phoneutria fera","Physocyclus mexicanus"]
 +++
 
 ![](/img/Lysine.png)
@@ -51,6 +51,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/147_Lysine_1-08.pdf) | 147.11335 |            | L-Lysine | Fluka  | Y. M. Forster |
 | [Data](/pdf/Geolycosa-sp/147_Lysine_Ge-sp.pdf) | 147.11335 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/147_Lysine_Ly-sp5.pdf) | 147.11335 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/147_Lysine_Glutamine_Pm.pdf) | 147.11335 | Glutamine          | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -70,5 +71,6 @@ tags = ["S-1","C-1",
 | Lycosa indagatrix    | Lycosidae  | 1988 / G. Ridling Margaret |
 | Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Phoneutria fera      | Ctenidae   | 1957 / F. G. Fischer       |
+| Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 
 ## Comments
