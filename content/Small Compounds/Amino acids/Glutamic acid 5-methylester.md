@@ -1,12 +1,12 @@
 +++
 title = "Glutamic acid 5-methylester"
 categories = ["C6H11NO4","P162","HDX166",
-"Eresidae","Gnaphosidae","Lycosidae"]
+"Eresidae","Gnaphosidae","Lycosidae","Sparassidae"]
 tags = ["S-1","C-1",
 "Alopecosa sp.",
 "Desertosa sp.","Drassodes sp.",
 "Eresus sp.",
-"Hippocosa sp.",
+"Heteropoda davidbowie","Hippocosa sp.",
 "Lycosa praegrandis","Lycosa sp.",
 "Stegodyphus sp."]
 +++
@@ -60,6 +60,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Desertosa-sp3/162_Glutamic-acid_5-methylester_De-sp3.pdf) | 162.07663 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/162_Glutamic-acid_5-methylester_Dr-sp1.pdf) | 162.07663 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/162_Glutamic-acid_5-methylester_Er-sp2.pdf) | 162.07663 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/162_Glutamic-acid_5-methylester_Hd.pdf) | 162.07663 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/162_Glutamic-acid_5-methylester_Hi-sp1.pdf) | 162.07663 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/162_Glutamic-acid_5-methylester_Lp.pdf) | 162.07663 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/162_Glutamic-acid_5-methylester_Ly-sp1.pdf) | 162.07663|           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -82,6 +83,7 @@ tags = ["S-1","C-1",
 | Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Drassodes sp.      | Gnaphosidae | 2020 / Y. M. Forster |
 | Eresus sp.         | Eresidae    | 2020 / Y. M. Forster |
+| Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Hippocosa sp.      | Lycosidae   | 2020 / Y. M. Forster |
 | Lycosa praegrandis | Lycosidae   | 2020 / Y. M. Forster |
 | Lycosa sp.         | Lycosidae   | 2020 / Y. M. Forster |

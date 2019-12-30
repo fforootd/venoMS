@@ -1,9 +1,9 @@
 +++
 title = "Tryptophan"
 categories = ["C11H12N2O2","P205","HDX210",
-"Lycosidae"]
+"Lycosidae","Sparassidae"]
 tags = ["S-1","C-1",
-"Lycosa indagatrix"]
+"Heteropoda davidbowie","Lycosa indagatrix"]
 +++
 
 ![](/img/Tryptophan.png)
@@ -52,6 +52,7 @@ tags = ["S-1","C-1",
 | pdf                                  | Precursor | Co-eluting | Spider       | Source | Author        |
 |--------------------------------------|-----------|------------|--------------|--------|---------------|
 | [Data](/pdf/205_Tryptophan_9-38.pdf) | 205.09770 |            | L-Tryptophan | Merck  | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/205_Tryptophan_Hd.pdf) | 205.09770 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References
 
@@ -63,6 +64,7 @@ tags = ["S-1","C-1",
 
 | Spider species    | Family    | Discovered                 |
 |-------------------|-----------|----------------------------|
+| Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Lycosa indagatrix | Lycosidae | 1988 / G. Ridling Margaret |
 
 ## Comments

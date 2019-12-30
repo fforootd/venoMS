@@ -1,9 +1,9 @@
 +++
 title = "Leucine"
 categories = ["C6H13NO2","P132","HDX136",
-"Ctenidae","Lycosidae","Oxyopidae","Pholcidae"]
+"Ctenidae","Lycosidae","Oxyopidae","Pholcidae","Sparassidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Cupiennius salei","Peucetia viridans","Physocyclus mexicanus"]
+"Alopecosa sp.","Cupiennius salei","Heteropoda davidbowie","Peucetia viridans","Physocyclus mexicanus"]
 +++
 
 ![](/img/Leucine.png)
@@ -47,6 +47,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Alopecosa-sp1/132_Leucine_Al-sp1.pdf) | 132.10245 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/132_Leucine_Al-sp4.pdf) | 132.10245 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp5/132_Leucine_Al-sp5.pdf) | 132.10245 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/132_Leucine_Hd.pdf) | 132.10245 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/132_Leucine_Pm.pdf) | 132.10245 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-viridans/132_Leucine_Pv.pdf) | 132.10245 |           | P. viridans | Spider Pharm, USA  | Y. M. Forster |
 
@@ -62,6 +63,7 @@ tags = ["S-1","C-1",
 |------------------|----------|------------------------|
 | Alopecosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Cupiennius salei | Ctenidae | 1994 / L. Kuhn-Nentwig |
+| Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 
 ## Comments

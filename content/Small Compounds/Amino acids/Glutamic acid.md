@@ -8,7 +8,7 @@ tags = ["S-1","C-1",
 "Delena cancerides","Desertosa sp.","Dolomedes gertschi","Dolomedes tenebrosus","Drassodes sp.",
 "Eresus sp.","Eriophora edax","Eurypelma californicum","Eurypelma vellutinum","Eusparassus oculatus",
 "Geolycosa sp.","Grammostola actaeon","Grammostola anthracina","Grammostola pulchripes",
-"Hippocosa sp.","Hogna caroliensis","Hogna sp.","Holconia flindersi",
+"Heteropoda davidbowie","Hippocosa sp.","Hogna caroliensis","Hogna sp.","Holconia flindersi",
 "Isopedella canberrensus",
 "Larinioides cornutus","Larinioides sp.","Lachesana sp.","Lycosa erythrognatha","Lycosa indagatrix","Lycosa praegrandis","Lycosa sp.",
 "Micrommata virescens virvirescens",
@@ -73,6 +73,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Drassodes-sp1/148_Glutamic-acid_Dr-sp1.pdf) | 148.06098 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/148_Glutamic-acid_Er-sp2.pdf) | 148.06098 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Geolycosa-sp/148_Glutamic-acid_Ge-sp.pdf) | 148.06098 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/H-davidbowie/148_Glutamic-acid_Hd.pdf) | 148.06098 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/148_Glutamic-acid_Hi-sp1.pdf) | 148.06098 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc.pdf) | 148.06098 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
@@ -133,6 +134,7 @@ tags = ["S-1","C-1",
 | Grammostola actaeon               | Theraphosidae   | 1957 / F. G. Fischer       |
 | Grammostola anthracina            | Theraphosidae   | 1957 / F. G. Fischer       |
 | Grammostola pulchripes            | Theraphosidae   | 1957 / F. G. Fischer       |
+| Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Hogna caroliensis | Lycosidae | 2020 / Y. M. Forster |
 | Hogna sp.                         | Lycosidae       | 2008 / F. C. Schroeder     |

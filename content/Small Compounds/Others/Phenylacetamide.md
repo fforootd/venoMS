@@ -57,6 +57,7 @@ tags = ["S-3","C-1",
 | [Data](/pdf/Drassodes-sp1/136_Phenylacetamide_Dr-sp1.pdf) | 136.07624 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/136_Phenylacetamide_Ea.pdf) | 136.07624 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/136_Phenylacetamide_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/136_Phenylacetamide_Hd.pdf) | 136.07624 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/136_Phenylacetamide_Hi-sp1.pdf) | 136.07624 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/136_Phenylacetamide_Lp.pdf) | 136.07624 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/136_Phenylacetamide_Ly-sp1.pdf) | 136.07624 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |

@@ -1,11 +1,11 @@
 +++
 title = "Serotonin"
 categories = ["C10H12N2O","P177","HDX182",
-"Agelenidae","Atracidae","Cheiracanthiidae","Ctenidae","Lamponidae","Lycosidae","Theraphosidae","Theridiidae"]
+"Agelenidae","Atracidae","Cheiracanthiidae","Ctenidae","Lamponidae","Lycosidae","Sparassidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
 "Acanthoscurria paulensis","Acanthoscurria sternalis","Atrax robustus",
 "Cheiracanthium japonicum","Desertosa sp.",
-"Hogna caroliensis","Hololena curta",
+"Heteropoda davidbowie","Hogna caroliensis","Hololena curta",
 "Lampona cylindrata","Lasiodora klugi","Latrodectus tredecimguttatus","Lycosa erythrognatha","Lycosa praegrandis","Lycosa sp."
 "Phoneutria fera","Phoneutria nigriventer",
 "Vitalius roseus","Vitalius vellutinus"]
@@ -53,6 +53,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-robustus/177_Serotonin_Ar.pdf) | 177.10279 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/177_Serotonin_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Desertosa-sp3/177_Serotonin_De-sp3.pdf) | 177.10279 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/177_Serotonin_Hd.pdf) | 177.10279 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/177_Serotonin_Hc.pdf) | 177.10279 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/177_Serotonin_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/177_Serotonin_Lp.pdf) | 177.10279 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -78,6 +79,7 @@ tags = ["S-1","C-1",
 | Acanthoscurria sternalis     | Theraphosidae    | 1963 / J. H. Welsh  |
 | Cheiracanthium japonicum     | Cheiracanthiidae | 1991 / K. Hagiwara  |
 | Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
+| Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Hololena curta               | Agelenidae       | 1994 / R. Frew      |
 | Lampona cylindrata           | Lamponidae       | 2000 / L. D. Rash   |
 | Lasiodora klugi              | Theraphosidae    | 1963 / J. H. Welsh  |

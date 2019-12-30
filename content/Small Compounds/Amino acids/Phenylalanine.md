@@ -1,9 +1,9 @@
 +++
 title = "Phenylalanine"
 categories = ["C9H11NO2","P166","HDX170",
-"Ctenidae","Oxyopidae","Pholcidae"]
+"Ctenidae","Oxyopidae","Pholcidae","Sparassidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei","Peucetia viridans","Physocyclus mexicanus"]
+"Cupiennius salei","Heteropoda davidbowie","Peucetia viridans","Physocyclus mexicanus"]
 +++
 
 ![](/img/Phenylalanine.png)
@@ -49,6 +49,7 @@ tags = ["S-1","C-1",
 | pdf                                     | Precursor | Co-eluting | Spider        | Source | Author        |
 |-----------------------------------------|-----------|------------|---------------|--------|---------------|
 | [Data](/pdf/166_Phenylalanine_4-84.pdf) | 166.08680 |            | Phenylalanine | Fluka  | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/166_Phenylalanine_Hd.pdf) | 166.08680 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/P-viridans/166_Phenylalanine_Pv.pdf) | 166.08680 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/166_Phenylalanine_Pm.pdf) | 166.08680 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 
@@ -63,6 +64,7 @@ tags = ["S-1","C-1",
 | Spider species    | Family    | Discovered              |
 |-------------------|-----------|----------------------------|
 | Cupiennius salei  | Ctenidae  | 1994 / L. Kuhn-Nentwig     |
+| Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 

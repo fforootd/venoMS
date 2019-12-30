@@ -64,6 +64,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Drassodes-sp1/118_Betaine_Dr-sp1.pdf) | 118.08680 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/118_Betaine_Er-sp2.pdf) | 118.08680 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Geolycosa-sp/118_Betaine_Ge-sp.pdf) | 118.08680 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/H-davidbowie/118_Betaine_Hd.pdf) | 118.08680 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/118_Betaine_Hi-sp1.pdf) | 118.08680 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/118_Betaine_Hc.pdf) | 118.08680 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/118_Betaine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
