@@ -8,7 +8,7 @@ tags = ["S-1","C-1",
 "Desertosa sp.",
 "Eusparassus oculatus","Geolycosa sp.",
 "Hippocosa sp.","Hogna caroliensis",
-"Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa godeffroyi","Lycosa indagatrix","Lycosa praegrandis",
+"Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa godeffroyi","Lycosa indagatrix","Lycosa praegrandis","Lycosa sp.",
 "Neoscona nautica",
 "Phidippus sp.","Phoneutria fera","Phoneutria nigriventer"]
 +++
@@ -62,6 +62,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/H-caroliensis/112_Histamine_Hc.pdf) | 112.08747 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/112_Histamine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/112_Histamine_Lp.pdf) | 112.08747 |           | L. praegrandis| Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp1/112_Histamine_Ly-sp1.pdf) | 112.08747 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+
 
 ## References
 
@@ -101,6 +103,7 @@ tags = ["S-1","C-1",
 | Lycosa godeffroyi        | Lycosidae        | 1998 / L. D. Rash          |
 | Lycosa indagatrix        | Lycosidae        | 1988 / G. Ridling Margaret |
 | Lycosa praegrandis       | Lycosidae        | 2008 / F. C. Schroeder     |
+| Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Neoscona nautica         | Araneidae        | 1991 / K. Hagiwara         |
 | Phidippus sp.            | Salticidae       | 2008 / F. C. Schroeder     |
 | Phoneutria fera          | Ctenidae         | 1957 / F. G. Fischer       |

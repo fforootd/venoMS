@@ -6,7 +6,7 @@ tags = ["S-1","C-1",
 "Acanthoscurria paulensis","Acanthoscurria sternalis","Atrax robustus",
 "Cheiracanthium japonicum","Desertosa sp.",
 "Hogna caroliensis","Hololena curta",
-"Lampona cylindrata","Lasiodora klugi","Latrodectus tredecimguttatus","Lycosa erythrognatha","Lycosa praegrandis",
+"Lampona cylindrata","Lasiodora klugi","Latrodectus tredecimguttatus","Lycosa erythrognatha","Lycosa praegrandis","Lycosa sp."
 "Phoneutria fera","Phoneutria nigriventer",
 "Vitalius roseus","Vitalius vellutinus"]
 +++
@@ -56,6 +56,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/H-caroliensis/177_Serotonin_Hc.pdf) | 177.10279 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/177_Serotonin_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/177_Serotonin_Lp.pdf) | 177.10279 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp1/177_Serotonin_Ly-sp1.pdf) | 177.10279 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -82,6 +83,7 @@ tags = ["S-1","C-1",
 | Latrodectus tredecimguttatus | Theridiidae      | 1972 / M. C. Pansa  |
 | Lycosa erythrognatha         | Lycosidae        | 1963 / J. H. Welsh  |
 | Lycosa praegrandis | Lycosidae | 2020 / Y. M. Forster |
+| Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Phoneutria fera              | Ctenidae         | 1963 / J. H. Welsh  |
 | Phoneutria nigriventer       | Ctenidae         | 1973 / S. Schenberg |
 | Vitalius roseus              | Theraphosidae    | 1963 / J. H. Welsh  |

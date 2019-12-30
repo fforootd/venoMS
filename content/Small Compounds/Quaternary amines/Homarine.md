@@ -63,6 +63,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Geolycosa-sp/138_Homarine_Ge-sp.pdf) | 138.05550 | Trigonelline          | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/138_Homarine_Hi-sp1.pdf) | 138.05550 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/138_Homarine_Lp.pdf) | 138.05550 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp1/138_Homarine_Ly-sp1.pdf) | 138.05550 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
