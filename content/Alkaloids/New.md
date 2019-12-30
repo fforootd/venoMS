@@ -2,9 +2,9 @@
 title = "New"
 categories = ["CHNO","P","D","HDX",
 "New","PA",
-"Atracida"]
+"Agelenidae"]
 tags = ["S-3","C-1",
-"Atrax robustus"]
+"Agelenopsis potteri"]
 +++
 
 ![](/img/new.png)
@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / A. robustus |
+| Discovered                 | 2020 / A. potteri  |
 | Synonym                    | ---                |
 | Molecular formula          |                    |
 | CAS                        | ---                |
@@ -47,7 +47,7 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/A-robustus/358_Prop3334Gu_Ar.pdf)   | 358.32944 |            | A. robustus | Alpha Biotoxin, BEL  | Y. M. Forster |
+| [Data](/pdf/A-potteri/104_Choline_Ap.pdf) | 104.10754 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
@@ -60,6 +60,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Atrax robustus     | Atracidae  | 2020 / Y. M. Forster |
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
+
 
 ## Comments

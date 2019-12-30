@@ -4,7 +4,7 @@ categories = ["C20H33N5O","P360","D180","HDX367",
 "IndAc343","343",
 "Agelenidae","Thomisidae"]
 tags = ["S-3","C-3",
-"Agelenopsis aperta","Ozyptila lugubris"]
+"Agelenopsis aperta","Agelenopsis potteri","Ozyptila lugubris"]
 +++
 
 ![](/img/IndAc343.png)
@@ -53,6 +53,8 @@ tags = ["S-3","C-3",
 | [Data](/pdf/A-aperta/360_IndAc334_IndAc343_Aa.pdf)     | 360.27634 | IndAc334   | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/360_IndAc334_IndAc343_Aa_2.pdf)   | 360.27634 | IndAc334   | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/360_IndAc334_IndAc343_Aa_HDX.pdf) | HDX       | IndAc334   | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/360_IndAc334_IndAc343_Ap.pdf) | 360.27634  | IndAc334          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/360_IndAc334_IndAc343_Ap_HDX.pdf) | 360.27634  | IndAc334          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -69,6 +71,7 @@ tags = ["S-3","C-3",
 | Spider species     | Family     | Discovered             |
 |--------------------|------------|------------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster   |
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Ozyptila lugubris  | Thomisidae | 2009 / S. Eichenberger |
 
 ## Comments

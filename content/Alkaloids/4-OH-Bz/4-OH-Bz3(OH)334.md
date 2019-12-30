@@ -4,7 +4,7 @@ categories = ["C20H37N5O3","P396","D198","HDX404",
 "4-OH-Bz3(OH)334","3(OH)334",
 "Agelenidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Eratigena agrestis"]
+"Agelenopsis aperta","Agelenopsis potteri","Eratigena agrestis"]
 +++
 
 ## Related images
@@ -61,6 +61,9 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa.pdf)     | 396.29746 | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_2.pdf)   | 198.65264 | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_HDX.pdf) | HDX       | 4-OH-Bz3(OH)343 | A. aperta              | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ap.pdf) | 396.29746 | 4-OH-Bz3(OH)343          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ap_2.pdf) | 198.65264 | 4-OH-Bz3(OH)343          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ap_HDX.pdf) | HDX | 4-OH-Bz3(OH)343          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/396_4-OH-Bz3(OH)334_Ea.pdf) | 396.29746 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/396_4-OH-Bz3(OH)334_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
@@ -76,5 +79,6 @@ tags = ["S-1","C-1",
 | Spider species     | Family     | Discovered        |
 |--------------------|------------|-------------------|
 | Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov |
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
 ## Comments

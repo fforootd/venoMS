@@ -4,7 +4,7 @@ categories = ["C23H40N6O","P417","D209","HDX425",
 "IndAc3343","3343",
 "Agelenidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Hololena curta"]
+"Agelenopsis aperta","Agelenopsis potteri","Hololena curta"]
 +++
 
 ![](/img/IndAc3343.png)
@@ -59,6 +59,9 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-aperta/417_IndAc3343_Aa.pdf)                         | 417.33419 |                       | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/417_IndAc3343_Aa_2.pdf)                       | 209.17101 |                       | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/417_IndAc3334_IndAc3343_IndAc3433_Aa_HDX.pdf) | HDX       | IndAc3334 / IndAc3433 | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/417_IndAc3343_Ap.pdf) | 417.33419 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/417_IndAc3343_Ap_2.pdf) | 209.17101 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/417_IndAc3343_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -78,6 +81,7 @@ tags = ["S-1","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 1991 / T. N. Parks   |
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Hololena curta     | Agelenidae | 1991 / G. B. Quistad |
 
 ## Comments

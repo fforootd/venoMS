@@ -15,7 +15,7 @@ tags = ["S-1","C-1",
 | Name                      | Value               |
 |---------------------------|---------------------|
 | Level                     | S-1 / C-1           |
-| Discovered                | 2020 / P. bistriata |
+| Discovered                | 2020 / A. potteri & P. bistriata |
 | Synonym                   |                     |
 | Molecular formula         | C₅H₅N₅O             |
 | CAS                       | 73-40-5             |
@@ -47,6 +47,8 @@ tags = ["S-1","C-1",
 | pdf                               | Precursor | Co-eluting | Spider  | Source | Author        |
 |-----------------------------------|-----------|------------|---------|--------|---------------|
 | [Data](/pdf/152_Guanine_1-42.pdf) | 152.05723 |            | Guanine | Merck  | Y. M. Forster |
+| [Data](/pdf/A-potteri/152_Guanine_Ap.pdf) | 152.05723 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/152_Guanine_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

@@ -3,7 +3,7 @@ title = "Cytidine"
 categories = ["C9H13N3O5","P244","HDX250",
 "Agelenidae","Eresidae","Lycosidae","Oxyopidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelena orientalis","Agelenopsis aperta","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Latrodectus mactans","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Steatoda grossa","Stegodyphus sp."]
+"Agelena orientalis","Agelenopsis aperta","Agelenopsis potteri","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Latrodectus mactans","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Steatoda grossa","Stegodyphus sp."]
 +++
 
 ![](/img/Cytidine.png)
@@ -46,6 +46,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/244_Cytidine_1-42.pdf)            | 244.09334 |            | Cytidine    | Fluka                        | Y. M. Forster |
 | [Data](/pdf/A-aperta/244_Cytidine_Aa.pdf)     | 244.09334 |            | A. aperta   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/244_Cytidine_Aa_HDX.pdf) | HDX       |            | A. aperta   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/244_Cytidine_Ap.pdf) | 244.09334 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/244_Cytidine_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-orientalis/244_Cytidine_Ao.pdf)     | 244.09334 |            | A. orientalis   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp1/244_Cytidine_Al-sp1.pdf) | 244.09334 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/244_Cytidine_Al-sp4.pdf) | 244.09334 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -80,6 +82,7 @@ tags = ["S-1","C-1",
 |--------------------|------------|------------------------|
 | Agelena orientalis | Agelenidae | 2020 / Y. M. Forster |
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster   |
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Alopecosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Eratigena agrestis | Agelenidae | 2004 / F. C. Schroeder |

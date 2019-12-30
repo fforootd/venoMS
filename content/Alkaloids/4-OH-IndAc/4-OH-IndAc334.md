@@ -4,7 +4,7 @@ categories = ["C20H33N5O2","P376","D188","HDX384",
 "4-OH-IndAc334","334",
 "Agelenidae"]
 tags = ["S-3","C-3",
-"Agelenopsis aperta"]
+"Agelenopsis aperta","Agelenopsis potteri"]
 +++
 
 ![](/img/4-OH-IndAc334.png)
@@ -53,6 +53,8 @@ tags = ["S-3","C-3",
 |------------------------------------------------------------------|-----------|---------------|-----------|------------------------------|---------------|
 | [Data](/pdf/A-aperta/376_4-OH-IndAc334_4-OH-IndAc343_Aa.pdf)     | 376.27125 | 4-OH-IndAc343 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/376_4-OH-IndAc334_4-OH-IndAc343_Aa_HDX.pdf) | HDX       | 4-OH-IndAc343 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/376_4-OH-IndAc334_4-OH-IndAc343_Ap.pdf) | 376.27125 | 4-OH-IndAc343          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/376_4-OH-IndAc334_4-OH-IndAc343_Ap_HDX.pdf) | HDX | 4-OH-IndAc343          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -64,5 +66,6 @@ tags = ["S-3","C-3",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -4,7 +4,7 @@ categories = ["C24H46N5O4","P468","D234","HDX474",
 "2,5-(OH)2-Bz3(OH)335(NMe3)","3(OH)335(NMe3)",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta"]
+"Agelenopsis aperta","Agelenopsis potteri"]
 +++
 
 ![](/img/2-5-OH2-Bz3(OH)335(NMe3).png)
@@ -64,6 +64,9 @@ tags = ["S-3","C-1",
 | [Data](/pdf/A-aperta/468_2-5-OH2-Bz3(OH)335(NMe3)_Aa.pdf)     | 468.35498 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/468_2-5-OH2-Bz3(OH)335(NMe3)_Aa_2.pdf)   | 234.68140 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/468_2-5-OH2-Bz3(OH)335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/468_2-5-OH2-Bz3(OH)335(NMe3)_Ap.pdf) | 468.35498 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/468_2-5-OH2-Bz3(OH)335(NMe3)_Ap_2.pdf) | 234.68140 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/468_2-5-OH2-Bz3(OH)335(NMe3)_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -76,5 +79,6 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

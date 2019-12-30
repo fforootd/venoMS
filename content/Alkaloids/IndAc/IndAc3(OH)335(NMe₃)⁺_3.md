@@ -4,7 +4,7 @@ categories = ["C27H49N6O2","P489","D245","HDX494",
 "IndAc3(OH)335(NMe3)","3(OH)335(NMe3)",
 "Agelenidae","Segestriidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Ariadna sp.","Eratigena agrestis"]
+"Agelenopsis aperta","Agelenopsis potteri","Ariadna sp.","Eratigena agrestis"]
 +++
 
 ![](/img/IndAc3(OH)335(NMe3).png)
@@ -62,6 +62,9 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-aperta/489_IndAc3(OH)335(NMe3)_Aa_2.pdf)   | 245.19976 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/489_IndAc3(OH)335(NMe3)_Aa_3.pdf)   | 603.38456 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/489_IndAc3(OH)335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/489_IndAc3(OH)335(NMe3)_Ap.pdf) | 489.39170 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/489_IndAc3(OH)335(NMe3)_Ap_2.pdf) | 245.19976 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/489_IndAc3(OH)335(NMe3)_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/489_IndAc3(OH)335(NMe3)_Ar-sp.pdf) | 489.39170 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/489_IndAc3(OH)335(NMe3)_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/E-agrestis/489_IndAc3(OH)335(NMe3)_Ea.pdf) | 489.39170 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |

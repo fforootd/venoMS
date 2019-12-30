@@ -4,7 +4,7 @@ categories = ["C13H21N3O3","P268","D134","HDX274",
 "4-OH-Bz3(OH)3","3(OH)3",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Eratigena agrestis"]
+"Agelenopsis potteri","Eratigena agrestis"]
 +++
 
 ![](/img/4-OH-Bz3(OH)3.png)
@@ -50,6 +50,8 @@ tags = ["S-3","C-1",
 
 | pdf                                              | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |--------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
+| [Data](/pdf/A-potteri/268_4-OH-Bz3(OH)3_Ap.pdf) | 268.16611 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/268_4-OH-Bz3(OH)3_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/268_4-OH-Bz3(OH)3_Ea.pdf) | 268.16611 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/268_4-OH-Bz3(OH)3_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
@@ -63,6 +65,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -4,7 +4,7 @@ categories = ["C23H40N6O2","P433","D217","HDX441",
 "IndAc3(OH)343","3(OH)343",
 "Agelenidae","Segestriidae"]
 tags = ["S-3","C-3",
-"Agelenopsis aperta","Ariadna sp."]
+"Agelenopsis aperta","Agelenopsis potteri","Ariadna sp."]
 +++
 
 ![](/img/IndAc3(OH)343.png)
@@ -53,8 +53,12 @@ tags = ["S-3","C-3",
 | [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa.pdf)     | 433.32910 | IndAc3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa_2.pdf)   | 217.16846 | IndAc3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/433_IndAc3(OH)334_IndAc3(OH)343_Aa_HDX.pdf) | HDX       | IndAc3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/433_IndAc3(OH)334_IndAc3(OH)343_Ap.pdf) | 433.32910 | IndAc3(OH)334          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/433_IndAc3(OH)334_IndAc3(OH)343_Ap_2.pdf) | 217.16846 | IndAc3(OH)334          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/433_IndAc3(OH)334_IndAc3(OH)343_Ap_HDX.pdf) | HDX | IndAc3(OH)334          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/433_IndAc3(OH)343_Ar-sp.pdf) | 433.32910 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/433_IndAc3(OH)343_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+
 
 ## References
 
@@ -68,6 +72,7 @@ tags = ["S-3","C-3",
 | Spider species     | Family     | Discovered        |
 |--------------------|------------|-------------------|
 | Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov |
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Ariadna sp. | Segestriidae | 2020 / Y. M. Forster |
 
 

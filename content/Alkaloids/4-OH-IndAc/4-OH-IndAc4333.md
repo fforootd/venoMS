@@ -4,7 +4,7 @@ categories = ["C23H40N6O2","P433","D217","HDX442",
 "4-OH-IndAc4333","4333",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta"]
+"Agelenopsis aperta","Agelenopsis potteri"]
 +++
 
 ![](/img/4-OH-IndAc4333.png)
@@ -56,6 +56,8 @@ tags = ["S-3","C-1",
 |-----------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
 | [Data](/pdf/A-aperta/433_4-OH-IndAc4333_Aa.pdf)     | 433.32910 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/433_4-OH-IndAc4333_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/433_4-OH-IndAc4333_Ap.pdf) | 433.32910 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/433_4-OH-IndAc4333_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -69,6 +71,7 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered        |
 |--------------------|------------|-------------------|
 | Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov |
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments
 AG 432e is an APCI reduction artefact.

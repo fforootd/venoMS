@@ -3,7 +3,7 @@ title = "Adenosine"
 categories = ["C10H13N5O4","P268","HDX274",
 "Agelenenidae","Atracidae","Gnaphosidae","Sparassidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Atrax robustus","Cyriopagopus lividum","Drassodes sp.","Heteropoda davidbowie","Latrodectus menavodi" ]
+"Agelenopsis aperta","Agelenopsis potteri","Atrax robustus","Cyriopagopus lividum","Drassodes sp.","Heteropoda davidbowie","Latrodectus menavodi" ]
 +++
 
 ![](/img/Adenosine.png)
@@ -47,6 +47,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/268_Adenosine_2-29.pdf)            | 268.10457 |            | Adenosine | Sigma Aldrich                | Y. M. Forster |
 | [Data](/pdf/A-aperta/268_Adenosine_Aa.pdf)     | 268.10457 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/268_Adenosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/268_Adenosine_Ap.pdf) | 268.10457 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/268_Adenosine_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-robustus/268_Adenosine_Ar.pdf) | 268.10457 |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/268_Adenosine_Ar_HDX.pdf) | HDX |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/268_Adenosine_Dr-sp1.pdf) | 268.10457 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -64,6 +66,7 @@ tags = ["S-1","C-1",
 | Spider species       | Family        | Discovered           |
 |----------------------|---------------|----------------------|
 | Agelenopsis aperta   | Agelenenidae  | 2020 / Y. M. Forster |
+| Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Cyriopagopus lividum | Theraphosidae | 2005 / S. Moore      |
 | Drassodes sp. | Gnaphosidae | 2020 / Y. M. Forster |

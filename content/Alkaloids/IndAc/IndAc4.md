@@ -3,8 +3,8 @@ title = "IndAc4"
 categories = ["C14H19N3O","P246","D123","HDX251",
 "IndAc4","4",
 "Agelenidae"]
-tags = ["Agelenopsis potteri","Hololena curta","Hololena sp."]
-draft = true
+tags = ["S-1","C-3",
+"Agelenopsis potteri","Hololena curta","Hololena sp."]
 +++
 
 ![](/img/IndAc4.png)
@@ -13,7 +13,7 @@ draft = true
 
 | Name                        | Value       |
 |-----------------------------|-------------|
-| Level                       | IV          |
+| Level                       | S-1 / C-3          |
 | Discovered                  | 2019 / div. |
 | Synonym                     |             |
 | Molecular formula           | C₁₄H₁₉N₃O   |
@@ -47,7 +47,8 @@ draft = true
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/A-potteri/246_IndAc4_Ap.pdf) | 246.16064 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/246_IndAc4_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

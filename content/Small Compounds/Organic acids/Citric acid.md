@@ -3,7 +3,7 @@ title = "Citric acid"
 categories = ["C6H8O7","P193","HDX198",
 "Agelenidae","Araneidae","Atracidae","Cupiennius","Lycosidae","Nemesiidae","Palpimanidae","Pisauridae","Salticidae","Segestriidae","Sicariidae","Sparassidae","Theraphosidae","Thomisidae","Titanoecidae","Zodariidae"]
 tags = ["S-1","C-4",
-"Aculepeira sp.","Agelenopsis aperta","Aphonopelma hentzi","Aphonopelma seemnani","Aphonopelma sp.","Araneus diadematus","Araneus tartaricus","Ariadna sp.","Atrax robustus",
+"Aculepeira sp.","Agelenopsis aperta","Agelenopsis potteri","Aphonopelma hentzi","Aphonopelma seemnani","Aphonopelma sp.","Araneus diadematus","Araneus tartaricus","Ariadna sp.","Atrax robustus",
 "Brachypelma emilia","Brachypelma smithi",
 "Ceratogyrus marshalli cornuatus","Chilobrachys sp.","Coelotes pastoralis","Cupiennius salei","Cyriopagopus albostriatus","Cyriopagopus hainanus","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Dolomedes gertschi","Dolomedes tenebrosus",
@@ -63,6 +63,8 @@ tags = ["S-1","C-4",
 |--------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
 | [Data](/pdf/A-aperta/193_Citric-acid_Aa.pdf)     | 210.06138 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/193_Citric-acid_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/193_Citric-acid_Ap.pdf) | 210.06138 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/193_Citric-acid_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/193_Citric-acid_Ar-sp.pdf) | 210.06138 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/193_Citric-acid_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/A-robustus/193_Citric-acid_Ar.pdf) | 210.06138 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
