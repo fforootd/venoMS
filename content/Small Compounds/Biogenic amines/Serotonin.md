@@ -5,7 +5,7 @@ categories = ["C10H12N2O","P177","HDX182",
 tags = ["S-1","C-1",
 "Acanthoscurria paulensis","Acanthoscurria sternalis","Atrax robustus",
 "Cheiracanthium japonicum","Desertosa sp.",
-"Hololena curta",
+"Hogna caroliensis","Hololena curta",
 "Lampona cylindrata","Lasiodora klugi","Latrodectus tredecimguttatus","Lycosa erythrognatha",
 "Phoneutria fera","Phoneutria nigriventer",
 "Vitalius roseus","Vitalius vellutinus"]
@@ -53,6 +53,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-robustus/177_Serotonin_Ar.pdf) | 177.10279 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/177_Serotonin_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Desertosa-sp3/177_Serotonin_De-sp3.pdf) | 177.10279 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/177_Serotonin_Hc.pdf) | 177.10279 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/177_Serotonin_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
