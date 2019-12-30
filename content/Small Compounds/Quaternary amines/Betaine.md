@@ -58,6 +58,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-robustus/118_Betaine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/D-canities/118_Betaine_Dc.pdf) | 118.08680 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/118_Betaine_Dr-sp1.pdf) | 118.08680 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Eresus-sp2/118_Betaine_Er-sp2.pdf) | 118.08680 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-tristis/118_Betaine_Pt.pdf) | 118.08680 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/118_Betaine_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 

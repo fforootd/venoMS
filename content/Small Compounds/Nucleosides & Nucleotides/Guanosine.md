@@ -1,9 +1,9 @@
 +++
 title = "Guanosine"
 categories = ["C10H13N5O5","P284","HDX291",
-"Agelenidae","Atracidae","Diguetidae","Gnaphosidae","Theridiidae"]
+"Agelenidae","Atracidae","Diguetidae","Eresidae","Gnaphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Atrax robustus","Diguetia canities","Drassodes sp.","Latrodectus menavodi"]
+"Agelenopsis aperta","Atrax robustus","Diguetia canities","Drassodes sp.","Eresus sp.","Latrodectus menavodi"]
 +++
 
 ![](/img/Guanosine.png)
@@ -51,6 +51,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-robustus/284_Guanosine_Ar_HDX.pdf) | HDX |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/D-canities/284_Guanosine_Dc.pdf) | 284.09949 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/284_Guanosine_Dr-sp1.pdf) | 284.09949 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Eresus-sp2/284_Guanosine_Er-sp2.pdf) | 284.09949 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -66,6 +67,7 @@ tags = ["S-1","C-1",
 | Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Diguetia canities | Diguetidae | 2020 / Y. M. Forster |
 | Drassodes sp. | Gnaphosidae | 2020 / Y. M. Forster |
+| Eresus sp. | Eresidae | 2020 / Y. M. Forster |
 | Latrodectus menavodi | Theridiidae  | 2001 / A. Horni      |
 
 ## Comments

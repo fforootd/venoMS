@@ -1,9 +1,9 @@
 +++
 title = "Cytidine"
 categories = ["C9H13N3O5","P244","HDX250",
-"Agelenidae"]
+"Agelenidae","Eresidae"]
 tags = ["S-1","C-1",
-"Agelena orientalis","Agelenopsis aperta","Eratigena agrestis"]
+"Agelena orientalis","Agelenopsis aperta","Eratigena agrestis","Eresus sp."]
 +++
 
 ![](/img/Cytidine.png)
@@ -49,6 +49,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-orientalis/244_Cytidine_Ao.pdf)     | 244.09334 |            | A. orientalis   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/244_Cytidine_Ea.pdf)   | 244.09334 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/244_Cytidine_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Eresus-sp2/244_Cytidine_Er-sp2.pdf) | 244.09334 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -63,5 +64,6 @@ tags = ["S-1","C-1",
 | Agelena orientalis | Agelenidae | 2020 / Y. M. Forster |
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster   |
 | Eratigena agrestis | Agelenidae | 2004 / F. C. Schroeder |
+| Eresus sp. | Eresidae | 2020 / Y. M. Forster |
 
 ## Comments

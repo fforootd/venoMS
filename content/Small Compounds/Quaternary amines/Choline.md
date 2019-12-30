@@ -1,12 +1,12 @@
 +++
 title = "Choline"
 categories = ["C5H14NO","P104","HDX105",
-"Agelenidae","Araneidae","Atracidae","Diguetidae",
+"Agelenidae","Araneidae","Atracidae","Diguetidae","Eresidae",
 "Plectreuridae",
 "Segestriidae"]
 tags = ["S-1","C-1",
 "Agelena orientalis","Araneus diadematus","Ariadna sp.","Atrax robustus",
-"Diguetia canities",
+"Diguetia canities","Eresus sp.",
 "Plectreurys tristis"]
 +++
 
@@ -53,6 +53,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-robustus/104_Choline_GABA_Ar.pdf) | 104.10754 | GABA           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/104_Choline_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/D-canities/104_Choline_Dc.pdf) | 104.10754 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Eresus-sp2/104_Choline_Er-sp2.pdf) | 104.10754 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-tristis/104_Choline_Pt.pdf) | 104.10754 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/104_Choline_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
@@ -71,6 +72,7 @@ tags = ["S-1","C-1",
 | Ariadna sp.        | Segestriidae | 2008 / F. C. Schroeder |
 | Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Diguetia canities | Diguetidae | 2020 / Y. M. Forster |
+| Eresus sp. | Eresidae | 2020 / Y. M. Forster |
 | Plectreurys tristis | Plectreuridae | 2020 / Y. M. Forster |
 
 ## Comments
