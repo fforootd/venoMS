@@ -4,7 +4,7 @@ categories = ["C6H11NO4","P162","HDX166",
 "Eresidae","Gnaphosidae","Lycosidae"]
 tags = ["S-1","C-1",
 "Alopecosa sp.",
-"Drassodes sp.",
+"Desertosa sp.","Drassodes sp.",
 "Eresus sp.",
 "Hippocosa sp.",
 "Lycosa praegrandis","Lycosa sp.",
@@ -57,6 +57,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/162_Glutamic_acid_5-methylester_1-44.pdf) | 162.07663 |            | L-Glutamic acid 5-methylester | Sigma Aldrich | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/162_Glutamic-acid_5-methylester_Al-sp4.pdf) | 162.07663 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp5/162_Glutamic-acid_5-methylester_Al-sp5.pdf) | 162.07663 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/162_Glutamic-acid_5-methylester_De-sp3.pdf) | 162.07663 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/162_Glutamic-acid_5-methylester_Dr-sp1.pdf) | 162.07663 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/162_Glutamic-acid_5-methylester_Er-sp2.pdf) | 162.07663 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/162_Glutamic-acid_5-methylester_St-sp4.pdf) | 162.07663 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -72,6 +73,7 @@ tags = ["S-1","C-1",
 | Spider species     | Family      | Discovered           |
 |--------------------|-------------|----------------------|
 | Alopecosa sp.      | Lycosidae   | 2020 / Y. M. Forster |
+| Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Drassodes sp.      | Gnaphosidae | 2020 / Y. M. Forster |
 | Eresus sp.         | Eresidae    | 2020 / Y. M. Forster |
 | Hippocosa sp.      | Lycosidae   | 2020 / Y. M. Forster |

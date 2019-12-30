@@ -4,7 +4,7 @@ categories = ["C10H12N2O","P177","HDX182",
 "Agelenidae","Atracidae","Cheiracanthiidae","Ctenidae","Lamponidae","Lycosidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
 "Acanthoscurria paulensis","Acanthoscurria sternalis","Atrax robustus",
-"Cheiracanthium japonicum",
+"Cheiracanthium japonicum","Desertosa sp.",
 "Hololena curta",
 "Lampona cylindrata","Lasiodora klugi","Latrodectus tredecimguttatus","Lycosa erythrognatha",
 "Phoneutria fera","Phoneutria nigriventer",
@@ -52,6 +52,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/177_Serotonin_4-31.pdf) | 177.10279 |            | Serotonin HCl (CAS 153-98-0) | Fluka  | Y. M. Forster |
 | [Data](/pdf/A-robustus/177_Serotonin_Ar.pdf) | 177.10279 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/177_Serotonin_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/177_Serotonin_De-sp3.pdf) | 177.10279 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -71,6 +72,7 @@ tags = ["S-1","C-1",
 | Acanthoscurria paulensis     | Theraphosidae    | 1963 / J. H. Welsh  |
 | Acanthoscurria sternalis     | Theraphosidae    | 1963 / J. H. Welsh  |
 | Cheiracanthium japonicum     | Cheiracanthiidae | 1991 / K. Hagiwara  |
+| Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Hololena curta               | Agelenidae       | 1994 / R. Frew      |
 | Lampona cylindrata           | Lamponidae       | 2000 / L. D. Rash   |
 | Lasiodora klugi              | Theraphosidae    | 1963 / J. H. Welsh  |

@@ -56,6 +56,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Alopecosa-sp1/138_Homarine_Al-sp1.pdf) | 138.05550 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/138_Homarine_Al-sp4.pdf) | 138.05550 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp5/138_Homarine_Al-sp5.pdf) | 138.05550 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/138_Homarine_De-sp3.pdf) | 138.05550 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/138_Homarine_Dr-sp1.pdf) | 138.05550 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/138_Homarine_Ea.pdf) | 138.05550 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/138_Homarine_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |

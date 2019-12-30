@@ -59,6 +59,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Ariadna-sp/118_Betaine_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/A-robustus/118_Betaine_Ar.pdf) | 118.08680 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/118_Betaine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/118_Betaine_De-sp3.pdf) | 118.08680 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/D-canities/118_Betaine_Dc.pdf) | 118.08680 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/118_Betaine_Dr-sp1.pdf) | 118.08680 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/118_Betaine_Er-sp2.pdf) | 118.08680 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -79,8 +80,8 @@ tags = ["S-1","C-1",
 | Alopecosa sp.         | Lycosidae     | 2020 / Y. M. Forster |
 | Ariadna sp.           | Segestriidae  | 2020 / Y. M. Forster |
 | Atrax robustus        | Atracidae     | 2020 / Y. M. Forster |
-| Diguetia canities     | Diguetidae    | 2020 / Y. M. Forster |
 | Desertosa sp.         | Lycosidae     | 2020 / Y. M. Forster |
+| Diguetia canities     | Diguetidae    | 2020 / Y. M. Forster |
 | Drassodes sp.         | Gnaphosidae   | 2020 / Y. M. Forster |
 | Eresus sp.            | Eresidae      | 2020 / Y. M. Forster |
 | Geolycosa sp.         | Lycosidae     | 2020 / Y. M. Forster |

@@ -5,6 +5,7 @@ categories = ["C5H9N3","P112","HDX116",
 tags = ["S-1","C-1",
 "Alopecosa sp.",
 "Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
+"Desertosa sp.",
 "Eusparassus oculatus",
 "Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa godeffroyi","Lycosa indagatrix","Lycosa praegrandis",
 "Neoscona nautica",
@@ -54,6 +55,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Alopecosa-sp1/112_Histamine_Al-sp1.pdf) | 112.08747 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp4/112_Histamine_Al-sp4.pdf) | 112.08747 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp5/112_Histamine_Al-sp5.pdf) | 112.08747 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/112_Histamine_De-sp3.pdf) | 112.08747 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -82,6 +84,7 @@ tags = ["S-1","C-1",
 | Cheiracanthium japonicum | Cheiracanthiidae | 1991 / K. Hagiwara         |
 | Cupiennius salei         | Cupiennius       | 1994 / L. Kuhn-Nentwig     |
 | Cyriopagopus lividum     | Theraphosidae    | 2008 / F. C. Schroeder     |
+| Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Eusparassus oculatus     | Sparassidae      | 2008 / F. C. Schroeder     |
 | Lampona cylindrata       | Lamponidae       | 2000 / L. D. Rash          |
 | Loxosceles intermedia    | Sicariidae       | 2009 / K. S. Paludo        |

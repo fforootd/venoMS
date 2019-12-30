@@ -5,7 +5,7 @@ categories = ["C5H9NO4","P148","HDX153",
 tags = ["S-1","C-1",
 "Acanthoscurria paulensis","Alopecosa sp.","Anemesia incana","Aphonopelma hentzi","Araneus gemma","Araneus diadematus","Araneus sp.","Araneus tartaricus","Ariadna sp.","Avicularia avicularis",
 "Cupiennius salei","Cyriopagopus albostriatum","Cyriopagopus lividum","Cyriopagopus schmidti",
-"Delena cancerides","Dolomedes gertschi","Dolomedes tenebrosus","Drassodes sp.",
+"Delena cancerides","Desertosa sp.","Dolomedes gertschi","Dolomedes tenebrosus","Drassodes sp.",
 "Eresus sp.","Eriophora edax","Eurypelma californicum","Eurypelma vellutinum","Eusparassus oculatus",
 "Grammostola actaeon","Grammostola anthracina","Grammostola pulchripes",
 "Hogna sp.","Holconia flindersi",
@@ -69,6 +69,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Alopecosa-sp5/148_Glutamic-acid_Al-sp5.pdf) | 148.06098 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/148_Glutamic-acid_Ar-sp.pdf) | 148.06098 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/148_Glutamic-acid_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/148_Glutamic-acid_De-sp3.pdf) | 148.06098 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/148_Glutamic-acid_Dr-sp1.pdf) | 148.06098 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/148_Glutamic-acid_Er-sp2.pdf) | 148.06098 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-tristis/148_Glutamic-acid_Pt.pdf) | 148.06098 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
@@ -109,6 +110,7 @@ tags = ["S-1","C-1",
 | Cyriopagopus lividum              | Theraphosidae   | 2008 / F. C. Schroeder     |
 | Cyriopagopus schmidti             | Theraphosidae   | 2008 / F. C. Schroeder     |
 | Delena cancerides                 | Sparassidae     | 2008 / F. C. Schroeder     |
+| Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Dolomedes gertschi                | Pisauridae      | 2008 / F. C. Schroeder     |
 | Dolomedes tenebrosus              | Pisauridae      | 2008 / F. C. Schroeder     |
 | Drassodes sp.                     | Gnaphosidae     | 2008 / F. C. Schroeder     |

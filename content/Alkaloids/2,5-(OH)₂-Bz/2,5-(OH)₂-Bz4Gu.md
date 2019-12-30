@@ -2,9 +2,9 @@
 title = "2,5-(OH)₂-Bz4Gu"
 categories = ["C12H18N4O3","P267","D134","HDX275",
 "2-5-OH2-Bz4Gu","4Gu",
-"Gnaphosidae"]
+"Gnaphosidae","Lycosidae"]
 tags = ["S-3","C-1",
-"Drassodes sp."]
+"Desertosa sp.","Drassodes sp."]
 +++
 
 ![](/img/2-5-OH2-Bz4Gu.png)
@@ -47,6 +47,7 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
+| [Data](/pdf/Desertosa-sp3/267_2-5-OH2-Bz4Gu_De-sp3.pdf) | 267.14572 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/267_2-5-OH2-Bz4Gu_Dr-sp1.pdf) | 267.14572 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
@@ -60,6 +61,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
+| Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Drassodes sp. | Gnaphosidae | 2020 / Y. M. Forster |
 
 ## Comments
