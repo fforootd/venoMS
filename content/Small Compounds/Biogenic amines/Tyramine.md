@@ -1,9 +1,9 @@
 +++
 title = "Tyramine"
 categories = ["C8H11NO","P138","HDX142",
-"Atracidae"]
+"Atracidae","Lycosidae"]
 tags = ["S-1","C-1",
-"Atrax robustus"]
+"Alopecosa sp.","Atrax robustus"]
 +++
 
 ![](/img/Tyramine.png)
@@ -48,6 +48,7 @@ tags = ["S-1","C-1",
 | pdf                                | Precursor | Co-eluting | Spider   | Source        | Author        |
 |------------------------------------|-----------|------------|----------|---------------|---------------|
 | [Data](/pdf/138_Tyramine_2-83.pdf) | 138.09189 |            | Tyramine | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp4/138_Tyramine_Al-sp4.pdf) | 138.09189 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -59,6 +60,7 @@ tags = ["S-1","C-1",
 
 | Spider species | Family    | Discovered            |
 |----------------|-----------|-----------------------|
+| Alopecosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Atrax robustus | Atracidae | 1979 / P. H. Duffield |
 
 ## Comments

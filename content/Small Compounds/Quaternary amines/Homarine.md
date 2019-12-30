@@ -54,6 +54,7 @@ tags = ["S-1","C-1",
 |------------------------------------|-----------|------------|--------------------------|----------------------------------------|---------------|
 | [Data](/pdf/138_Homarine_1-22.pdf) | 138.05550 |            | Homarine (CAS 6253-06-1) | Dominique Kamber, University of Zurich | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp1/138_Homarine_Al-sp1.pdf) | 138.05550 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp4/138_Homarine_Al-sp4.pdf) | 138.05550 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/138_Homarine_Dr-sp1.pdf) | 138.05550 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/138_Homarine_Ea.pdf) | 138.05550 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/138_Homarine_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |

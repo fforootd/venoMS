@@ -48,6 +48,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-aperta/244_Cytidine_Aa_HDX.pdf) | HDX       |            | A. aperta   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-orientalis/244_Cytidine_Ao.pdf)     | 244.09334 |            | A. orientalis   | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp1/244_Cytidine_Al-sp1.pdf) | 244.09334 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp4/244_Cytidine_Al-sp4.pdf) | 244.09334 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/244_Cytidine_Ea.pdf)   | 244.09334 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/244_Cytidine_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/244_Cytidine_Er-sp2.pdf) | 244.09334 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
