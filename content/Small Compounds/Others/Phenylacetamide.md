@@ -61,6 +61,7 @@ tags = ["S-3","C-1",
 | [Data](/pdf/L-praegrandis/136_Phenylacetamide_Lp.pdf) | 136.07624 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/136_Phenylacetamide_Ly-sp1.pdf) | 136.07624 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/136_Phenylacetamide_Ly-sp3.pdf) | 136.07624 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp4/136_Phenylacetamide_Ly-sp4.pdf) | 136.07624 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-tristis/136_Phenylacetamide_Pt.pdf) | 136.07624 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/136_Phenylacetamide_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 

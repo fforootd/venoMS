@@ -65,6 +65,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/L-praegrandis/138_Homarine_Lp.pdf) | 138.05550 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/138_Homarine_Ly-sp1.pdf) | 138.05550 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/138_Homarine_Trigonelline_Ly-sp3.pdf) | 138.05550 | Trigonelline | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp4/138_Homarine_Ly-sp4.pdf) | 138.05550 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

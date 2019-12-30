@@ -56,6 +56,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/H-caroliensis/138_Tyramine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/138_Tyramine_Lp.pdf) | 138.09189 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/104_Choline_Ly-sp3.pdf) | 138.09189 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp4/104_Choline_Ly-sp4.pdf) | 138.09189 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

@@ -64,6 +64,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/L-praegrandis/112_Histamine_Lp.pdf) | 112.08747 |           | L. praegrandis| Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/112_Histamine_Ly-sp1.pdf) | 112.08747 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/112_Histamine_Ly-sp3.pdf) | 112.08747 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp4/112_Histamine_Ly-sp4.pdf) | 112.08747 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
