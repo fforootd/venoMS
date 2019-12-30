@@ -1,7 +1,7 @@
 +++
 title = "Histamine"
 categories = ["C5H9N3","P112","HDX116",
-"Araneidae","Cheiracanthiidae","Ctenidae","Cupiennius","Lamponidae","Lycosidae","Salticidae","Sicariidae","Sparassidae","Theraphosidae"]
+"Araneidae","Cheiracanthiidae","Ctenidae","Cupiennius","Lamponidae","Lycosidae","Oxyopidae","Salticidae","Sicariidae","Sparassidae","Theraphosidae"]
 tags = ["S-1","C-1",
 "Alopecosa sp.",
 "Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
@@ -10,7 +10,7 @@ tags = ["S-1","C-1",
 "Hippocosa sp.","Hogna caroliensis",
 "Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa godeffroyi","Lycosa indagatrix","Lycosa praegrandis","Lycosa sp.",
 "Neoscona nautica",
-"Phidippus sp.","Phoneutria fera","Phoneutria nigriventer"]
+"Peucetia viridans","Phidippus sp.","Phoneutria fera","Phoneutria nigriventer"]
 +++
 
 ![](/img/Histamine.png)
@@ -66,6 +66,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp3/112_Histamine_Ly-sp3.pdf) | 112.08747 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp4/112_Histamine_Ly-sp4.pdf) | 112.08747 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/112_Histamine_Ly-sp5.pdf) | 112.08747 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-viridans/112_Histamine_Pv.pdf) | 112.08747 |           | P. viridans | Spider Pharm, USA  | Y. M. Forster |
 
 ## References
 
@@ -107,6 +108,7 @@ tags = ["S-1","C-1",
 | Lycosa praegrandis       | Lycosidae        | 2008 / F. C. Schroeder     |
 | Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Neoscona nautica         | Araneidae        | 1991 / K. Hagiwara         |
+| Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
 | Phidippus sp.            | Salticidae       | 2008 / F. C. Schroeder     |
 | Phoneutria fera          | Ctenidae         | 1957 / F. G. Fischer       |
 | Phoneutria nigriventer   | Ctenidae         | 1973 / S. Schenberg        |

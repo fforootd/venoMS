@@ -56,6 +56,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/P-tristis/138_Trigonelline_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Geolycosa-sp/138_Homarine_Trigonelline_Ge-sp.pdf) | 138.05550 | Homarine          | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/138_Homarine_Trigonelline_Ly-sp3.pdf) | 138.05550 | Homarine | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-viridans/138_Homarine_Trigonelline_Pv.pdf) | 138.05550 | Homarine          | P. viridans | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

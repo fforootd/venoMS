@@ -1,9 +1,9 @@
 +++
 title = "Phenylalanine"
 categories = ["C9H11NO2","P166","HDX170",
-"Ctenidae"]
+"Ctenidae","Oxyopidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei"]
+"Cupiennius salei","Peucetia viridans"]
 +++
 
 ![](/img/Phenylalanine.png)
@@ -49,6 +49,8 @@ tags = ["S-1","C-1",
 | pdf                                     | Precursor | Co-eluting | Spider        | Source | Author        |
 |-----------------------------------------|-----------|------------|---------------|--------|---------------|
 | [Data](/pdf/166_Phenylalanine_4-84.pdf) | 166.08680 |            | Phenylalanine | Fluka  | Y. M. Forster |
+| [Data](/pdf/P-viridans/166_Phenylalanine_Pv.pdf) | 166.08680 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
+
 ## References
 
 | Title                                                                                                                                      | Reference                                                                        | Spider        | Name | Content              | Link                                                         |
@@ -60,5 +62,6 @@ tags = ["S-1","C-1",
 | Spider species    | Family    | Discovered              |
 |-------------------|-----------|----------------------------|
 | Cupiennius salei  | Ctenidae  | 1994 / L. Kuhn-Nentwig     |
+| Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
 
 ## Comments

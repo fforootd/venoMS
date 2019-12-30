@@ -44,6 +44,7 @@ tags = ["S-1","C-1",
 | pdf                                   | Precursor | Co-eluting | Spider     | Source | Author        |
 |---------------------------------------|-----------|------------|------------|--------|---------------|
 | [Data](/pdf/161_Tryptamine_10-04.pdf) | 161.10787 |            | Tryptamine | Fluka  | Y. M. Forster |
+| [Data](/pdf/P-viridans/161_Tryptamine_Pv.pdf) | 161.10787 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

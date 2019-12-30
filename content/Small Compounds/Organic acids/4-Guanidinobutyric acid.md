@@ -47,7 +47,7 @@ tags = ["S-1","C-2",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/P-viridans/146_Guanidinobutanic-acid_Pv.pdf) | 146.09295  |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

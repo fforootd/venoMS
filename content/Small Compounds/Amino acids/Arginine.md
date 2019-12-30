@@ -1,9 +1,9 @@
 +++
 title = "Arginine"
 categories = ["C6H14N4O2","P175","HDX183",
-"Cupiennius","Eresidae","Gnaphosidae","Lycosidae","Segestriidae"]
+"Cupiennius","Eresidae","Gnaphosidae","Lycosidae","Oxyopidae","Segestriidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Ariadna sp.","Cupiennius salei","Desertosa sp.","Drassodes sp.","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Lycosa praegrandis","Lycosa sp.","Stegodyphus sp."]
+"Alopecosa sp.","Ariadna sp.","Cupiennius salei","Desertosa sp.","Drassodes sp.","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Stegodyphus sp."]
 +++
 
 ![](/img/Arginine.png)
@@ -64,6 +64,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp1/175_Arginine_Ly-sp1.pdf) | 175.11950 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/175_Arginine_Ly-sp3.pdf) | 175.11950 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/175_Arginine_Ly-sp5.pdf) | 175.11950 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-viridans/175_Arginine_Pv.pdf) | 175.11950 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/175_Arginine_St-sp4.pdf) | 175.11950 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
@@ -86,6 +87,7 @@ tags = ["S-1","C-1",
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Lycosa praegrandis | Lycosidae | 2020 / Y. M. Forster |
 | Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
+| Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
 | Stegodyphus sp. | Eresidae | 2020 / Y. M. Forster |
 
 ## Comments
