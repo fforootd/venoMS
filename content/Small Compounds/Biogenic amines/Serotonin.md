@@ -2,7 +2,7 @@
 title = "Serotonin"
 categories = ["C10H12N2O","P177","HDX182",
 "Agelenidae","Atracidae","Cheiracanthiidae","Ctenidae","Lamponidae","Lycosidae","Sparassidae","Theraphosidae","Theridiidae"]
-tags = ["S-1","C-1",
+tags =["S-1","C-1",
 "Acanthoscurria paulensis","Acanthoscurria sternalis","Atrax robustus",
 "Cheiracanthium japonicum","Desertosa sp.",
 "Heteropoda davidbowie","Hogna caroliensis","Hololena curta",
