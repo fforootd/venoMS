@@ -60,6 +60,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/H-caroliensis/244_Cytidine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/244_Cytidine_Lp.pdf) | 244.09334 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/244_Cytidine_Ly-sp1.pdf) | 244.09334 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp3/244_Cytidine_Ly-sp3.pdf) | 244.09334 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/244_Cytidine_St-sp4.pdf) | 244.09334 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

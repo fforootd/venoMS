@@ -63,6 +63,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Hippocosa-sp1/162_Glutamic-acid_5-methylester_Hi-sp1.pdf) | 162.07663 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/162_Glutamic-acid_5-methylester_Lp.pdf) | 162.07663 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/162_Glutamic-acid_5-methylester_Ly-sp1.pdf) | 162.07663|           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp3/162_Glutamic-acid_5-methylester_Ly-sp3.pdf) | 162.07663|           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/162_Glutamic-acid_5-methylester_St-sp4.pdf) | 162.07663 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

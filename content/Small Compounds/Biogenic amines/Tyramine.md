@@ -3,7 +3,7 @@ title = "Tyramine"
 categories = ["C8H11NO","P138","HDX142",
 "Atracidae","Lycosidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Atrax robustus","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Lycosa praegrandis"]
+"Alopecosa sp.","Atrax robustus","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Lycosa praegrandis","Lycosa sp."]
 +++
 
 ![](/img/Tyramine.png)
@@ -55,6 +55,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/H-caroliensis/138_Tyramine_Hc.pdf) | 138.09189 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/138_Tyramine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/138_Tyramine_Lp.pdf) | 138.09189 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp3/104_Choline_Ly-sp3.pdf) | 138.09189 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -72,5 +73,6 @@ tags = ["S-1","C-1",
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Hogna caroliensis | Lycosidae | 2020 / Y. M. Forster |
 | Lycosa praegrandis | Lycosidae | 2020 / Y. M. Forster |
+| Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 
 ## Comments

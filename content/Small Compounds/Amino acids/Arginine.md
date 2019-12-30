@@ -62,6 +62,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Hippocosa-sp1/175_Arginine_Hi-sp1.pdf) | 175.11950 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/175_Arginine_Lp.pdf) | 175.11950 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/175_Arginine_Ly-sp1.pdf) | 175.11950 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp3/175_Arginine_Ly-sp3.pdf) | 175.11950 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/175_Arginine_St-sp4.pdf) | 175.11950 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

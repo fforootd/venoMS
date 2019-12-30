@@ -60,10 +60,11 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Drassodes-sp1/138_Homarine_Dr-sp1.pdf) | 138.05550 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/138_Homarine_Ea.pdf) | 138.05550 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/138_Homarine_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Geolycosa-sp/138_Homarine_Ge-sp.pdf) | 138.05550 | Trigonelline          | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/138_Homarine_Trigonelline_Ge-sp.pdf) | 138.05550 | Trigonelline          | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/138_Homarine_Hi-sp1.pdf) | 138.05550 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/138_Homarine_Lp.pdf) | 138.05550 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/138_Homarine_Ly-sp1.pdf) | 138.05550 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp3/138_Homarine_Trigonelline_Ly-sp3.pdf) | 138.05550 | Trigonelline | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
