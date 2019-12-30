@@ -3,7 +3,7 @@ title = "Inosine"
 categories = ["C10H12N4O5","P269","HDX274",
 "Araneidae","Atracidae","Diguetidae","Eresidae","Pholcidae","Plectreuridae","Sicariidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Atrax robustus","Cyriopagopus hainanus","Diguetia canities","Eresus sp.","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata","Physocyclus mexicanus","Plectreurys tristis"]
+"Atrax robustus","Cyriopagopus hainanus","Diguetia canities","Eresus sp.","Latrodectus menavodi","Loxosceles reclusa","Parawixia bistriata","Physocyclus mexicanus","Plectreurys tristis","Steatoda grossa"]
 +++
 
 ![](/img/Inosine.png)
@@ -50,6 +50,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/P-mexicanus/269_Inosine_Pm.pdf) | 269.08859 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/269_Inosine_Pt.pdf) | 269.08859 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/269_Inosine_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/269_Inosine_Sg.pdf) | 269.08859 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -73,5 +74,6 @@ tags = ["S-1","C-1",
 | Parawixia bistriata   | Araneidae     | 2004 / M. C. A. Rodrigues |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 | Plectreurys tristis | Plectreuridae | 2020 / Y. M. Forster |
+| Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |
 
 ## Comments

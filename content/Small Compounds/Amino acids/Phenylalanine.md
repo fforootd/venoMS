@@ -3,7 +3,7 @@ title = "Phenylalanine"
 categories = ["C9H11NO2","P166","HDX170",
 "Ctenidae","Oxyopidae","Pholcidae","Sparassidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei","Heteropoda davidbowie","Latrodectus mactans","Peucetia viridans","Physocyclus mexicanus"]
+"Cupiennius salei","Heteropoda davidbowie","Latrodectus mactans","Peucetia viridans","Physocyclus mexicanus","Steatoda grossa"]
 +++
 
 ![](/img/Phenylalanine.png)
@@ -53,6 +53,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/L-mactans/166_Phenylalanine_Lm.pdf) | 166.08680 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-viridans/166_Phenylalanine_Pv.pdf) | 166.08680 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/166_Phenylalanine_Pm.pdf) | 166.08680 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/166_Phenylalanine_Sg.pdf) | 166.08680 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -69,5 +70,6 @@ tags = ["S-1","C-1",
 | Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
+| Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |
 
 ## Comments

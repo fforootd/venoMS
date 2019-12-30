@@ -3,7 +3,7 @@ title = "Isoleucine"
 categories = ["C6H13NO2","P132","HDX136",
 "Cupiennius","Lycosidae","Pholcidae","Sparassidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Cupiennius salei","Geolycosa sp.","Heteropoda davidbowie","Hippocosa sp.","Latrodectus mactans","Lycosa indagatrix","Physocyclus mexicanus"]
+"Alopecosa sp.","Cupiennius salei","Geolycosa sp.","Heteropoda davidbowie","Hippocosa sp.","Latrodectus mactans","Lycosa indagatrix","Physocyclus mexicanus","Steatoda grossa"]
 +++
 
 ![](/img/Isoleucine.png)
@@ -53,6 +53,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Hippocosa-sp1/132_Isoeucine_Hi-sp1.pdf) | 132.10245 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/L-mactans/132_Isoeucine_Lm.pdf) | 132.10245 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/132_Isoeucine_Pm.pdf) | 132.10245 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/132_Isoeucine_Sg.pdf) | 132.10245 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -73,5 +74,6 @@ tags = ["S-1","C-1",
 | Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Lycosa indagatrix | Lycosidae | 1988 / G. Ridling Margaret |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
+| Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |
 
 ## Comments

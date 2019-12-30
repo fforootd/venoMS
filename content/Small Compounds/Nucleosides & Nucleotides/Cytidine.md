@@ -3,7 +3,7 @@ title = "Cytidine"
 categories = ["C9H13N3O5","P244","HDX250",
 "Agelenidae","Eresidae","Lycosidae","Oxyopidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelena orientalis","Agelenopsis aperta","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Latrodectus mactans","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Stegodyphus sp."]
+"Agelena orientalis","Agelenopsis aperta","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Latrodectus mactans","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Steatoda grossa","Stegodyphus sp."]
 +++
 
 ![](/img/Cytidine.png)
@@ -65,6 +65,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp4/244_Cytidine_Ly-sp4.pdf) | 244.09334 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/244_Cytidine_Ly-sp5.pdf) | 244.09334 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-viridans/244_Cytidine_Pv.pdf) | 244.09334 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/244_Cytidine_Sg.pdf) | 244.09334 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/244_Cytidine_St-sp4.pdf) | 244.09334 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
@@ -90,6 +91,7 @@ tags = ["S-1","C-1",
 | Lycosa praegrandis | Lycosidae | 2020 / Y. M. Forster |
 | Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
+| Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |
 | Stegodyphus sp. | Eresidae | 2020 / Y. M. Forster |
 
 ## Comments

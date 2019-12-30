@@ -78,6 +78,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/P-mexicanus/118_Betaine_Pm.pdf) | 118.08680 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/118_Betaine_Pt.pdf) | 118.08680 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/118_Betaine_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/118_Betaine_Sg.pdf) | 118.08680 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/118_Betaine_St-sp4.pdf) | 118.08680 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

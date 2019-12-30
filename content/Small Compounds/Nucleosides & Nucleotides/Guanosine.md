@@ -3,7 +3,7 @@ title = "Guanosine"
 categories = ["C10H13N5O5","P284","HDX291",
 "Agelenidae","Atracidae","Diguetidae","Eresidae","Gnaphosidae","Oxyopidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Atrax robustus","Diguetia canities","Drassodes sp.","Eresus sp.","Latrodectus menavodi","Oxyopidae"]
+"Agelenopsis aperta","Atrax robustus","Diguetia canities","Drassodes sp.","Eresus sp.","Latrodectus menavodi","Steatoda grossa"]
 +++
 
 ![](/img/Guanosine.png)
@@ -53,6 +53,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Drassodes-sp1/284_Guanosine_Dr-sp1.pdf) | 284.09949 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/284_Guanosine_Er-sp2.pdf) | 284.09949 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-viridans/284_Guanosine_Pv.pdf) | 284.09949 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/284_Guanosine_Sg.pdf) | 284.09949 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -71,5 +72,6 @@ tags = ["S-1","C-1",
 | Eresus sp. | Eresidae | 2020 / Y. M. Forster |
 | Latrodectus menavodi | Theridiidae  | 2001 / A. Horni      |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
+| Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -3,7 +3,7 @@ title = "Leucine"
 categories = ["C6H13NO2","P132","HDX136",
 "Ctenidae","Lycosidae","Oxyopidae","Pholcidae","Sparassidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Cupiennius salei","Heteropoda davidbowie","Latrodectus mactans","Peucetia viridans","Physocyclus mexicanus"]
+"Alopecosa sp.","Cupiennius salei","Heteropoda davidbowie","Latrodectus mactans","Peucetia viridans","Physocyclus mexicanus","Steatoda grossa"]
 +++
 
 ![](/img/Leucine.png)
@@ -51,6 +51,7 @@ tags = ["S-1","C-1",
 | [Data](/pdf/L-mactans/132_Leucine_Lm.pdf) | 132.10245 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/132_Leucine_Pm.pdf) | 132.10245 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-viridans/132_Leucine_Pv.pdf) | 132.10245 |           | P. viridans | Spider Pharm, USA  | Y. M. Forster |
+| [Data](/pdf/S-grossa/132_Leucine_Sg.pdf) | 132.10245 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -67,5 +68,6 @@ tags = ["S-1","C-1",
 | Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
+| Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |
 
 ## Comments
