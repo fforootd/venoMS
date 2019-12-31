@@ -1,9 +1,9 @@
 +++
 title = "Phenylalanine"
 categories = ["C9H11NO2","P166","HDX170",
-"Ctenidae","Oxyopidae","Pholcidae","Sparassidae","Theridiidae"]
+"Araneidae","Ctenidae","Oxyopidae","Pholcidae","Sparassidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei","Heteropoda davidbowie","Latrodectus mactans","Peucetia viridans","Physocyclus mexicanus","Steatoda grossa"]
+"Cupiennius salei","Heteropoda davidbowie","Latrodectus mactans","Nephila clavipes","Peucetia viridans","Physocyclus mexicanus","Steatoda grossa"]
 +++
 
 ![](/img/Phenylalanine.png)
@@ -51,6 +51,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/166_Phenylalanine_4-84.pdf) | 166.08680 |            | Phenylalanine | Fluka  | Y. M. Forster |
 | [Data](/pdf/H-davidbowie/166_Phenylalanine_Hd.pdf) | 166.08680 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/L-mactans/166_Phenylalanine_Lm.pdf) | 166.08680 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/166_Phenylalanine_Nc.pdf) | 166.08680 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/166_Phenylalanine_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-viridans/166_Phenylalanine_Pv.pdf) | 166.08680 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/166_Phenylalanine_Pm.pdf) | 166.08680 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/S-grossa/166_Phenylalanine_Sg.pdf) | 166.08680 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
@@ -68,6 +70,7 @@ tags = ["S-1","C-1",
 | Cupiennius salei  | Ctenidae  | 1994 / L. Kuhn-Nentwig     |
 | Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 | Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |

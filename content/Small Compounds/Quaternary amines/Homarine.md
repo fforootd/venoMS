@@ -63,6 +63,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Geolycosa-sp/138_Homarine_Trigonelline_Ge-sp.pdf) | 138.05550 | Trigonelline          | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/H-davidbowie/138_Homarine_Trigonelline_Hd.pdf) | 138.05550 |  Trigonelline         | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/138_Homarine_Hi-sp1.pdf) | 138.05550 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-cornutus/138_Homarine_Lc.pdf) | 138.05550 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/138_Homarine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-mactans/138_Homarine_Lm.pdf) | 138.05550 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/138_Homarine_Lp.pdf) | 138.05550 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/138_Homarine_Ly-sp1.pdf) | 138.05550 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -70,6 +72,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp4/138_Homarine_Ly-sp4.pdf) | 138.05550 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/138_Homarine_Ly-sp5.pdf) | 138.05550 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-viridans/138_Homarine_Trigonelline_Pv.pdf) | 138.05550 | Trigonelline          | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/138_Homarine_Pl.pdf) | 138.05550 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/138_Homarine_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

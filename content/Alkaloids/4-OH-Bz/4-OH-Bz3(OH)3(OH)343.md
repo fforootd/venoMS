@@ -4,7 +4,7 @@ categories = ["C23H44N6O4","P469","D235","HDX478",
 "4-OH-Bz3(OH)3(OH)343","3(OH)3(OH)343",
 "Agelenidae"]
 tags = ["S-1","C-1",
-"Agelenopsis potteri"]
+"Agelenopsis potteri","Hololena sp."]
 +++
 
 ![](/img/4-OH-Bz3(OH)3(OH)343.png)
@@ -53,6 +53,9 @@ tags = ["S-1","C-1",
 |-------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
 | [Data](/pdf/A-potteri/469_4-OH-Bz3(OH)3(OH)343_Ap.pdf) | 469.35022 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/469_4-OH-Bz3(OH)3(OH)343_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/469_4-OH-Bz3(OH)3(OH)343_Ho-sp.pdf) | 469.35022 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/469_4-OH-Bz3(OH)3(OH)343_Ho-sp_2.pdf) | 235.17902 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/469_4-OH-Bz3(OH)3(OH)343_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -65,5 +68,6 @@ tags = ["S-1","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
+| Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -8,12 +8,12 @@ tags = ["S-1","C-4",
 "Ceratogyrus marshalli cornuatus","Chilobrachys sp.","Coelotes pastoralis","Cupiennius salei","Cyriopagopus albostriatus","Cyriopagopus hainanus","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Dolomedes gertschi","Dolomedes tenebrosus",
 "Eratigena agrestis","Eriophora edax",
-"Hogna sp.","Holconia flindersi","Hololena curta",
+"Hogna sp.","Holconia flindersi","Hololena curta","Hololena sp.",
 "Grammostola rosea",
 "Isopedella canberrensus","Isopedella leai",
 "Lachesana sp.","Larinioides cornutus","Loxosceles reclusa","Lycosa proegrandis",
 "Micrommata virescens virvirescenes","Misumena vatia",
-"Neosparassus diana",
+"Neosparassus diana","Nephila clavipes",
 "Palpimanus sp.","Pelinobius muticus","Phidippus sp.","Phormictopus cancerides","Pireneitega luctuosa","Psalmopoeus cambridgei",
 "Rabidosa sp.","Raveniola micrura",
 "Stromatopelma calceatum griseipes",
@@ -69,6 +69,10 @@ tags = ["S-1","C-4",
 | [Data](/pdf/Ariadna-sp/193_Citric-acid_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/A-robustus/193_Citric-acid_Ar.pdf) | 210.06138 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/193_Citric-acid_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/193_Citric-acid_Ho-sp.pdf) | 210.06138 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/193_Citric-acid_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/193_Citric-acid_Nc.pdf) | 210.06138 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/193_Citric-acid_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -110,6 +114,7 @@ tags = ["S-1","C-4",
 | Hogna sp.                          | Lycosidae     | 2008 / F. C. Schroeder |
 | Holconia flindersi                 | Sparassidae   | 2008 / F. C. Schroeder |
 | Hololena curta                     | Agelenidae    | 2008 / F. C. Schroeder |
+| Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
 | Grammostola rosea                  | Theraphosidae | 1995 / A. W. Fenton    |
 | Isopedella canberrensus            | Sparassidae   | 2008 / F. C. Schroeder |
 | Isopedella leai                    | Sparassidae   | 2008 / F. C. Schroeder |
@@ -120,6 +125,7 @@ tags = ["S-1","C-4",
 | Micrommata virescens virvirescenes | Sparassidae   | 2008 / F. C. Schroeder |
 | Misumena vatia                     | Thomisidae    | 2008 / F. C. Schroeder |
 | Neosparassus diana                 | Sparassidae   | 2008 / F. C. Schroeder |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Palpimanus sp.                     | Palpimanidae  | 2008 / F. C. Schroeder |
 | Pelinobius muticus                 | Theraphosidae | 2008 / F. C. Schroeder |
 | Phidippus sp.                      | Salticidae    | 2008 / F. C. Schroeder |

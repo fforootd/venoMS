@@ -4,7 +4,7 @@ categories = ["C23H40N6O4","P465","D233","HDX474",
 "4-OH-IndAc3(OH)3(OH)43","3(OH)3(OH)43",
 "Agelenidae"]
 tags = ["S-3","C-3",
-"Agelenopsis aperta"]
+"Agelenopsis aperta","Hololena sp."]
 +++
 
 ![](/img/4-OH-IndAc3(OH)3(OH)43.png)
@@ -50,7 +50,8 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/Hololena-sp/465_4-OH-IndAc3(OH)3(OH)43_Ho-sp.pdf) | 465.31892 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/465_4-OH-IndAc3(OH)3(OH)34_4-OH-IndAc3(OH)3(OH)43_Ho-sp_HDX.pdf) | 465.31892 | 4-OH-IndAc3(OH)3(OH)34          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -65,6 +66,7 @@ tags = ["S-3","C-3",
 | Spider species     | Family     | Discovered |
 |--------------------|------------|------------|
 | Agelenopsis aperta | Agelenidae | ? / ?      |
+| Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments
 

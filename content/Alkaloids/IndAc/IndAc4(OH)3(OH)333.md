@@ -4,7 +4,7 @@ categories = ["C26H47N7O3","P506","D253","HDX515",
 "IndAc4(OH)3(OH)333","4(OH)3(OH)333",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Hololena curta"]
+"Hololena curta","Hololena sp."]
 +++
 
 ![](/img/IndAc4(OH)3(OH)333.png)
@@ -53,6 +53,9 @@ tags = ["S-3","C-1",
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/H-curta/506_IndAc4(OH)3(OH)333_Hc.pdf) | 506.38186 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/506_IndAc4(OH)3(OH)333_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/506_IndAc4(OH)3(OH)333_Ho-sp.pdf) | 506.38186 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/506_IndAc4(OH)3(OH)333_Ho-sp_2.pdf) | 253.69484  |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/506_IndAc4(OH)3(OH)333_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -65,6 +68,7 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Hololena curta | Agelenidae | 2020 / Y. M. Forster |
+| Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
 
 
 ## Comments

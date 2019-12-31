@@ -77,6 +77,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Hippocosa-sp1/148_Glutamic-acid_Hi-sp1.pdf) | 148.06098 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc.pdf) | 148.06098 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/148_Glutamic-acid_Lc.pdf) | 148.06098 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/148_Glutamic-acid_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/148_Glutamic-acid_Lp.pdf) | 148.06098 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/148_Glutamic-acid_Ly-sp1.pdf) | 148.06098 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/148_Glutamic-acid_Ly-sp3.pdf) | 148.06098 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |

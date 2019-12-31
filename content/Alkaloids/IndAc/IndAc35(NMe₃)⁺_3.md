@@ -1,0 +1,68 @@
++++
+title = "IndAc35(NMe₃)⁺"
+categories = ["C21H35N4O","P359","D180","HDX362",
+"IndAc35(NMe3)","35(NMe3)",
+"Agelenidae"]
+tags = ["S-3","C-1",
+"Hololena sp."]
++++
+
+![](/img/IndAc35(NMe3).png)
+
+## General Description
+
+| Name                       | Value              |
+|----------------------------|--------------------|
+| Level                      | S-3 / C-1          |
+| Discovered                 | 2020 / Hololena sp. |
+| Synonym                    | ---                |
+| Molecular formula          | C₂₁H₃₅N₄O⁺                   |
+| CAS                        | ---                |
+|                            |                    |
+| Precursor 1  M⁺         | 359.28109                   |
+| Precursor 2 [M+H]²⁺       | 180.14446                   |
+| Precursor 3                |                    |
+|                            |                    |
+| HDX                        | 3                   |
+| Precursor HDX    d₃-M⁺   | 362.29992                   |
+| Precursor HDX 2 [d₃-M+D]²⁺ | 182.15701                   |
+| Precursor HDX 3            |                    |
+|                            |                    |
+| Rt                         |                    |
+| Rt HDX                     |                    |
+
+## Calculated MS/MS fragments
+
+| # | a         | b         | c         | ta        | z         | y         | tz        |
+|---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1 | 215.11844 | 197.10788 | 198.09189 | 232.14499 | 128.14393 | 111.11738 | 146.17830 |
+| 2 | 300.20759 | 282.19703 | 283.18104 | 359.28109 | 185.20178 | 167.16740 | 203.23615 |
+
+## Additional MS/MS fragments
+
+| m/z | Annotation |
+|-----|------------|
+|     |            |
+
+## Recorded MS/MS spectra
+
+| pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
+|-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
+| [Data](/pdf/Hololena-sp/359_IndAc35(NMe3)_Ho-sp.pdf) | 359.28109 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/359_IndAc35(NMe3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+
+
+## References
+
+| Title | Reference | Spider | Name | Content | Link |
+|-------|-----------|--------|------|---------|------|
+|       |           |        |      |         |      |
+
+## Spider species
+
+| Spider species     | Family     | Discovered           |
+|--------------------|------------|----------------------|
+| Hololena sp.       | Agelenidae | 2020 / Y. M. Forster |
+
+
+## Comments

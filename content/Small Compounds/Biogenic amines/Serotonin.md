@@ -7,7 +7,7 @@ tags = ["S-1","C-1",
 "Cheiracanthium japonicum","Desertosa sp.",
 "Heteropoda davidbowie","Hogna caroliensis","Hololena curta",
 "Lampona cylindrata","Lasiodora klugi","Latrodectus tredecimguttatus","Lycosa erythrognatha","Lycosa praegrandis","Lycosa sp.",
-"Phoneutria fera","Phoneutria nigriventer",
+"Phoneutria fera","Phoneutria nigriventer","Pireneitega luctuosa",
 "Vitalius roseus","Vitalius vellutinus"]
 +++
 
@@ -59,6 +59,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/L-praegrandis/177_Serotonin_Lp.pdf) | 177.10279 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/177_Serotonin_Ly-sp1.pdf) | 177.10279 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/177_Serotonin_Ly-sp5.pdf) | 177.10279 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/177_Serotonin_Pl.pdf) | 177.10279 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/177_Serotonin_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -89,6 +91,7 @@ tags = ["S-1","C-1",
 | Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Phoneutria fera              | Ctenidae         | 1963 / J. H. Welsh  |
 | Phoneutria nigriventer       | Ctenidae         | 1973 / S. Schenberg |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 | Vitalius roseus              | Theraphosidae    | 1963 / J. H. Welsh  |
 | Vitalius vellutinus          | Theraphosidae    | 1963 / J. H. Welsh  |
 

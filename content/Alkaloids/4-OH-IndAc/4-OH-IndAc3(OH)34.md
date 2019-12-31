@@ -4,7 +4,7 @@ categories = ["C20H33N5O3","P392","D196","HDX400",
 "4-OH-IndAc3(OH)34","3(OH)34",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis potteri","Eratigena agrestis","Hololena curta"]
+"Agelenopsis potteri","Eratigena agrestis","Hololena curta","Hololena sp."]
 +++
 
 ![](/img/4-OH-IndAc3(OH)34.png)
@@ -57,6 +57,8 @@ tags = ["S-3","C-1",
 | [Data](/pdf/E-agrestis/392_4-OH-IndAc3(OH)34_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/392_4-OH-IndAc3(OH)34_Hc.pdf) | 392.26616 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/392_4-OH-IndAc3(OH)34_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/392_IndAc3(OH)34_Ho-sp.pdf) | 392.26616 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/392_IndAc3(OH)34_IndAc3(OH)43_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
@@ -72,5 +74,6 @@ tags = ["S-3","C-1",
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
 | Hololena curta | Agelenidae | 2020 / Y. M. Forster |
+| Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

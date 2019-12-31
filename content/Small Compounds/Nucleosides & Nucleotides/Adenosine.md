@@ -1,9 +1,9 @@
 +++
 title = "Adenosine"
 categories = ["C10H13N5O4","P268","HDX274",
-"Agelenenidae","Atracidae","Gnaphosidae","Sparassidae","Theraphosidae","Theridiidae"]
+"Agelenenidae","Araneidae","Atracidae","Gnaphosidae","Sparassidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Agelenopsis potteri","Atrax robustus","Cyriopagopus lividum","Drassodes sp.","Heteropoda davidbowie","Latrodectus menavodi" ]
+"Agelenopsis aperta","Agelenopsis potteri","Atrax robustus","Cyriopagopus lividum","Drassodes sp.","Heteropoda davidbowie","Larinioides cornutus","Latrodectus menavodi","Pireneitega luctuosa"]
 +++
 
 ![](/img/Adenosine.png)
@@ -53,6 +53,10 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-robustus/268_Adenosine_Ar_HDX.pdf) | HDX |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/268_Adenosine_Dr-sp1.pdf) | 268.10457 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-davidbowie/268_Adenosine_Hd.pdf) | 268.10457 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/L-cornutus/268_Adenosine_Lc.pdf) | 268.10457 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/268_Adenosine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/268_Adenosine_Pl.pdf) | 268.10457 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/268_Adenosine_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -71,6 +75,8 @@ tags = ["S-1","C-1",
 | Cyriopagopus lividum | Theraphosidae | 2005 / S. Moore      |
 | Drassodes sp. | Gnaphosidae | 2020 / Y. M. Forster |
 | Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Latrodectus menavodi | Theridiidae   | 2001 / A. Horni      |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -4,7 +4,7 @@ categories = ["C10H26N4O","P219","D110","HDX226",
 "PA3(OH)43","3(OH)43",
 "Agelenidae"]
 tags = ["S-3","C-3",
-"Agelenopsis aperta","Hololena curta"]
+"Agelenopsis aperta","Hololena curta","Hololena sp."]
 +++
 
 ![](/img/PA3(OH)43.png)
@@ -49,7 +49,8 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/Hololena-sp/219_PA3(OH)34_PA3(OH)43_Ho-sp.pdf) | 219.21849 | PA3(OH)34          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/219_PA3(OH)34_PA3(OH)43_Ho-sp_HDX.pdf) | HDX | PA3(OH)34          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -64,5 +65,6 @@ tags = ["S-3","C-3",
 |--------------------|------------|-------------------|
 | Agelenopsis aperta | Agelenidae | 2005 / M. Tzouros |
 | Hololena curta     | Agelenidae | 2005 / M. Tzouros |
+| Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

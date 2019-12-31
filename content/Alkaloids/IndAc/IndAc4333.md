@@ -4,7 +4,7 @@ categories = ["C23H40N6O","P417","D209","HDX425",
 "IndAc4333","4333",
 "Agelenidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Agelenopsis potteri","Hololena curta"]
+"Agelenopsis aperta","Agelenopsis potteri","Hololena curta","Hololena sp."]
 +++
 
 ![](/img/IndAc4333.png)
@@ -65,6 +65,9 @@ tags = ["S-1","C-1",
 | [Data](/pdf/H-curta/417_IndAc4333_Hc.pdf) | 417.33419 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/417_IndAc4333_Hc_2.pdf) | 209.17101 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/417_IndAc4333_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/417_IndAc4333_Ho-sp.pdf) | 417.33419 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/417_IndAc4333_Ho-sp_2.pdf) | 209.17101 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/417_IndAc4333_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -88,5 +91,6 @@ tags = ["S-1","C-1",
 | Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov    |
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Hololena curta     | Agelenidae | 1991 / G. B. Quistad |
+| Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -52,7 +52,11 @@ draft = true
 |-------------------------------------------|-----------|------------|--------------------------------------|---------------|---------------|
 | [Data](/pdf/204_Acetylcarnitine_1-51.pdf) | 204.12358 |            | O-Acetyl-L-carnitine (CAS 5080-50-2) | Sigma Aldrich | Y. M. Forster |
 | [Data](/pdf/Alopecosa-sp5/204_Acetylcarnitine_Al-sp5.pdf) | 204.12358 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-cornutus/204_Acetylcarnitine_Lc.pdf) | 204.12358 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/204_Acetylcarnitine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp4/204_Acetylcarnitine_Ly-sp4.pdf) | 204.12358 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc.pdf) | 204.12358 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-viridans/204_Acetylcarnitine_Pv.pdf) | 204.12358 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 
 ## References

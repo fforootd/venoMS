@@ -58,7 +58,11 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Desertosa-sp3/162_Carnitine_De-sp3.pdf) | 162.11302 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/D-canities/162_Carnitine_Dc.pdf) | 162.11302 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-davidbowie/162_Carnitine_Hd.pdf) | 162.11302 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/L-cornutus/162_Carnitine_Lc.pdf) | 162.11302 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/162_Carnitine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp4/162_Carnitine_Ly-sp4.pdf) | 162.11302 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/N-clavipes/162_Carnitine_Nc.pdf) | 162.11302 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/162_Carnitine_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-viridans/162_Carnitine_Pv.pdf) | 162.11302 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/162_Carnitine_Pm.pdf) | 162.11302 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/162_Carnitine_St-sp4.pdf) | 162.11302 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |

@@ -4,7 +4,7 @@ categories = ["C24H46N5O4","P468","D234","HDX474",
 "2,5-(OH)2-Bz3(OH)335(NMe3)","3(OH)335(NMe3)",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta","Agelenopsis potteri","Hololena curta"]
+"Agelenopsis aperta","Agelenopsis potteri","Hololena curta","Hololena sp."]
 +++
 
 ![](/img/2-5-OH2-Bz3(OH)335(NMe3).png)
@@ -70,6 +70,9 @@ tags = ["S-3","C-1",
 | [Data](/pdf/H-curta/468_2-5-OH2-Bz3(OH)335(NMe3)_Hc.pdf) | 468.35498 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/468_2-5-OH2-Bz3(OH)335(NMe3)_Hc_2.pdf) | 234.68140 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/468_2-5-OH2-Bz3(OH)335(NMe3)_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/468_2-5-OH2-Bz3(OH)335(NMe3)_Ho-sp.pdf) | 468.35498 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/468_2-5-OH2-Bz3(OH)335(NMe3)_Ho-sp_2.pdf) | 234.68140 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/468_2-5-OH2-Bz3(OH)335(NMe3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -84,5 +87,6 @@ tags = ["S-3","C-1",
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Hololena curta | Agelenidae | 2020 / Y. M. Forster |
+| Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

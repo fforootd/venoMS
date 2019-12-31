@@ -4,7 +4,7 @@ categories = ["CHNO","P","D","HDX",
 "New","PA",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Hololena curta"]
+"Hololena sp."]
 +++
 
 ![](/img/new.png)
@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / H. curta  |
+| Discovered                 | 2020 / Hololena sp. |
 | Synonym                    | ---                |
 | Molecular formula          |                    |
 | CAS                        | ---                |
@@ -47,7 +47,7 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/H-curta/104_Choline_Hc.pdf) | 104.10754 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/104_Choline_Ho-sp.pdf) | 104.10754 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
@@ -60,7 +60,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Hololena curta | Agelenidae | 2020 / Y. M. Forster |
+| Hololena sp.       | Agelenidae | 2020 / Y. M. Forster |
 
 
 ## Comments

@@ -6,7 +6,7 @@ categories = ["C5H14NO","P104","HDX105",
 "Segestriidae","Sparassidae"]
 tags = ["S-1","C-1",
 "Agelena orientalis","Araneus diadematus","Ariadna sp.","Atrax robustus",
-"Diguetia canities","Eresus sp.","Heteropoda davidbowie",
+"Diguetia canities","Eresus sp.","Heteropoda davidbowie","Larinioides cornutus",
 "Plectreurys tristis","Stegodyphus sp."]
 +++
 
@@ -55,6 +55,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/D-canities/104_Choline_Dc.pdf) | 104.10754 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/104_Choline_Er-sp2.pdf) | 104.10754 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-davidbowie/104_Choline_Hd.pdf) | 104.10754 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/L-cornutus/104_Choline_Lc.pdf) | 104.10754 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/104_Choline_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/104_Choline_Pt.pdf) | 104.10754 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/104_Choline_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/104_Choline_St-sp4.pdf) | 104.10754 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -77,6 +79,7 @@ tags = ["S-1","C-1",
 | Diguetia canities | Diguetidae | 2020 / Y. M. Forster |
 | Eresus sp. | Eresidae | 2020 / Y. M. Forster |
 | Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Plectreurys tristis | Plectreuridae | 2020 / Y. M. Forster |
 | Stegodyphus sp. | Eresidae | 2020 / Y. M. Forster |
 

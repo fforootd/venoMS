@@ -1,9 +1,9 @@
 +++
 title = "Cytidine"
 categories = ["C9H13N3O5","P244","HDX250",
-"Agelenidae","Eresidae","Lycosidae","Oxyopidae","Theridiidae"]
+"Agelenidae","Araneidae","Eresidae","Lycosidae","Oxyopidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelena orientalis","Agelenopsis aperta","Agelenopsis potteri","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Hololena curta","Latrodectus mactans","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Steatoda grossa","Stegodyphus sp."]
+"Agelena orientalis","Agelenopsis aperta","Agelenopsis potteri","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Hololena curta","Hololena sp.","Larinioides cornutus","Latrodectus mactans","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Pireneitega luctuosa","Steatoda grossa","Stegodyphus sp."]
 +++
 
 ![](/img/Cytidine.png)
@@ -62,6 +62,10 @@ tags = ["S-1","C-1",
 | [Data](/pdf/H-caroliensis/244_Cytidine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-curta/244_Cytidine_Ap.pdf) | 244.09334 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/244_Cytidine_Ap_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/244_Cytidine_Ho-sp.pdf) | 244.09334 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/244_Cytidine_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/244_Cytidine_Lc.pdf) | 244.09334 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/244_Cytidine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-mactans/244_Cytidine_Lm.pdf) | 244.09334 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/244_Cytidine_Lp.pdf) | 244.09334 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/244_Cytidine_Ly-sp1.pdf) | 244.09334 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -69,6 +73,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp4/244_Cytidine_Ly-sp4.pdf) | 244.09334 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/244_Cytidine_Ly-sp5.pdf) | 244.09334 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-viridans/244_Cytidine_Pv.pdf) | 244.09334 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/244_Cytidine_Pl.pdf) | 244.09334 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/244_Cytidine_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/S-grossa/244_Cytidine_Sg.pdf) | 244.09334 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/244_Cytidine_St-sp4.pdf) | 244.09334 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
@@ -93,10 +99,13 @@ tags = ["S-1","C-1",
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Hogna caroliensis | Lycosidae | 2020 / Y. M. Forster |
 | Hololena curta | Agelenidae | 2020 / Y. M. Forster |
+| Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Lycosa praegrandis | Lycosidae | 2020 / Y. M. Forster |
 | Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 | Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |
 | Stegodyphus sp. | Eresidae | 2020 / Y. M. Forster |
 
