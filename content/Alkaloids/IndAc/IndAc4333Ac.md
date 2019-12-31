@@ -4,7 +4,7 @@ categories = ["C25H42N6O2","P459","D230","HDX465",
 "IndAc4333Ac","4333Ac",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis potteri"]
+"Agelenopsis potteri","Hololena curta"]
 +++
 
 ![](/img/IndAc4333Ac.png)
@@ -49,6 +49,8 @@ tags = ["S-3","C-1",
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/A-potteri/459_IndAc4333Ac_Ap.pdf) | 459.34475 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/459_IndAc4333Ac_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/459_IndAc4333Ac_Hc.pdf) | 459.34475 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/459_IndAc4333Ac_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
@@ -62,6 +64,8 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
+| Hololena curta | Agelenidae | 2020 / Y. M. Forster |
+
 
 
 ## Comments

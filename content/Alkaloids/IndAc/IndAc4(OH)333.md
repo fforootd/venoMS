@@ -2,7 +2,7 @@
 title = "IndAc4(OH)333"
 categories = ["C23H40N6O2","P433","D217","HDX441",
 "IndAc4(OH)333","4(OH)333"]
-tags = ["S-X","C-3"]
+tags = ["S-3","C-3","Hololena curta"]
 +++
 
 ![](/img/IndAc4(OH)333.png)
@@ -11,7 +11,7 @@ tags = ["S-X","C-3"]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | S-X / C-3               |
+| Level                       | S-3 / C-3               |
 | Discovered                  | --- / --- |
 | Synonym                     | AG 432h          |
 | Molecular formula           | C₂₃H₄₀N₆O₂       |
@@ -48,7 +48,8 @@ tags = ["S-X","C-3"]
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/H-curta/433_IndAc4(OH)333_Hc.pdf) | 433.32910 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/433_IndAc4(OH)333_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -61,7 +62,7 @@ tags = ["S-X","C-3"]
 
 | Spider species | Family | Discovered |
 |----------------|--------|------------|
-|                |        |            |
+| Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments
 IndAc4(OH)333 was described for A. aperta by Chesnov in 2001 (AG 432i). Eichenberger showed in 2009 that the described structure was an artefact (APCI reduction).

@@ -4,7 +4,7 @@ categories = ["C21H35N5O","P374","D187","HDX381",
 "IndAc533","533",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta","Agelenopsis potteri"]
+"Agelenopsis aperta","Agelenopsis potteri","Hololena curta"]
 +++
 
 ![](/img/IndAc533.png)
@@ -57,6 +57,9 @@ tags = ["S-3","C-1",
 | [Data](/pdf/A-aperta/374_IndAc533_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/374_IndAc533_Ap.pdf) | 374.29199 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/374_IndAc533_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/374_IndAc533_Hc.pdf) | 374.29199 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/374_IndAc533_Hc_2.pdf) | 187.64991 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/374_IndAc533_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -70,5 +73,6 @@ tags = ["S-3","C-1",
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
+| Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

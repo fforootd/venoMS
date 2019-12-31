@@ -65,6 +65,9 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-potteri/490_IndAc3(OH)3343_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/490_IndAc3(OH)3343_Ar-sp.pdf) | 490.38695 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/490_IndAc3(OH)3343_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/H-curta/490_IndAc3(OH)3343_Hc.pdf) | 490.38695 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/490_IndAc3(OH)3343_Hc_2.pdf) | 245.69739 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/490_IndAc3(OH)3343_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

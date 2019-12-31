@@ -4,7 +4,7 @@ categories = ["C22H38N6O","P403","D202","HDX411",
 "IndAc3333","3333",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta"]
+"Agelenopsis aperta","Hololena curta"]
 +++
 ![](/img/IndAc3333.png)
 
@@ -54,6 +54,8 @@ tags = ["S-3","C-1",
 |------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
 | [Data](/pdf/A-aperta/403_IndAc3333_Aa.pdf)     | 403.31854 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/403_IndAc3333_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/403_IndAc3333_Hc.pdf) | 403.31854 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/403_IndAc3333_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -66,5 +68,6 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
+| Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

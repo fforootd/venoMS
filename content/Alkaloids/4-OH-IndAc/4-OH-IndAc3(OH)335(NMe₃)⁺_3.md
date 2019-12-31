@@ -4,7 +4,7 @@ categories = ["C27H49N6O3","P505","D253","HDX511",
 "4-OH-IndAc3(OH)335(NMe3)","3(OH)335(NMe3)",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta","Agelenopsis potteri","Eratigena agrestis"]
+"Agelenopsis aperta","Agelenopsis potteri","Eratigena agrestis","Hololena curta"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)335(NMe3).png)
@@ -71,6 +71,9 @@ tags = ["S-3","C-1",
 | [Data](/pdf/E-agrestis/505_4-OH-IndAc3(OH)335(NMe3)_Ea.pdf) | 505.38661 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/505_4-OH-IndAc3(OH)335(NMe3)_Ea_2.pdf) | 253.19722 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/505_4-OH-IndAc3(OH)335(NMe3)_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/4-OH-IndAc3(OH)335(NMe3)_Hc.pdf) | 505.38661 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/4-OH-IndAc3(OH)335(NMe3)_Hc_2.pdf) | 253.19722 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/4-OH-IndAc3(OH)335(NMe3)_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -90,5 +93,6 @@ tags = ["S-3","C-1",
 | Agelenopsis aperta | Agelenidae | 1992 / V. J. Jasys |
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
+| Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

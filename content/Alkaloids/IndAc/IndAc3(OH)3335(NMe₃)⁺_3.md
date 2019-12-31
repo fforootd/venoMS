@@ -4,7 +4,7 @@ categories = ["C30H56N7O2","P546","D273","HDX552",
 "IndAc3(OH)3335(NMe3)","3(OH)3335(NMe3)",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta"]
+"Agelenopsis aperta","Hololena curta"]
 +++
 
 ![](/img/IndAc3(OH)3335(NMe3).png)
@@ -68,6 +68,9 @@ tags = ["S-3","C-1",
 | [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa.pdf)     | 546.44955 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa_2.pdf)   | 273.72869 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/546_IndAc3(OH)3335(NMe3)_Hc.pdf) | 546.44955 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/546_IndAc3(OH)3335(NMe3)_Hc_2.pdf) | 273.72869 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/546_IndAc3(OH)3335(NMe3)_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -80,5 +83,6 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
+| Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

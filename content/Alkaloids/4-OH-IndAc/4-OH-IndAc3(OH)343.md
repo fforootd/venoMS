@@ -63,6 +63,9 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-potteri/449_4-OH-IndAc3(OH)343_Ap.pdf) | 449.32401 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/449_4-OH-IndAc3(OH)343_Ap_2.pdf) | 225.16592 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/449_4-OH-IndAc3(OH)343_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/449_4-OH-IndAc3(OH)343_Hc.pdf) | 449.32401 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/449_4-OH-IndAc3(OH)343_Hc_2.pdf) | 225.16592 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/449_4-OH-IndAc3(OH)343_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

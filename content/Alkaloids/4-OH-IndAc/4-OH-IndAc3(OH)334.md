@@ -4,7 +4,7 @@ categories = ["C23H40N6O3","P449","D225","HDX458",
 "4-OH-IndAc3(OH)334","3(OH)334",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta","Agelenopsis potteri","Eratigena agrestis","Pireneitega luctuosa"]
+"Agelenopsis aperta","Agelenopsis potteri","Eratigena agrestis","Hololena curta","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)334.png)
@@ -66,6 +66,9 @@ tags = ["S-3","C-1",
 | [Data](/pdf/E-agrestis/449_4-OH-IndAc3(OH)334_Ea.pdf) | 449.32401 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/449_4-OH-IndAc3(OH)334_Ea_2.pdf) | 225.16592 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/449_4-OH-IndAc3(OH)334_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/449_4-OH-IndAc3(OH)334_Hc.pdf) | 449.32401 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/449_4-OH-IndAc3(OH)334_Hc_2.pdf) | 225.16592 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/449_4-OH-IndAc3(OH)334_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -83,6 +86,7 @@ tags = ["S-3","C-1",
 | Agelenopsis aperta   | Agelenidae | 2000 / S. Chesnov |
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
+| Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 | Pireneitega luctuosa | Agelenidae | 2000 / S. Chesnov |
 
 ## Comments

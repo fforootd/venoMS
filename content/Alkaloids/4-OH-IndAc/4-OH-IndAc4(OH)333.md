@@ -4,7 +4,7 @@ categories = ["C23H40N6O3","P449","D225","HDX458",
 "4-OH-IndAc4(OH)333","4(OH)333",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta","Agelenopsis potteri"]
+"Agelenopsis aperta","Agelenopsis potteri","Hololena curta"]
 +++
 
 ![](/img/4-OH-IndAc4(OH)333.png)
@@ -61,6 +61,8 @@ tags = ["S-3","C-1",
 | [Data](/pdf/A-potteri/449_4-OH-IndAc4(OH)333_Ap.pdf) | 449.32401 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/449_4-OH-IndAc4(OH)333_Ap_2.pdf) | 225.16592 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/449_4-OH-IndAc4(OH)333_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/449_4-OH-IndAc4(OH)333_Hc.pdf) | 449.32401 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/449_4-OH-IndAc4(OH)333_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -75,6 +77,7 @@ tags = ["S-3","C-1",
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
+| Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments
 4-OH-IndAc4(OH)333 was described for A. aperta by Chesnov in 2001 (AG 448b). Eichenberger showed in 2009 that the described structure was an artifact (APCI reduction). However, 4-OH-IndAc4(OH)333 (8.23 min) awas identified in A. aperta (2019) with different retention times from 4-OH_IndAc4(OH)3(OH)33 (9.48 min).

@@ -4,7 +4,7 @@ categories = ["C23H40N6O2","P433","D217","HDX441",
 "IndAc43(OH)33","43(OH)33",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta"]
+"Agelenopsis aperta","Hololena curta"]
 +++
 
 ![](/img/IndAc43(OH)33.png)
@@ -62,6 +62,8 @@ tags = ["S-3","C-1",
 | [Data](/pdf/A-aperta/433_IndAc43(OH)33_Aa.pdf)     | 433.32910 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/433_IndAc43(OH)33_Aa_2.pdf)   | 217.16846 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/433_IndAc43(OH)33_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/433_IndAc43(OH)33_Hc.pdf) | 433.32910 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/433_IndAc43(OH)33_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -75,6 +77,7 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
+| Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments
 IndAc43(OH)33 was described for A. aperta by Chesnov in 2001 (AG 432i). Eichenberger showed in 2009 that the described structure was an artefact (APCI reduction). However, IndAc43(OH)33 (9.89 min) was identified in A. aperta (2019) with different retention times from IndAc4(OH)3(OH)33 (11.52 min).
