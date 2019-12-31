@@ -57,6 +57,9 @@ tags = ["S-3","C-1",
 | [Data](/pdf/E-agrestis/491_4-OH-IndAc3(OH)334Gu_Ea.pdf) | 491.34581 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/491_4-OH-IndAc3(OH)334Gu_Ea_2.pdf) | 246.17682 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/491_4-OH-IndAc3(OH)334Gu_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/491_4-OH-IndAc3(OH)334Gu_Pl.pdf) | 491.34581 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/491_4-OH-IndAc3(OH)334Gu_Pl_2.pdf) | 246.17682 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/491_4-OH-IndAc3(OH)334Gu_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

@@ -4,7 +4,7 @@ categories = ["C18H32N6O2","P365","D183","HDX374",
 "4-OH-Bz334Gu","334Gu",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Eratigena agrestis"]
+"Eratigena agrestis","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-Bz334Gu.png)
@@ -55,8 +55,8 @@ tags = ["S-3","C-1",
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/E-agrestis/365_4-OH-Bz334Gu_Ea.pdf)   | 365.26650 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/365_4-OH-Bz334Gu_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-
-
+| [Data](/pdf/P-luctuosa/365_4-OH-Bz334Gu_Pl.pdf) | 365.26650 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/365_4-OH-Bz334Gu_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -69,5 +69,6 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

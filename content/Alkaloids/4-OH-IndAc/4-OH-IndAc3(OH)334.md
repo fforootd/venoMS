@@ -72,6 +72,10 @@ tags = ["S-3","C-1",
 | [Data](/pdf/Hololena-sp/449_4-OH-IndAc3(OH)334_Ho-sp.pdf) | 449.32401  |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/449_4-OH-IndAc3(OH)334_Ho-sp_2.pdf) | 225.16592  |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/449_4-OH-IndAc3(OH)334_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/449_4-OH-IndAc3(OH)334_Pl.pdf) | 449.32401  |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/449_4-OH-IndAc3(OH)334_Pl_2.pdf) | 225.16592  |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/449_4-OH-IndAc3(OH)334_Pl_HDX.pdf) | HDX  |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+
 
 ## References
 

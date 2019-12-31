@@ -4,7 +4,7 @@ categories = ["C24H42N6O2","P447","D224","HDX456",
 "4-OH-IndAc5333","5333",
 "Pisauridae"]
 tags = ["S-1","C-3",
-"Dolomedes okefinokensis"]
+"Dolomedes okefinokensis","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc5333.png)
@@ -50,7 +50,9 @@ tags = ["S-1","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/P-luctuosa/447_4-OH-IndAc5333_Pl.pdf) | 447.34475 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/447_4-OH-IndAc5333_Pl_2.pdf) | 224.17629 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/447_4-OH-IndAc5333_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -64,5 +66,6 @@ tags = ["S-1","C-3",
 | Spider species          | Family     | Discovered             |
 |-------------------------|------------|------------------------|
 | Dolomedes okefinokensis | Pisauridae | 1993 / K. D. McCormick |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

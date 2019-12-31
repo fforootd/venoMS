@@ -4,7 +4,7 @@ categories = ["C24H46N5O2","P436","D218","HDX441",
 "4-OH-Bz3335(NMe3)","3335(NMe3)",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta","Eratigena agrestis","Hololena curta","Hololena sp."]
+"Agelenopsis aperta","Eratigena agrestis","Hololena curta","Hololena sp.","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-Bz3335(NMe3).png)
@@ -71,6 +71,9 @@ tags = ["S-3","C-1",
 | [Data](/pdf/H-curta/436_4-OH-Bz3335(NMe3)_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/436_4-OH-Bz3335(NMe3)_Ho-sp_2.pdf) | 218.68649 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/436_4-OH-Bz3335(NMe3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/436_4-OH-Bz3335(NMe3)_Pl.pdf) | 436.36515 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/436_4-OH-Bz3335(NMe3)_Pl_2.pdf) | 218.68649 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/436_4-OH-Bz3335(NMe3)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -86,5 +89,6 @@ tags = ["S-3","C-1",
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
 | Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 | Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

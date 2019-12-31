@@ -4,7 +4,7 @@ categories = ["C13H17N3O2","P248","D124","HDX254",
 "4-OH-IndAc3","3",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Eratigena agrestis"]
+"Eratigena agrestis","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc3.png)
@@ -51,6 +51,8 @@ tags = ["S-3","C-1",
 |------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/E-agrestis/248_4-OH-IndAc3_Ea.pdf) | 248.13990 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/248_4-OH-IndAc3_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/248_4-OH-IndAc3_Pl.pdf) | 248.13990 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/248_4-OH-IndAc3_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

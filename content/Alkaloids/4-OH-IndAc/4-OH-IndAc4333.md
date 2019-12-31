@@ -4,7 +4,7 @@ categories = ["C23H40N6O2","P433","D217","HDX442",
 "4-OH-IndAc4333","4333",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta","Agelenopsis potteri","Hololena sp."]
+"Agelenopsis aperta","Agelenopsis potteri","Hololena sp.","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc4333.png)
@@ -60,6 +60,8 @@ tags = ["S-3","C-1",
 | [Data](/pdf/A-potteri/433_4-OH-IndAc4333_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/433_4-OH-IndAc4333_Ho-sp.pdf) | 433.32910 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/433_4-OH-IndAc4333_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/433_4-OH-IndAc4333_Pl.pdf) | 433.32910 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/433_4-OH-IndAc4333_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -75,6 +77,7 @@ tags = ["S-3","C-1",
 | Agelenopsis aperta | Agelenidae | 2001 / S. Chesnov |
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments
 AG 432e is an APCI reduction artefact.

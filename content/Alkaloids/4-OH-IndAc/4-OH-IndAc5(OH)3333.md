@@ -1,32 +1,32 @@
 +++
-title = "4-OH-IndAc5(NMe₃)⁺"
-categories = ["C18H28N3O2","P318","D159","HDX321",
-"4-OH-IndAc5(NMe3)","PA5(NMe3)",
+title = "4-OH-IndAc5(OH)3333"
+categories = ["C27H49N7O3","P520","D260","HDX530",
+"4-OH-IndAc5(OH)3333","5(OH)3333",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Hololena sp.","Pireneitega luctuosa"]
+"Pireneitega luctuosa"]
 +++
 
-![](/img/4-OH-IndAc5(NMe3).png)
+![](/img/new.png)
 
 ## General Description
 
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / Hololena sp. & P. luctuosa |
+| Discovered                 | 2020 / P. luctuosa |
 | Synonym                    | ---                |
-| Molecular formula          | C₁₈H₂₈N₃O₂⁺                   |
+| Molecular formula          | C₂₇H₄₉N₇O₃                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1  M⁺         | 318.21815                   |
-| Precursor 2 [M+H]²⁺       | 159.61299                   |
-| Precursor 3 [M+TFA]⁺              | 432.21102                   |
+| Precursor 1 [M+H]⁺         | 520.39751                   |
+| Precursor 2 [M+2H]²⁺       | 260.70267                   |
+| Precursor 3                |                    |
 |                            |                    |
-| HDX                        | 3                   |
-| Precursor HDX    d₃-M⁺   | 321.23698                   |
-| Precursor HDX 2 [d₃-M+D]²⁺ | 161.62554                   |
-| Precursor HDX 3 [d₃-M+TFA]⁺          | 436.23612                   |
+| HDX                        |  9                  |
+| Precursor HDX   [d₉-M+D]⁺   |  530.46027                  |
+| Precursor HDX 2 [d₉-M+2D]²⁺ |  266.23719                  |
+| Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         |                    |
 | Rt HDX                     |                    |
@@ -35,7 +35,11 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 259.14465 | 241.13409 | 242.11810 | 301.19160 | 128.14393 | 111.11738 | 146.17830 |
+| 1 | 259.14465 | 241.13409 | 242.11810 | 292.16611 | 58.06567 | 41.03912 | 75.09222 |
+| 2 | 332.19741 | 314.18685 | 315.17086 | 349.22396 | 115.12352 | 98.09697 | 132.15007 |
+| 3 | 389.25526 | 371.24470 | 372.22871 | 406.28181 | 172.18137 | 155.15482 | 189.20792 |
+| 4 | 446.31311 | 428.30255 | 429.28656 | 463.33966 | 229.23922 | 212.21267 | 262.26068 |
+| 5 | 503.37096 | 485.36040 | 486.34441 | 520.39751 | 330.32328 | 313.29673 | 347.34983 |
 
 ## Additional MS/MS fragments
 
@@ -47,10 +51,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/Hololena-sp/318_4-OH-IndAc5(Me3)_Ho-sp.pdf) | 318.21815 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/318_4-OH-IndAc5(Me3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/318_4-OH-IndAc5(Me3)_Pl.pdf) | 318.21815 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/318_4-OH-IndAc5(Me3)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/520_4-OH-IndAc5(OH)3333_Pl.pdf) |  520.39751 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/520_4-OH-IndAc5(OH)3333_Pl_HDX.pdf) |  HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
@@ -63,7 +65,6 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Hololena sp.       | Agelenidae | 2020 / Y. M. Forster |
 | Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 

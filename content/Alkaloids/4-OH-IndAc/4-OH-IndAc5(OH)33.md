@@ -1,32 +1,32 @@
 +++
-title = "4-OH-IndAc5(NMe₃)⁺"
-categories = ["C18H28N3O2","P318","D159","HDX321",
-"4-OH-IndAc5(NMe3)","PA5(NMe3)",
+title = "4-OH-IndAc5(OH)33"
+categories = ["C21H35N5O3","P406","D203","HDX414",
+"4-OH-IndAc5(OH)33","5(OH)33",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Hololena sp.","Pireneitega luctuosa"]
+"Pireneitega luctuosa"]
 +++
 
-![](/img/4-OH-IndAc5(NMe3).png)
+![](/img/4-OH-IndAc5(OH)33.png)
 
 ## General Description
 
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / Hololena sp. & P. luctuosa |
+| Discovered                 | 2020 / P. luctuosa |
 | Synonym                    | ---                |
-| Molecular formula          | C₁₈H₂₈N₃O₂⁺                   |
+| Molecular formula          | C₂₁H₃₅N₅O₃                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1  M⁺         | 318.21815                   |
-| Precursor 2 [M+H]²⁺       | 159.61299                   |
-| Precursor 3 [M+TFA]⁺              | 432.21102                   |
+| Precursor 1 [M+H]⁺         | 406.28181                   |
+| Precursor 2 [M+2H]²⁺       | 203.64482                   |
+| Precursor 3                |                    |
 |                            |                    |
-| HDX                        | 3                   |
-| Precursor HDX    d₃-M⁺   | 321.23698                   |
-| Precursor HDX 2 [d₃-M+D]²⁺ | 161.62554                   |
-| Precursor HDX 3 [d₃-M+TFA]⁺          | 436.23612                   |
+| HDX                        | 7                   |
+| Precursor HDX   [d₇-M+D]⁺   | 414.33202                   |
+| Precursor HDX 2 [d₇-M+2D]²⁺ | 208.17306                   |
+| Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         |                    |
 | Rt HDX                     |                    |
@@ -35,7 +35,9 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 259.14465 | 241.13409 | 242.11810 | 301.19160 | 128.14393 | 111.11738 | 146.17830 |
+| 1 | 259.14465 | 241.13409 | 242.11810 | 292.16611 | 58.06567 | 41.03912 | 75.09222 |
+| 2 | 332.19741 | 314.18685 | 315.17086 | 349.22396 | 115.12352 | 98.09697 | 148.14498 |
+| 3 | 389.25526 | 371.24470 | 372.22871 | 406.28181 | 216.20758 | 199.18103 | 233.23413 |
 
 ## Additional MS/MS fragments
 
@@ -47,10 +49,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/Hololena-sp/318_4-OH-IndAc5(Me3)_Ho-sp.pdf) | 318.21815 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/318_4-OH-IndAc5(Me3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/318_4-OH-IndAc5(Me3)_Pl.pdf) | 318.21815 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/318_4-OH-IndAc5(Me3)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/406_4-OH-IndAc5(OH)33_Pl.pdf) | 406.28181 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/406_4-OH-IndAc5(OH)33_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
@@ -63,7 +63,6 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Hololena sp.       | Agelenidae | 2020 / Y. M. Forster |
 | Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 

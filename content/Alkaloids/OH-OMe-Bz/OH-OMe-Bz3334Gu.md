@@ -4,7 +4,7 @@ categories = ["C22H41N7O3","P452","D226","HDX463",
 "OH-OMe-Bz3334Gu","3334Gu",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Eratigena agrestis"]
+"Eratigena agrestis","Pireneitega luctuosa"]
 +++
 
 ![](/img/OH-OMe-Bz3334Gu.png)
@@ -54,6 +54,9 @@ tags = ["S-3","C-1",
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/E-agrestis/452_OH-OMe-Bz3334Gu_Ea.pdf)   | 452.33492 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/452_OH-OMe-Bz3334Gu_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/452_OH-OMe-Bz3334Gu_Pl.pdf) | 452.33492 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/452_OH-OMe-Bz3334Gu_Pl_2.pdf) | 226.67137 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/452_OH-OMe-Bz3334Gu_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References

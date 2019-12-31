@@ -4,7 +4,7 @@ categories = ["C21H35N5O2","P390","D195","HDX398",
 "4-OH-IndAc533","533",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Hololena sp."]
+"Hololena sp.","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc533.png)
@@ -51,6 +51,8 @@ tags = ["S-3","C-1",
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/Hololena-sp/390_4-OH-IndAc533_Ho-sp.pdf) | 390.28690 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/390_4-OH-IndAc533_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/390_4-OH-IndAc533_Pl.pdf) | 390.28690 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/390_4-OH-IndAc533_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
@@ -64,6 +66,7 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Hololena sp.       | Agelenidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 
 ## Comments

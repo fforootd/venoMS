@@ -4,7 +4,7 @@ categories = ["C21H39N7O3","P438","D219","HDX448",
 "4-OH-Bz3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Eratigena agrestis"]
+"Eratigena agrestis","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-Bz3(OH)334Gu.png)
@@ -57,6 +57,9 @@ tags = ["S-3","C-1",
 | [Data](/pdf/E-agrestis/438_4-OH-Bz3(OH)334Gu_Ea.pdf)   | 438.31926 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/438_4-OH-Bz3(OH)334Gu_Ea_2.pdf)   | 219.66354 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/438_4-OH-Bz3(OH)334Gu_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/438_4-OH-Bz3(OH)334Gu_Pl.pdf) | 438.31926 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/438_4-OH-Bz3(OH)334Gu_Pl_2.pdf) | 219.66354 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/438_4-OH-Bz3(OH)334Gu_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
@@ -70,5 +73,6 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

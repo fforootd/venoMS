@@ -4,7 +4,7 @@ categories = ["C24H42N8O2","P475","D238","HDX485",
 "IndAc3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta","Eratigena agrestis"]
+"Agelenopsis aperta","Eratigena agrestis","Pireneitega luctuosa"]
 +++
 
 ![](/img/IndAc3(OH)334Gu.png)
@@ -63,6 +63,9 @@ tags = ["S-3","C-1",
 | [Data](/pdf/E-agrestis/475_IndAc3(OH)334Gu_Ea.pdf) | 475.35090 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/475_IndAc3(OH)334Gu_Ea_2.pdf) | 238.17936 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/475_IndAc3(OH)334Gu_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/475_IndAc3(OH)334Gu_Pl.pdf) | 475.35090 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/475_IndAc3(OH)334Gu_Pl_2.pdf) | 238.17936 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/475_IndAc3(OH)334Gu_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -76,5 +79,6 @@ tags = ["S-3","C-1",
 |--------------------|------------|----------------------|
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

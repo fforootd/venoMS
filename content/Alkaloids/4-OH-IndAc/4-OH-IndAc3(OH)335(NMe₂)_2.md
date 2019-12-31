@@ -4,7 +4,7 @@ categories = ["C26H46N6O3","P491","D246","HDX498",
 "4-OH-IndAc3(OH)335(NMe2)","3(OH)335(NMe2)",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta","Agelenopsis potteri","Eratigena agrestis"]
+"Agelenopsis aperta","Agelenopsis potteri","Eratigena agrestis","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)335(NMe2).png)
@@ -71,6 +71,8 @@ tags = ["S-3","C-1",
 | [Data](/pdf/A-potteri/491_4-OH-IndAc3(OH)335(NMe2)_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/491_4-OH-IndAc3(OH)335(NMe2)_Ea.pdf)     | 491.37096 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/491_4-OH-IndAc3(OH)335(NMe2)_Ea_HDX.pdf)     | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/491_4-OH-IndAc3(OH)335(NMe2)_Pl.pdf) | 491.37096 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/491_4-OH-IndAc3(OH)335(NMe2)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -85,5 +87,7 @@ tags = ["S-3","C-1",
 | Agelenopsis aperta | Agelenidae | 2020 / Y. M. Forster |
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
+
 
 ## Comments

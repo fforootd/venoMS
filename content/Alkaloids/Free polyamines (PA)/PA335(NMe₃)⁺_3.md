@@ -1,13 +1,13 @@
 +++
-title = "4-OH-IndAc3(OH)335"
-categories = ["C24H42N6O3","P463","D232","HDX472",
-"4-OH-IndAc3(OH)335","3(OH)335",
+title = "PA335(NMe₃)⁺"
+categories = ["C14H35N4","P259","D130","HDX263",
+"PA335(NMe3)","335(NMe3)",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Hololena sp.","Pireneitega luctuosa"]
+"Pireneitega luctuosa"]
 +++
 
-![](/img/4-OH-IndAc3(OH)335.png)
+![](/img/PA335(NMe3).png)
 
 ## General Description
 
@@ -16,16 +16,16 @@ tags = ["S-3","C-1",
 | Level                      | S-3 / C-1          |
 | Discovered                 | 2020 / Hololena sp. |
 | Synonym                    | ---                |
-| Molecular formula          | C₂₄H₄₂N₆O₃                   |
+| Molecular formula          | C₁₄H₃₅N₄⁺                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 463.33966                    |
-| Precursor 2 [M+2H]²⁺       | 232.17374                   |
+| Precursor 1  M⁺         | 259.28618                   |
+| Precursor 2 [M+H]²⁺       | 130.14700                   |
 | Precursor 3                |                    |
 |                            |                    |
-| HDX                        | 8                   |
-| Precursor HDX   [d₈-M+D]⁺   | 472.39615                   |
-| Precursor HDX 2 [d₈-M+2D]²⁺ | 237.20512                   |
+| HDX                        | 4                   |
+| Precursor HDX    d₄-M⁺   | 263.31129                   |
+| Precursor HDX 2 [d₄-M+D]²⁺ | 132.66269                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         |                    |
@@ -35,10 +35,9 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 231.11335 | 213.10279 | 214.08680 | 264.13481 | 86.09697 | 69.07042 | 103.12352 |
-| 2 | 304.16611 | 286.15555 | 287.13956 | 321.19266 | 143.15482 | 126.12827 | 160.18137 |
-| 3 | 361.22396 | 343.21340 | 344.19741 | 378.25051 | 200.21267 | 183.18612 | 233.23413 |
-| 4 | 446.31311 | 428.30255 | 429.28656 | 463.33966 | 273.26543 | 256.23888 | 290.29198 |
+| 1 | 58.06568 | 40.05512 | 41.03913 | 75.09223 | 128.14393 | 111.11738 | 146.17830 |
+| 2 | 115.12353 | 97.11297 | 98.09698 | 132.15008 | 185.20178 | 167.16740 | 203.23615 |
+| 3 | 200.21268 | 182.20212 | 183.18613 | 259.28618 | 242.25963 | 223.21743 | 260.29400 |
 
 ## Additional MS/MS fragments
 
@@ -50,12 +49,7 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/Hololena-sp/463_4-OH-IndAc3(OH)335_Ho-sp.pdf) | 463.33966 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/463_4-OH-IndAc3(OH)335_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/463_4-OH-IndAc3(OH)335_Pl.pdf) | 463.33966 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/463_4-OH-IndAc3(OH)335_Pl_2.pdf) | 232.17374 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/463_4-OH-IndAc3(OH)335_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-
+| [Data](/pdf/P-luctuosa/259_PA335(NMe3)_Pl.pdf) | 259.28618  |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
@@ -68,9 +62,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Hololena sp.       | Agelenidae | 2020 / Y. M. Forster |
 | Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
-
 
 
 ## Comments

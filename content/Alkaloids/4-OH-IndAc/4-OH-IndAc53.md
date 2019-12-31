@@ -3,8 +3,8 @@ title = "4-OH-IndAc53"
 categories = ["C18H28N4O2","P333","D167","HDX340",
 "4-OH-IndAc53","53",
 "Thomisidae"]
-tags = ["S-3","C-3",
-"Ozyptila lugubris"]
+tags = ["S-3","C-1",
+"Ozyptila lugubris","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc53.png)
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | S-3 / C-3          |
+| Level                       | S-3 / C-1          |
 | Discovered                  | 2009 / O. lugubris |
 | Synonym                     | OZ 332B            |
 | Molecular formula           | C₁₈H₂₈N₄O₂         |
@@ -48,7 +48,8 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/P-luctuosa/333_4-OH-IndAc53_Pl.pdf) | 333.22905 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/333_4-OH-IndAc53_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -61,5 +62,6 @@ tags = ["S-3","C-3",
 | Spider species    | Family     | Discovered             |
 |-------------------|------------|------------------------|
 | Ozyptila lugubris | Thomisidae | 2009 / S. Eichenberger |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

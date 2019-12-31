@@ -4,7 +4,7 @@ categories = ["C20H37N5O3","P396","D198","HDX404",
 "4-OH-Bz3(OH)334","3(OH)334",
 "Agelenidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Agelenopsis potteri","Eratigena agrestis","Hololena sp."]
+"Agelenopsis aperta","Agelenopsis potteri","Eratigena agrestis","Hololena sp.","Pireneitega luctuosa"]
 +++
 
 ## Related images
@@ -69,6 +69,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Hololena-sp/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ho-sp.pdf) | 396.29746 | 4-OH-Bz3(OH)343           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ho-sp_2.pdf) | 198.65264 | 4-OH-Bz3(OH)343           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ho-sp_HDX.pdf) | HDX | 4-OH-Bz3(OH)343           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/396_4-OH-Bz3(OH)334_Pl.pdf) | 396.29746 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/396_4-OH-Bz3(OH)334_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -85,4 +87,5 @@ tags = ["S-1","C-1",
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
 | Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 ## Comments

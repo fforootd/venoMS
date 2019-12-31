@@ -4,7 +4,7 @@ categories = ["C24H42N5O3","P448","D224","HDX453",
 "4-OH-IndAc3(OH)35(NMe3)","3(OH)35(NMe3)",
 "Agelenidae"]
 tags = ["S-3","C-1",
-"Agelenopsis aperta","Agelenopsis potteri","Hololena curta","Hololena sp."]
+"Agelenopsis aperta","Agelenopsis potteri","Hololena curta","Hololena sp.","Pireneitega luctuosa"]
 +++
 
 ![](/img/4-OH-IndAc3(OH)35(NMe3).png)
@@ -65,6 +65,8 @@ tags = ["S-3","C-1",
 | [Data](/pdf/Hololena-sp/448_4-OH-IndAc3(OH)35(NMe3)_Ho-sp.pdf) | 448.32876 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/448_4-OH-IndAc3(OH)35(NMe3)_Ho-sp_2.pdf) | 224.66829 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/448_4-OH-IndAc3(OH)35(NMe3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/448_4-OH-IndAc3(OH)35(NMe3)_Pl.pdf) | 448.32876 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/448_4-OH-IndAc3(OH)35(NMe3)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -80,6 +82,7 @@ tags = ["S-3","C-1",
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 | Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 
 ## Comments

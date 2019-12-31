@@ -4,7 +4,7 @@ categories = ["C20H33N5O","P360","D180","HDX367",
 "IndAc343","343",
 "Agelenidae","Thomisidae"]
 tags = ["S-3","C-3",
-"Agelenopsis aperta","Agelenopsis potteri","Hololena curta","Hololena sp.","Ozyptila lugubris"]
+"Agelenopsis aperta","Agelenopsis potteri","Hololena curta","Hololena sp.","Ozyptila lugubris","Pireneitega luctuosa"]
 +++
 
 ![](/img/IndAc343.png)
@@ -60,6 +60,8 @@ tags = ["S-3","C-3",
 | [Data](/pdf/Hololena-sp/360_IndAc334_IndAc343_Ho-sp.pdf) | 360.27634 | IndAc334         | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/360_IndAc334_IndAc343_Ho-sp_2.pdf) | 180.64208 | IndAc334         | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/360_IndAc334_IndAc343_Ho-sp_HDX.pdf) | HDX | IndAc334         | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/360_IndAc343_IndAc334_Pl.pdf) | 360.27634 | IndAc334          | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/360_IndAc334_IndAc343_Pl_HDX.pdf) | 360.27634 | IndAc343          | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 
@@ -80,5 +82,6 @@ tags = ["S-3","C-3",
 | Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 | Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
 | Ozyptila lugubris  | Thomisidae | 2009 / S. Eichenberger |
+| Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments
