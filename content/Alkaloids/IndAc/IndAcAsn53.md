@@ -3,8 +3,8 @@ title = "IndAcAsn53"
 categories = ["C22H34N6O3","P431","D216","HDX440",
 "IndAcAsn53","Asn53",
 "Araneidae"]
-tags = ["S-3","C-3",
-"Larinioides patagiatus"]
+tags = ["S-3","C-1",
+"Larinioides cornutus","Larinioides patagiatus"]
 +++
 
 ![](/img/IndAcAsn53.png)
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | S-3 / C-3                   |
+| Level                       | S-3 / C-1                   |
 | Discovered                  | 2009 / L. patagiatus |
 | Synonym                     | LF 430F              |
 | Molecular formula           | C₂₂H₃₄N₆O₃           |
@@ -49,7 +49,8 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/L-cornutus/431_IndAcAsn53_Lc.pdf) | 431.27707 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/431_IndAcAsn53_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -61,6 +62,7 @@ tags = ["S-3","C-3",
 
 | Spider species         | Family    | Discovered             |
 |------------------------|-----------|------------------------|
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
 
 ## Comments

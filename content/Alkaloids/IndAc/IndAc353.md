@@ -3,8 +3,8 @@ title = "IndAc353"
 categories = ["C21H35N5O","P374","D187","HDX381",
 "IndAc353","353",
 "Thomisidae"]
-tags = ["S-3","C-3",
-"Ozyptila lugubris"]
+tags = ["S-3","C-1",
+"Larinioides cornutus","Ozyptila lugubris"]
 +++
 
 ![](/img/IndAc353.png)
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | S-3 / C-3                 |
+| Level                       | S-3 / C-1                 |
 | Discovered                  | 2009 / O. lugubris |
 | Synonym                     | OZ 373             |
 | Molecular formula           | C₂₁H₃₅N₅O          |
@@ -49,7 +49,8 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/L-cornutus/374_IndAc353_Lc.pdf) | 374.29199 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/374_IndAc353_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

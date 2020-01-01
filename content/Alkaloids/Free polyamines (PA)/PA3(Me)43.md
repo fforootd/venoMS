@@ -2,7 +2,7 @@
 title = "PA3(Me)43"
 categories = ["C11H28N4","P217","D109","HDX223",
 "PA3(Me)43","3(Me)43"]
-tags = ["S-X","C-3",]
+tags = ["S-3","C-3","Larinioides cornutus"]
 +++
 
 ![](/img/PA3(Me)43.png)
@@ -11,8 +11,8 @@ tags = ["S-X","C-3",]
 
 | Name                        | Value     |
 |-----------------------------|-----------|
-| Level                       | S-X / C-3 |
-| Discovered                  |           |
+| Level                       | S-3 / C-3 |
+| Discovered                  | 2020 / L. cornutus          |
 | Synonym                     |           |
 | Molecular formula           | C₁₁H₂₈N₄  |
 | CAS                         | 56-19-9   |
@@ -47,7 +47,8 @@ tags = ["S-X","C-3",]
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/L-cornutus/217_PA3(Me)43_PA353_Lc.pdf) | 217.23923 | PA353          | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/217_PA3(Me)43_PA353_Lc_HDX.pdf) | HDX | PA353          | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -59,6 +60,6 @@ tags = ["S-X","C-3",]
 
 | Spider species | Family | Discovered |
 |----------------|--------|------------|
-|                |        |            |
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 
 ## Comments

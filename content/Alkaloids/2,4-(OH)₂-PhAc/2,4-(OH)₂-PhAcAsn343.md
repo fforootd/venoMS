@@ -3,8 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn343"
 categories = ["C22H38N6O5","P467","D234","HDX478",
 "2,4-(OH)2-PhAcAsn343","Asn343",
 "Araneidae"]
-tags = ["S-1","C-3",
-"Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
+tags = ["S-1","C-1",
+"Larinioides cornutus","Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn343.png)
@@ -13,7 +13,7 @@ tags = ["S-1","C-3",
 
 | Name                         | Value             |
 |------------------------------|-------------------|
-| Level                        | S-1 / C-3         |
+| Level                        | S-1 / C-1         |
 | Discovered                   | 1990 / N. clavata |
 | Synonym                      | JSTX-1 / LF 466D  |
 | Molecular formula            | C₂₂H₃₈N₆O₅        |
@@ -50,7 +50,9 @@ tags = ["S-1","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn343_Lc.pdf) | 467.29820 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn343_Lc_2.pdf) | 234.15301 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn343_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -72,6 +74,7 @@ tags = ["S-1","C-3",
 
 | Spider species         | Family    | Discovered             |
 |------------------------|-----------|------------------------|
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
 | Nephila clavata        | Araneidae | 1990 / T. Toki         |
 | Nephilingis cruentata  | Araneidae | 1998 / M. S. Palma     |

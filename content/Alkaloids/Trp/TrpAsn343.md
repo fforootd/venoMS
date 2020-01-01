@@ -3,8 +3,8 @@ title = "TrpAsn343"
 categories = ["C25H42N8O3","P503","D252","HDX515",
 "TrpAsn343","Asn343",
 "Araneidae"]
-tags = ["S-3","C-3",
-"Larinioides patagiatus"]
+tags = ["S-3","C-1",
+"Larinioides cornutus","Larinioides patagiatus"]
 +++
 
 ![](/img/TrpAsn343.png)
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-3 / C-3                   |
+| Level                        | S-3 / C-1                   |
 | Discovered                   | 2009 / L. patagiatus |
 | Synonym                      | LF 502D              |
 | Molecular formula            | C₂₅H₄₂N₈O₃           |
@@ -50,7 +50,9 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/L-cornutus/503_TrpAsn343_Lc.pdf) | 503.34582 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/503_TrpAsn343_Lc_2.pdf) | 252.17682 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/503_TrpAsn343_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -62,6 +64,7 @@ tags = ["S-3","C-3",
 
 | Spider species         | Family    | Discovered             |
 |------------------------|-----------|------------------------|
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
 
 ## Comments

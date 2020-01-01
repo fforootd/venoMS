@@ -3,8 +3,8 @@ title = "4-OH-IndAcAsn433"
 categories = ["C24H39N7O4","P490","D245","HDX501",
 "4-OH-IndAcAsn433","Asn433",
 "Araneidae"]
-tags =["S-3","C-3",
-"Larinioides patagiatus","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags =["S-3","C-1",
+"Larinioides cornutus","Larinioides patagiatus","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn433.png)
@@ -13,7 +13,7 @@ tags =["S-3","C-3",
 
 | Name                         | Value                          |
 |------------------------------|--------------------------------|
-| Level                        | S-3 / C-3                             |
+| Level                        | S-3 / C-1                             |
 | Discovered                   | 1997 / N. borbonica            |
 | Synonym                      | LF 489E / NPTX 489 / NPTX 489B |
 | Molecular formula            | C₂₄H₃₉N₇O₄                     |
@@ -49,7 +49,9 @@ tags =["S-3","C-3",
 ## Recorded MS/MS spectra
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/L-cornutus/490_4-OH-IndAc433_Lc.pdf) | 490.31418 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/490_4-OH-IndAc433_Lc_2.pdf) | 245.66100 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/490_4-OH-IndAc433_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -65,6 +67,7 @@ tags =["S-3","C-3",
 
 | Spider species                    | Family    | Discovered             |
 |-----------------------------------|-----------|------------------------|
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Larinioides patagiatus            | Araneidae | 2009 / S. Eichenberger |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma     |
 | Nephilingis borbonica             | Araneidae | 1997 / Y. Itagaki      |

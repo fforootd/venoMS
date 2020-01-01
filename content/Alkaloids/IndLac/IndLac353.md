@@ -3,7 +3,7 @@ title = "IndLac353"
 categories = ["C22H37N5O2","P404","D202","HDX412",
 "IndLac353","353",
 "Atracidae","Halonoproctidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Atrax robustus","Hebestatis theveneti"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value               |
 |-----------------------------|---------------------|
-| Level                       | S-3 / C-3                  |
+| Level                       | S-3 / C-1                  |
 | Discovered                  | 1990 / H. theveneti |
 | Synonym                     | Het 403             |
 | Molecular formula           | C₂₂H₃₇N₅O₂          |
@@ -52,6 +52,8 @@ tags = ["S-3","C-3",
 | [Data](/pdf/A-robustus/404_IndLac353_Ar.pdf) | 404.30255  |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/404_IndLac353_Ar_2.pdf) | 202.65519   |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/404_IndLac353_Ar_HDX.pdf) | HDX   |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/L-cornutus/404_IndLac353_Lc.pdf) | 404.30255 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/404_IndLac353_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -66,5 +68,6 @@ tags = ["S-3","C-3",
 |----------------------|-----------------|----------------------|
 | Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Hebestatis theveneti | Halonoproctidae | 1990 / W. S. Skinner |
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 
 ## Comments

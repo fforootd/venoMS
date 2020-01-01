@@ -3,8 +3,8 @@ title = "IndAcAsn433"
 categories = ["C24H39N7O3","P474","D237","HDX484",
 "IndAcAsn433","Asn433",
 "Araneidae"]
-tags = ["S-1","C-2",
-"Larinioides patagiatus","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-1","C-1",
+"Larinioides cornutus","Larinioides patagiatus","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn433.png)
@@ -13,7 +13,7 @@ tags = ["S-1","C-2",
 
 | Name                        | Value                                                                          |
 |-----------------------------|--------------------------------------------------------------------------------|
-| Level                       | S-1 / [C-2](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Level                       | S-1 / C-1
 | Discovered                  | 1997 / N. borbonica                                                            |
 | Synonym                     | LF 473E / NPTX 473 / NPTX 473B                                                 |
 | Molecular formula           | C₂₄H₃₉N₇O₃                                                                     |
@@ -50,7 +50,9 @@ tags = ["S-1","C-2",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/L-cornutus/474_IndAcAsn433_Lc.pdf) | 474.31927 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/474_IndAcAsn433_Lc_2.pdf) | 237.66355 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/474_IndAcAsn433_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -67,6 +69,7 @@ tags = ["S-1","C-2",
 
 | Spider species         | Family    | Discovered             |
 |------------------------|-----------|------------------------|
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
 | Nephilingis borbonica  | Araneidae | 1997 / Y. Itagaki      |
 | Nephilingis cruentata  | Araneidae | 2005 / M. S. Palma     |

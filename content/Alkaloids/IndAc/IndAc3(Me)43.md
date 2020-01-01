@@ -1,13 +1,13 @@
 +++
-title = "New"
-categories = ["CHNO","P","D","HDX",
-"New","PA",
+title = "IndAc3(Me)43"
+categories = ["C21H35N5O","P374","D187","HDX380",
+"IndAc3(Me)43","3(Me)43",
 "Araneidae"]
 tags = ["S-3","C-1",
 "Larinioides cornutus"]
 +++
 
-![](/img/new.png)
+![](/img/IndAc3(Me)43.png)
 
 ## General Description
 
@@ -16,16 +16,16 @@ tags = ["S-3","C-1",
 | Level                      | S-3 / C-1          |
 | Discovered                 | 2020 / L. cornutus |
 | Synonym                    | ---                |
-| Molecular formula          |                    |
+| Molecular formula          | C₂₁H₃₅N₅O                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1 [M+H]⁺         |                    |
-| Precursor 2 [M+2H]²⁺       |                    |
+| Precursor 1 [M+H]⁺          | 374.29199          |
+| Precursor 2 [M+2H]²⁺        | 187.64991          |
 | Precursor 3                |                    |
 |                            |                    |
-| HDX                        |                    |
-| Precursor HDX   [d-M+D]⁺   |                    |
-| Precursor HDX 2 [d-M+2D]²⁺ |                    |
+| HDX                        | 5                   |
+| Precursor HDX   [d-M+D]⁺   | 380.32965                   |
+| Precursor HDX 2 [d-M+2D]²⁺ | 191.17187                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         |                    |
@@ -35,7 +35,9 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-
+| 1 | 215.11844 | 197.10788 | 198.09189 | 246.16064 | 58.06567 | 41.03912 | 75.09222 |
+| 2 | 300.20759 | 282.19703 | 283.18104 | 317.23414 | 129.13917 | 112.11262 | 160.18137 |
+| 3 | 357.26544 | 339.25488 | 340.23889 | 374.29199 | 200.21267 | 183.18612 | 217.23922 |
 
 ## Additional MS/MS fragments
 
@@ -47,7 +49,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/L-cornutus/104_Choline_Lc.pdf) | 104.10754 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/374_IndAc3(Me)43_Lc.pdf) | 374.29199 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/374_IndAc3(Me)43_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References

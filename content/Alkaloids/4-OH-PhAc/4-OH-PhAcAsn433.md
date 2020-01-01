@@ -4,7 +4,7 @@ categories = ["C22H38N6O4","P451","D226","HDX461",
 "4-OH-PhAcAsn433","Asn433",
 "Araneidae"]
 tags = ["S-3","C-3",
-"Larinioides patagiatus"]
+"Larinioides cornutus","Larinioides patagiatus"]
 +++
 
 ![](/img/4-OH-PhAcAsn433.png)
@@ -50,7 +50,9 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/L-cornutus/451_4-OH-PhAcAsn433_Lc.pdf) | 451.30328  |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/451_4-OH-PhAcAsn433_Lc_2.pdf) | 226.15555  |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/451_4-OH-PhAcAsn433_Lc_HDX.pdf) | HDX  |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -62,6 +64,7 @@ tags = ["S-3","C-3",
 
 | Spider species         | Family    | Discovered             |
 |------------------------|-----------|------------------------|
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
 
 ## Comments
