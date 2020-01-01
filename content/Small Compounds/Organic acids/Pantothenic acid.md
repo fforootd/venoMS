@@ -55,12 +55,14 @@ tags = ["S-1","C-1",
 | [Data](/pdf/E-agrestis/220_Pantothenic-acid_Ea.pdf) | 220.11850 |            | E. agrestis                           | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/220_Pantothenic-acid_Ea_HDX.pdf) | HDX |            | E. agrestis                           | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/L-mactans/220_Pantothenic-acid_Lm.pdf) | 220.11850 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/220_Pantothenic-acid_Pb.pdf) | 220.11850 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/220_Pantothenic-acid_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 

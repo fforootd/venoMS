@@ -4,7 +4,7 @@ categories = ["C19H31N5O5","P410","D205","HDX420",
 "2-4-OH2-PhAcAsn34","Asn34",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Nephila clavipes"]
+"Nephila clavipes","Parawixia bistriata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn34.png)
@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / N. clavipes |
+| Discovered                 | 2020 / N. clavipes & P. bistriata |
 | Synonym                    | ---                |
 | Molecular formula          | C₁₉H₃₁N₅O₅                   |
 | CAS                        | ---                |
@@ -51,19 +51,22 @@ tags = ["S-3","C-1",
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/N-clavipes/410_2-4-OH2-PhAcAsn34_Nc.pdf) | 410.24035  |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/410_2-4-OH2-PhAcAsn34_Nc_HDX.pdf) | HDX  |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/410_2-4-OH2-PhAcAsn34_Pb.pdf) | 410.24035 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/410_2-4-OH2-PhAcAsn34_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 
 
 ## Comments

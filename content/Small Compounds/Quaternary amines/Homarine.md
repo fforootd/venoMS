@@ -71,6 +71,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp3/138_Homarine_Trigonelline_Ly-sp3.pdf) | 138.05550 | Trigonelline | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp4/138_Homarine_Ly-sp4.pdf) | 138.05550 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/138_Homarine_Ly-sp5.pdf) | 138.05550 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/138_Homarine_Pb.pdf) | 138.05550 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/138_Homarine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/138_Homarine_Trigonelline_Pv.pdf) | 138.05550 | Trigonelline          | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/138_Homarine_Pl.pdf) | 138.05550 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/138_Homarine_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -79,7 +81,7 @@ tags = ["S-1","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 

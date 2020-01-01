@@ -3,8 +3,7 @@ title = "2,4-(OH)₂-PhAcAsn5"
 categories = ["C17H26N4O5","P367","D184","HDX374",
 "2,4-(OH)2-PhAcAsn5","AcAsn5",
 "Araneidae"]
-tags = ["Parawixia bistriata"]
-draft = true
+tags = ["S-3","C-1","Parawixia bistriata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5.png)
@@ -13,7 +12,7 @@ draft = true
 
 | Name                        | Value               |
 |-----------------------------|---------------------|
-| Level                       | IV                  |
+| Level                       | S-3 / C-1                  |
 | Discovered                  | 2020 / P. bistriata |
 | Synonym                     | ---                 |
 | Molecular formula           | C₁₇H₂₆N₄O₅          |
@@ -48,7 +47,8 @@ draft = true
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/P-bistriata/367_2-4-OH2-PhAcAsn5_Pb.pdf) | 367.19815 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/367_2-4-OH2-PhAcAsn5_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 
@@ -58,6 +58,7 @@ draft = true
 | Newly synthesized analogues of the spider toxin block the crustacean glutamate receptor                     | K. Shudo, Y. Endo, Y. Hashimoto, Y. Aramaki, T. Nakajima, N. Kawai, Neuroscience Research 1987, 5, 82-85                                              | ---    | C-1        | Synthesis, Activity-studies      | [Link](https://doi.org/10.1016/0168-0102(87)90026-5)  |
 | Chemical structure of Joro spider toxin (JSTX)                                                              | Y. Aramaki, T. Yasuhara, K. Schimazaki, N. Kawai, T. Nakajima, Biomed. Res. 1987, 8, 241                                                              | ---    |            | Activity-studies                 | [Link](https://doi.org/10.2220/biomedres.8.241)       |
 | Antropod toxins as leads for novel insecticides: An assessment of polyamine amides as glutamate antagonists | I. S. Blagbrough, P. T. H. Brackley, M. Bruce, B. W. Bycroft, A. J. Mather, S. Millington, H. L. Sudan, P. N. R. Usherwood, Toxicon 1992, 30, 303-322 | ---    |            | Activity-studies                 | [Link](https://doi.org/10.1016/0041-0101(92)90871-2)  |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 

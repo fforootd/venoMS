@@ -3,8 +3,7 @@ title = "Ac4"
 categories = ["C6H14N2O","P131","D66","HDX135",
 "Ac4","4",
 "Araneidae"]
-tags = ["Parawixia bistriata"]
-draft = true
+tags = ["S-3","C-1""Parawixia bistriata"]
 +++
 
 ![](/img/Ac4.png)
@@ -13,8 +12,8 @@ draft = true
 
 | Name                        | Value               |
 |-----------------------------|---------------------|
-| Level                       | IV                  |
-| Discovered                  | 2019 / P. bistriata |
+| Level                       | S-3 / C-1           |
+| Discovered                  | 2020 / P. bistriata |
 | Synonym                     | ---                 |
 | Molecular formula           | C₆H₁₄N₂O            |
 | CAS                         | 110-60-1            |
@@ -47,7 +46,7 @@ draft = true
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/P-bistriata/131_Ac4_Pb.pdf) | 131.11844 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 
@@ -55,6 +54,7 @@ draft = true
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------|------|--------------------------------|------------------------------------------------------|
 | Changes in composition of spider orb web sticky droplets with starvation and web removal, and synthesis of sticky droplet compounds                           | M. A. Townley, E. K. Tillinghast, C. D. Neefus, The Journal of Experimental Biology 2006, 209, 1463-1486.     | A. cavaticus & A. trifasciata |      | web: sticky droplets compounds | [Link](http://jeb.biologists.org/content/209/8/1463) |
 | Small organic solutes in sticky droplets from orb webs of the spider Zygiella atrica (Araneae: Araneidae): beta-alaninamide is a novel and abundant component | M. A. Townley, Q. Pu, C. K. Zercher, C. D. Neefus, E. K. Tillinghast, Chemistry & Biodiversity 2012, 9, 2159. | Zygiella atrica               |      | web: sticky droplets compounds | [Link](https://doi.org/10.1002/cbdv.201200077)       |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 

@@ -3,8 +3,7 @@ title = "2,5-(OH)₂-Bz34(2,5-(OH)₂-Bz)"
 categories = ["C21H27N3O6","P418","D209","HDX426",
 "2,5-(OH)2-Bz34(2,5-(OH)2-Bz)","34(2,5-(OH)2-Bz)",
 "Araneidae"]
-tags = ["Parawixia bistriata"]
-draft = true
+tags = ["S-2","C-1","Parawixia bistriata"]
 +++
 
 ![](/img/2-5-OH2-Bz34(2-5-OH2-Bz).png)
@@ -13,8 +12,8 @@ draft = true
 
 | Name                        | Value               |
 |-----------------------------|---------------------|
-| Level                       | IV                  |
-| Discovered                  | 2019 / P. bistriata |
+| Level                       | S-2 / C-1                  |
+| Discovered                  | 2020 / P. bistriata |
 | Synonym                     | Mygalin             |
 | Molecular formula           | C₂₁H₂₇N₃O₆          |
 | CAS                         | 925223-64-9         |
@@ -48,7 +47,8 @@ draft = true
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/P-bistriata/418_2-5-OH2-Bz34(2-5-OH2-Bz)_Pb.pdf) | 418.19781 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/418_2-5-OH2-Bz34(2-5-OH2-Bz)_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 
@@ -57,6 +57,7 @@ draft = true
 | Structural and biological characterization of one antibacterial acylpolyamine isolated from the hemocytes of the spider Acanthocurria gomesiana | L. S. Pereira, P. I. da Silva Jr., M. T. M. Miranda, I. C. Almeida, H. Naoki, K. Konno, S. Daffre, Biochemical and Biophysical Research Communications 2007, 352, 953-959 | A. gomesiana |         | hemocytes: NMR, ESI-MS/MS, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/S0006291X06026179)            |
 | The spider acylpolyamine mygaline is a potent modulator of innate immune responses                                                              | D. G. Mafra, P. I. da Silva Jr., C S. Galhadro , R. Nassar, S. Daffre, M. N. Sato, M. M. Borges, Cellular Immunology 2012, 275, 5-11                                      | A. gomesiana |         | hemocytes: Activity-studies                 | [Link](https://www.sciencedirect.com/science/article/pii/S0008874912000627?via%3Dihub) |
 | Mygalin: A new anticonvulsant polyamine in acute seizure model and neuroethological schedule                                                    | L. D. Godoy, J. L. Liberato, P. I. da Silva Jr., W. F. dos Santos, Central Nervous System Agents in Medicinal Chemistry 2013, 13, 122-131                                 |              | Mygalin | Activity-studies                            | [Link](http://www.eurekaselect.com/112880/article)                                     |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 

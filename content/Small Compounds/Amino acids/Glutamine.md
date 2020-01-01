@@ -3,7 +3,7 @@ title = "Glutamine"
 categories = ["C5H10N2O3","P147","HDX153",
 "Lycosidae","Pholcidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Latrodectus mactans","Lycosa indagatrix","Physocyclus mexicanus","Steatoda grossa"]
+"Latrodectus mactans","Lycosa indagatrix","Parawixia bistriata","Physocyclus mexicanus","Steatoda grossa"]
 +++
 
 ![](/img/Glutamine.png)
@@ -50,6 +50,8 @@ tags = ["S-1","C-1",
 |-------------------------------------|-----------|------------|-------------|--------|---------------|
 | [Data](/pdf/147_Glutamine_1-12.pdf) | 147.07697 |            | L-Glutamine | Fluka  | Y. M. Forster |
 | [Data](/pdf/L-mactans/147_Glutamine_Lm.pdf) | 147.07697 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/147_Glutamine_Pb.pdf) | 147.07697 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/147_Glutamine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/147_Lysine_Glutamine_Pm.pdf) | 147.07697 | Lysine          | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/S-grossa/147_Glutamine_Sg.pdf) | 147.07697 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
@@ -58,6 +60,7 @@ tags = ["S-1","C-1",
 | Title                                                   | Reference                                                                        | Spider        | Name | Content              | Link                                                                 |
 |---------------------------------------------------------|----------------------------------------------------------------------------------|---------------|------|----------------------|----------------------------------------------------------------------|
 | Preliminary studies on the venom of three Indian spider | G. Ridling Margaret, G. J. Phanuel, Proc. Indian Acad. Sci. 1988, 97, 3, 231-237 | L. indagatrix |      | paper chromatography | [Link](https://www.ias.ac.in/article/fulltext/anml/097/03/0231-0237) |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
@@ -65,6 +68,7 @@ tags = ["S-1","C-1",
 |-------------------|-----------|----------------------------|
 | Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Lycosa indagatrix | Lycosidae | 1988 / G. Ridling Margaret |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 | Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |
 

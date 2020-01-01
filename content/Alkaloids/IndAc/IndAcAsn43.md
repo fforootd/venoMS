@@ -4,7 +4,7 @@ categories = ["C21H32N6O3","P417","D209","HDX426",
 "IndAcAsn43","Asn43",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Larinioides cornutus","Nephila clavipes"]
+"Larinioides cornutus","Nephila clavipes","Parawixia bistriata"]
 +++
 
 ![](/img/IndAcAsn43.png)
@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / L. cornutus |
+| Discovered                 | 2020 / div. |
 | Synonym                    | ---                |
 | Molecular formula          | C₂₁H₃₂N₆O₃                   |
 | CAS                        | ---                |
@@ -53,13 +53,15 @@ tags = ["S-3","C-1",
 | [Data](/pdf/L-cornutus/417_IndAcAsn43_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/417_IndAcAsn43_Nc.pdf) | 417.26142 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/417_IndAcAsn43_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/417_IndAcAsn43_Pb.pdf) | 417.26142 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/417_IndAcAsn43_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
@@ -67,6 +69,6 @@ tags = ["S-3","C-1",
 |--------------------|------------|----------------------|
 | Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
-
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 
 ## Comments

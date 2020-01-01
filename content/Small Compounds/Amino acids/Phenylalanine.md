@@ -3,7 +3,7 @@ title = "Phenylalanine"
 categories = ["C9H11NO2","P166","HDX170",
 "Araneidae","Ctenidae","Oxyopidae","Pholcidae","Sparassidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Cupiennius salei","Heteropoda davidbowie","Latrodectus mactans","Nephila clavipes","Peucetia viridans","Physocyclus mexicanus","Steatoda grossa"]
+"Cupiennius salei","Heteropoda davidbowie","Latrodectus mactans","Nephila clavipes","Parawixia bistriata","Peucetia viridans","Physocyclus mexicanus","Steatoda grossa"]
 +++
 
 ![](/img/Phenylalanine.png)
@@ -53,6 +53,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/L-mactans/166_Phenylalanine_Lm.pdf) | 166.08680 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/166_Phenylalanine_Nc.pdf) | 166.08680 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/166_Phenylalanine_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/166_Phenylalanine_Pb.pdf) | 166.08680 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/166_Phenylalanine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/166_Phenylalanine_Pv.pdf) | 166.08680 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/166_Phenylalanine_Pm.pdf) | 166.08680 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/S-grossa/166_Phenylalanine_Sg.pdf) | 166.08680 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
@@ -62,6 +64,7 @@ tags = ["S-1","C-1",
 | Title                                                                                                                                      | Reference                                                                        | Spider        | Name | Content              | Link                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------|------|----------------------|--------------------------------------------------------------|
 | Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae) | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302           | C. salei      |      |                      | [Link](https://doi.org/10.1016/0041-0101(94)90082-5)                 |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
@@ -71,6 +74,7 @@ tags = ["S-1","C-1",
 | Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 | Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |

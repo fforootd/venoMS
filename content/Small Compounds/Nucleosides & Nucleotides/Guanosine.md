@@ -3,7 +3,7 @@ title = "Guanosine"
 categories = ["C10H13N5O5","P284","HDX291",
 "Agelenidae","Araneidae","Atracidae","Diguetidae","Eresidae","Gnaphosidae","Oxyopidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Atrax robustus","Diguetia canities","Drassodes sp.","Eresus sp.","Larinioides cornutus","Latrodectus menavodi","Pireneitega luctuosa","Steatoda grossa"]
+"Agelenopsis aperta","Atrax robustus","Diguetia canities","Drassodes sp.","Eresus sp.","Larinioides cornutus","Latrodectus menavodi","Parawixia bistriata","Pireneitega luctuosa","Steatoda grossa"]
 +++
 
 ![](/img/Guanosine.png)
@@ -56,6 +56,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Eresus-sp2/284_Guanosine_Er-sp2.pdf) | 284.09949 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/L-cornutus/284_Guanosine_Lc.pdf) | 284.09949 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/284_Guanosine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/284_Guanosine_Pb.pdf) | 284.09949 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/284_Guanosine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/284_Guanosine_Pv.pdf) | 284.09949 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/284_Guanosine_Pl.pdf) | 284.09949 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/284_Guanosine_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -66,6 +68,7 @@ tags = ["S-1","C-1",
 | Title                                                                                                | Reference                                                   | Spider      | Name | Content | Link                                                                |
 |------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|------|---------|---------------------------------------------------------------------|
 | The main products of the low molecular mass fraction in the venom of the spider Latrodectus menavodi | A. Horni, D. Weickmann, M. Hesse, Toxicon 2001, 39, 425-428 | L. menavodi |      |         | [Link](https://www.sciencedirect.com/science/article/pii/S0041010100001471) |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
@@ -79,6 +82,7 @@ tags = ["S-1","C-1",
 | Eresus sp. | Eresidae | 2020 / Y. M. Forster |
 | Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Latrodectus menavodi | Theridiidae  | 2001 / A. Horni      |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
 | Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 | Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |

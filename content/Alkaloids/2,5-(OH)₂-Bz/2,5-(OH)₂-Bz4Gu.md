@@ -2,9 +2,9 @@
 title = "2,5-(OH)₂-Bz4Gu"
 categories = ["C12H18N4O3","P267","D134","HDX275",
 "2-5-OH2-Bz4Gu","4Gu",
-"Gnaphosidae","Lycosidae","Oxyopidae"]
+"Araneidae","Gnaphosidae","Lycosidae","Oxyopidae"]
 tags = ["S-3","C-1",
-"Desertosa sp.","Drassodes sp.","Peucetia viridans"]
+"Desertosa sp.","Drassodes sp.","Parawixia bistriata","Peucetia viridans"]
 +++
 
 ![](/img/2-5-OH2-Bz4Gu.png)
@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / A. robustus |
+| Discovered                 | 2020 / div. |
 | Synonym                    | ---                |
 | Molecular formula          | C₁₂H₁₈N₄O₃                   |
 | CAS                        | ---                |
@@ -49,6 +49,8 @@ tags = ["S-3","C-1",
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/Desertosa-sp3/267_2-5-OH2-Bz4Gu_De-sp3.pdf) | 267.14572 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Drassodes-sp1/267_2-5-OH2-Bz4Gu_Dr-sp1.pdf) | 267.14572 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/267_2-5-OH2-Bz4Gu_Pb.pdf) | 267.14572 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/267_2-5-OH2-Bz4Gu_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/267_2-5-OH2-Bz4Gu_Pv.pdf) | 267.14572 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 
 
@@ -56,7 +58,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
@@ -64,6 +66,7 @@ tags = ["S-3","C-1",
 |--------------------|------------|----------------------|
 | Desertosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Drassodes sp. | Gnaphosidae | 2020 / Y. M. Forster |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -2,7 +2,7 @@
 title = "Valerobetaine"
 categories = ["C8H18NO2","P160","HDX161",
 "Araneidae"]
-tags = ["S-1","C-1",
+tags = ["S-3","C-1",
 "Parawixia bistriata"]
 +++
 
@@ -12,7 +12,7 @@ tags = ["S-1","C-1",
 
 | Name                   | Value               |
 |------------------------|---------------------|
-| Level                  | S-1 / C-1           |
+| Level                  | S-3 / C-1           |
 | Discovered             | 2020 / P. bistriata |
 | Synonym                |                     |
 | Molecular formula      | C₈H₁₈NO₂            |
@@ -43,7 +43,8 @@ tags = ["S-1","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/P-bistriata/160_Valerobetaine_Pb.pdf) | 160.13375  |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/160_Valerobetaine_Pb_HDX.pdf) | HDX  |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 

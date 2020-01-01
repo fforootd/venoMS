@@ -6,7 +6,7 @@ tags = ["S-1","C-1",
 "Alopecosa sp.",
 "Larinioides cornutus","Lycosa sp.",
 "Nephila clavipes",
-"Peucetia viridans"]
+"Parawixia bistriata","Peucetia viridans"]
 draft = true
 +++
 
@@ -57,13 +57,15 @@ draft = true
 | [Data](/pdf/Lycosa-sp4/204_Acetylcarnitine_Ly-sp4.pdf) | 204.12358 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc.pdf) | 204.12358 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/204_Acetylcarnitine_Pb.pdf) | 204.12358 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/204_Acetylcarnitine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/204_Acetylcarnitine_Pv.pdf) | 204.12358 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
@@ -73,6 +75,7 @@ draft = true
 | Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Lycosa sp.           | Lycosidae | 2020 / Y. M. Forster |
 | Nephila clavipes     | Araneidae | 2020 / Y. M. Forster |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Peucetia viridans    | Oxyopidae | 2020 / Y. M. Forster |
 
 ## Comments

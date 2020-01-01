@@ -3,7 +3,7 @@ title = "Adenosine"
 categories = ["C10H13N5O4","P268","HDX274",
 "Agelenenidae","Araneidae","Atracidae","Gnaphosidae","Sparassidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelenopsis aperta","Agelenopsis potteri","Atrax robustus","Cyriopagopus lividum","Drassodes sp.","Heteropoda davidbowie","Larinioides cornutus","Latrodectus menavodi","Pireneitega luctuosa"]
+"Agelenopsis aperta","Agelenopsis potteri","Atrax robustus","Cyriopagopus lividum","Drassodes sp.","Heteropoda davidbowie","Larinioides cornutus","Latrodectus menavodi","Parawixia bistriata","Pireneitega luctuosa"]
 +++
 
 ![](/img/Adenosine.png)
@@ -55,6 +55,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/H-davidbowie/268_Adenosine_Hd.pdf) | 268.10457 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/L-cornutus/268_Adenosine_Lc.pdf) | 268.10457 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/268_Adenosine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/268_Adenosine_Pb.pdf) | 268.10457 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/268_Adenosine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/268_Adenosine_Pl.pdf) | 268.10457 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/268_Adenosine_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
@@ -64,6 +66,7 @@ tags = ["S-1","C-1",
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------|------|---------|---------------------------------------------------------------------|
 | The main products of the low molecular mass fraction in the venom of the spider Latrodectus menavodi                                                 | A. Horni, D. Weickmann, M. Hesse, Toxicon 2001, 39, 425-428                                                  | L. menavodi |      |         | [Link](https://www.sciencedirect.com/science/article/pii/S0041010100001471) |
 | Mass spectrometric characterisation and quantification of selected low molecular mass compounds from the venom of Haplopelma lividum (Theraphosidae) | S. Moore, W. F. Smyth, V. A. Gault, E. O'Kane, S. McClean, Rapid Commun. Mass. Spectrom. 2009, 23, 1747-1755 | C. lividum  |      | HPLC-ESI-MS/MS        | [Link](https://doi.org/10.1002/rcm.4063)                                    |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
@@ -77,6 +80,7 @@ tags = ["S-1","C-1",
 | Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Latrodectus menavodi | Theridiidae   | 2001 / A. Horni      |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Pireneitega luctuosa | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments

@@ -1,9 +1,9 @@
 +++
 title = "Tryptophan"
 categories = ["C11H12N2O2","P205","HDX210",
-"Lycosidae","Sparassidae"]
+"Araneidae","Lycosidae","Sparassidae"]
 tags = ["S-1","C-1",
-"Heteropoda davidbowie","Lycosa indagatrix"]
+"Heteropoda davidbowie","Lycosa indagatrix","Parawixia bistriata"]
 +++
 
 ![](/img/Tryptophan.png)
@@ -53,12 +53,15 @@ tags = ["S-1","C-1",
 |--------------------------------------|-----------|------------|--------------|--------|---------------|
 | [Data](/pdf/205_Tryptophan_9-38.pdf) | 205.09770 |            | L-Tryptophan | Merck  | Y. M. Forster |
 | [Data](/pdf/H-davidbowie/205_Tryptophan_Hd.pdf) | 205.09770 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/P-bistriata/205_Tryptophan_Pb.pdf) | 205.09770 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/205_Tryptophan_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 
 | Title                                                                                                                                      | Reference                                                                                     | Spider   | Name | Content | Link                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|----------|------|---------|----------------------------------------------|
 | Preliminary studies on the venom of three Indian spider                                                                                    | G. Ridling Margaret, G. J. Phanuel, Proc. Indian Acad. Sci. 1988, 97, 3, 231-237 | L. indagatrix |      | Paper chromatography | [Link](https://www.ias.ac.in/article/fulltext/anml/097/03/0231-0237) |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
@@ -66,5 +69,6 @@ tags = ["S-1","C-1",
 |-------------------|-----------|----------------------------|
 | Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Lycosa indagatrix | Lycosidae | 1988 / G. Ridling Margaret |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 
 ## Comments

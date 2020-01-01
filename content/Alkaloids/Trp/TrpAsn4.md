@@ -1,31 +1,31 @@
 +++
-title = "4-OH-PhAcAsn43"
-categories = ["C19H31N5O4","P394","D197","HDX403",
-"4-OH-PhAcAsn43","43",
+title = "TrpAsn4"
+categories = ["C19H28N6O3","P389","D195","HDX399",
+"TrpAsn4","Asn4",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Larinioides cornutus","Nephila clavipes","Parawixia bistriata"]
+"Parawixia bistriata"]
 +++
 
-![](/img/4-OH-PhAcAsn43.png)
+![](/img/TrpAsn4.png)
 
 ## General Description
 
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / div. |
+| Discovered                 | 2020 / P. bistriata |
 | Synonym                    | ---                |
-| Molecular formula          | C₁₉H₃₁N₅O₄	                    |
+| Molecular formula          | C₁₉H₂₈N₆O₃                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 394.24543                  |
-| Precursor 2 [M+2H]²⁺       | 197.62663                   |
+| Precursor 1 [M+H]⁺         | 389.23012                   |
+| Precursor 2 [M+2H]²⁺       | 195.11897                   |
 | Precursor 3                |                    |
 |                            |                    |
-| HDX                        | 8                   |
-| Precursor HDX   [d₈-M+D]⁺   | 403.30192                   |
-| Precursor HDX 2 [d₈-M+2D]²⁺ | 202.65801                   |
+| HDX                        | 9                   |
+| Precursor HDX   [d₉-M+D]⁺   | 399.29288                   |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 200.65349                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         |                    |
@@ -35,9 +35,8 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 249.08753 | 231.07697 | 232.06098 | 266.11408 | 58.06567 | 41.03912 | 75.09222 |
-| 2 | 320.16103 | 302.15047 | 303.13448 | 337.18758 | 129.13917 | 112.11262 | 146.16572 |
-| 3 | 377.21888 | 359.20832 | 360.19233 | 394.24543 | 243.18210 | 226.15555 | 260.20865 |
+| 1 | 301.13007 | 283.11951 | 284.10352 | 318.15662 | 72.08132 | 55.05477 | 89.10787 |
+| 2 | 372.20357 | 354.19301 | 355.17702 | 389.23012 | 186.12425 | 169.09770 | 203.15080 |
 
 ## Additional MS/MS fragments
 
@@ -49,13 +48,9 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/L-cornutus/394_4-OH-PhAcAsn43_Lc.pdf) | 394.24543 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-cornutus/394_4-OH-PhAcAsn43_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/394_4-OH-PhAcAsn43_Nc.pdf) | 394.24543 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/394_4-OH-PhAcAsn43_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/394_4-OH-PhAcAsn43_Pb.pdf) | 394.24543 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/394_4-OH-PhAcAsn43_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-
+| [Data](/pdf/P-bistriata/389_TrpAsn4_Pb.pdf) | 389.23012 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/389_TrpAsn4_Pb_2.pdf) | 195.11897 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/389_TrpAsn4_Pb_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -67,8 +62,6 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 
 

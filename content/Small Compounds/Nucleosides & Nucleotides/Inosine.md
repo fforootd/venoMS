@@ -47,6 +47,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/A-robustus/269_Inosine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/D-canities/269_Inosine_Dc.pdf) | 269.08859 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Eresus-sp2/269_Inosine_Er-sp2.pdf) | 269.08859 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/269_Inosine_Pb.pdf) | 269.08859 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/269_Inosine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/269_Inosine_Pm.pdf) | 269.08859 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/269_Inosine_Pt.pdf) | 269.08859 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/269_Inosine_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
@@ -60,6 +62,7 @@ tags = ["S-1","C-1",
 | Separation and identification of inosine in the Selenocosmia huwena spider  | Y. She, B. Xu, S. Liang, S. Li, Chinese Journal of Analytical Chemistry 1995, 23, 9, 1081-1083 | C. hainanus |  |  | [Link](http://online.analchem.cn:8080/fxhx/EN/volumn/volumn_41.htm) |
 | The main products of the low molecular mass fraction in the venom of the spider Latrodectus menavodi                                                 | A. Horni, D. Weickmann, M. Hesse, Toxicon 2001, 39, 425-428                                                  | L. menavodi |      |         | [Link](https://www.sciencedirect.com/science/article/pii/S0041010100001471) |
 | The biological activity in mammals and insects of the nucleosidic fraction from the spider Parawixia bistriata  | M. C. A. Rodrigues, R. Guizzo, L. Gobbo-Neto, R. J. Ward, N. P. Lopes, W. F. dos Santos, Toxicon 2004, 43, 4, 375-383| P. bistriata |  |  | [Link](https://doi.org/10.1016/j.toxicon.2004.01.009)  |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 

@@ -1,9 +1,9 @@
 +++
 title = "Isoleucine"
 categories = ["C6H13NO2","P132","HDX136",
-"Cupiennius","Lycosidae","Pholcidae","Sparassidae","Theridiidae"]
+"Araneidae","Cupiennius","Lycosidae","Pholcidae","Sparassidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Cupiennius salei","Geolycosa sp.","Heteropoda davidbowie","Hippocosa sp.","Latrodectus mactans","Lycosa indagatrix","Physocyclus mexicanus","Steatoda grossa"]
+"Alopecosa sp.","Cupiennius salei","Geolycosa sp.","Heteropoda davidbowie","Hippocosa sp.","Latrodectus mactans","Lycosa indagatrix","Parawixia bistriata","Physocyclus mexicanus","Steatoda grossa"]
 +++
 
 ![](/img/Isoleucine.png)
@@ -52,6 +52,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/H-davidbowie/132_Isoeucine_Hd.pdf) | 132.10245 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/132_Isoeucine_Hi-sp1.pdf) | 132.10245 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/L-mactans/132_Isoeucine_Lm.pdf) | 132.10245 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/132_Isoeucine_Pb.pdf) | 132.10245 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/132_Isoeucine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/132_Isoeucine_Pm.pdf) | 132.10245 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/S-grossa/132_Isoeucine_Sg.pdf) | 132.10245 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
@@ -61,6 +63,7 @@ tags = ["S-1","C-1",
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------|------|----------------------|--------------------------------------------------------------|
 | Preliminary studies on the venom of three Indian spider                                                                                    | G. Ridling Margaret, G. J. Phanuel, Proc. Indian Acad. Sci. 1988, 97, 3, 231-237 | L. indagatrix |      | paper chromatography | [Link](https://www.ias.ac.in/article/fulltext/anml/097/03/0231-0237) |
 | Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae) | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302           | C. salei      |      |                      | [Link](https://doi.org/10.1016/0041-0101(94)90082-5)                 |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
@@ -73,6 +76,7 @@ tags = ["S-1","C-1",
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Latrodectus mactans | Theridiidae | 2020 / Y. M. Forster |
 | Lycosa indagatrix | Lycosidae | 1988 / G. Ridling Margaret |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 | Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |
 

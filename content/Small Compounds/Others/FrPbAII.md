@@ -2,8 +2,7 @@
 title = "FrPbAII"
 categories = ["C6H14N4O2","P175","HDX183",
 "Araneidae"]
-tags = ["S-1","C-1",
-"Parawixia bistriata"]
+tags = ["S-1","C-1"]
 +++
 
 ![](/img/FrPbAII.png)
@@ -15,8 +14,8 @@ tags = ["S-1","C-1",
 | Name                      | Value               |
 |---------------------------|---------------------|
 | Level                     | S-1 / C-1                   |
-| Discovered                | 2006 / P. bistriata |
-| Synonym                   |                     |
+| Discovered                | ---- / --- |
+| Synonym                   | Parawixin2                    |
 | Molecular formula         | C₆H₁₄N₄O₂           |
 | CAS                       | 764724-17-6         |
 |                           |                     |
@@ -62,11 +61,12 @@ tags = ["S-1","C-1",
 | Neuropharmacological profile of FrPbAII, purified from the venom of the social spider Parawixia bistriata (Araneae, Araneidae), in Wistar rats  | E. A. Gelfuso, A. O. S. Cunha, M. R. Mortari, J. L. Liberato, K. H. Paraventi, R. O. Beleboni, J. Coutinho-Netto, N. P. Lopes, W. F. dos Santos, Life Sci. 2007, 80, 6, 566-572 | P. bistriata | FrPbAII |  | [Link](https://doi.org/10.1016/j.lfs.2006.10.002) |
 | Parawixin2, a novel non-selective GABA uptake inhibitor from Parawixia bistriata spider venom, inhibits pentylenetetrazole-induced chemical kindling in rats  | E. A. Gelfuso, J. L. Liberato, A. O. S. Cunha, M. R. Mortari, R. O. Beleboni, N. P. Lopes, W. F. dos Santos, Neurosci. Lett. 2013, 543, 12-16 | P. bistriata | Parawixin2 |  | [Link](https://doi.org/10.1016/j.neulet.2013.02.074) |
 | Disease modifying effects of the spider toxin Parawixin2 in the experimental epilepsy model  | L. D. Godoy, J. L. Liberato, M. V. B. Celani, L. Gobbo-Neo, N. P. Lopes, W. F. dos Santos, Toxins 2017, 9, 9, 262-280 | P. bistriata | Parawixin2 |  | [Link](https://doi.org/10.3390/toxins9090262) |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       | not part of the spider venom (see arginine)    | ESI-MS/MS, Activity studies       | [Link](unknown)     |
 
 ## Spider species
 
-| Spider species      | familiy   | Discovered         |
+| Spider species      | Familiy   | Discovered         |
 |---------------------|-----------|-----------------------|
-| Parawixia bistriata | Araneidae | 2006 / R. O. Beleboni |
+|  |  |  |
 
 ## Comments

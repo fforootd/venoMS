@@ -20,7 +20,7 @@ tags = ["S-1","C-1",
 
 | Name                    | Value       |
 |-------------------------|-------------|
-| Level                   | S-1 / C-2   |
+| Level                   | S-1 / C-1   |
 | Discovered              | 2020 / div. |
 | Synonym                 |             |
 | Molecular formula       | C₇H₁₆NO₃    |
@@ -63,6 +63,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp4/162_Carnitine_Ly-sp4.pdf) | 162.11302 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/N-clavipes/162_Carnitine_Nc.pdf) | 162.11302 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/162_Carnitine_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/162_Carnitine_Pb.pdf) | 162.11302 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/162_Carnitine_Pb_HDX.pdf) | 1HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/162_Carnitine_Pv.pdf) | 162.11302 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/162_Carnitine_Pm.pdf) | 162.11302 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Stegodyphus-sp4/162_Carnitine_St-sp4.pdf) | 162.11302 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -71,7 +73,7 @@ tags = ["S-1","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 

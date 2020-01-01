@@ -4,7 +4,7 @@ categories = ["CHNO","P","D","HDX",
 "New","PA",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Nephila clavipes"]
+"Parawixia bistriata"]
 +++
 
 ![](/img/new.png)
@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / N. clavipes |
+| Discovered                 | 2020 / P. bistriata |
 | Synonym                    | ---                |
 | Molecular formula          |                    |
 | CAS                        | ---                |
@@ -47,20 +47,20 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/N-clavipes/104_Choline_Nc.pdf) | 104.10754 |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/104_Choline_Pb.pdf) | 104.10754 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 
 
 ## Comments

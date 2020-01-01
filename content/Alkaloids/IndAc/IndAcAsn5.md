@@ -3,8 +3,8 @@ title = "IndAcAsn5"
 categories = ["C18H27N5O3","P374","D187","HDX382",
 "IndAcAsn5","Asn5",
 "Araneidae"]
-tags = ["S-4","C-3",
-"Argiope lobata"]
+tags = ["S-3","C-1",
+"Argiope lobata","Parawixia bistriata"]
 +++
 
 ![](/img/IndAcAsn5.png)
@@ -13,7 +13,7 @@ tags = ["S-4","C-3",
 
 | Name                        | Value                             |
 |-----------------------------|-----------------------------------|
-| Level                       | S-4 / C-3                                 |
+| Level                       | S-3 / C-1                                 |
 | Discovered                  | ? / A. lobata                     |
 | Synonym                     | Arg 373 / Pseudoargiopinin 3      |
 | Molecular formula           | C₁₉H₂₇N₅O₃                        |
@@ -48,7 +48,8 @@ tags = ["S-4","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/P-bistriata/374_IndAcAsn5_Pb.pdf) | 374.21922 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/_374_IndAcAsn5_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 
@@ -63,11 +64,13 @@ tags = ["S-4","C-3",
 | Versatile Dde-based primary amine linkers for solid phase synthesis                                                               | S. R. Chhabra, A. N. Khan, B. W. Bycroft, Tetrahedron Letters 1998, 39, 3585-3588                                                                     | ---       | Pseudoargiopinin 3 (7)  | Synthesis, NMR (ns)                                     | [Link](https://doi.org/10.1016/S0040-4039(98)00555-3)                                                |
 | Total synthesis of NPTX-643, a neurotoxin of the Madagascar spider (Nephilengys borbonica) having a novel acylpolyamine structure | M. Miyashita, T. Kanemura, M. Matsushita, S. Hatakeyama, Y. Itagaki, T. Nakajima, M. Miyazawa, H. Irie, Heterocycles 1998, 47, 171-175                | ---       |                         | Synthesis                                               | [Link](https://www.infona.pl/resource/bwmeta1.element.elsevier-21290103-a950-3a60-bcdd-28a2c2b92696) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                         | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                                                                 | A. lobata | Arg 373                 | Review                                                  | [Link](https://doi.org/10.1081/TXR-100100314)                                                        |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
 | Spider species | Family    | Discovered |
 |----------------|-----------|------------|
 | Argiope lobata | Araneidae | ? / ?      |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 
 ## Comments

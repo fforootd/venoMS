@@ -14,7 +14,7 @@ tags = ["S-1","C-1",
 "Micrommata virescens virvirescens",
 "Neosparassus diana",
 "Olio sp.",
-"Pelinobius muticus","Peucetia viridans","Phoneutria fera","Pisaura mirabilis","Plectreurys tristis",
+"Parawixia bistriata","Pelinobius muticus","Peucetia viridans","Phoneutria fera","Pisaura mirabilis","Plectreurys tristis",
 "Rabidosa sp.","Raveniola micrura",
 "Selenocosmia hainana","Steatoda paykulliana","Stegodyphus sp.",
 "Thanatus striatus","Titanoeca sp.",
@@ -84,6 +84,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp3/148_Glutamic-acid_Ly-sp3.pdf) | 148.06098 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp4/148_Glutamic-acid_Ly-sp4.pdf) | 148.06098 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/148_Glutamic-acid_Ly-sp5.pdf) | 148.06098 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/148_Glutamic-acid_Pb.pdf) | 148.06098 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/148_Glutamic-acid_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/148_Glutamic-acid_Pv.pdf) | 148.06098 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/148_Glutamic-acid_Pt.pdf) | 148.06098 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/148_Glutamic-acid_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
@@ -103,6 +105,7 @@ tags = ["S-1","C-1",
 | Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae)           | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302                                                                             | C. salei        |      |                      | [Link](https://doi.org/10.1016/0041-0101(94)90082-5)                     |
 | NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species               | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, Proc. Natl. Acad. Sci. U.S.A. 2008, 105, 14283-14287 | div.            |      | NMR-screening        | [Link](https://doi.org/10.1073/pnas.0806840105)                          |
 | Mass spectrometric characterisation and quantification of selected low molecular mass compounds from the venom of Haplopelma lividum (Theraphosidae) | S. Moore, W. F. Smyth, V. A. Gault, E. O'Kane, S. McClean, Rapid Commun. Mass. Spectrom. 2009, 23, 1747-1755                                       | C. lividum      |      | HPLC-ESI-MS/MS       | [Link](https://doi.org/10.1002/rcm.4063)                                 |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 
@@ -152,6 +155,7 @@ tags = ["S-1","C-1",
 | Micrommata virescens virvirescens | Sparassidae     | 2008 / F. C. Schroeder     |
 | Neosparassus diana                | Sparassidae     | 2008 / F. C. Schroeder     |
 | Olio sp.                          | Sparassidae     | 2008 / F. C. Schroeder     |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Pelinobius muticus                | Theraphosidae   | 2008 / F. C. Schroeder     |
 | Peucetia viridans                 | Oxyopidae       | 2008 / F. C. Schroeder     |
 | Phoneutria fera                   | Ctenidae        | 1957 / F. G. Fischer       |

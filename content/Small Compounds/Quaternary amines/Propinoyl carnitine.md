@@ -50,12 +50,14 @@ tags = ["S-1","C-1",
 | [Data](/pdf/218_Propinoylcarnitine_3-12.pdf) | 218.13923 |            | Propinoyl-L-carnitine | Sigma Aldrich | Y. M. Forster |
 | [Data](/pdf/E-agrestis/218_Propinoyl-carnitine_Ea.pdf) | 218.13923 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/218_Propinoyl-carnitine_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/218_Propinoyl-carnitine_Pb.pdf) | 218.13923 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/218_Propinoyl-carnitine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 

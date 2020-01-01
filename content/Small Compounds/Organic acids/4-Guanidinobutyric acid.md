@@ -12,7 +12,7 @@ tags = ["S-1","C-2",
 
 | Name                      | Value                                                       |
 |---------------------------|-------------------------------------------------------------|
-| Level                     | S-1 / [C-2](http://massbank.jp/RecordDisplay.jsp?id=ML001501) |
+| Level                     | S-1 /  |
 | Discovered                | 2020 / P. bistriata & P. viridans                           |
 | Synonym                   |                                                             |
 | Molecular formula         | C₅H₁₁N₃O₂                                                   |
@@ -48,12 +48,14 @@ tags = ["S-1","C-2",
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
 | [Data](/pdf/P-viridans/146_Guanidinobutanic-acid_Pv.pdf) | 146.09295  |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/146_Guanidinobutanic-acid_Pb.pdf) | 146.09295 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/146_Guanidinobutanic-acid_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+|       | Massbank          |        | ML001501      |         | [Link](http://massbank.jp/RecordDisplay.jsp?id=ML001501)     |
 
 ## Spider species
 

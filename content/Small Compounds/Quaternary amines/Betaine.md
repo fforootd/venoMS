@@ -74,6 +74,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp3/118_Betaine_Ly-sp3.pdf) | 118.08680 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp4/118_Betaine_Ly-sp4.pdf) | 118.08680 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/118_Betaine_Ly-sp5.pdf) | 118.08680 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/118_Betaine_Pb.pdf) | 118.08680 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/118_Betaine_Pb_HDX.pdf) | 118.08680 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/118_Betaine_Pv.pdf) | 118.08680 |           | P. viridans | Spider Pharm, USA  | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/118_Betaine_Pm.pdf) | 118.08680 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/118_Betaine_Pt.pdf) | 118.08680 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
@@ -85,7 +87,7 @@ tags = ["S-1","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
 
 ## Spider species
 

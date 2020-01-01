@@ -1,9 +1,9 @@
 +++
 title = "Arginine"
 categories = ["C6H14N4O2","P175","HDX183",
-"Cupiennius","Eresidae","Gnaphosidae","Lycosidae","Oxyopidae","Pholcidae","Segestriidae","Sparassidae","Theridiidae"]
+"Araneidae","Cupiennius","Eresidae","Gnaphosidae","Lycosidae","Oxyopidae","Pholcidae","Segestriidae","Sparassidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Alopecosa sp.","Ariadna sp.","Cupiennius salei","Desertosa sp.","Drassodes sp.","Eresus sp.","Geolycosa sp.","Heteropoda davidbowie","Hippocosa sp.","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Physocyclus mexicanus","Steatoda grossa","Stegodyphus sp."]
+"Alopecosa sp.","Ariadna sp.","Cupiennius salei","Desertosa sp.","Drassodes sp.","Eresus sp.","Geolycosa sp.","Heteropoda davidbowie","Hippocosa sp.","Lycosa praegrandis","Lycosa sp.","Parawixia bistriata","Peucetia viridans","Physocyclus mexicanus","Steatoda grossa","Stegodyphus sp."]
 +++
 
 ![](/img/Arginine.png)
@@ -16,7 +16,7 @@ tags = ["S-1","C-1",
 |---------------------------|-----------------|
 | Level                     | S-1 / C-1       |
 | Discovered                | 1994 / C. salei |
-| Synonym                   |                 |
+| Synonym                   | Parawixin2                |
 | Molecular formula         | C₆H₁₄N₄O₂       |
 | CAS                       | 74-79-3         |
 |                           |                 |
@@ -65,6 +65,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Lycosa-sp1/175_Arginine_Ly-sp1.pdf) | 175.11950 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/175_Arginine_Ly-sp3.pdf) | 175.11950 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp5/175_Arginine_Ly-sp5.pdf) | 175.11950 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/175_Arginine_Pb.pdf) | 175.11950 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/175_Arginine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/175_Arginine_Pv.pdf) | 175.11950 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-mexicanus/175_Arginine_Pm.pdf) | 175.11950 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/S-grossa/175_Arginine_Sg.pdf) | 175.11950 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
@@ -75,6 +77,12 @@ tags = ["S-1","C-1",
 | Title                                                                                                                                      | Reference                                                              | Spider   | Name | Content | Link                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------|------|---------|----------------------------------------------|
 | Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae) | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302 | C. salei |      |         | [Link](https://doi.org/10.1016/0041-0101(94)90082-5) |
+| Neurochemical characterization of a neuroprotective compound from Parawixia bistriata spider venom that inhibits synaptosomal uptake of GABA and glycine  | R.O. Beleboni, R. Guizzo, A. C. K. Fontana, A. B. Pizzo, R. O. G. Carolino, L. Gobbo-Neto, N. P. Lopes, J. Couthinho-Netto, W. F. dos Santos, Mol. Pharmacol. 2006, 69, 6, 1998-2006| P. bistriata | Parawixin2 / FrPbAII | MS/MS | [Link](https://doi.org/10.1124/mol.105.017319) |
+| Anticonvulsant and anxiolytic activity of FrPbAII, a novel GABA uptake inhibitor isolated from the venom of the social spider Parawixia bistriata (Araneidae: Araneae)  | J. L. Liberato, A. O. S. Cunha, M. R. Mortari, E. A. Gelfuso, E. O. Beleboni, J. Coutinho-Netto, W. F. dos Santos, Brain Res. 2006, 1124, 1, 19-27 | P. bistriata | FrPbAII |  | [Link](https://doi.org/10.1016/j.brainres.2006.09.052) |
+| Neuropharmacological profile of FrPbAII, purified from the venom of the social spider Parawixia bistriata (Araneae, Araneidae), in Wistar rats  | E. A. Gelfuso, A. O. S. Cunha, M. R. Mortari, J. L. Liberato, K. H. Paraventi, R. O. Beleboni, J. Coutinho-Netto, N. P. Lopes, W. F. dos Santos, Life Sci. 2007, 80, 6, 566-572 | P. bistriata | FrPbAII |  | [Link](https://doi.org/10.1016/j.lfs.2006.10.002) |
+| Parawixin2, a novel non-selective GABA uptake inhibitor from Parawixia bistriata spider venom, inhibits pentylenetetrazole-induced chemical kindling in rats  | E. A. Gelfuso, J. L. Liberato, A. O. S. Cunha, M. R. Mortari, R. O. Beleboni, N. P. Lopes, W. F. dos Santos, Neurosci. Lett. 2013, 543, 12-16 | P. bistriata | Parawixin2 |  | [Link](https://doi.org/10.1016/j.neulet.2013.02.074) |
+| Disease modifying effects of the spider toxin Parawixin2 in the experimental epilepsy model  | L. D. Godoy, J. L. Liberato, M. V. B. Celani, L. Gobbo-Neo, N. P. Lopes, W. F. dos Santos, Toxins 2017, 9, 9, 262-280 | P. bistriata | Parawixin2 |  | [Link](https://doi.org/10.3390/toxins9090262) |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       | main component of Parawixin2 fraction    | ESI-MS/MS, Activity studies       | [Link](unknown)     |
 
 ## Spider species
 
@@ -91,6 +99,7 @@ tags = ["S-1","C-1",
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Lycosa praegrandis | Lycosidae | 2020 / Y. M. Forster |
 | Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
+| Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Peucetia viridans | Oxyopidae | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae | 2020 / Y. M. Forster |
 | Steatoda grossa | Theridiidae | 2020 / Y. M. Forster |
