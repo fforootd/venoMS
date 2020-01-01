@@ -1,6 +1,6 @@
 +++
 title = "TrpAsn433"
-categories = [""C25H42N8O3","P503","D252","HDX515",
+categories = ["C25H42N8O3","P503","D252","HDX515",
 "TrpAsn433","Asn433",
 "Araneidae"]
 tags = ["S-3","C-1",
