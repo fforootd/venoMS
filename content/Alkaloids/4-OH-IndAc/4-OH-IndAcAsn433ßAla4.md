@@ -4,7 +4,7 @@ categories = ["C31H53N9O5","P632","D316","HDX645",
 "4-OH-IndAcAsn433ßAla4","Asn433ßAla4",
 "Araneidae"]
 tags = ["S-4","C-3",
-"Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+"Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn433bAla4.png)
@@ -52,7 +52,9 @@ tags = ["S-4","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/N-clavipes/632_IndAcAsn433bAla4_Nc.pdf) | 632.42479  |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/632_IndAcAsn433bAla4_Nc_2.pdf) | 316.71631  |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/632_IndAcAsn433bAla4_Nc_HDX.pdf) | HDX  |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -67,6 +69,7 @@ tags = ["S-4","C-3",
 
 | Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
 | Nephilingis borbonica             | Araneidae | 1997 / Y. Itagaki  |
 | Nephilingis cruentata             | Araneidae | 1997 / M. S. Palma |

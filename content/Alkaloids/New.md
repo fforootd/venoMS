@@ -4,7 +4,7 @@ categories = ["CHNO","P","D","HDX",
 "New","PA",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Larinioides cornutus"]
+"Nephila clavipes"]
 +++
 
 ![](/img/new.png)
@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / L. cornutus |
+| Discovered                 | 2020 / N. clavipes |
 | Synonym                    | ---                |
 | Molecular formula          |                    |
 | CAS                        | ---                |
@@ -47,7 +47,7 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/L-cornutus/104_Choline_Lc.pdf) | 104.10754 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/104_Choline_Nc.pdf) | 104.10754 |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
@@ -60,7 +60,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 
 
 ## Comments

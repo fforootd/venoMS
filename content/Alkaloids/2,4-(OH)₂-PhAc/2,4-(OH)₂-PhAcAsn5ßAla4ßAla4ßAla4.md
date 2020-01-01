@@ -3,8 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4ßAla4ßAla4"
 categories = ["C38H68N10O8","P793","D397","HDX808",
 "2,4-(OH)2-PhAcAsn5ßAla4ßAla4ßAla4","Asn5ßAla4ßAla4ßAla4",
 "Araneidae"]
-tags = ["S-4","C-3",
-"Nephila clavata","Nephilingis borbonica"]
+tags = ["S-3","C-1",
+"Nephila clavata","Nephila clavipes","Nephilingis borbonica"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla4bAla4bAla4.png)
@@ -13,7 +13,7 @@ tags = ["S-4","C-3",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-4 / C-3                    |
+| Level                        | S-3 / C-1                    |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 792 / NPTX 792D |
 | Molecular formula            | C₃₈H₆₈N₁₀O₈          |
@@ -54,7 +54,9 @@ tags = ["S-4","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/N-clavipes/793_2-4-OH2-PhAcAsn5bAla4bAla4bAla4_Nc.pdf) | 793.52998 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/793_2-4-OH2-PhAcAsn5bAla4bAla4bAla4_Nc_2.pdf) | 397.26890 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/793_2-4-OH2-PhAcAsn5bAla4bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -69,6 +71,7 @@ tags = ["S-4","C-3",
 | Spider species        | Family    | Discovered         |
 |-----------------------|-----------|--------------------|
 | Nephila clavata       | Araneidae | 2005 / M. S. Palma |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephilingis borbonica | Araneidae | 1997 / Y. Itagaki  |
 
 ## Comments

@@ -4,7 +4,7 @@ categories = ["C32H53N11O6","P688","D344","HDX704",
 "4-OH-IndAcAsn5ßAla4Arg","Asn5ßAla4Arg",
 "Araneidae"]
 tags = ["S-4","C-3",
-"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis cruentata"]
+"Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla4Arg.png)
@@ -50,7 +50,9 @@ tags = ["S-4","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/N-clavipes/688_4-OH-IndAc5bAla4Arg_Nc.pdf) | 688.42585 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/688_4-OH-IndAc5bAla4Arg_Nc_2.pdf) | 344.71684 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/688_4-OH-IndAc5bAla4Arg_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -66,6 +68,7 @@ tags = ["S-4","C-3",
 | Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 1998 / M. Hisada   |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
 | Nephilingis cruentata             | Araneidae | 1997 / M. S. Palma |
 

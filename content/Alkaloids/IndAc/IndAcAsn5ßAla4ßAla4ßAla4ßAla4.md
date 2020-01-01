@@ -3,8 +3,8 @@ title = "IndAcAsn5ßAla4ßAla4ßAla4ßAla4"
 categories = ["C47H83N13O7","P942","D471","HDX958",
 "IndAcAsn5ßAla4ßAla4ßAla4ßAla4","Asn5ßAla4ßAla4ßAla4ßAla4",
 "Araneidae"]
-tags = ["S-4","C-3",
-"Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-3","C-1",
+"Nephila clavata","Nephila clavipes","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn5bAla4bAla4bAla4bAla4.png)
@@ -13,7 +13,7 @@ tags = ["S-4","C-3",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-4 / C-3                    |
+| Level                        | S-3 / C-1                    |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 941 / NPTX 941D |
 | Molecular formula            | C₄₇H₈₃N₁₃O₇          |
@@ -56,7 +56,9 @@ tags = ["S-4","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/N-clavipes/942_IndAcAsn5bAla4bAla4bAla4bAla4_Nc.pdf) | 942.66166 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/942_IndAcAsn5bAla4bAla4bAla4bAla4_Nc_2.pdf) | 471.83474 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/942_IndAcAsn5bAla4bAla4bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -71,6 +73,7 @@ tags = ["S-4","C-3",
 | Spider species        | Family    | Discovered         |
 |-----------------------|-----------|--------------------|
 | Nephila clavata       | Araneidae | 2005 / M. S. Palma |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephilingis borbonica | Araneidae | 1997 / Y. Itagaki  |
 | Nephilingis cruentata | Araneidae | 2005 / M. S. Palma |
 

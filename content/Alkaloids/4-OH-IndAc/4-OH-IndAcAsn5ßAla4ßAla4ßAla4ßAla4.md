@@ -3,8 +3,8 @@ title = "4-OH-IndAcAsn5ßAla4ßAla4ßAla4ßAla4"
 categories = ["C47H83N13O8","P958","D479","HDX975",
 "4-OH-IndAcAsn5ßAla4ßAla4ßAla4ßAla4","Asn5ßAla4ßAla4ßAla4ßAla4",
 "Araneidae"]
-tags = ["S-1","C-3",
-"Nephila clavata","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-1","C-1",
+"Nephila clavata","Nephila clavipes","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla4bAla4bAla4bAla4.png)
@@ -13,7 +13,7 @@ tags = ["S-1","C-3",
 
 | Name                         | Value                              |
 |------------------------------|------------------------------------|
-| Level                        | S-1 / C-3                                |
+| Level                        | S-1 / C-2                                |
 | Discovered                   | 1996 / N. clavata                  |
 | Synonym                      | Nephilatoxin 6 / NPTX 6 / NPTX 957 |
 | Molecular formula            | C₄₇H₈₃N₁₃O₈                        |
@@ -56,7 +56,9 @@ tags = ["S-1","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/N-clavipes/958_4-OH-IndAcAsn5bAla4bAla4bAla4bAla4_Nc.pdf) | 958.65657 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/958_4-OH-IndAcAsn5bAla4bAla4bAla4bAla4_Nc_2.pdf) | 479.83220 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/958_4-OH-IndAcAsn5bAla4bAla4bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -77,6 +79,7 @@ tags = ["S-1","C-3",
 | Spider species        | Family    | Discovered         |
 |-----------------------|-----------|--------------------|
 | Nephila clavata       | Araneidae | 1996 / T. Shinada  |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephilingis borbonica | Araneidae | 1997 / Y. Itagaki  |
 | Nephilingis cruentata | Araneidae | 1997 / M. S. Palma |
 

@@ -3,8 +3,8 @@ title = "4-OH-IndAcAsn433ßAla4ßAla4"
 categories = ["C38H67N11O6","P774","D387","HDX789",
 "4-OH-IndAcAsn433ßAla4ßAla4","Asn433ßAla4ßAla4",
 "Araneidae"]
-tags = ["S-4","C-3",
-"Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-3","C-1",
+"Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn433bAla4bAla4.png)
@@ -13,7 +13,7 @@ tags = ["S-4","C-3",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-4 / C-3                    |
+| Level                        | S-3 / C-1                    |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 773 / NPTX 773B |
 | Molecular formula            | C₃₈H₆₇N₁₁O₆          |
@@ -54,7 +54,9 @@ tags = ["S-4","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/N-clavipes/774_4-OH-IndAc433bAla4bAla4_Nc.pdf) | 774.53540 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/774_4-OH-IndAc433bAla4bAla4_Nc_2.pdf) | 387.77161 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/774_4-OH-IndAc433bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -69,6 +71,7 @@ tags = ["S-4","C-3",
 
 | Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
 | Nephilingis borbonica             | Araneidae | 1997 / Y. Itagaki  |
 | Nephilingis cruentata             | Araneidae | 1997 / M. S. Palma |

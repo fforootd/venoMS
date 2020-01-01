@@ -5,7 +5,7 @@ categories = ["C30H51N11O5","P646","D323","HDX662",
 "Araneidae"]
 tags = ["S-4","C-3",
 "Argiope florida","Argiope trifasciata",
-"Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+"Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn433Arg.png)
@@ -51,7 +51,9 @@ tags = ["S-4","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/N-clavipes/646_4-OH-IndAcAsn433Arg_Nc.pdf) | 646.41529 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/646_4-OH-IndAcAsn433Arg_Nc_2.pdf) | 323.71156 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/646_4-OH-IndAcAsn433Arg_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -68,6 +70,7 @@ tags = ["S-4","C-3",
 |-----------------------------------|-----------|--------------------|
 | Argiope florida                   | Araneidae | ? / ?              |
 | Argiope trifasciata               | Araneidae | ? / ?              |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / S. M. Palma |
 | Nephilingis borbonica             | Araneidae | 2005 / S. M. Palma |
 | Nephilingis cruentata             | Araneidae | 1997 / M. S. Palma |

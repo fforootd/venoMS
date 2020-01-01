@@ -3,8 +3,8 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4Arg"
 categories = ["C30H52N10O7","P665","D333","HDX681",
 "2,4-(OH)2-PhAcAsn5ßAla4Arg","Asn5ßAla4Arg",
 "Araneidae"]
-tags = ["S-1","C-2",
-"Nephila clavata","Nephila pilipes","Nephilingis borbonica"]
+tags = ["S-1","C-1",
+"Nephila clavata","Nephila clavipes","Nephila pilipes","Nephilingis borbonica"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla4Arg.png)
@@ -13,7 +13,7 @@ tags = ["S-1","C-2",
 
 | Name                         | Value                                                                          |
 |------------------------------|--------------------------------------------------------------------------------|
-| Level                        | S-1 / [C-2](https://www.sciencedirect.com/science/article/pii/S0040402006009811) |
+| Level                        | S-1 / C-1 |
 | Discovered                   | 1986 / N. pilipes                                                              |
 | Synonym                      | NSTX 3                                                                         |
 | Molecular formula            | C₃₀H₅₂N₁₀O₇                                                                    |
@@ -50,7 +50,9 @@ tags = ["S-1","C-2",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/N-clavipes/665_2-4-OH2-PhAcAsn5bAla4Arg_Nc.pdf) | 665.40987 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/665_2-4-OH2-PhAcAsn5bAla4Arg_Nc_2.pdf) | 333.20885 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/665_2-4-OH2-PhAcAsn5bAla4Arg_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -82,6 +84,7 @@ tags = ["S-1","C-2",
 | Spider species        | Family    | Discovered         |
 |-----------------------|-----------|--------------------|
 | Nephila clavata       | Araneidae | 2005 / M. S. Palma |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephila pilipes       | Araneidae | 1986 / Y. Aramaki  |
 | Nephilingis borbonica | Araneidae | 2005 / M. S. Palma |
 

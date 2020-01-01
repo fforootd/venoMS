@@ -3,8 +3,8 @@ title = "4-OH-IndAcAsn5ßAla4ßAla4"
 categories = ["C33H55N9O6","P674","D337","HDX687",
 "4-OH-IndAcAsn5ßAla4ßAla4","Asn5ßAla4ßAla4",
 "Araneidae"]
-tags = ["S-4","C-3",
-"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+tags = ["S-3","C-1",
+"Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla4bAla4.png)
@@ -13,7 +13,7 @@ tags = ["S-4","C-3",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-4 / C-3                   |
+| Level                        | S-3 / C-1                   |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 673 / NPTX 673D |
 | Molecular formula            | C₃₃H₅₅N₉O₆           |
@@ -52,7 +52,9 @@ tags = ["S-4","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/N-clavipes/674_4-OH-IndAc5bAla4bAla4_Nc.pdf) | 674.43535 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/674_4-OH-IndAc5bAla4bAla4_Nc_2.pdf) | 337.72159 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/674_4-OH-IndAc5bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -69,6 +71,7 @@ tags = ["S-4","C-3",
 | Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 1998 / M. Hisada   |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
 | Nephilingis borbonica             | Araneidae | 1997 / Y. Itagaki  |
 | Nephilingis cruentata             | Araneidae | 1997 / M. S. Palma |

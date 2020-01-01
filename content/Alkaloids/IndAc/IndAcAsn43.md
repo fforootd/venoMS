@@ -4,7 +4,7 @@ categories = ["C21H32N6O3","P417","D209","HDX426",
 "IndAcAsn43","Asn43",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Larinioides cornutus"]
+"Larinioides cornutus","Nephila clavipes"]
 +++
 
 ![](/img/IndAcAsn43.png)
@@ -51,6 +51,8 @@ tags = ["S-3","C-1",
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/L-cornutus/417_IndAcAsn43_Lc.pdf) | 417.26142 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/417_IndAcAsn43_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/417_IndAcAsn43_Nc.pdf) | 417.26142 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/417_IndAcAsn43_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
@@ -64,6 +66,7 @@ tags = ["S-3","C-1",
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 
 
 ## Comments

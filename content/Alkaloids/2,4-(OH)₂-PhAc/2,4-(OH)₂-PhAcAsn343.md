@@ -4,7 +4,7 @@ categories = ["C22H38N6O5","P467","D234","HDX478",
 "2,4-(OH)2-PhAcAsn343","Asn343",
 "Araneidae"]
 tags = ["S-1","C-1",
-"Larinioides cornutus","Larinioides patagiatus","Nephila clavata","Nephilingis cruentata"]
+"Larinioides cornutus","Larinioides patagiatus","Nephila clavata","Nephila clavipes","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn343.png)
@@ -53,6 +53,9 @@ tags = ["S-1","C-1",
 | [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn343_Lc.pdf) | 467.29820 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn343_Lc_2.pdf) | 234.15301 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn343_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/467_2-4-OH2-PhAcAsn343_Nc.pdf) | 467.29820 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/467_2-4-OH2-PhAcAsn343_Nc_2.pdf) | 234.15301 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/467_2-4-OH2-PhAcAsn343_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -77,6 +80,7 @@ tags = ["S-1","C-1",
 | Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
 | Nephila clavata        | Araneidae | 1990 / T. Toki         |
+| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephilingis cruentata  | Araneidae | 1998 / M. S. Palma     |
 
 ## Comments

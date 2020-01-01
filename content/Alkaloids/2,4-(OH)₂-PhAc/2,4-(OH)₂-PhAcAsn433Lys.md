@@ -3,7 +3,7 @@ title = "2,4-(OH)₂-PhAcAsn433Lys"
 categories = ["C28H50N8O6","P595","D298","HDX609",
 "2,4-(OH)2-PhAcAsn433Lys","Asn433Lys",
 "Araneidae"]
-tags = ["S-1","C-3",
+tags = ["S-1","C-1",
 "Nephila clavipes","Nephila inaurata madagascariensis"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-1","C-3",
 
 | Name                         | Value                                    |
 |------------------------------|------------------------------------------|
-| Level                        | S-1 / C-3                                       |
+| Level                        | S-1 / C-1                                       |
 | Discovered                   | 2001 / N. clavipes & N. madagascariensis |
 | Synonym                      | NPTX 594                                 |
 | Molecular formula            | C₂₈H₅₀N₈O₆                               |
@@ -50,7 +50,10 @@ tags = ["S-1","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-|     |           |            |        |        |        |
+| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc.pdf) | 595.39316 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc_2.pdf) | 298.20049 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+
 
 ## References
 
