@@ -14,7 +14,7 @@ tags = ["S-1","C-1",
 | Name                        | Value             |
 |-----------------------------|-------------------|
 | Level                       | S-1 / C-1         |
-| Discovered                  | 2020 / A. potteri  |
+| Discovered                  | 2020 / A. potteri & Hololena sp. |
 | Synonym                     | --- |
 | Molecular formula           | C₂₃H₄₄N₆O₄        |
 | CAS                         | ---       |
@@ -28,8 +28,8 @@ tags = ["S-1","C-1",
 | Precursor HDX 2 [d₈-M+2D]²⁺ | 240.21040         |
 | Precursor HDX 3             |                   |
 |                             |                   |
-| Rt                          |               |
-| Rt HDX                      |               |
+| Rt                          | 5.68              |
+| Rt HDX                      | 4.17              |
 
 ## Calculated MS/MS fragments
 
@@ -61,7 +61,7 @@ tags = ["S-1","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

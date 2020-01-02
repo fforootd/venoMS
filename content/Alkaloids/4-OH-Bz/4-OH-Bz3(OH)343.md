@@ -3,7 +3,7 @@ title = "4-OH-Bz3(OH)343"
 categories = ["C20H37N5O3","P396","D198","HDX404",
 "4-OH-Bz3(OH)343","3(OH)343",
 "Agelenidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Agelenopsis aperta","Agelenopsis potteri","Hololena sp."]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | IV               |
+| Level                       | S-3 / C-1               |
 | Discovered                  | 2001 / A. aperta |
 | Synonym                     | AG 395           |
 | Molecular formula           | C₂₀H₃₇N₅O₃       |
@@ -65,6 +65,7 @@ tags = ["S-3","C-3",
 | Title                                                                                                                                                            | Reference                                                             | Spider    | Name    | Content                 | Link                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------|---------|-------------------------|----------------------------------------------------------------------------------------|
 | The acylpolyamines from the venom of the spider Agelenopsis aperta                                                                                               | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197 | A. aperta | AG 395a | APCI-MS/MS              | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N)                                                                            |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

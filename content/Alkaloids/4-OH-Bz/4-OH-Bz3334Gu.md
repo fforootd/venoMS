@@ -33,8 +33,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₉-M+2D]²⁺ | 217.20061          |
 | Precursor HDX 3             |                    |
 |                             |                    |
-| Rt                          |                    |
-| Rt HDX                      |                    |
+| Rt                          | 4.12                   |
+| Rt HDX                      | 3.01                   |
 
 ## Calculated MS/MS fragments
 
@@ -67,6 +67,7 @@ tags = ["S-3","C-1",
 | Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
 | The spider Paracoelotes birulai: Detection and structural elucidation of new acylpolyamines by on-line coupled HPLC-APCI-MS and HPLC-APCI-MS/MS| S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2000, 83, 3295-3305 | P. luctuosa | PB 421 | ACPI-MS/MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820001220%2983%3A12%3C3295%3A%3AAID-HLCA3295%3E3.0.CO%3B2-1) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

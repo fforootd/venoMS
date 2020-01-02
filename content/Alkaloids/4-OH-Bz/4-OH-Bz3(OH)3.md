@@ -31,7 +31,7 @@ tags = ["S-3","C-1",
 | precursor HDX 3             |             |
 |                             |             |
 | Rt                          | 4.23        |
-| Rt HDX                      |             |
+| Rt HDX                      | 3.14            |
 
 ## Calculated MS/MS fragments
 
@@ -61,7 +61,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

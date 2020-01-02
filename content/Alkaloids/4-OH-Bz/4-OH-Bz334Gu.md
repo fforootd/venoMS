@@ -16,7 +16,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / E. agrestis |
+| Discovered                 | 2020 / E. agrestis & P. luctuosa |
 | Synonym                    | ---                |
 | Molecular formula          | C₁₈H₃₂N₆O₂                   |
 | CAS                        | ---                |
@@ -31,7 +31,7 @@ tags = ["S-3","C-1",
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 4.13                   |
-| Rt HDX                     |                    |
+| Rt HDX                     | 3.08                   |
 
 ## Calculated MS/MS fragments
 
@@ -62,7 +62,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

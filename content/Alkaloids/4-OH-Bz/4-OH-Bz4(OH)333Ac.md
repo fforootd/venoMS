@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / H. curta  |
+| Discovered                 | 2020 / H. curta & Hololena sp. |
 | Synonym                    | ---                |
 | Molecular formula          | C₂₂H₃₉N₅O₄                   |
 | CAS                        | ---                |
@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₅-M+2D]²⁺ | 223.17989                    |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 6.75                   |
+| Rt HDX                     | 5.35                   |
 
 ## Calculated MS/MS fragments
 
@@ -60,7 +60,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
