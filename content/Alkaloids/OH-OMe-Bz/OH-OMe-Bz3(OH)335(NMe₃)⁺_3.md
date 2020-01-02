@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₅-M+D]²⁺ | 244.70806                   |
 | Precursor HDX 3 [d₅-M+TFA]²⁺          | 602.40116                   |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 6.70                   |
+| Rt HDX                     | 5.25                   |
 
 ## Calculated MS/MS fragments
 
@@ -44,22 +44,22 @@ tags = ["S-3","C-1",
 
 | m/z | Annotation |
 |-----|------------|
-|     |            |
+| 151.03952 | a0           |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-luctuosa/482_OH-Ome_bz3(OH)335(NMe3)_Pl.pdf) | 482.37063 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/482_OH-Ome_bz3(OH)335(NMe3)_Pl_2.pdf) | 241.68923 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/482_OH-Ome_bz3(OH)335(NMe3)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/482_OH-OMe-Bz3(OH)335(NMe3)_Pl.pdf) | 482.37063 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/482_OH-OMe-Bz3(OH)335(NMe3)_Pl_2.pdf) | 241.68923 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/482_OH-OMe-Bz3(OH)335(NMe3)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

@@ -18,7 +18,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / E. agrestis |
+| Discovered                 | 2020 / E. agrestis & P. luctuosa |
 | Synonym                    | ---                |
 | Molecular formula          | C₂₂H₄₁N₇O₄                   |
 | CAS                        | ---                |
@@ -27,13 +27,13 @@ tags = ["S-3","C-1",
 | Precursor 2 [M+2H]²⁺       | 234.66883                   |
 | Precursor 3                |                    |
 |                            |                    |
-| HDX                        |                    |
-| Precursor HDX   [d-M+D]⁺   |                    |
-| Precursor HDX 2 [d-M+2D]²⁺ |                    |
+| HDX                        | 9                   |
+| Precursor HDX   [d₉-M+D]⁺   | 478.39260                   |
+| Precursor HDX 2 [d₉-M+2D]²⁺ | 240.20335                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 6.97                   |
+| Rt HDX                     | 5.39                   |
 
 ## Calculated MS/MS fragments
 
@@ -48,7 +48,7 @@ tags = ["S-3","C-1",
 
 | m/z | Annotation |
 |-----|------------|
-|     |            |
+| 151.03952 | a0           |
 
 ## Recorded MS/MS spectra
 
@@ -64,7 +64,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
