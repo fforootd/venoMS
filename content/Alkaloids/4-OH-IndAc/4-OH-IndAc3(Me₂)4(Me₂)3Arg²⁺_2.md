@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₀-M+TFA+D]²⁺ | 357.25235                   |
 | Precursor HDX 3 [d₁₀-M+2TFA+D]⁺           | 827.48973                   |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 6.98                   |
+| Rt HDX                     | 5.35                   |
 
 ## Calculated MS/MS fragments
 
@@ -49,10 +49,10 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb.pdf) | 294.72139 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_2.pdf) | 351.71782 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_3.pdf) | 816.42069 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb.pdf) | 294.72139 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_2.pdf) | 351.71782 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_3.pdf) | 816.42069 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
 
 
 ## References

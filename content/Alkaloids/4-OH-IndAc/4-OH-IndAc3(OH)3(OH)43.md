@@ -3,7 +3,7 @@ title = "4-OH-IndAc3(OH)3(OH)43"
 categories = ["C23H40N6O4","P465","D233","HDX474",
 "4-OH-IndAc3(OH)3(OH)43","3(OH)3(OH)43",
 "Agelenidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Agelenopsis aperta","Hololena sp."]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | S-3 / C-3                |
+| Level                       | S-3 / C-1                |
 | Discovered                  | ? / A. aperta      |
 | Synonym                     | AG 464a / Agel 464 |
 | Molecular formula           | C₂₃H₄₀N₆O₄         |
@@ -28,8 +28,8 @@ tags = ["S-3","C-3",
 | Precursor HDX 2 [d₈-M+2D]²⁺ | 238.19475          |
 | Precursor HDX 3             |                    |
 |                             |                    |
-| Rt                          |                    |
-| Rt HDX                      |                    |
+| Rt                          | 8.15                   |
+| Rt HDX                      | 6.34                   |
 
 ## Calculated MS/MS fragments
 
@@ -60,6 +60,7 @@ tags = ["S-3","C-3",
 | Polyamine toxins from spiders and wasps                                                   | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125 | A. aperta | Agel 464 | Review                                              | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X)                                                   |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                             | A. aperta | Agel 464 | Review                                              | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                             |
 | The acylpolyamines from the venom of the spider Agelenopsis aperta                        | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197                             | A. aperta | AG 464a  | typo, APCI-MS/MS matchs with 4-OH-IndAc3(OH)3(OH)34 | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

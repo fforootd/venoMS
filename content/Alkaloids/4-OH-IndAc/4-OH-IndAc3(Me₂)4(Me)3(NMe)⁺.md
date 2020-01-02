@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₃-M+D]²⁺ | 218.68339                   |
 | Precursor HDX 3 [d₃-M+TFA]⁺           | 551.35810                   |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 5.80                   |
+| Rt HDX                     | 4.64                   |
 
 ## Calculated MS/MS fragments
 
@@ -49,9 +49,9 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/432_4-OH-IndAc3(Me2)4(Me)3(NMe)_Pb.pdf) | 432.33384 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/432_4-OH-IndAc3(Me2)4(Me)3(NMe)_Pb_2.pdf) | 216.67083 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/432_4-OH-IndAc3(Me2)4(Me)3(NMe)_Pb_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/432_4-OH-IndAc3(Me2)4(Me)3(NMe)_Pb.pdf) | 432.33384 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/432_4-OH-IndAc3(Me2)4(Me)3(NMe)_Pb_2.pdf) | 216.67083 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/432_4-OH-IndAc3(Me2)4(Me)3(NMe)_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA  | Y. M. Forster |
 
 
 ## References

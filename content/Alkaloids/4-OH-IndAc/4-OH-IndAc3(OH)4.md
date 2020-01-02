@@ -3,7 +3,7 @@ title = "4-OH-IndAc3(OH)4"
 categories = ["C17H26N4O3","P335","D168","HDX342",
 "4-OH-IndAc3(OH)4","3(OH)4",
 "Agelenidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Agelenopsis aperta"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | S-3 / C-3        |
+| Level                       | S-3 / C-1        |
 | Discovered                  | 2020 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₁₇H₂₆N₄O₃       |
@@ -55,7 +55,7 @@ tags = ["S-3","C-3",
 
 | Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
-|           |             |           |        |          |     |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

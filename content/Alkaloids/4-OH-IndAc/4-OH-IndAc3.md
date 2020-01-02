@@ -9,8 +9,6 @@ tags = ["S-3","C-1",
 
 ![](/img/4-OH-IndAc3.png)
 
-![](/img_MSMS/248_4-OH-IndAc3_Pl.png?classes=border)
-
 ## General Description
 
 | Name                        | Value                            |
@@ -58,12 +56,13 @@ tags = ["S-3","C-1",
 
 | Titel | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
 | Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
+| Pireneitega luctuosa  | Agelenidae | 2020 / Y. M. Forster |
 
 ## Comments
