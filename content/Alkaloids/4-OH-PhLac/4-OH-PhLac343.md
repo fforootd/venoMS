@@ -31,8 +31,8 @@ tags = ["S-2","C-1",
 | Precursor HDX 2 [d₇-M+2D]²⁺ | 188.66762   |
 | Precursor HDX 3             |             |
 |                             |             |
-| Rt                          |             |
-| Rt HDX                      |             |
+| Rt                          | 3.18            |
+| Rt HDX                      | 2.50            |
 
 ## Calculated MS/MS fragments
 
@@ -60,6 +60,7 @@ tags = ["S-2","C-1",
 | Title                                                                                  | Reference                                                                                                                                           | Spider | Name   | Content                            | Link                                          |
 |----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|------------------------------------|-----------------------------------------------|
 | The aromatic head group of spider toxin polyamines influences toxicity to cancer cells | D. Wilson, G. M. Boyle, L. McIntyre, M. J. Nolan, P. G. Parson, J. J. Smith, L. Tribolet, A. Loukas, M. J. Liddell, L. D. Rash, Toxins 2017, 9, 346 | div.   | PA 366 | MALDI-MS/MS, NMR, Activity-studies | [Link](https://doi.org/10.3390/toxins9110346) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
