@@ -29,8 +29,8 @@ tags = ["S-1","C-1",
 | Precursor HDX 2 [d₁₅-M+2D]²⁺ | 320.75692                                 |
 | Precursor HDX 3              |                                           |
 |                              |                                           |
-| Rt                           |                                           |
-| Rt HDX                       |                                           |
+| Rt                           | 4.18                                          |
+| Rt HDX                       | 3.15                                          |
 
 ## Calculated MS/MS fragments
 
@@ -45,7 +45,7 @@ tags = ["S-1","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -66,6 +66,7 @@ tags = ["S-1","C-1",
 | Study on the structure activity relationships of NPTX-594, a spider toxin belonging to the type-B acylpolyamine structure| T. Wakamiya, T. Kinoshita, Y. Hattori, Y. Yamaguchi, H. Naoki, G. Corzo, T. Nakajima, Bull. Chem. Soc. Jpn. 2004, 77, 331-340 |  | NPTX 622B | Synthesis, NMR, Activity-studies | [Link](https://www.journal.csj.jp/doi/10.1246/bcsj.77.331) |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders| M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234 | div. | NPTX 622B | LC-MS | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857) |
 | Structural foundation for insect-selective activity of acylpolyamine toxins from spider Araneus ventricosus| K. Lui, M. Wang, L. Jiang, X. Tang, Z. Liu, Z. Zhou, W. Hu, Z. Duan, S. Liang, Chemical Research in Toxicology 2019 | A. ventricosus | AVTX 622 | NMR, Activity-studies | [Link](https://pubs.acs.org/doi/10.1021/acs.chemrestox.8b00337) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

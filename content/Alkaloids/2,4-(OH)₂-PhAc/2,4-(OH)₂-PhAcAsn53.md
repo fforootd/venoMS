@@ -3,7 +3,7 @@ title = "2,4-(OH)₂-PhAcAsn53"
 categories = ["C20H33N5O5","P424","D212","HDX432",
 "2,4-(OH)2-PhAcAsn53","Asn53",
 "Araneidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Larinioides cornutus","Larinioides patagiatus","Nephila clavipes"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | S-3 / C-3            |
+| Level                       | S-3 / C-1            |
 | Discovered                  | 2009 / L. patagiatus |
 | Synonym                     | LF 423F              |
 | Molecular formula           | C₂₀H₃₃N₅O₅           |
@@ -28,8 +28,8 @@ tags = ["S-3","C-3",
 | Precursor HDX 2 [d₇-M+2D]²⁺ | 217.16016            |
 | Precursor HDX 3             |                      |
 |                             |                      |
-| Rt                          |                      |
-| Rt HDX                      |                      |
+| Rt                          | 4.36                     |
+| Rt HDX                      | 3.54                     |
 
 ## Calculated MS/MS fragments
 
@@ -43,7 +43,7 @@ tags = ["S-3","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -59,6 +59,7 @@ tags = ["S-3","C-3",
 | Title                                                                                                      | Reference                                                     | Spider        | Name    | Content       | Link                                                               |
 |------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------|---------|---------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | L. patagiatus | LF 423F | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

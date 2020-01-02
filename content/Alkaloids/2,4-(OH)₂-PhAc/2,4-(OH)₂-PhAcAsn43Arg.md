@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / N. clavipes & P. bistriata |
+| Discovered                 | 2020 / P. bistriata |
 | Synonym                    | ---                |
 | Molecular formula          | C₂₅H₄₃N₉O₆                   |
 | CAS                        | ---                |
@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₄-M+2D]²⁺ | 291.72486                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 4.55                   |
+| Rt HDX                     | 3.39                   |
 
 ## Calculated MS/MS fragments
 
@@ -41,9 +41,9 @@ tags = ["S-3","C-1",
 
 ## Additional MS/MS fragments
 
-| m/z | Annotation |
-|-----|------------|
-|     |            |
+| m/z       | Annotation |
+|-----------|------------|
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -62,6 +62,7 @@ tags = ["S-3","C-1",
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 | Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

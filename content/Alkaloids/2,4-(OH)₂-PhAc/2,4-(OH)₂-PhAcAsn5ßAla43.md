@@ -45,7 +45,7 @@ tags = ["S-1","C-2",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 

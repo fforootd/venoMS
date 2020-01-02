@@ -28,8 +28,8 @@ tags = ["S-1","C-1",
 | Precursor HDX 2 [d₁₃-M+2D]²⁺ | 305.74757                                |
 | Precursor HDX 3              |                                          |
 |                              |                                          |
-| Rt                           |                                          |
-| Rt HDX                       |                                          |
+| Rt                           | 3.36                                         |
+| Rt HDX                       | 2.53                                         |
 
 ## Calculated MS/MS fragments
 
@@ -44,7 +44,7 @@ tags = ["S-1","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -61,7 +61,8 @@ tags = ["S-1","C-1",
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|----------|--------------------------------------------------------------|-----------------------------------------------------------------------------|
 | Total synthesis of the novel spider toxin NPTX-594 from Nephila madagascariencis                                                                     | T. Wakamiya, A. Yamamoto, K. Kawaguchi, T. Kinoshita, Y. Yamaguchi, Y. Itagaki, H. Naoki, T. Nakajima, Bull. Chem. Soc. Jpn. 2001, 74, 1743-1749 | N. clavipes & N. madagascariensis | NPTX 594 | Synthesis, NMR, Activity-studies                             | [Link](https://www.journal.csj.jp/doi/10.1246/bcsj.74.1743)                 |
 | Study on the structure activity relationships of NPTX-594, a spider toxin belonging to the type-B acylpolyamine structure                            | T. Wakamiya, T. Kinoshita, Y. Hattori, Y. Yamaguchi, H. Naoki, G. Corzo, T. Nakajima, Bull. Chem. Soc. Jpn. 2004, 77, 331-340                    |                                   |          | Synthesis of analouges, Activity-studies                     | [Link](https://www.journal.csj.jp/doi/10.1246/bcsj.77.331)                  |
-| Syntheses and biological activities of fluorescent-labeled analogs of acylpolyamine toxin NPTX-594 isolated from the venom of Madagascar Joro spider | T. Nishimaru, M. Sano, Y. Yamaguchi, T. Wakamiya, Bioorg. Med. Chem. 2009, 17, 57-63                                                             |                                   |          | Synthesis of fluorescent-labeled analouges, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/S0968089608010882) | 
+| Syntheses and biological activities of fluorescent-labeled analogs of acylpolyamine toxin NPTX-594 isolated from the venom of Madagascar Joro spider | T. Nishimaru, M. Sano, Y. Yamaguchi, T. Wakamiya, Bioorg. Med. Chem. 2009, 17, 57-63                                                             |                                   |          | Synthesis of fluorescent-labeled analouges, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/S0968089608010882) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

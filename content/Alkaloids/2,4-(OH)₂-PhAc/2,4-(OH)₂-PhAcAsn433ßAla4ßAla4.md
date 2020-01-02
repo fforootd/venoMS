@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₄-M+2D]²⁺ | 384.31384            |
 | Precursor HDX 3              |                      |
 |                              |                      |
-| Rt                           |                      |
-| Rt HDX                       |                      |
+| Rt                           | 4.51                     |
+| Rt HDX                       | 3.43                     |
 
 ## Calculated MS/MS fragments
 
@@ -48,7 +48,7 @@ tags = ["S-3","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -66,6 +66,7 @@ tags = ["S-3","C-1",
 | Mass spectrometric structure determination of spider toxins: Arginine-containing acylpolyamines from venoms of Brazilian garden spider Nephilengys cruentata | M. S. Palma, Y. Itagaki, T. Fujita, M. Hisada, H. Naoki, T. Nakajima, Nat. Toxins 1997, 5, 47-57          | N. cruentata                |           | MS/MS     | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A2%3C47%3A%3AAID-NT1%3E3.0.CO%3B2-X) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                    | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                     | N. borbonica & N. cruentata | NPTX 750B | Review    | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                  |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                           | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                    | div.                        | NPTX 750B | LC-MS     | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                  |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

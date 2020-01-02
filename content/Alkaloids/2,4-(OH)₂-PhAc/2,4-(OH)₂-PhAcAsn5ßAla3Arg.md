@@ -3,7 +3,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla3Arg"
 categories = ["C29H50N10O7","P651","D326","HDX667",
 "2,4-(OH)2-PhAcAsn5ßAla3Arg","Asn5ßAla3Arg",
 "Araneidae"]
-tags = ["S-4","C-3",
+tags = ["S-3","C-1",
 "Argiope florida","Argiope trifasciata","Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-4","C-3",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-4 / C-3                    |
+| Level                        | S-3 / C-1                    |
 | Discovered                   | ? / ?                |
 | Synonym                      | Arg 650 / NPTX 650 E |
 | Molecular formula            | C₂₉H₅₀N₁₀O₇          |
@@ -28,8 +28,8 @@ tags = ["S-4","C-3",
 | Precursor HDX 2 [d₁₅-M+2D]²⁺ | 334.75438            |
 | Precursor HDX 3              |                      |
 |                              |                      |
-| Rt                           |                      |
-| Rt HDX                       |                      |
+| Rt                           | 7.19                     |
+| Rt HDX                       | 6.04                     |
 
 ## Calculated MS/MS fragments
 
@@ -44,7 +44,7 @@ tags = ["S-4","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -61,6 +61,7 @@ tags = ["S-4","C-3",
 | Polyamine toxins from spiders and wasps                                                            | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125 | A. florida & A. trifasciata | Arg 650   | Review  | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines          | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                             |                             | NPTX 650E | Review  | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)           |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                            | div.                        | NPTX 650E | LC-MS   | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)           |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

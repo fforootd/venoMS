@@ -3,7 +3,7 @@ title = "2,4-(OH)₂-PhAcAsn5ßAla4"
 categories = ["C24H40N6O6","P509","D255","HDX520",
 "2,4-(OH)2-PhAcAsn5ßAla4","Asn5ßAla4",
 "Araneidae"]
-tags = ["S-1","C-3",
+tags = ["S-1","C-1",
 "Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-1","C-3",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-1 / C-3            |
+| Level                        | S-1 / C-1            |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 508 / NPTX 508D |
 | Molecular formula            | C₂₄H₄₀N₆O₆           |
@@ -28,8 +28,8 @@ tags = ["S-1","C-3",
 | Precursor HDX 2 [d₁₀-M+2D]²⁺ | 261.19595            |
 | Precursor HDX 3              |                      |
 |                              |                      |
-| Rt                           |                      |
-| Rt HDX                       |                      |
+| Rt                           | 6.99                     |
+| Rt HDX                       | 5.96                     |
 
 ## Calculated MS/MS fragments
 
@@ -44,7 +44,7 @@ tags = ["S-1","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -61,6 +61,7 @@ tags = ["S-1","C-3",
 | Detection of new spider toxins from a Nephilengys borbonica venom gland using on-line µ-column HPLC continuous flow (FRIT) FAB LC/MS and MS/MS | Y. Itagaki, T. Fujita, H. Naoki, T. Yasuhara, M. Andriantsiferana, T. Nakajima, Nat. Toxins 1997, 5, 1-13 | N. borbonica | NPTX 508  | LC-FAB-MS                                                  | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A1%3C1%3A%3AAID-NT1%3E3.0.CO%3B2-8) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                      | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                     | N. borbonica | NPTX 508D | Review                                                     | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                 |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                             | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                    | div.         | NPTX 508D | LC-MS                                                      | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                 |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

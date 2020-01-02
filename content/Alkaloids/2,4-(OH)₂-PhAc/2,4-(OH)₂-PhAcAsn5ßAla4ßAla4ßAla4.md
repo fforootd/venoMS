@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₄-M+2D]²⁺ | 405.31912            |
 | Precursor HDX 3              |                      |
 |                              |                      |
-| Rt                           |                      |
-| Rt HDX                       |                      |
+| Rt                           | 8.03                     |
+| Rt HDX                       | 6.87                    |
 
 ## Calculated MS/MS fragments
 
@@ -48,7 +48,7 @@ tags = ["S-3","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -65,6 +65,7 @@ tags = ["S-3","C-1",
 | Detection of new spider toxins from a Nephilengys borbonica venom gland using on-line µ-column HPLC continuous flow (FRIT) FAB LC/MS and MS/MS | Y. Itagaki, T. Fujita, H. Naoki, T. Yasuhara, M. Andriantsiferana, T. Nakajima, Nat. Toxins 1997, 5, 1-13 | N. borbonica              | NPTX 792  | LC-FAB-MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%29%281997%295%3A1%3C1%3A%3AAID-NT1%3E3.0.CO%3B2-8) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                      | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                     | N. borbonica              | NPTX 792D | Review    | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                 |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                             | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                    | N. clavata & N. borbonica | NPTX 792D | LC-MS     | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                 |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

@@ -27,8 +27,8 @@ tags = ["S-3","C-1","Parawixia bistriata"]
 | Precursor HDX 2 [d₆-M+2D]²⁺ | 188.12809           |
 | Precursor HDX 3             |                     |
 |                             |                     |
-| Rt                          |                     |
-| Rt HDX                      |                     |
+| Rt                          | 5.44                    |
+| Rt HDX                      | 4.50                    |
 
 ## Calculated MS/MS fragments
 
@@ -39,9 +39,9 @@ tags = ["S-3","C-1","Parawixia bistriata"]
 
 ## Additional MS/MS fragments
 
-| m/z | Annotation |
-|-----|------------|
-|     |            |
+| m/z       | Annotation |
+|-----------|------------|
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 

@@ -28,8 +28,8 @@ tags = ["S-1","C-1",
 | Precursor HDX 2 [d₁₀-M+2D]²⁺ | 240.19067                      |
 | Precursor HDX 3              |                                |
 |                              |                                |
-| Rt                           |                                |
-| Rt HDX                       |                                |
+| Rt                           | 3.29                               |
+| Rt HDX                       | 2.59                               |
 
 ## Calculated MS/MS fragments
 
@@ -44,7 +44,7 @@ tags = ["S-1","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -66,6 +66,7 @@ tags = ["S-1","C-1",
 | Study on the structure activity relationships of NPTX-594, a spider toxin belonging to the type-B acylpolyamine structure                                    | T. Wakamiya, T. Kinoshita, Y. Hattori, Y. Yamaguchi, H. Naoki, G. Corzo, T. Nakajima, Bull. Chem. Soc. Jpn. 2004, 77, 331-340 |                             | NPTX 466 (2) | Synthesis, NMR, Activity-studies   | [Link](https://www.journal.csj.jp/doi/10.1246/bcsj.77.331)                                                         |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                           | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                                        | div.                        | NPTX 466B    | LC-MS                              | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                  |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins                                                   | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156                                                                 | L. patagiatus               | LF 466E      | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf)                                                 |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

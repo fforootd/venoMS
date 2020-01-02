@@ -3,7 +3,7 @@ title = "2,4-(OH)₂-PhAcAsn433ßAla4"
 categories = ["C29H52N8O6","P609","D305","HDX622",
 "2,4-(OH)2-PhAcAsn433ßAla4","Asn433ßAla4",
 "Araneidae"]
-tags = ["S-1","C-3",
+tags = ["S-1","C-1",
 "Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-1","C-3",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-1 / C-3            |
+| Level                        | S-1 / C-1            |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 608 / NPTX 608B |
 | Molecular formula            | C₂₉H₅₂N₈O₆           |
@@ -28,8 +28,8 @@ tags = ["S-1","C-3",
 | Precursor HDX 2 [d₁₂-M+2D]²⁺ | 312.25225            |
 | Precursor HDX 3              |                      |
 |                              |                      |
-| Rt                           |                      |
-| Rt HDX                       |                      |
+| Rt                           | 3.64                     |
+| Rt HDX                       | 2.76                     |
 
 ## Calculated MS/MS fragments
 
@@ -46,7 +46,7 @@ tags = ["S-1","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -66,6 +66,7 @@ tags = ["S-1","C-3",
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                    | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                                         | N. borbonica & N. cruentata | NPTX 608B    | Review                           | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                  |
 | Study on the structure activity relationships of NPTX-594, a spider toxin belonging to the type-B acylpolyamine structure                                    | T. Wakamiya, T. Kinoshita, Y. Hattori, Y. Yamaguchi, H. Naoki, G. Corzo, T. Nakajima, Bull. Chem. Soc. Jpn. 2004, 77, 331-340 |                             | NPTX 608 (3) | Synthesis, NMR, Activity-studies | [Link](https://www.journal.csj.jp/doi/10.1246/bcsj.77.331)                                                         |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                           | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                                        | div.                        | NPTX 608B    | LC-MS                            | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                  | 
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

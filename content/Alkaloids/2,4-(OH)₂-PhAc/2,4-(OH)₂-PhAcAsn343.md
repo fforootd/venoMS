@@ -28,8 +28,8 @@ tags = ["S-1","C-1",
 | Precursor HDX 2 [d₁₀-M+2D]²⁺ | 240.19067         |
 | Precursor HDX 3              |                   |
 |                              |                   |
-| Rt                           |                   |
-| Rt HDX                       |                   |
+| Rt                           | 2.98                  |
+| Rt HDX                       | 2.31                  |
 
 ## Calculated MS/MS fragments
 
@@ -44,7 +44,7 @@ tags = ["S-1","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -72,6 +72,7 @@ tags = ["S-1","C-1",
 | Diversity of Joro spider toxins                                                                                          | M. Yoshioka,  1997, 117, 700-714                                                                                      |               | JSTX-1     | Review                             | [Link](https://www.jstage.jst.go.jp/article/yakushi1947/117/10-11/117_10-11_700/_article/-char/ja/) |
 | Structural characterization of a new acylpolyaminetoxin from the venom of Brazilian garden spider Nephilenys cruentata   | M. S. Palma, Y. Itagaki, T. Fujita, H. Naoki, T. Nakajima, Toxicon 1998, 36, 485-493                                  | N. cruentata  | JSTX-1     | Frit-FAB-MS                        | [Link](https://www.sciencedirect.com/science/article/pii/S0041010197001396)                         |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins| S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | L. patagiatus | LF 466D    | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) | 
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

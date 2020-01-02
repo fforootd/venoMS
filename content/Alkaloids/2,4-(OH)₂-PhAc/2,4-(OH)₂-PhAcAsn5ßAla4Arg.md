@@ -28,8 +28,8 @@ tags = ["S-1","C-1",
 | Precursor HDX 2 [d₁₅-M+2D]²⁺ | 341.76220                                                                      |
 | Precursor HDX 3              |                                                                                |
 |                              |                                                                                |
-| Rt                           |                                                                                |
-| Rt HDX                       |                                                                                |
+| Rt                           | 7.75                                                                               |
+| Rt HDX                       | 6.59                                                                               |
 
 ## Calculated MS/MS fragments
 
@@ -44,7 +44,7 @@ tags = ["S-1","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 123.04461 | a'         |
 
 ## Recorded MS/MS spectra
 
@@ -78,6 +78,7 @@ tags = ["S-1","C-1",
 | Spider polyamine toxin                                                                                                                                                               | N. Kawai, Toxicon Review 2005, 24, 273-289                                                                                                               |                           | NSTX 3     | Review                                     | [Link](https://www.tandfonline.com/doi/abs/10.1080/07313830500236721)                                 |
 | An efficient and versatile synthesis of all structural types of acylpolyamine spider toxins                                                                                          | K. Nihei, M. J. Kato, T. Yamane, K. Konno, Tetrahedron 2006, 62, 8335-8350                                                                               |                           | NSTX 3 (6) | Synthesis, NMR, ESI-MS/MS                  | [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                           |
 | General synthesis of beta-alanine-containing spider polyamine toxins and discovery of Nephila polyamine toxins 1 and 8 as highly potent inhibitors of ionotropic glutamate receptors | S. Lucas, M. H. Poulsen, N. G. Norager, A. F. Barslund, T. B. Bach, A. S. Kristensen, K. Strømgaard, J. Med. Chem. 2012, 55, 10297-10301                 |                           | NSTX 3     | Synthesis, NMR, Activity-studies           | [Link](https://pubs.acs.org/doi/abs/10.1021/jm301255m)                                                |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
