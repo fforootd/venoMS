@@ -33,7 +33,7 @@ tags = ["S-1","C-1",
 | Precursor HDX 3             |                      |
 |                             |                      |
 | Rt                          | 4.83                 |
-| Rt HDX                      |                      |
+| Rt HDX                      | 4.23                    |
 
 ## Calculated MS/MS fragments
 
@@ -70,6 +70,7 @@ tags = ["S-1","C-1",
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------|---------|------------------------------------|----------------------------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins                                                       | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | L. patagiatus | LF 448A | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf)                     |
 | Regioselective solid-phase synthesisof N-mono-hydroxylated and N-mono-methylated acylpolyamine spider toxins using a 2-(ortho-nitrophenyl)ethanal modified resin | D. Pauli, S. Bienz, Org. Biomol. Chem. 2015, 13, 4473-4485    |               | LF 448A | Synthesis, NMR, APCI-MS/MS         | [Link](https://pubs.rsc.org/en/Content/ArticleLanding/2015/OB/C5OB00108K#!divAbstract) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
