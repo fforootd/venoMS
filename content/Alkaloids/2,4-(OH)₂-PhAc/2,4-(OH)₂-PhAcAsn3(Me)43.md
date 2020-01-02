@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₉-M+2D]²⁺ | 246.69536            |
 | Precursor HDX 3             |                      |
 |                             |                      |
-| Rt                          |                      |
-| Rt HDX                      |                      |
+| Rt                          | 3.01                     |
+| Rt HDX                      | 2.33                     |
 
 ## Calculated MS/MS fragments
 
