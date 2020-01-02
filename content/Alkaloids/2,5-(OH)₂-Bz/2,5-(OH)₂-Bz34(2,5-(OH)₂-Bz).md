@@ -3,7 +3,8 @@ title = "2,5-(OH)₂-Bz34(2,5-(OH)₂-Bz)"
 categories = ["C21H27N3O6","P418","D209","HDX426",
 "2,5-(OH)2-Bz34(2,5-(OH)2-Bz)","34(2,5-(OH)2-Bz)",
 "Araneidae"]
-tags = ["S-2","C-1","Parawixia bistriata"]
+tags = ["S-2","C-1",
+"Parawixia bistriata"]
 +++
 
 ![](/img/2-5-OH2-Bz34(2-5-OH2-Bz).png)
@@ -27,8 +28,8 @@ tags = ["S-2","C-1","Parawixia bistriata"]
 | Precursor HDX 2 [d₇-M+2D]²⁺ | 214.13107           |
 | Precursor HDX 3             |                     |
 |                             |                     |
-| Rt                          |                     |
-| Rt HDX                      |                     |
+| Rt                          | 20.27                    |
+| Rt HDX                      | 18.35                    |
 
 ## Calculated MS/MS fragments
 
@@ -41,7 +42,7 @@ tags = ["S-2","C-1","Parawixia bistriata"]
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 137.02387 | a0         |
 
 ## Recorded MS/MS spectra
 

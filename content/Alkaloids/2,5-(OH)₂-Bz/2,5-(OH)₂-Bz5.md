@@ -13,8 +13,8 @@ tags = ["S-3","C-1",
 
 | Name                        | Value                |
 |-----------------------------|----------------------|
-| Level                       | S-3 / C-3            |
-| Discovered                  | 2009 / Drassodes sp. |
+| Level                       | S-3 / C-1            |
+| Discovered                  | 2009 / P. bistriata |
 | Synonym                     | DR 238               |
 | Molecular formula           | C₁₅H₂₁N₂O₃           |
 | CAS                         | 1930497-19-0         |
@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₅-M+2D]²⁺ | 123.59566            |
 | Precursor HDX 3             |                      |
 |                             |                      |
-| Rt                          |                      |
-| Rt HDX                      |                      |
+| Rt                          | 10.32                     |
+| Rt HDX                      | 8.70                    |
 
 ## Calculated MS/MS fragments
 
@@ -41,12 +41,13 @@ tags = ["S-3","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 137.02387 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
+| [Data](/pdf/Drassodes-sp1/239_2-5-OH2-Bz5_Dr-sp1.pdf) | 239.13957 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-bistriata/239_2-5-OH2-Bz5_Pb.pdf) | 239.13957 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/239_2-5-OH2-Bz5_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
@@ -56,6 +57,7 @@ tags = ["S-3","C-1",
 |------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------|--------|----------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156                                                           | Drassodes sp. | DR 238 | nLC-ESI-MS/MS  | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
 | Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

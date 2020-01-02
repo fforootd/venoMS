@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₅-M+2D]²⁺ | 116.58784                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 7.79                   |
+| Rt HDX                     | 6.30                   |
 
 ## Calculated MS/MS fragments
 
@@ -39,9 +39,9 @@ tags = ["S-3","C-1",
 
 ## Additional MS/MS fragments
 
-| m/z | Annotation |
-|-----|------------|
-|     |            |
+| m/z       | Annotation |
+|-----------|------------|
+| 137.02387 | a0         |
 
 ## Recorded MS/MS spectra
 

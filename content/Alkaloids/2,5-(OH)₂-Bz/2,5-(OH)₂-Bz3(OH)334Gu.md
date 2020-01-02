@@ -30,8 +30,8 @@ tags = ["S-2","C-1",
 | Precursor HDX 2 [d-M+2D]²⁺ | 233.69866            |
 | Precursor HDX 3            |                      |
 |                            |                      |
-| Rt                         |                      |
-| Rt HDX                     |                      |
+| Rt                         | 4.43                     |
+| Rt HDX                     | 3.16                     |
 
 ## Calculated MS/MS fragments
 
@@ -46,7 +46,7 @@ tags = ["S-2","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 137.02387 | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -60,6 +60,7 @@ tags = ["S-2","C-1",
 | Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
 | NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species| F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, PNAS 2008, 105, 14283-14287 | C.  pastoralis | APA 5 | NMR, ESI-MS/MS | [Link](https://www.pnas.org/content/105/38/14283.abstract) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
