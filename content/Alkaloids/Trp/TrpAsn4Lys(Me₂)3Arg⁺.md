@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₇-M+TFA+D]²⁺ | 388.81807                   |
 | Precursor HDX 3 [d₁₇-M+2TFA+D]⁺           | 890.62119                   |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 7.35                   |
+| Rt HDX                     | 5.92                   |
 
 ## Calculated MS/MS fragments
 
@@ -44,15 +44,17 @@ tags = ["S-3","C-1",
 
 | m/z | Annotation |
 |-----|------------|
-|     |            |
+| 130.06568    | "indol"      |
+| 159.09223    | a'           |
+| 170.06059    | c0           |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/104_TrpAsn4Lys(Me2)3Arg_Pb_2.pdf) | 379.76158 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/104_TrpAsn4Lys(Me2)3Arg_Pb_3.pdf) | 872.50820 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/104_TrpAsn4Lys(Me2)3Arg_Pb_2_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/758_TrpAsn4Lys(Me2)3Arg_Pb_2.pdf) | 379.76158 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/758_TrpAsn4Lys(Me2)3Arg_Pb_3.pdf) | 872.50820 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/758_TrpAsn4Lys(Me2)3Arg_Pb_2_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References

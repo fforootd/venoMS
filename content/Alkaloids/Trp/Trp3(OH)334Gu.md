@@ -30,8 +30,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₁-M+2D]²⁺ | 259.23344                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 7.87                   |
+| Rt HDX                     | 6.18                   |
 
 ## Calculated MS/MS fragments
 
@@ -46,7 +46,11 @@ tags = ["S-3","C-1",
 
 | m/z | Annotation |
 |-----|------------|
-|     |            |
+| 130.06568    | "indol"      |
+| 159.09223    | a'           |
+| 170.06059    | c0           |
+
+
 
 ## Recorded MS/MS spectra
 
@@ -60,7 +64,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

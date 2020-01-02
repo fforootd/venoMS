@@ -1,6 +1,6 @@
 +++
 title = "Prop"
-weight = 100
+weight = 135
 +++
 
 ![](/img/Prop.png?classes=border)
