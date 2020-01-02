@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₇-M+2D]²⁺ | 207.18343           |
 | Precursor HDX 3             |                     |
 |                             |                     |
-| Rt                          |                     |
-| Rt HDX                      |                     |
+| Rt                          | 8.42                    |
+| Rt HDX                      | 7.04                    |
 
 ## Calculated MS/MS fragments
 
@@ -43,7 +43,8 @@ tags = ["S-3","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 130.06568  | "indol"    |
+| 160.07624  | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -61,6 +62,7 @@ tags = ["S-3","C-1",
 |-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------|---------|------------------------------------------------------|-----------------------------------------------------------------------------|
 | Chemical characterization of acylpolyamine toxins from venom of a trap-door spider and two tarantulas | W. S. Skinner, P. A. Dennis, A. Lui, R. L. Carney, G. B. Quistad, Toxicon 1990, 28, 541-546       | H. theveneti | Het 403 | FAB-MS, CI-MS, Amino acid analysis, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/004101019090298L)  |
 | Polyamine toxins from spiders and wasps                                                               | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125 | H. theveneti | Het 403 | Review                                               | [Link](https://www.sciencedirect.com/science/article/pii/S009995980860276X) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

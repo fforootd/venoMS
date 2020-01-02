@@ -30,8 +30,8 @@ tags = ["S-1","C-3",
 | Precursor HDX 2 [d₇-M+2D]²⁺ | 200.17561                               |
 | Precursor HDX 3             |                                         |
 |                             |                                         |
-| Rt                          |                                         |
-| Rt HDX                      |                                         |
+| Rt                          | 7.58                                        |
+| Rt HDX                      | 6.28                                        |
 
 ## Calculated MS/MS fragments
 
@@ -45,7 +45,8 @@ tags = ["S-1","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 130.06568  | "indol"    |
+| 160.07624  | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -64,6 +65,7 @@ tags = ["S-1","C-3",
 | Chemical characterization of acylpolyamine toxins from venom of a trap-door spider and two tarantulas | W. S. Skinner, P. A. Dennis, A. Lui, R. L. Carney, G. B. Quistad, Toxicon 1990, 28, 541-546                                                                     | H. theveneti & Harpactirella sp. | Het 389 | Synthesis (ns), Amino acid analysis, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/004101019090298L) |
 | Polyamine toxins from spiders and wasps                                                               | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125                                                               | H. theveneti & Harpactirella sp. | Het 389 | Review                                                | [Link](https://doi.org/10.1016/0041-0101(90)90298-L)                       |
 | The aromatic head group of spider toxin polyamines influences toxicity to cancer cells                | D. Wilson, G. M. Boyle, L. McIntyre, M. J. Nolan, P. G. Parson, J. J. Smith, L. Tribolet, A. Loukas, M. J. Liddell, L. D. Rash, N. L. Daly, Toxins 2017, 9, 346 | A. robustus & C. darlingi        | PA 389  | NMR, MALDI-MS/MS, Activity-studies                    | [Link](https://www.mdpi.com/2072-6651/9/11/346)                            |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

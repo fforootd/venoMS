@@ -47,6 +47,8 @@ tags = ["S-3","C-1",
 | m/z       | Annotation |
 |-----------|------------|
 | 112.11262 | y2'        |
+| 130.06568  | "indol"    |
+| 160.07624  | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -65,7 +67,7 @@ tags = ["S-3","C-1",
 
 | Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
-|           |             |           |        |          |     |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

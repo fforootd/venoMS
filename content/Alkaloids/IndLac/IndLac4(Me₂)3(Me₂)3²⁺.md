@@ -43,7 +43,8 @@ tags = ["S-1","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 130.06568  | "indol"    |
+| 160.07624  | a0         |
 
 ## Recorded MS/MS spectra
 
