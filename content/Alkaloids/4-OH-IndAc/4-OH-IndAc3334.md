@@ -3,7 +3,7 @@ title = "4-OH-IndAc3334"
 categories = ["C23H40N6O2","P433","D217","HDX442",
 "4-OH-IndAc3334","3334",
 "Agelenidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Agelenopsis aperta","Agelenopsis potteri","Hololena curta","Hololena sp.","Pireneitega luctuosa"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value             |
 |-----------------------------|-------------------|
-| Level                       | S-3 / C-3                |
+| Level                       | S-3 / C-1                |
 | Discovered                  | 2001 / A. aperta  |
 | Synonym                     | AG 432a / AG 432c |
 | Molecular formula           | C₂₃H₄₀N₆O₂        |
@@ -71,6 +71,7 @@ tags = ["S-3","C-3",
 | The acylpolyamines from the venom of the spider Agelenopsis aperta                                         | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2001, 84, 2178-2197                | A. aperta | AG 432a & AG 432c | APCI-MS/MS              | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820010815%2984%3A8%3C2178%3A%3AAID-HLCA2178%3E3.0.CO%3B2-N) |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156                        | A. aperta | AG 432c           | APCI reduction artefact | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf)                                                            |
 | Decomposition of N-hydroxylated compounds during atmospheric pressure chemical ionization                  | S. Eichenberger, M. Méret, S. Bienz, L. Bigler, J. Mass. Spectrom. 2010, 45, 190-197 | A. aperta | AG 432c           | APCI reduction artefact | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/jms.1703)                                                             |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

@@ -7,7 +7,7 @@ tags = ["S-3","C-1",
 "Pireneitega luctuosa"]
 +++
 
-![](/img/new.png)
+![](/img/4-OH-IndAc5(OH)3333.png)
 
 ## General Description
 
@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₉-M+2D]²⁺ |  266.23719                  |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 10.16                   |
+| Rt HDX                     | 8.32                   |
 
 ## Calculated MS/MS fragments
 
@@ -59,7 +59,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

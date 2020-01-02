@@ -32,8 +32,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₀-M+2D]²⁺ | 252.21448          |
 | Precursor HDX 3              |                    |
 |                              |                    |
-| Rt                           |                    |
-| Rt HDX                       |                    |
+| Rt                           | 8.54                   |
+| Rt HDX                       | 6.67                   |
 
 ## Calculated MS/MS fragments
 
@@ -67,11 +67,13 @@ tags = ["S-3","C-1",
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------|--------|------------|--------------------------------------------------------------------------------------------------------------------------------|
 | The spider Paracoelotes birulai: Detection and structural elucidation of new acylpolyamines by on-line coupled HPLC-APCI-MS and HPLC-APCI-MS/MS | S. Chesnov, L. Bigler, M. Hesse, Helv. Chim. Acta 2000, 83, 3295-3305               | P. luctuosa | PB 490 | APCI-MS/MS | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%2820001220%2983%3A12%3C3295%3A%3AAID-HLCA3295%3E3.0.CO%3B2-1) |
 | A template approach for the characterization of linear polyamines and derivatives in spider venom                                               | M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Eur. J. Mass Spectrom. 2013, 19, 57-69 | P. luctuosa | PB 490 | APCI-MS/MS | [Link](https://journals.sagepub.com/doi/10.1255/ejms.1213)                                                                     |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
 | Spider species       | Family     | Discovered        |
 |----------------------|------------|-------------------|
+| Eratigena agrestis | Agelenidae | 2020 / Y. M. Forster |
 | Pireneitega luctuosa | Agelenidae | 2000 / S. Chesnov |
 
 ## Comments

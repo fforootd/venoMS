@@ -3,7 +3,7 @@ title = "4-OH-IndAc5333"
 categories = ["C24H42N6O2","P447","D224","HDX456",
 "4-OH-IndAc5333","5333",
 "Pisauridae"]
-tags = ["S-1","C-3",
+tags = ["S-1","C-1",
 "Dolomedes okefinokensis","Pireneitega luctuosa"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-1","C-3",
 
 | Name                        | Value                   |
 |-----------------------------|-------------------------|
-| Level                       | S-1 / C-3                      |
+| Level                       | S-1 / C-1                      |
 | Discovered                  | 1993 / D. okefinokensis |
 | Synonym                     | CNS 2103                |
 | Molecular formula           | C₂₄H₄₂N₆O₂              |
@@ -28,8 +28,8 @@ tags = ["S-1","C-3",
 | Precursor HDX 2 [d₈-M+2D]²⁺ | 229.20767               |
 | Precursor HDX 3             |                         |
 |                             |                         |
-| Rt                          |                         |
-| Rt HDX                      |                         |
+| Rt                          | 8.62                        |
+| Rt HDX                      | 7.03                        |
 
 ## Calculated MS/MS fragments
 
@@ -60,6 +60,7 @@ tags = ["S-1","C-3",
 |-----------|-------------|-----------|--------|----------|-----|
 | Characterization and synthesis of a new calcium antagonist from the venom of a Fishing spider| K. D. McCormick, K. Kobayashi, S. M. Goldin, N. L. Reddy, J. Meinwald, Tetrahedron 1993, 49, 11155 | D. okefinokensis | CNS 2103 | Synthesis, NMR, FAB-MS/MS, Amino acid analysis, Activity-studies  | [Link](https://www.sciencedirect.com/science/article/pii/S0040402001818032) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines| Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52 |D. okefinokensis | CNS 2103 | Review | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314) | 
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

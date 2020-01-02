@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₃-M+D]²⁺ | 161.62554                   |
 | Precursor HDX 3 [d₃-M+TFA]⁺          | 436.23612                   |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 12.06                   |
+| Rt HDX                     | 10.67                   |
 
 ## Calculated MS/MS fragments
 
@@ -47,17 +47,17 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/Hololena-sp/318_4-OH-IndAc5(Me3)_Ho-sp.pdf) | 318.21815 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/318_4-OH-IndAc5(Me3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/318_4-OH-IndAc5(Me3)_Pl.pdf) | 318.21815 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/318_4-OH-IndAc5(Me3)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/318_4-OH-IndAc5(NMe3)_Ho-sp.pdf) | 318.21815 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/318_4-OH-IndAc5(NMe3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/318_4-OH-IndAc5(NMe3)_Pl.pdf) | 318.21815 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/318_4-OH-IndAc5(NMe3)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

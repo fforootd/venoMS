@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₆-M+2D]²⁺ | 171.14354          |
 | Precursor HDX 3             |                    |
 |                             |                    |
-| Rt                          |                    |
-| Rt HDX                      |                    |
+| Rt                          | 9.14                   |
+| Rt HDX                      | 7.66                   |
 
 ## Calculated MS/MS fragments
 
@@ -56,6 +56,7 @@ tags = ["S-3","C-1",
 | Title                                                                                                      | Reference                                                     | Spider      | Name    | Content       | Link                                                               |
 |------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------|---------|---------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | O. lugubris | OZ 332B | nLC-ESI-MS/MS | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

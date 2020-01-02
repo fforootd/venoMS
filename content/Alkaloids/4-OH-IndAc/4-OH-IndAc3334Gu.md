@@ -32,8 +32,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₀-M+2D]²⁺ | 244.21702          |
 | Precursor HDX 3              |                    |
 |                              |                    |
-| Rt                           |                    |
-| Rt HDX                       |                    |
+| Rt                           | 7.19                   |
+| Rt HDX                       | 5.69                   |
 
 ## Calculated MS/MS fragments
 
@@ -66,6 +66,7 @@ tags = ["S-3","C-1",
 | Title                                                                                                                                                                               | Reference                                                             | Spider      | Name   | Content    | Link                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------|--------|------------|---------------------------------------------------------------|
 | Detection and characterization of natural polyamines by high-performance liquid chromatography-atmospheric pressure chemical ionization (electrospray ionization) mass spectroscopy | S. Chesnov, L. Bigler, M. Hesse, Eur. J. Mass Spectrom. 2002, 8, 1-16 | P. luctuosa | PB 474 | APCI-MS/MS | [Link](https://journals.sagepub.com/doi/abs/10.1255/ejms.467) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

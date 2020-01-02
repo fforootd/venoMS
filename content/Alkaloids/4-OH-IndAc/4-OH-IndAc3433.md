@@ -3,7 +3,7 @@ title = "4-OH-IndAc3433"
 categories = ["C23H40N6O2","P433","D217","HDX442",
 "4-OH-IndAc3433","3433",
 "Agelenidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Agelenopsis aperta","Agelenopsis potteri"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | S-3 / C-3               |
+| Level                       | S-3 / C-1               |
 | Discovered                  | 2010 / A. aperta |
 | Synonym                     | ---              |
 | Molecular formula           | C₂₃H₄₀N₆O₂       |
@@ -61,6 +61,7 @@ tags = ["S-3","C-3",
 | Title                                                                                                      | Reference                                                                            | Spider    | Name              | Content                 | Link                                                                                                                          |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------|-------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Decomposition of N-hydroxylated compounds during atmospheric pressure chemical ionization                  | S. Eichenberger, M. Méret, S. Bienz, L. Bigler, J. Mass. Spectrom. 2010, 45, 190-197 | A. aperta | (7)           | LC-APCI-MS/MS with NH₃ post-column | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/jms.1703)                                                             |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

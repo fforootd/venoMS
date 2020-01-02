@@ -3,7 +3,7 @@ title = "4-OH-IndAc343"
 categories = ["C20H33N5O2","P323","D162","HDX330",
 "4-OH-IndAc334","334",
 "Agelenidae","Thomisidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Agelenopsis aperta","Agelenopsis potteri","Hololena sp.","Ozyptila lugubris"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | S-3 / C-3                 |
+| Level                       | S-3 / C-1                 |
 | Discovered                  | 2009 / O. lugubris |
 | Synonym                     | OZ 375             |
 | Molecular formula           | C₂₀H₃₃N₅O₂         |
@@ -61,6 +61,7 @@ tags = ["S-3","C-3",
 | Title                                                                                                      | Reference                                                     | Spider      | Name   | Content       | Link                                                               |
 |------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------|--------|---------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | O. lugubris | OZ 375 | nLC-ESI-MS/MS | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
