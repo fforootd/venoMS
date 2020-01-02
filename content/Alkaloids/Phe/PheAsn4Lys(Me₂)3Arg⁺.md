@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₆-M+2D]²⁺ | 368.80948                    |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 5.92                   |
+| Rt HDX                     | 4.74                   |
 
 ## Calculated MS/MS fragments
 
@@ -44,13 +44,13 @@ tags = ["S-3","C-1",
 
 | m/z | Annotation |
 |-----|------------|
-|     |            |
+| 120.08133    | a'           |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/719_PheAsn4Lys(Me2)3Arg_Pb_2.pdf) | 7360.25613 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/719_PheAsn4Lys(Me2)3Arg_Pb_2.pdf) | 360.25613 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/719_PheAsn4Lys(Me2)3Arg_Pb_2_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 
 
