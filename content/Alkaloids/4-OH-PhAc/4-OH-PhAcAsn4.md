@@ -1,5 +1,5 @@
 +++
-title = "-OH-PhAcAsn4"
+title = "4-OH-PhAcAsn4"
 categories = ["C16H24N4O4","P337","D169","HDX345",
 "4-OH-PhAcAsn4","Asn4",
 "Araneidae"]
@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₇-M+2D]²⁺ | 173.62595                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 4.14                   |
+| Rt HDX                     | 3.52                   |
 
 ## Calculated MS/MS fragments
 
@@ -40,9 +40,9 @@ tags = ["S-3","C-1",
 
 ## Additional MS/MS fragments
 
-| m/z | Annotation |
-|-----|------------|
-|     |            |
+| m/z       | Annotation |
+|-----------|------------|
+| 107.04969 | a'         |
 
 ## Recorded MS/MS spectra
 
