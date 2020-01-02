@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / Hololena sp. |
+| Discovered                 | 2020 / P. luctuosa |
 | Synonym                    | ---                |
 | Molecular formula          | C₁₄H₃₅N₄⁺                   |
 | CAS                        | ---                |
@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₄-M+D]²⁺ | 132.66269                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 1.08                   |
+| Rt HDX                     | 1.06                   |
 
 ## Calculated MS/MS fragments
 
@@ -50,13 +50,14 @@ tags = ["S-3","C-1",
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/P-luctuosa/259_PA335(NMe3)_Pl.pdf) | 259.28618  |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/259_PA335(NMe3)_Pl_HDX.pdf) | HDX  |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

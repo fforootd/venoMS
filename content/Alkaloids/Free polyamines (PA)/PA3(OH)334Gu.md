@@ -3,7 +3,7 @@ title = "PA3(OH)334Gu"
 categories = ["C14H35N7O","P318","D159","HDX328",
 "PA3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Eratigena agrestis",
 "Pireneitega luctuosa"]
 +++
@@ -18,7 +18,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | S-3 / C-3          |
+| Level                       | S-3 / C-1          |
 | Discovered                  | 2005 / P. luctuosa |
 | Synonym                     | ---                |
 | Molecular formula           | C₁₄H₃₅N₇O          |
@@ -33,8 +33,8 @@ tags = ["S-3","C-3",
 | Precursor HDX 2 [d₉-M+2D]²⁺ | 165.18750          |
 | Precursor HDX 3             |                    |
 |                             |                    |
-| Rt                          |                    |
-| Rt HDX                      |                    |
+| Rt                          | 1.17                   |
+| Rt HDX                      | 1.08                   |
 
 ## Calculated MS/MS fragments
 

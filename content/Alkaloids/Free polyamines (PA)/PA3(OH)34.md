@@ -28,8 +28,8 @@ tags = ["S-3","C-3",
 | Precursor HDX 2 [d₆-M+2D]²⁺ | 114.13826                   |
 | Precursor HDX 3             |                             |
 |                             |                             |
-| Rt                          |                             |
-| Rt HDX                      |                             |
+| Rt                          | 1.08                            |
+| Rt HDX                      | 1.00                            |
 
 ## Calculated MS/MS fragments
 
@@ -58,6 +58,7 @@ tags = ["S-3","C-3",
 |---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------|------|-----------------|-------------------------------------------------------|
 | New linear polyamine derivatives in spider venoms                                                 | M. Tzouros, S. Chesnov, S. Bienz, M. Hesse, L. Bigler, Toxicon 2005, 46, 350-354                     | A. aperta & H. curta |      | APCI-MS/MS (ns) | [Link](https://doi.org/10.1016/j.toxicon.2005.04.018) |
 | A template approach for the characterization of linear polyamines and derivatives in spider venom | Manuel Tzouros, Sergiy Chesnov, Laurent Bigler, Stefan Bienz, Eur. J. Mass Spectrom. 2013, 19, 57-69 | A. aperta & H. curta |      | APCI-MS/MS (ns) | [Link](https://doi.org/10.1255/ejms.1213)             |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / A. potteri  |
+| Discovered                 | 2020 / A. potteri & Hololena sp.  |
 | Synonym                    | ---                |
 | Molecular formula          | C₁₇H₄₂N₅O₂⁺        |
 | CAS                        | ---                |
@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₅-M+D]²⁺ | 177.68967                   |
 | Precursor HDX 3 [d₅-M+TFA]⁺  | 46836438                   |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 1.23                   |
+| Rt HDX                     | 1.14                   |
 
 ## Calculated MS/MS fragments
 
@@ -50,16 +50,16 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/A-potteri/348_3(OH)3(OH)35(NMe3)_Ap.pdf) | 348.33385  |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/348_3(OH)3(OH)35(NMe3)_Ap_HDX.pdf) | HDX  |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/348_3(OH)3(OH)35(NMe3)_Ho-sp.pdf) | 348.33385 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/348_3(OH)3(OH)35(NMe3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/A-potteri/348_PA3(OH)3(OH)35(NMe3)_Ap.pdf) | 348.33385  |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/348_PA3(OH)3(OH)35(NMe3)_Ap_HDX.pdf) | HDX  |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/348_PA3(OH)3(OH)35(NMe3)_Ho-sp.pdf) | 348.33385 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/348_PA3(OH)3(OH)35(NMe3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

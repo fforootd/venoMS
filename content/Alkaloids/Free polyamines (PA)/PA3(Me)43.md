@@ -2,7 +2,7 @@
 title = "PA3(Me)43"
 categories = ["C11H28N4","P217","D109","HDX223",
 "PA3(Me)43","3(Me)43"]
-tags = ["S-3","C-3","Larinioides cornutus"]
+tags = ["S-3","C-1","Larinioides cornutus"]
 +++
 
 ![](/img/PA3(Me)43.png)
@@ -11,7 +11,7 @@ tags = ["S-3","C-3","Larinioides cornutus"]
 
 | Name                        | Value     |
 |-----------------------------|-----------|
-| Level                       | S-3 / C-3 |
+| Level                       | S-3 / C-1 |
 | Discovered                  | 2020 / L. cornutus          |
 | Synonym                     |           |
 | Molecular formula           | C₁₁H₂₈N₄  |
@@ -26,8 +26,8 @@ tags = ["S-3","C-3","Larinioides cornutus"]
 | Precursor HDX 2 [d₅-M+2D]²⁺ | 112.64549 |
 | Precursor HDX 3             |           |
 |                             |           |
-| Rt                          |           |
-| Rt HDX                      |           |
+| Rt                          | 1.07          |
+| Rt HDX                      | 1.01          |
 
 ## Calculated MS/MS fragments
 
@@ -55,6 +55,7 @@ tags = ["S-3","C-3","Larinioides cornutus"]
 | Title                                                                                   | Reference                                                                | Spider        | Name | Content                                | Link                                            |
 |-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------|------|----------------------------------------|-------------------------------------------------|
 | Structure elucidation of polyamine toxins in the venom of the spider Larinioides folium | S. Eichenberger, L. Bigler, S. Bienz, Helv. Chim. Acta 2007, 61, 161-164 | L. patagiatus |      | PA3(Me)43 as polyamine backbone in APA | [Link](https://doi.org/10.2533/chimia.2007.161) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
