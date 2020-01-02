@@ -1,31 +1,31 @@
 +++
-title = "2,4-(OH)₂-PhAcAsn43Arg"
-categories = ["C25H43N9O6","P566","D283","HDX581",
-"2-4-OH2-PhAcAsn43Arg","Asn43Arg",
+title = "PheAsn4Lys(Me₂)3Arg⁺"
+categories = ["C34H63N12O5","P719","D360","HDX735",
+"PheAsn4Lys(Me2)3Arg","Asn4Lys(Me2)3Arg",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Nephila clavipes","Parawixia bistriata"]
+"Parawixia bistriata"]
 +++
 
-![](/img/2-4-OH2-PhAcAsn43Arg.png)
+![](/img/PheAsn4Lys(Me2)3Arg.png)
 
 ## General Description
 
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / N. clavipes & P. bistriata |
+| Discovered                 | 2020 / P. bistriata |
 | Synonym                    | ---                |
-| Molecular formula          | C₂₅H₄₃N₉O₆                   |
+| Molecular formula          | C₃₄H₆₃N₁₂O₅⁺                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 566.34146                   |
-| Precursor 2 [M+2H]²⁺       |  283.67464                   |
+| Precursor 1 [M+H]⁺         | 719.50444                   |
+| Precursor 2 [M+2H]²⁺       | 360.25613                   |
 | Precursor 3                |                    |
 |                            |                    |
-| HDX                        | 14                   |
-| Precursor HDX   [d₁₄-M+D]⁺   | 581.43561                   |
-| Precursor HDX 2 [d₁₄-M+2D]²⁺ | 291.72486                   |
+| HDX                        | 16                   |
+| Precursor HDX   [d₁₆-M+D]⁺   | 735.60487                   |
+| Precursor HDX 2 [d₁₆-M+2D]²⁺ | 368.80948                    |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         |                    |
@@ -35,9 +35,10 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 265.08245 | 247.07189 | 248.05590 | 282.10900 | 214.16679 | 197.14024 | 231.19334 |
-| 2 | 336.15595 | 318.14539 | 319.12940 | 353.18250 | 285.24029 | 268.21374 | 302.26684 |
-| 3 | 393.21380 | 375.20324 | 376.18725 | 566.34146 | 399.28322 | 382.25667 | 416.30977 |
+| 1 | 262.11917 | 244.10861 | 245.09262 | 279.14572 | 214.16678 | 197.14023 | 259.22463 |
+| 2 | 333.19267 | 315.18211 | 316.16612 | 350.21922 | 370.29304 | 354.27432 | 387.31959 |
+| 3 | 461.28763 | 443.27707 | 444.26108 | 506.34548 | 441.36654 | 425.34782 | 458.39309 |
+| 4 | 546.37677 | 528.36621 | 529.35023 | 719.50444 | 555.40947 | 539.39075 | 572.43602 |
 
 ## Additional MS/MS fragments
 
@@ -49,12 +50,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/N-clavipes/566_2-4-OH2-PhAcAsn43Arg_Nc.pdf) | 566.34146 |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/566_2-4-OH2-PhAcAsn43Arg_Nc_2.pdf) | 283.67464 |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/566_2-4-OH2-PhAcAsn43Arg_Nc_HDX.pdf) | HDX |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/566_2-4-OH2-PhAcAsn43Arg_Pb.pdf) | 566.34146 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/566_2-4-OH2-PhAcAsn43Arg_Pb_2.pdf) | 283.67464 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/566_2-4-OH2-PhAcAsn43Arg_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/719_PheAsn4Lys(Me2)3Arg_Pb_2.pdf) | 7360.25613 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/719_PheAsn4Lys(Me2)3Arg_Pb_2_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
@@ -67,7 +64,6 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 
 

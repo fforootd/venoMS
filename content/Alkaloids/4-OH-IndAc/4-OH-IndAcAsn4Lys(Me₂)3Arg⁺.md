@@ -1,13 +1,13 @@
 +++
-title = "New"
-categories = ["CHNO","P","D","HDX",
-"New","PA",
+title = "4-OH-IndAcAsn4Lys(Me₂)3Arg⁺"
+categories = ["C35H61N12O6","P745","D373","HDX761",
+"4-OH-IndAcAsn4Lys(Me2)3Arg","Asn4Lys(Me2)3Arg",
 "Araneidae"]
 tags = ["S-3","C-1",
 "Parawixia bistriata"]
 +++
 
-![](/img/new.png)
+![](/img/4-OH-IndAcAsn4Lys(Me2)3Arg.png)
 
 ## General Description
 
@@ -16,17 +16,17 @@ tags = ["S-3","C-1",
 | Level                      | S-3 / C-1          |
 | Discovered                 | 2020 / P. bistriata |
 | Synonym                    | ---                |
-| Molecular formula          |                    |
+| Molecular formula          | C₃₅H₆₁N₁₂O₆⁺                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1 [M+H]⁺         |                    |
-| Precursor 2 [M+2H]²⁺       |                    |
-| Precursor 3                |                    |
+| Precursor 1  M⁺         | 745.48369                   |
+| Precursor 2 [M+TFA+H]²⁺       | 373.24576                   |
+| Precursor 3 [M+2TFA+H]⁺               | 859.47657                   |
 |                            |                    |
-| HDX                        |                    |
-| Precursor HDX   [d-M+D]⁺   |                    |
-| Precursor HDX 2 [d-M+2D]²⁺ |                    |
-| Precursor HDX 3            |                    |
+| HDX                        | 16                   |
+| Precursor HDX    d₁₆-M⁺   | 761.58413                   |
+| Precursor HDX 2 [d₁₆-M+TFA+D]²⁺ | 381.79911                   |
+| Precursor HDX 3 [d₁₆-M+2TFA+D]⁺           | 876.58327                   |
 |                            |                    |
 | Rt                         |                    |
 | Rt HDX                     |                    |
@@ -35,7 +35,10 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-
+| 1 | 288.09843 | 270.08787 | 271.07188 | 305.12498 | 214.16678 | 197.14023 | 259.22463 |
+| 2 | 359.17193 | 341.16137 | 342.14538 | 376.19848 | 370.29304 | 354.27432 | 387.31959 |
+| 3 | 487.26689 | 469.25633 | 470.24034 | 532.32474 | 441.36654 | 425.34782 | 458.39309 |
+| 4 | 572.35603 | 554.34547 | 555.32949 | 745.48370 | 555.40947 | 539.39075 | 572.43602 |
 
 ## Additional MS/MS fragments
 
@@ -47,7 +50,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/104_Choline_Pb.pdf) | 104.10754 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/746_4-OH-IndAcAsn4Lys(Me2)3Arg_Pb_2.pdf) | 373.24576 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/746_4-OH-IndAcAsn4Lys(Me2)3Arg_Pb_2_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
