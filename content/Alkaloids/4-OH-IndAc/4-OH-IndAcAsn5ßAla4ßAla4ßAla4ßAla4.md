@@ -13,7 +13,7 @@ tags = ["S-1","C-1",
 
 | Name                         | Value                              |
 |------------------------------|------------------------------------|
-| Level                        | S-1 / C-2                                |
+| Level                        | S-1 / C-1                                |
 | Discovered                   | 1996 / N. clavata                  |
 | Synonym                      | Nephilatoxin 6 / NPTX 6 / NPTX 957 |
 | Molecular formula            | C₄₇H₈₃N₁₃O₈                        |
@@ -28,8 +28,8 @@ tags = ["S-1","C-1",
 | Precursor HDX 2 [d₁₆-M+2D]²⁺ | 488.88869                          |
 | Precursor HDX 3              |                                    |
 |                              |                                    |
-| Rt                           |                                    |
-| Rt HDX                       |                                    |
+| Rt                           | 10.83                                   |
+| Rt HDX                       | 9.54                                   |
 
 ## Calculated MS/MS fragments
 
@@ -73,6 +73,7 @@ tags = ["S-1","C-1",
 | Total synthesis of NPTX-5 and NPTX-6, Joro spider (Nephila clavata) toxins having a unique putreanine trimer and putreanine tetramer acylpolyamine chain                      | H. Saito, E. Yuri, M. Miyazawa, Y. Itagaki, T. Nakajima, M. Miyashita, Tetrahedron Letters 1998, 39, 6479-6482 | N. clavata   | NPTX 6 (2)                | Synthesis                                              | [Link](https://www.sciencedirect.com/science/article/pii/S0040403998013793)                                        |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                                     | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                          | div.         | NPTX 6                    | Review                                                 | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                  |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                                            | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                         | div.         | NPTX 6                    | LC-MS                                                  | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                  |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

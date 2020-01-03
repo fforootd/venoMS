@@ -1,13 +1,13 @@
 +++
-title = "IndAc3(OH)43"
+title = "4-OH-IndAc3(OH)43"
 categories = ["C20H33N5O3","P392","D196","HDX400",
-"IndAc3(OH)43","3(OH)43",
+"4-OH-IndAc3(OH)43","3(OH)43",
 "Agelenidae"]
 tags = ["S-3","C-1",
 "Hololena sp."]
 +++
 
-![](/img/IndAc3(OH)43.png)
+![](/img/4-OH-IndAc3(OH)43.png)
 
 ## General Description
 
@@ -49,15 +49,15 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/Hololena-sp/392_IndAc3(OH)43_Ho-sp.pdf) | 392.26616 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/392_IndAc3(OH)34_IndAc3(OH)43_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/392_4-OH-IndAc3(OH)43_Ho-sp.pdf) | 392.26616 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/392_4-OH-IndAc3(OH)34_IndAc3(OH)43_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

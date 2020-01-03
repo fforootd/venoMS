@@ -13,7 +13,7 @@ tags = ["S-4","C-3",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-4 / C-3                    |
+| Level                        | S-4 / C-1                    |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 943 / NPTX 943C |
 | Molecular formula            | C₄₆H₈₁N₁₃O₈          |
@@ -28,8 +28,8 @@ tags = ["S-4","C-3",
 | Precursor HDX 2 [d₁₆-M+2D]²⁺ | 481.88086            |
 | Precursor HDX 3              |                      |
 |                              |                      |
-| Rt                           |                      |
-| Rt HDX                       |                      |
+| Rt                           | 9.44                     |
+| Rt HDX                       | 8.17                     |
 
 ## Calculated MS/MS fragments
 
@@ -69,6 +69,7 @@ tags = ["S-4","C-3",
 | Structures of spider toxins: Hydroxyindole-3-acetylpolyamines and a new generalized structure of type-E compounds obtained from the venom of the Joro spider, Nephila clavata | M. Hisada, T. Fujita, H. Naoki, Y. Itagaki, H. Irie, M. Miyashita, T. Nakajima, Toxicon 1998, 36, 1115-1125 | N. clavata                  |           | NMR (ns), CID (ns) | [Link](https://www.sciencedirect.com/science/article/pii/S0041010198000865)                                        |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                                     | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                       | N. borbonica & N. cruentata | NPTX 943C | Review             | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                  |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                                            | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                      | div.                        | NPTX 943C | LC-MS              | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                  |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

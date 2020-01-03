@@ -28,8 +28,8 @@ tags = ["S-1","C-1",
 | Precursor HDX 2 [d₁₄-M+2D]²⁺ | 416.82711               |
 | Precursor HDX 3              |                         |
 |                              |                         |
-| Rt                           |                         |
-| Rt HDX                       |                         |
+| Rt                           | 10.76                        |
+| Rt HDX                       | 9.46                        |
 
 ## Calculated MS/MS fragments
 
@@ -71,6 +71,7 @@ tags = ["S-1","C-1",
 | Total synthesis of NPTX-5 and NPTX-6, Joro spider (Nephila clavata) toxins having a unique putreanine trimer and putreanine tetramer acylpolyamine chain                      | H. Saito, E. Yuri, M. Miyazawa, Y. Itagaki, T. Nakajima, M. Miyashita, Tetrahedron Letters 1998, 39, 6479-6482 | N. clavata                | NPTX 5 (1)              | Synthesis                                              | [Link](https://www.sciencedirect.com/science/article/pii/S0040403998013793)                                        |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                                     | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                          | N. clavata & N. cruentata | NPTX 5                  | Review                                                 | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                  |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                                            | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                         | div.                      | NPTX 5                  | LC-MS                                                  | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                  |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

@@ -3,7 +3,7 @@ title = "4-OH-IndAcAsn5ßAla4Arg"
 categories = ["C32H53N11O6","P688","D344","HDX704",
 "4-OH-IndAcAsn5ßAla4Arg","Asn5ßAla4Arg",
 "Araneidae"]
-tags = ["S-4","C-3",
+tags = ["S-4","C-1",
 "Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-4","C-3",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-4 / C-3                    |
+| Level                        | S-4 / C-1                    |
 | Discovered                   | 1997 / N. cruentata  |
 | Synonym                      | NPTX 687 / NPTX 687D |
 | Molecular formula            | C₃₂H₅₃N₁₁O₆          |
@@ -28,8 +28,8 @@ tags = ["S-4","C-3",
 | Precursor HDX 2 [d₁₅-M+2D]²⁺ | 353.27019            |
 | Precursor HDX 3              |                      |
 |                              |                      |
-| Rt                           |                      |
-| Rt HDX                       |                      |
+| Rt                           | 10.89                     |
+| Rt HDX                       | 9.55                     |
 
 ## Calculated MS/MS fragments
 
@@ -50,9 +50,9 @@ tags = ["S-4","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/688_4-OH-IndAc5bAla4Arg_Nc.pdf) | 688.42585 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/688_4-OH-IndAc5bAla4Arg_Nc_2.pdf) | 344.71684 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/688_4-OH-IndAc5bAla4Arg_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/688_4-OH-IndAcAsn5bAla4Arg_Nc.pdf) | 688.42585 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/688_4-OH-IndAcAsn5bAla4Arg_Nc_2.pdf) | 344.71684 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/688_4-OH-IndAcAsn5bAla4Arg_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -62,6 +62,7 @@ tags = ["S-4","C-3",
 | Structures of spider toxins: Hydroxyindole-3-acetylpolyamines and a new generalized structure of type-E compounds obtained from the venom of the Joro spider, Nephila clavata | M. Hisada, T. Fujita, H. Naoki, Y. Itagaki, H. Irie, M. Miyashita, T. Nakajima, Toxicon 1998, 36, 1115-1125 | N. clavata                       | NPTX 687  | CID (ns)  | [Link](https://www.sciencedirect.com/science/article/pii/S0041010198000865)                                        |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                                     | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                       | N. clavata & N. cruentata        | NPTX 687  | Review    | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                  |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                                            | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                      | N. clavata & N. madagascariensis | NPTX 687D | LC-MS     | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                  |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

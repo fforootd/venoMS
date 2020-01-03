@@ -28,8 +28,8 @@ tags =["S-3","C-1",
 | Precursor HDX 2 [d₁₀-M+2D]²⁺ | 251.69866                      |
 | Precursor HDX 3              |                                |
 |                              |                                |
-| Rt                           |                                |
-| Rt HDX                       |                                |
+| Rt                           | 5.57                               |
+| Rt HDX                       | 4.53                               |
 
 ## Calculated MS/MS fragments
 
@@ -49,11 +49,11 @@ tags =["S-3","C-1",
 ## Recorded MS/MS spectra
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/L-cornutus/490_4-OH-IndAc433_Lc.pdf) | 490.31418 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-cornutus/490_4-OH-IndAc433_Lc_2.pdf) | 245.66100 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-cornutus/490_4-OH-IndAc433_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/490_4-OH-IndAc433_Nc.pdf) | 490.31418 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/490_4-OH-IndAc433_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/490_4-OH-IndAcAsn433_Lc.pdf) | 490.31418 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/490_4-OH-IndAcAsn433_Lc_2.pdf) | 245.66100 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/490_4-OH-IndAcAsn433_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/490_4-OH-IndAcAsn433_Nc.pdf) | 490.31418 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/490_4-OH-IndAcAsn433_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -64,6 +64,7 @@ tags =["S-3","C-1",
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                    | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                     | N. borbonica & N. cruentata | NPTX 489B | Review                             | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                  |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                           | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                    | div.                        | NPTX 489B | LC-MS                              | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                  |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins                                                   | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156                                             | L. patagiatus               | LF 489E   | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf)                                                 |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

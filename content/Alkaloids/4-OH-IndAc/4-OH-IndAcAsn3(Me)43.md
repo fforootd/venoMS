@@ -27,8 +27,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₉-M+2D]²⁺ | 258.20335            |
 | Precursor HDX 3             |                      |
 |                             |                      |
-| Rt                          |                      |
-| Rt HDX                      |                      |
+| Rt                          | 5.19                     |
+| Rt HDX                      | 4.19                     |
 
 ## Calculated MS/MS fragments
 
@@ -49,9 +49,9 @@ tags = ["S-3","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/L-cornutus/504_4-OH-IndAc3(Me)43_Lc.pdf) | 504.32983 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-cornutus/504_4-OH-IndAc3(Me)43_Lc_2.pdf) | 252.66883  |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-cornutus/504_4-OH-IndAc3(Me)43_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/504_4-OH-IndAcAsn3(Me)43_Lc.pdf) | 504.32983 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/504_4-OH-IndAcAsn3(Me)43_Lc_2.pdf) | 252.66883  |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/504_4-OH-IndAcAsn3(Me)43_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -59,6 +59,7 @@ tags = ["S-3","C-1",
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------|---------|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | Structure elucidation of polyamine toxins in the venom of the spider Larinioides folium                    | S. Eichenberger, L. Bigler, S. Bienz, Helv. Chim. Acta 2007, 61, 161-164 | L. patagiatus | LF 503A | ESI-MS/MS                          | [Link](https://www.ingentaconnect.com/content/scs/chimia/2007/00000061/00000004/art00011%3bjsessionid=6kkkrq27pa4bc.x-ic-live-03) |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156            | L. patagiatus | LF 503A | nLC-ESI-MS/MS, Amino acid anlaysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf)                                                                |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

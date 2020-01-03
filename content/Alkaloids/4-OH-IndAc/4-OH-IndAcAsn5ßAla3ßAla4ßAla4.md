@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₄-M+2D]²⁺ | 409.81928         |
 | Precursor HDX 3              |                   |
 |                              |                   |
-| Rt                           |                   |
-| Rt HDX                       |                   |
+| Rt                           |  10.12                 |
+| Rt HDX                       |  8.79                 |
 
 ## Calculated MS/MS fragments
 
@@ -54,9 +54,9 @@ tags = ["S-3","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/802_4-OH_IndAcAsn5bAla3bAla4bAla4_Nc.pdf) | 802.53031 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/802_4-OH_IndAcAsn5bAla3bAla4bAla4_Nc_2.pdf) | 401.76907 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/802_4-OH_IndAcAsn5bAla3bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/802_4-OH-IndAcAsn5bAla3bAla4bAla4_Nc.pdf) | 802.53031 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/802_4-OH-IndAcAsn5bAla3bAla4bAla4_Nc_2.pdf) | 401.76907 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/802_4-OH-IndAcAsn5bAla3bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -65,6 +65,7 @@ tags = ["S-3","C-1",
 | Structures of spider toxins: Hydroxyindole-3-acetylpolyamines and a new generalized structure of type-E compounds obtained from the venom of the Joro spider, Nephila clavata | M. Hisada, T. Fujita, H. Naoki, Y. Itagaki, H. Irie, M. Miyashita, T. Nakajima, Toxicon 1998, 36, 1115-1125 | N. clavata | NPTX 801E | FAB-MS/MS | [Link](https://www.sciencedirect.com/science/article/pii/S0041010198000865) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                                                     | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                       | N. clavata | NPTX 801E | Review    | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)           |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                                            | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                      | div.       | NPTX 801E | LC-MS     | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)           |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

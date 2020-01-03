@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₁₁-M+2D]²⁺ | 294.72818                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 6.52                   |
+| Rt HDX                     | 5.34                   |
 
 ## Calculated MS/MS fragments
 
@@ -51,7 +51,6 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-------------------------------|---------------|
 | [Data](/pdf/N-clavipes/575_4-OH-IndAcAsn34bAla4_Nc.pdf) | 575.36694  |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/575_4-OH-IndAcAsn34bAla4_Nc_HDX.pdf) | HDX  |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
 
@@ -60,7 +59,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-|       |           |        |      |         |      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
