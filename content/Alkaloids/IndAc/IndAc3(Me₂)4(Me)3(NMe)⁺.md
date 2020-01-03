@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₂-M+D]²⁺ | 210.18280                   |
 | Precursor HDX 3 [d₂-M+TFA]²⁺          | 534.35691                   |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 7.25                   |
+| Rt HDX                     | 5.94                   |
 
 ## Calculated MS/MS fragments
 
@@ -49,8 +49,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/416_IndAc3(Me2)4(Me)3(NMe)_Pb_3.pdf) | 530.33180 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/416_IndAc3(Me2)4(Me)3(NMe)_Pb_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/416_IndAc3(Me2)4(Me)3(NMe)_Pb_3.pdf) | 530.33180 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/416_IndAc3(Me2)4(Me)3(NMe)_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
 
 
 ## References

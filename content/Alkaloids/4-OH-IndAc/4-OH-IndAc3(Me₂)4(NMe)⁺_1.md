@@ -1,13 +1,13 @@
 +++
-title = "IndAc3(Me₂)4(NMe₂)⁺"
-categories = ["C21H35N4O","P359","D180","HDX361",
-"IndAc3(Me2)4(NMe2)","3(Me2)4(NMe2)",
+title = "4-OH-IndAc3(Me₂)4(NMe)⁺"
+categories = ["C20H33N4O2","P361","D181","HDX364",
+"4-OH-IndAc3(Me2)4(NMe)","3(Me2)4(NMe)",
 "Araneidae"]
 tags = ["S-3","C-1",
 "Parawixia bistriata"]
 +++
 
-![](/img/IndAc3(Me2)4(NMe2).png)
+![](/img/4-OH-IndAc3(Me2)4(NMe).png)
 
 ## General Description
 
@@ -16,27 +16,27 @@ tags = ["S-3","C-1",
 | Level                      | S-3 / C-1          |
 | Discovered                 | 2020 / P. bistriata |
 | Synonym                    | ---                |
-| Molecular formula          | C₂₁H₃₅N₄O⁺                   |
+| Molecular formula          | C₂₀H₃₃N₄O₂⁺                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 359.28108                   |
-| Precursor 2 [M+2H]²⁺       | 180.14445                   |
+| Precursor 1 [M+H]⁺         | 361.26034                   |
+| Precursor 2 [M+2H]²⁺       | 181.13408                   |
 | Precursor 3                |                    |
 |                            |                    |
-| HDX                        | 2                   |
-| Precursor HDX   [d₂-M+D]⁺   | 361.29364                   |
-| Precursor HDX 2 [d₂-M+2D]²⁺ | 181.65387                   |
+| HDX                        | 3                   |
+| Precursor HDX   [d₃-M+D]⁺   | 364.27918                   |
+| Precursor HDX 2 [d₃-M+2D]²⁺ | 183.14664                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 7.31                   |
+| Rt HDX                     | 5.89                   |
 
 ## Calculated MS/MS fragments
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 215.11844 | 197.10788 | 198.09189 | 260.17629 | 100.11262 | 83.08607 | 145.17047 |
-| 2 | 314.22323 | 296.21267 | 297.19669 | 359.28108 | 185.20177 | 169.18305 | 202.22832 |
+| 1 | 231.11335 | 213.10279 | 214.08680 | 276.17120 | 86.09697 | 69.07042 | 131.15482 |
+| 2 | 330.21814 | 312.20758 | 313.19160 | 361.26034 | 171.18612 | 155.16740 | 188.21267 |
 
 ## Additional MS/MS fragments
 
@@ -48,8 +48,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/359_IndAc3(Me2)4(NMe2)_Pb.pdf) | 359.28108 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/359_IndAc3(Me2)4(NMe2)_Pb_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/361_4-OH-IndAc3(Me2)4(NMe)_Pb.pdf) | 361.26034 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/361_4-OH-IndAc3(Me2)4(NMe)_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA  | Y. M. Forster |
 
 
 ## References

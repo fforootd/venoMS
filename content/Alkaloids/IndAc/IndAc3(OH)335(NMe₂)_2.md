@@ -11,7 +11,7 @@ tags = ["S-3","C-1",
 
 ![](/img_MSMS/475_IndAc3(OH)335(NMe2)_Aa.png?classes=border)
 
-![](/img_MSMS/475_IndAc3(OH)335(NMe2)_2_Aa.png?classes=border)
+![](/img_MSMS/475_IndAc3(OH)335(NMe2)_Aa_2.png?classes=border)
 
 ## General Description
 
@@ -71,7 +71,7 @@ tags = ["S-3","C-1",
 
 | Title     | Reference   | Spider    | Name   | Content  | Link |
 |-----------|-------------|-----------|--------|----------|-----|
-|           |             |           |        |          |     |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
