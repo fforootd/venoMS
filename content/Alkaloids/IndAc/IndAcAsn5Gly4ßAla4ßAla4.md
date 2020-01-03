@@ -48,8 +48,8 @@ tags = ["S-4","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
-
+| 130.06568 | a'         |
+| 158.06059 | a0         |
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |

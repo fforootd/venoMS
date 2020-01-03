@@ -2,7 +2,7 @@
 title = "IndAc4(OH)333"
 categories = ["C23H40N6O2","P433","D217","HDX441",
 "IndAc4(OH)333","4(OH)333"]
-tags = ["S-3","C-3","Hololena curta","Hololena sp."]
+tags = ["S-3","C-1","Hololena curta","Hololena sp."]
 +++
 
 ![](/img/IndAc4(OH)333.png)
@@ -11,8 +11,8 @@ tags = ["S-3","C-3","Hololena curta","Hololena sp."]
 
 | Name                        | Value            |
 |-----------------------------|------------------|
-| Level                       | S-3 / C-3               |
-| Discovered                  | --- / --- |
+| Level                       | S-3 / C-1               |
+| Discovered                  | 2020 / H. curta & Hololena sp. |
 | Synonym                     | AG 432h          |
 | Molecular formula           | C₂₃H₄₀N₆O₂       |
 | CAS                         | 389872-75-7      |
@@ -26,8 +26,8 @@ tags = ["S-3","C-3","Hololena curta","Hololena sp."]
 | Precursor HDX 2 [d₇-M+2D]²⁺ | 221.69671        |
 | Precursor HDX 3             |                  |
 |                             |                  |
-| Rt                          |                  |
-| Rt HDX                      |                  |
+| Rt                          | 10.34                 |
+| Rt HDX                      | 8.57                 |
 
 ## Calculated MS/MS fragments
 
@@ -42,7 +42,8 @@ tags = ["S-3","C-3","Hololena curta","Hololena sp."]
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 

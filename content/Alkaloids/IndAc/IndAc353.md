@@ -2,7 +2,7 @@
 title = "IndAc353"
 categories = ["C21H35N5O","P374","D187","HDX381",
 "IndAc353","353",
-"Thomisidae"]
+"Araneidae","Thomisidae"]
 tags = ["S-3","C-1",
 "Larinioides cornutus","Ozyptila lugubris"]
 +++
@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₆-M+2D]²⁺ | 191.67501          |
 | Precursor HDX 3             |                    |
 |                             |                    |
-| Rt                          |                    |
-| Rt HDX                      |                    |
+| Rt                          | 8.64                   |
+| Rt HDX                      | 7.24                   |
 
 ## Calculated MS/MS fragments
 
@@ -43,7 +43,8 @@ tags = ["S-3","C-1",
 
 | m/z | Annotation |
 |-----|------------|
-|     |            |
+| 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -57,11 +58,13 @@ tags = ["S-3","C-1",
 | Title                                                                                                      | Reference                                                     | Spider      | Name   | Content       | Link                                                               |
 |------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------|--------|---------------|--------------------------------------------------------------------|
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156 | O. lugubris | OZ 373 | nLC-ESI-MS/MS | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
 | Spider species    | Family     | Discovered             |
 |-------------------|------------|------------------------|
+| Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Ozyptila lugubris | Thomisidae | 2009 / S. Eichenberger |
 
 ## Comments

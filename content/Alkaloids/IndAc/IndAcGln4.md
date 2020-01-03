@@ -1,7 +1,7 @@
 +++
 title = "IndAcGln4"
-categories = ["CHNO","P","D","HDX",
-"New","PA",
+categories = ["C19H27N5O3","P374","D187","HDX382",
+"IndAcGln4","Gln4",
 "Araneidae"]
 tags = ["S-3","C-1",
 "Parawixia bistriata"]
@@ -28,8 +28,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₇-M+2D]²⁺ | 192.14177                         |
 | Precursor HDX 3            |                    |
 |                            |                    |
-| Rt                         |                    |
-| Rt HDX                     |                    |
+| Rt                         | 10.76                   |
+| Rt HDX                     | 9.55                   |
 
 ## Calculated MS/MS fragments
 
@@ -42,14 +42,15 @@ tags = ["S-3","C-1",
 
 | m/z | Annotation |
 |-----|------------|
-|     |            |
+| 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/P-bistriata/374_IndAcGln4_Pb.pdf) | 374.21922 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/_374_IndAcGln4_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/374_IndAcGln4_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 
 ## References
@@ -57,6 +58,7 @@ tags = ["S-3","C-1",
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
 | Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

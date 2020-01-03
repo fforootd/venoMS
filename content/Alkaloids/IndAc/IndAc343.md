@@ -3,7 +3,7 @@ title = "IndAc343"
 categories = ["C20H33N5O","P360","D180","HDX367",
 "IndAc343","343",
 "Agelenidae","Thomisidae"]
-tags = ["S-3","C-3",
+tags = ["S-3","C-1",
 "Agelenopsis aperta","Agelenopsis potteri","Hololena curta","Hololena sp.","Ozyptila lugubris","Pireneitega luctuosa"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-3","C-3",
 
 | Name                        | Value              |
 |-----------------------------|--------------------|
-| Level                       | S-3 / C-3                 |
+| Level                       | S-3 / C-1                 |
 | Discovered                  | 2009 / O. lugubris |
 | Synonym                     | HO 359b / OZ 359   |
 | Molecular formula           | C₂₀H₃₃N₅O          |
@@ -72,6 +72,7 @@ tags = ["S-3","C-3",
 | Amino acid/spermine conjugates: Polyamine amides as potent spermidine uptake inhibitors                                           | M. R. Burns, C. L. Carlson, S. M. Vanderwerf, J. R. Ziemer, R. S. Weeks, F. Cai, H. K. Webb, G. F. Graminski, J. Med. Chem. 2001, 44, 3632-3644 | ---         | (13)         | Synthesis, NMR, Activity-studies | [Link](https://pubs.acs.org/doi/abs/10.1021/jm0101040)             |
 | Versatile procedure for asymmetric and orthogonal protection of symmetric polyamines and its advantages for solid phase synthesis | F. Hahn, U. Schepers, J. Comb. Chem. 2008, 10, 267-273                                                                                          | ---         | HO 359b (10) | Synthesis, NMR                   | [Link](https://pubs.acs.org/doi/abs/10.1021/cc700119g)             |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins                        | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156                                                                                   | O. lugubris | OZ 359       | nLC-ESI-MS/MS                    | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

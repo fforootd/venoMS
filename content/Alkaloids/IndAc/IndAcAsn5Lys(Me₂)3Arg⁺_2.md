@@ -21,12 +21,12 @@ tags = ["S-4","C-3",
 |                             |                               |
 | Precursor 1  M⁺             | 743.50444                     |
 | Precursor 2 [M+H]²⁺         | 372.25613                     |
-| Precursor 3                 |                               |
+| Precursor 3 [M+TFA+H]⁺                | 857.49730                              |
 |                             |                               |
 | HDX                         | 15                            |
 | Precursor HDX 1 d₁₅-M⁺      | 758.59859                     |
 | Precursor HDX 2 [d₁₅-M+D]²⁺ | 380.30635                     |
-| Precursor HDX 3             |                               |
+| Precursor HDX 3 [d₁₅-M+TFA+D]⁺            | 873.59773                              |
 |                             |                               |
 | Rt                          |                               |
 | Rt HDX                      |                               |
@@ -44,7 +44,8 @@ tags = ["S-4","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 

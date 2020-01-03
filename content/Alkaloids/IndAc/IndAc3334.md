@@ -3,7 +3,7 @@ title = "IndAc3334"
 categories = ["C23H40N6O","P417","D209","HDX425",
 "IndAc3334","3334",
 "Agelenidae"]
-tags = ["S-1","C-2",
+tags = ["S-1","C-1",
 "Agelenopsis aperta","Agelenopsis potteri","Eratigena agrestis","Hololena curta","Hololena sp.","Pireneitega luctuosa"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-1","C-2",
 
 | Name                        | Value                                                |
 |-----------------------------|------------------------------------------------------|
-| Level                       | S-1 / [C-2](https://doi.org/10.1016/j.tet.2003.12.066) |
+| Level                       | S-1 / C-1 |
 | Discovered                  | 2001 / A. aperta                                     |
 | Synonym                     | AG 416a                                              |
 | Molecular formula           | C₂₃H₄₀N₆O                                            |
@@ -45,6 +45,7 @@ tags = ["S-1","C-2",
 | m/z       | Annotation |
 |-----------|------------|
 | 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -75,6 +76,7 @@ tags = ["S-1","C-2",
 | Solid-phase synthesis of polyamine spider toxins and correlation with natural products by HPLC-MS/MS         | N. Manov, M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Helv. Chim. Acta 2002, 85, 2827-2846|A. aperta||Synthesis, NMR, APCI-MS/MS|[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%28200209%2985%3A9%3C2827%3A%3AAID-HLCA2827%3E3.0.CO%3B2-5) |
 | Tandem mass spectrometric investigation of acylpolyamines of spider venoms and their 15N-labeled derivatives | M. Tzouros, N. Manov, S. Bienz, L. Bigler, J. Am. Soc. Mass Spectrom. 2004, 15, 1636-1643|||APCI-MS/MS|[Link](https://doi.org/10.1016/j.jasms.2004.07.020)                          |
 | A template approach for the characterization of linear polyamines and derivatives in spider venom            | M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Eur. J. Mass Spectrom. 2013, 19, 1, 57-69|A. aperta|AG 416a|APCI-MS/MS|[Link](https://doi.org/10.1255/ejms.1213)                       |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

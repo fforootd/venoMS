@@ -3,7 +3,7 @@ title = "IndAcAsn5ßAla4Arg"
 categories = ["C32H53N11O5","P672","D336","HDX687",
 "IndAcAsn5ßAla4Arg","Asn5ßAla4Arg",
 "Araneidae"]
-tags = ["S-1","C-3",
+tags = ["S-1","C-1",
 "Nephila clavata","Nephila clavipes"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-1","C-3",
 
 | Name                         | Value                     |
 |------------------------------|---------------------------|
-| Level                        | S-1 / C-3                       |
+| Level                        | S-1 / C-1                       |
 | Discovered                   | 1988 / N. clavata         |
 | Synonym                      | Nephilatoxin 10 / NPTX 10 |
 | Molecular formula            | C₃₂H₅₃N₁₁O₅               |
@@ -28,8 +28,8 @@ tags = ["S-1","C-3",
 | Precursor HDX 2 [d₁₄-M+2D]²⁺ | 344.76960                 |
 | Precursor HDX 3              |                           |
 |                              |                           |
-| Rt                           |                           |
-| Rt HDX                       |                           |
+| Rt                           | 13.31                          |
+| Rt HDX                       | 12.01                          |
 
 ## Calculated MS/MS fragments
 
@@ -44,7 +44,8 @@ tags = ["S-1","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -64,6 +65,7 @@ tags = ["S-1","C-3",
 | Synthetic studies on nephilatoxins, new neurotoxins of Joro spider (Nephila clavata)                                                                   | M. Miyashita, Yuki Gosei Kagaku Kyokaishi 1996, 54, 846-858                                                                                                                 |                           | NPTX 10                   | Review                                | [Link](https://www.jstage.jst.go.jp/article/yukigoseikyokaishi1943/54/10/54_10_846/_article/-char/ja/) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                              | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                                                                                       | N. clavata                | NPTX 10                   | Review                                | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                      |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                     | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                                                                                      | N. clavata & N. cruentata | NPTX 10                   | LC-MS                                 | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                      |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

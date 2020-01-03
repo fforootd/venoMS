@@ -28,8 +28,8 @@ tags = ["S-1","C-1",
 | Precursor HDX 2 [d₉-M+2D]²⁺ | 243.19807                                                                      |
 | Precursor HDX 3             |                                                                                |
 |                             |                                                                                |
-| Rt                          |                                                                                |
-| Rt HDX                      |                                                                                |
+| Rt                          | 7.91                                                                               |
+| Rt HDX                      | 6.70                                                                               |
 
 ## Calculated MS/MS fragments
 
@@ -44,7 +44,8 @@ tags = ["S-1","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -64,6 +65,7 @@ tags = ["S-1","C-1",
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                             | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                    | N. borbonica & N. cruentata | NPTX 473B    | LC-MS                              | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                 |
 | An efficient and versatile synthesis of all structural types of acylpolyamine spider toxins                                                    | K. Nihei, M. J. Kato, T. Yamane, K. Konno, Tetrahedron 2006, 62, 8335-8350                                |                             | NPTX 473 (4) | Synthesis, NMR, ESI-MS/MS          | [Link](https://www.sciencedirect.com/science/article/pii/S0040402006009811)                                       |
 | Development of a high-resolution MS-based method for the structural elucidation of polyamine spider toxins                                     | S. Eichenberger, PhD-Thesis, University of Zurich 2009, 1-156                                             | L. patagiatus               | LF 473E      | nLC-ESI-MS/MS, Amino acid analysis | [Link](https://www.zora.uzh.ch/id/eprint/12787/1/Eichenberger.pdf)                                                |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

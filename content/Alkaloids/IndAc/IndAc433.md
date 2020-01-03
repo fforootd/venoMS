@@ -74,6 +74,7 @@ tags = ["S-3","C-1",
 | Paralytic and insecticidal toxins from the funnel web spider, Hololena curta | G. B. Quistad, C. C. Reuter, W. S. Skinner, P. A. Dennis, S. Suwanrumpha, E. W. Fu, Toxicon 1991, 29, 329-336 | H. curta | HO 359 | FAB-MS/MS (ns), Activity-studies | [Link](https://doi.org/10.1016/0041-0101(91)90286-Z)    |
 | Polyamine toxins from spiders and wasps  | A. Schäfer, H. Benz, W. Fiedler, A. Guggisberg, S. Bienz, M. Hesse, The Alkaloids 1994, 45, 1-125 | H. curta | HO 359 | Review | [Link](https://doi.org/10.1016/S0099-9598(08)60276-X) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines  | Y. Itagaki, T. Nakajima, Toxin Rev. 2000, 19, 1, 23-52 | H. curta | HO 359 | Review | [Link](https://doi.org/10.1081/TXR-100100314) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

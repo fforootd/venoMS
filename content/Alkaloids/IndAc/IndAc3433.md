@@ -50,6 +50,7 @@ tags = ["S-1","C-1",
 |-----------|------------|
 | 112.11262 | y2'        |
 | 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -76,6 +77,7 @@ tags = ["S-1","C-1",
 |-------|------|------|------|------|------|
 | Solid-phase synthesis of polyamine spider toxins and correlation with natural products by HPLC-MS/MS         | N. Manov, M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Helv. Chim. Acta 2002, 85, 2827-2846|A. aperta|Synthesis, NMR, APCI-MS/MS|[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1522-2675%28200209%2985%3A9%3C2827%3A%3AAID-HLCA2827%3E3.0.CO%3B2-5) |
 | Tandem mass spectrometric investigation of acylpolyamines of spider venoms and their 15N-labeled derivatives | M. Tzouros, N. Manov, S. Bienz, L. Bigler, J. Am. Soc. Mass Spectrom. 2004, 15, 1636-1643|APCI-MS/MS|[Link](https://doi.org/10.1016/j.jasms.2004.07.020)                           |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

@@ -3,7 +3,7 @@ title = "IndAc4"
 categories = ["C14H19N3O","P246","D123","HDX251",
 "IndAc4","4",
 "Agelenidae"]
-tags = ["S-1","C-3",
+tags = ["S-1","C-1",
 "Agelenopsis potteri","Hololena curta","Hololena sp."]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-1","C-3",
 
 | Name                        | Value       |
 |-----------------------------|-------------|
-| Level                       | S-1 / C-3          |
+| Level                       | S-1 / C-1          |
 | Discovered                  | 2019 / div. |
 | Synonym                     |             |
 | Molecular formula           | C₁₄H₁₉N₃O   |
@@ -28,8 +28,8 @@ tags = ["S-1","C-3",
 | Precursor HDX 2 [d₄-M+2D]²⁺ | 126.60306   |
 | Precursor HDX 3             |             |
 |                             |             |
-| Rt                          |             |
-| Rt HDX                      |             |
+| Rt                          | 11.48            |
+| Rt HDX                      | 10.12            |
 
 ## Calculated MS/MS fragments
 
@@ -41,7 +41,8 @@ tags = ["S-1","C-3",
 
 | m/z | Annotation |
 |-----|------------|
-|     |            |
+| 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -59,6 +60,7 @@ tags = ["S-1","C-3",
 | Title                                                                                           | Reference                                                                                                       | Spider | Name | Content        | Link                                               |
 |-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------|------|----------------|----------------------------------------------------|
 | Biomimetic fabrication of gold nanoparticles on templated indole-3-acetic acid based nanofibers | S. N. Barnaby, S. H. Frayne, E. M. Smoak, I. A. Banerjee, Materials Science and Engineering C 2011, 31, 620-628 |        |      | Synthesis, NMR | [Link](https://doi.org/10.1016/j.msec.2010.11.027) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

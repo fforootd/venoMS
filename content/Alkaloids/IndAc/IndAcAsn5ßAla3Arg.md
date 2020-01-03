@@ -3,7 +3,7 @@ title = "IndAcAsn5ßAla3Arg"
 categories = ["C31H51N11O5","P658","D329","HDX673",
 "IndAcAsn5ßAla3Arg","Asn5ßAla3Arg",
 "Araneidae"]
-tags = ["S-4","C-1",
+tags = ["S-3","C-1",
 "Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-4","C-1",
 
 | Name                         | Value                      |
 |------------------------------|----------------------------|
-| Level                        | S-4 / C-1                          |
+| Level                        | S-3 / C-1                          |
 | Discovered                   | 1997 / N. madagascariensis |
 | Synonym                      | NPTX 657 / NPTX 657E       |
 | Molecular formula            | C₃₁H₅₁N₁₁O₅                |
@@ -28,8 +28,8 @@ tags = ["S-4","C-1",
 | Precursor HDX 2 [d₁₄-M+2D]²⁺ | 337.76177                  |
 | Precursor HDX 3              |                            |
 |                              |                            |
-| Rt                           |                            |
-| Rt HDX                       |                            |
+| Rt                           | 12.93                           |
+| Rt HDX                       | 11.60                           |
 
 ## Calculated MS/MS fragments
 
@@ -44,7 +44,8 @@ tags = ["S-4","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -61,6 +62,7 @@ tags = ["S-4","C-1",
 | Application of liquid matrix-assisted laser desorption/ionization 4-sector tandem mass spectrometry for the analysis of spider toxin acylpolyamines | T. Fujita, Y. Itagaki, M. Hisaka, T. Nakajima, M. Andriantsiferana, Rapid Commun. Mass Spectrom. 1997, 11, 1115-1119 | N. madagascariensis | NPTX 657  | LMALDI-CID | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291097-0231%2819970630%2911%3A10%3C1115%3A%3AAID-RCM908%3E3.0.CO%3B2-D) |
 | Acylpolyamines: Mass spectrometric analytical methods for Araneidae spider acylpolyamines                                                           | Y. Itagaki , T. Nakajima , Toxin Rev. 2000, 19, 23-52                                                                |                     | NPTX 657E | Review     | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-100100314)                                                                      |
 | A natural combinatorial chemistry strategy in acylpolyamine toxins from Nephilinae orb-web spiders                                                  | M. S. Palma, T. Nakajima, Toxin Rev. 2005, 24, 209-234                                                               | div.                | NPTX 657E | LC-MS      | [Link](https://www.tandfonline.com/doi/abs/10.1081/TXR-200057857)                                                                      | 
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 

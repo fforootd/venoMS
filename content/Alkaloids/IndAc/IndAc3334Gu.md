@@ -11,7 +11,7 @@ tags = ["S-3","C-1",
 
 ![](/img_MSMS/459_IndAc3334Gu_Ea.png?classes=border)
 
-![](/img_MSMS/459_IndAc3334Gu_Ea_Ea.png?classes=border)
+![](/img_MSMS/459_IndAc3334Gu_Ea_2.png?classes=border)
 
 ## General Description
 
@@ -32,8 +32,8 @@ tags = ["S-3","C-1",
 | Precursor HDX 2 [d₉-M+2D]²⁺ | 235.71643          |
 | Precursor HDX 3             |                    |
 |                             |                    |
-| Rt                          |                    |
-| Rt HDX                      |                    |
+| Rt                          | 9.10                   |
+| Rt HDX                      | 7.51                   |
 
 ## Calculated MS/MS fragments
 
@@ -48,7 +48,8 @@ tags = ["S-3","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-|           |            |
+| 130.06568 | a'         |
+| 158.06059 | a0         |
 
 ## Recorded MS/MS spectra
 
@@ -66,6 +67,7 @@ tags = ["S-3","C-1",
 | Title                                                                                             | Reference                                                                           | Spider      | Name | Content    | Link                                                       |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------|------|------------|------------------------------------------------------------|
 | A template approach for the characterization of linear polyamines and derivatives in spider venom | M. Tzouros, S. Chesnov, L. Bigler, S. Bienz, Eur. J. Mass Spectrom. 2013, 19, 57-69 | P. luctuosa |      | APCI-MS/MS | [Link](https://journals.sagepub.com/doi/10.1255/ejms.1213) |
+| Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
 
 ## Spider species
 
