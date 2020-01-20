@@ -7,7 +7,7 @@ tags = ["S-3","C-1",
 "Atrax robustus"]
 +++
 
-![](/img/IndLac34.png)
+![](/img/IndLac333.png)
 
 ## General Description
 
