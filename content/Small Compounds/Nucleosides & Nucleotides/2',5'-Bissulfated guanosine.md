@@ -1,7 +1,7 @@
 +++
 title = "2',5'-Bissulfated guanosine"
 categories = ["C10H13N5O11S2","P444","HDX451",
-"Agelenenidae","Sicariidae"]
+"Agelenidae","Sicariidae"]
 tags =["S-2","C-4",
 "Coelotes pastoralis","Loxosceles sp.",]
 +++
@@ -52,7 +52,7 @@ tags =["S-2","C-4",
 
 | Spider species      | Family       | Discovered             |
 |---------------------|--------------|------------------------|
-| Coelotes pastoralis | Agelenenidae | 2008 / F. C. Schroeder |
+| Coelotes pastoralis | Agelenidae | 2008 / F. C. Schroeder |
 | Loxosceles sp.      | Sicariidae   | 2008 / F. C. Schroeder |
 
 ## Comments

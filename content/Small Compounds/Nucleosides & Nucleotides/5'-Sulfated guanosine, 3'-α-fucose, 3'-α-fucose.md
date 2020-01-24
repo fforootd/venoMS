@@ -1,7 +1,7 @@
 +++
 title = "5'-Sulfated guanosine, 3'-α-fucose, 3'-α-fucose"
 categories = ["C22H33N5O16S","P656","HDX667",
-"Agelenenidae"]
+"Agelenidae"]
 tags = ["S-2","C-1",
 "Eratigena agrestis"]
 +++
@@ -55,6 +55,6 @@ tags = ["S-2","C-1",
 
 | Spider species     | Family       | Discovered             |
 |--------------------|--------------|------------------------|
-| Eratigena agrestis | Agelenenidae | 2004 / F. C. Schroeder |
+| Eratigena agrestis | Agelenidae | 2004 / F. C. Schroeder |
 
 ## Comments

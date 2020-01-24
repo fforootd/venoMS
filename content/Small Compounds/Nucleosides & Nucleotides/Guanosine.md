@@ -74,7 +74,7 @@ tags = ["S-1","C-1",
 
 | Spider species       | Family       | Discovered           |
 |----------------------|--------------|----------------------|
-| Agelenopsis aperta   | Agelenenidae | 2020 / Y. M. Forster |
+| Agelenopsis aperta   | Agelenidae | 2020 / Y. M. Forster |
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Diguetia canities | Diguetidae | 2020 / Y. M. Forster |

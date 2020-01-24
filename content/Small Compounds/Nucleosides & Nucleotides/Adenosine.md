@@ -1,7 +1,7 @@
 +++
 title = "Adenosine"
 categories = ["C10H13N5O4","P268","HDX274",
-"Agelenenidae","Araneidae","Atracidae","Gnaphosidae","Sparassidae","Theraphosidae","Theridiidae"]
+"Agelenidae","Araneidae","Atracidae","Gnaphosidae","Sparassidae","Theraphosidae","Theridiidae"]
 tags = ["S-1","C-1",
 "Agelenopsis aperta","Agelenopsis potteri","Atrax robustus","Cyriopagopus lividum","Drassodes sp.","Heteropoda davidbowie","Larinioides cornutus","Latrodectus menavodi","Parawixia bistriata","Pireneitega luctuosa"]
 +++
@@ -72,7 +72,7 @@ tags = ["S-1","C-1",
 
 | Spider species       | Family        | Discovered           |
 |----------------------|---------------|----------------------|
-| Agelenopsis aperta   | Agelenenidae  | 2020 / Y. M. Forster |
+| Agelenopsis aperta   | Agelenidae  | 2020 / Y. M. Forster |
 | Agelenopsis potteri | Agelenidae | 2020 / Y. M. Forster |
 | Atrax robustus | Atracidae | 2020 / Y. M. Forster |
 | Cyriopagopus lividum | Theraphosidae | 2005 / S. Moore      |

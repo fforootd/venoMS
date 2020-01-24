@@ -1,7 +1,7 @@
 +++
 title = "5'-Sulfated xanthosine"
 categories = ["C10H12N4O9S","P365","HDX371",
-"Agelenenidae"]
+"Agelenidae"]
 tags = ["S-2","C-4",
 "Eratigena agrestis"]
 +++
@@ -52,6 +52,6 @@ tags = ["S-2","C-4",
 
 | Spider species     | Family       | Discovered             |
 |--------------------|--------------|------------------------|
-| Eratigena agrestis | Agelenenidae | 2004 / F. C. Schroeder |
+| Eratigena agrestis | Agelenidae | 2004 / F. C. Schroeder |
 
 ## Comments
