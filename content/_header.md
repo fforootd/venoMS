@@ -2,4 +2,4 @@
 title = "header"
 +++
 
-![](/img/uzh.png)
+![](/img_Rules/uzh.png)
