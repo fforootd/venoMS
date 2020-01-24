@@ -1,5 +1,5 @@
 +++
-title = "Fragmentation Rules for Acylpolyamines"
+title = "Fragmentation rules for (acyl-)polyamines"
 weight = 10
 +++
 

@@ -1,5 +1,5 @@
 +++
-title = "Analytical Method"
+title = "Analytical method"
 weight = 30
 draft = false
 +++

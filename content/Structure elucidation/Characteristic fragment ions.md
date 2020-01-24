@@ -1,5 +1,5 @@
 +++
-title = "Characteristic Fragment Ions"
+title = "Characteristic fragment ions"
 weight = 20
 draft = false
 +++
