@@ -2,4 +2,4 @@
 title = "footer"
 +++
 
-Massspectrometry Laboratory of the University of Zurich ![](/img_Rules/uzh.png){width=25px}
+![](/img_Rules/uzh_weiss.png)
