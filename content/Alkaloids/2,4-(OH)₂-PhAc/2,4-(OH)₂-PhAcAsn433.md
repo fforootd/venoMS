@@ -4,7 +4,7 @@ categories = ["C22H38N6O5","P467","D234","HDX478",
 "2,4-(OH)2-PhAcAsn433","Asn433",
 "Araneidae"]
 tags = ["S-1","C-1",
-"Larinioides cornutus","Larinioides patagiatus","Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+"Larinioides cornutus","Larinioides patagiatus","Nephila clavata","Trichonephila clavipes","Trichonephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn433.png)
@@ -53,8 +53,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn433_Lc.pdf) | 467.29820 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn433_Lc_2.pdf) | 234.15301 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn433_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/467_2-4-OH2-PhAcAsn433_Nc.pdf) | 467.29820 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/467_2-4-OH2-PhAcAsn433_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/467_2-4-OH2-PhAcAsn433_Nc.pdf) | 467.29820 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/467_2-4-OH2-PhAcAsn433_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -75,8 +75,8 @@ tags = ["S-1","C-1",
 | Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Larinioides patagiatus            | Araneidae | 2009 / S. Eichenberger |
 | Nephila clavata                   | Araneidae | 2005 / M. S. Palma     |
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
-| Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma     |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma     |
 | Nephilingis borbonica             | Araneidae | 1997 / Y. Itagaki      |
 | Nephilingis cruentata             | Araneidae | 1997 / M. S. Palma     |
 

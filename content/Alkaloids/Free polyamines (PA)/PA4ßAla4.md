@@ -4,7 +4,7 @@ categories = ["C11H26N4O","P231","D116","HDX238",
 "PA4bAla4","4bAla4",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Nephila clavipes"]
+"Trichonephila clavipes"]
 +++
 
 ![](/img/PA4bAla4.png)
@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / N. clavipes |
+| Discovered                 | 2020 / T. clavipes |
 | Synonym                    | ---                |
 | Molecular formula          | C₁₁H₂₆N₄O                   |
 | CAS                        | ---                |
@@ -49,8 +49,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/N-clavipes/231_PA4bAla4_Nc.pdf) | 231.21849 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/231_PA4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/231_PA4bAla4_Nc.pdf) | 231.21849 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/231_PA4bAla4_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
@@ -63,7 +63,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
 
 
 ## Comments

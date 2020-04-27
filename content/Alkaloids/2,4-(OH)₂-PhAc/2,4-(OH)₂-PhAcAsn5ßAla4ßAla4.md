@@ -4,7 +4,7 @@ categories = ["C31H54N8O7","P651","D326","HDX664",
 "2,4-(OH)2-PhAcAsn5ßAla4ßAla4","Asn5ßAla4ßAla4",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Nephila clavata","Nephila clavipes","Nephilingis borbonica"]
+"Nephila clavata","Trichonephila clavipes","Nephilingis borbonica"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla4bAla4.png)
@@ -52,9 +52,9 @@ tags = ["S-3","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/651_2-4-OH2-PhAcAsn5bAla4bAla4_Nc.pdf) | 651.41937 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/651_2-4-OH2-PhAcAsn5bAla4bAla4_Nc_2.pdf) | 326.21360 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/651_2-4-OH2-PhAcAsn5bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/651_2-4-OH2-PhAcAsn5bAla4bAla4_Nc.pdf) | 651.41937 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/651_2-4-OH2-PhAcAsn5bAla4bAla4_Nc_2.pdf) | 326.21360 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/651_2-4-OH2-PhAcAsn5bAla4bAla4_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -73,7 +73,7 @@ tags = ["S-3","C-1",
 | Spider species        | Family    | Discovered        |
 |-----------------------|-----------|-------------------|
 | Nephila clavata       | Araneidae | 1990 / T. Toki    |
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Nephilingis borbonica | Araneidae | 1997 / Y. Itagaki |
 
 ## Comments

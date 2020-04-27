@@ -4,7 +4,7 @@ categories = ["C29H52N8O6","P609","D305","HDX622",
 "2,4-(OH)2-PhAcAsn433ßAla4","Asn433ßAla4",
 "Araneidae"]
 tags = ["S-1","C-1",
-"Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+"Nephila clavata","Trichonephila clavipes","Trichonephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn433bAla4.png)
@@ -52,9 +52,9 @@ tags = ["S-1","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/609_2-4-OH2-PhAcAsn433bAla4_Nc.pdf) | 609.40881 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/609_2-4-OH2-PhAcAsn433bAla4_Nc_2.pdf) | 305.20832 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/609_2-4-OH2-PhAcAsn433bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/609_2-4-OH2-PhAcAsn433bAla4_Nc.pdf) | 609.40881 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/609_2-4-OH2-PhAcAsn433bAla4_Nc_2.pdf) | 305.20832 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/609_2-4-OH2-PhAcAsn433bAla4_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -73,8 +73,8 @@ tags = ["S-1","C-1",
 | Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 2005 / M. S. Palma |
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
-| Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
 | Nephilingis borbonica             | Araneidae | 1997 / Y. Itagaki  |
 | Nephilingis cruentata             | Araneidae | 1997 / M. S. Palma |
 

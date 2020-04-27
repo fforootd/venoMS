@@ -8,7 +8,7 @@ tags = ["S-1","C-4",
 "Delena cancerides",
 "Eusparassus oculatus",
 "Psalmopoeus cambridgei",
-"Raveniola micrura",
+"Raveniola micrura*",
 "Tegenaria domestica"]
 +++
 
@@ -66,7 +66,7 @@ tags = ["S-1","C-4",
 | Delena cancerides                 | Sparassidae      | 2008 / F. C. Schroeder |
 | Eusparassus oculatus              | Sparassidae      | 2008 / F. C. Schroeder |
 | Psalmopoeus cambridgei            | Theraphosidae    | 2008 / F. C. Schroeder |
-| Raveniola micrura                 | Nemesiidae       | 2008 / F. C. Schroeder |
+| Raveniola micrura*                 | Nemesiidae       | 2008 / F. C. Schroeder |
 | Tegenaria domestica               | Agelenidae       | 2008 / F. C. Schroeder |
 
 ## Comments

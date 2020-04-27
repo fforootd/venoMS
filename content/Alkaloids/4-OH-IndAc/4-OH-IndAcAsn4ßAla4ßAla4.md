@@ -4,7 +4,7 @@ categories = ["C32H53N9O6","P660","D330","HDX673",
 "4-OH-IndAcAsn4bAla4bAla4","Asn4bAla4bAla4",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Nephila clavipes"]
+"Trichonephila clavipes"]
 +++
 
 ![](/img/4-OH-IndAcAsn4bAla4bAla4.png)
@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / N. clavipes |
+| Discovered                 | 2020 / T. clavipes |
 | Synonym                    | ---                |
 | Molecular formula          | C₃₂H₅₃N₉O₆                   |
 | CAS                        | ---                |
@@ -53,9 +53,9 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/N-clavipes/660_4-OH-IndAcAsn4bAla4bAla4_Nc.pdf) | 660.41970 |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/660_4-OH-IndAcAsn4bAla4bAla4_Nc_2.pdf) | 330.71376 |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/660_4-OH-IndAcAsn4bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/660_4-OH-IndAcAsn4bAla4bAla4_Nc.pdf) | 660.41970 |           | T. clavipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/660_4-OH-IndAcAsn4bAla4bAla4_Nc_2.pdf) | 330.71376 |           | T. clavipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/660_4-OH-IndAcAsn4bAla4bAla4_Nc_HDX.pdf) | HDX |           | T. clavipes | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
@@ -68,7 +68,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
 
 
 ## Comments

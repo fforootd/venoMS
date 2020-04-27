@@ -5,7 +5,7 @@ categories = ["C28H50N10O6","P623","D312","HDX639",
 "Araneidae"]
 tags = ["S-1","C-1",
 "Araneus ventricosus","Argiope florida","Argiope trifasciata",
-"Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis cruentata"]
+"Nephila clavata","Trichonephila clavipes","Trichonephila inaurata madagascariensis","Nephilingis cruentata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn433Arg.png)
@@ -51,9 +51,9 @@ tags = ["S-1","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/623_2-4-OH2-PhAcAsn433Arg_Nc.pdf) | 623.39931 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/623_2-4-OH2-PhAcAsn433Arg_Nc_2.pdf) | 312.20357 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/623_2-4-OH2-PhAcAsn433Arg_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/623_2-4-OH2-PhAcAsn433Arg_Nc.pdf) | 623.39931 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/623_2-4-OH2-PhAcAsn433Arg_Nc_2.pdf) | 312.20357 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/623_2-4-OH2-PhAcAsn433Arg_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -76,8 +76,8 @@ tags = ["S-1","C-1",
 | Argiope florida                   | Araneidae | 1988 / T. Budd     |
 | Argiope trifasciata               | Araneidae | 1988 / T. Budd     |
 | Nephila clavata                   | Araneidae | 2005 / M. S. Palma |
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
-| Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
 | Nephilingis cruentata             | Araneidae | 1997 / M. S. Palma |
 
 ## Comments

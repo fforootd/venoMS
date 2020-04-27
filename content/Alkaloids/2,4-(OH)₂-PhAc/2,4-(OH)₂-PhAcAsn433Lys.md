@@ -4,7 +4,7 @@ categories = ["C28H50N8O6","P595","D298","HDX609",
 "2,4-(OH)2-PhAcAsn433Lys","Asn433Lys",
 "Araneidae"]
 tags = ["S-1","C-1",
-"Nephila clavipes","Nephila inaurata madagascariensis"]
+"Trichonephila clavipes","Trichonephila inaurata madagascariensis"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn433Lys.png)
@@ -14,7 +14,7 @@ tags = ["S-1","C-1",
 | Name                         | Value                                    |
 |------------------------------|------------------------------------------|
 | Level                        | S-1 / C-1                                       |
-| Discovered                   | 2001 / N. clavipes & N. madagascariensis |
+| Discovered                   | 2001 / T. clavipes & N. madagascariensis |
 | Synonym                      | NPTX 594                                 |
 | Molecular formula            | C₂₈H₅₀N₈O₆                               |
 | CAS                          | 288072-21-9                              |
@@ -50,16 +50,16 @@ tags = ["S-1","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc.pdf) | 595.39316 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc_2.pdf) | 298.20049 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc.pdf) | 595.39316 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc_2.pdf) | 298.20049 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
 
 | Title                                                                                                                                                | Reference                                                                                                                                        | Spider                            | Name     | Content                                                      | Link                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|----------|--------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Total synthesis of the novel spider toxin NPTX-594 from Nephila madagascariencis                                                                     | T. Wakamiya, A. Yamamoto, K. Kawaguchi, T. Kinoshita, Y. Yamaguchi, Y. Itagaki, H. Naoki, T. Nakajima, Bull. Chem. Soc. Jpn. 2001, 74, 1743-1749 | N. clavipes & N. madagascariensis | NPTX 594 | Synthesis, NMR, Activity-studies                             | [Link](https://www.journal.csj.jp/doi/10.1246/bcsj.74.1743)                 |
+| Total synthesis of the novel spider toxin NPTX-594 from Nephila madagascariencis                                                                     | T. Wakamiya, A. Yamamoto, K. Kawaguchi, T. Kinoshita, Y. Yamaguchi, Y. Itagaki, H. Naoki, T. Nakajima, Bull. Chem. Soc. Jpn. 2001, 74, 1743-1749 | T. clavipes & N. madagascariensis | NPTX 594 | Synthesis, NMR, Activity-studies                             | [Link](https://www.journal.csj.jp/doi/10.1246/bcsj.74.1743)                 |
 | Study on the structure activity relationships of NPTX-594, a spider toxin belonging to the type-B acylpolyamine structure                            | T. Wakamiya, T. Kinoshita, Y. Hattori, Y. Yamaguchi, H. Naoki, G. Corzo, T. Nakajima, Bull. Chem. Soc. Jpn. 2004, 77, 331-340                    |                                   |          | Synthesis of analouges, Activity-studies                     | [Link](https://www.journal.csj.jp/doi/10.1246/bcsj.77.331)                  |
 | Syntheses and biological activities of fluorescent-labeled analogs of acylpolyamine toxin NPTX-594 isolated from the venom of Madagascar Joro spider | T. Nishimaru, M. Sano, Y. Yamaguchi, T. Wakamiya, Bioorg. Med. Chem. 2009, 17, 57-63                                                             |                                   |          | Synthesis of fluorescent-labeled analouges, Activity-studies | [Link](https://www.sciencedirect.com/science/article/pii/S0968089608010882) |
 | Low molecular mass compounds in spider venom      | Y. M. Forster, S. Bienz, L. Bigler, 2020, in preparation          | div.       |   |   | [Link](unknown) |
@@ -68,7 +68,7 @@ tags = ["S-1","C-1",
 
 | Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
-| Nephila clavipes                  | Araneidae | 2001 / T. Wakamiya |
-| Nephila inaurata madagascariensis | Araneidae | 2001 / T. Wakamiya |
+| Trichonephila clavipes                  | Araneidae | 2001 / T. Wakamiya |
+| Trichonephila inaurata madagascariensis | Araneidae | 2001 / T. Wakamiya |
 
 ## Comments

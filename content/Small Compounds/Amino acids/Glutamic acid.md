@@ -3,19 +3,19 @@ title = "Glutamic acid"
 categories = ["C5H9NO4","P148","HDX153",
 "Araneidae","Cupiennius","Ctenidae","Cyrtaucheniidae","Eresidae","Gnaphosidae","Lycosidae","Nemesiidae","Oxyopidae","Philodromidae","Pisauridae","Plectreuridae","Segestriidae","Sparassidae","Theraphosidae","Titanoecidae","Zodariidae"]
 tags = ["S-1","C-1",
-"Acanthoscurria paulensis","Alopecosa sp.","Anemesia incana","Aphonopelma hentzi","Araneus gemma","Araneus diadematus","Araneus sp.","Araneus tartaricus","Ariadna sp.","Avicularia avicularis",
+"Acanthoscurria paulensis","Alopecosa sp.","Anemesia incana","Aphonopelma californicum","Aphonopelma hentzi","Araneus gemma","Araneus diadematus","Araneus sp.","Araneus tartaricus","Ariadna sp.","Avicularia avicularia","Avicularia vellutinum*",
 "Cupiennius salei","Cyriopagopus albostriatum","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Delena cancerides","Desertosa sp.","Dolomedes gertschi","Dolomedes tenebrosus","Drassodes sp.",
-"Eresus sp.","Eriophora edax","Eurypelma californicum","Eurypelma vellutinum","Eusparassus oculatus",
+"Eresus sp.","Eriophora edax","Eusparassus oculatus",
 "Geolycosa sp.","Grammostola actaeon","Grammostola anthracina","Grammostola pulchripes",
-"Heteropoda davidbowie","Hippocosa sp.","Hogna caroliensis","Hogna sp.","Holconia flindersi",
+"Heteropoda davidbowie","Hippocosa sp.","Hogna carolinensis","Hogna sp.","Holconia flindersi",
 "Isopedella canberrensus",
 "Larinioides cornutus","Larinioides sp.","Lachesana sp.","Lycosa erythrognatha","Lycosa indagatrix","Lycosa praegrandis","Lycosa sp.",
-"Micrommata virescens virvirescens",
+"Micrommata virescens",
 "Neosparassus diana",
-"Olio sp.",
+"Olios sp.",
 "Parawixia bistriata","Pelinobius muticus","Peucetia viridans","Phoneutria fera","Pisaura mirabilis","Plectreurys tristis",
-"Rabidosa sp.","Raveniola micrura",
+"Rabidosa sp.","Raveniola micrura*",
 "Selenocosmia hainana","Steatoda paykulliana","Stegodyphus sp.",
 "Thanatus striatus","Titanoeca sp.",
 "Vitalius dubius","Vitalius roseus","Vitalius vellutinus"]
@@ -75,8 +75,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Geolycosa-sp/148_Glutamic-acid_Ge-sp.pdf) | 148.06098 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/H-davidbowie/148_Glutamic-acid_Hd.pdf) | 148.06098 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/148_Glutamic-acid_Hi-sp1.pdf) | 148.06098 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc.pdf) | 148.06098 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc.pdf) | 148.06098 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc_HDX.pdf) | HDX |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/148_Glutamic-acid_Lc.pdf) | 148.06098 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/148_Glutamic-acid_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/148_Glutamic-acid_Lp.pdf) | 148.06098 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -100,8 +100,8 @@ tags = ["S-1","C-1",
 | Composition and properties of tarantula Dugesiella hentzi (Girard) venom                                                                             | F. L. Schanbacher, C. K. Lee, J. E. Hall, I. B. Wilson, D. E: Howell, D. E. G. V. Odell, Toxicon 1973, 11, 1, 21-29                                | A. hentzi       |      |                      | [Link](https://doi.org/10.1016/0041-0101(73)90147-5)                     |
 | Presence of proteins and glutamate as major constituents of the venom of the spider Araneus gemma                                                    | S. L. Early, E. K. Michaelis, Toxicon 1987, 25, 4, 433-442                                                                                         | A. gemma        |      |                      | [Link](https://doi.org/10.1016/0041-0101(87)90077-8)                     |
 | Preliminary studies on the venom of three Indian spider                                                                                              | G. Ridling Margaret, G. J. Phanuel, Proc. Indian Acad. Sci. 1988, 97, 3, 231-237                                                                   | L. indagatrix   |      | paper chromatography | [Link](https://www.ias.ac.in/article/fulltext/anml/097/03/0231-0237)     |
-| Biochemical analysis of tarantula venom (Eurypelma californicum)                                                                                     | A. Savel-Niemann, D. Roth, Naturwissenschaften 1989, 76, 5, 212-213                                                                                | E. californicum |      |                      | [Link](https://link.springer.com/article/10.1007/BF00627688)             |
-| Tarantula (Eurypelma californicum) venom, a multicomponent system                                                                                    | A. Savel-Niemann, Biol. Chem. 1989, 370, 1, 485-498                                                                                                | E. californicum |      |                      | [Link](https://doi.org/10.1515/bchm3.1989.370.1.485)                     |
+| Biochemical analysis of tarantula venom (Eurypelma californicum)                                                                                     | A. Savel-Niemann, D. Roth, Naturwissenschaften 1989, 76, 5, 212-213                                                                                | A. californicum |      |                      | [Link](https://link.springer.com/article/10.1007/BF00627688)             |
+| Tarantula (Eurypelma californicum) venom, a multicomponent system                                                                                    | A. Savel-Niemann, Biol. Chem. 1989, 370, 1, 485-498                                                                                                | A. californicum |      |                      | [Link](https://doi.org/10.1515/bchm3.1989.370.1.485)                     |
 | Purification of toxic peptides and the amino acid sequence of CSTX-1 from the multicomponent venom of Cupiennius salei (Araneae: Ctenidae)           | L. Kuhn-Nentwig, J. Schaller, W. Nentwig, Toxicon 1994, 32, 3, 287-302                                                                             | C. salei        |      |                      | [Link](https://doi.org/10.1016/0041-0101(94)90082-5)                     |
 | NMR-spectroscopic screening of spider venom reveals sulfated nucleosides as major components for the brown recluse and related species               | F. C. Schroeder, A. E. Taggi, M. Gronquist, R. U. Malik, J. B. Grant, T. Eisner, J. Meinwald, Proc. Natl. Acad. Sci. U.S.A. 2008, 105, 14283-14287 | div.            |      | NMR-screening        | [Link](https://doi.org/10.1073/pnas.0806840105)                          |
 | Mass spectrometric characterisation and quantification of selected low molecular mass compounds from the venom of Haplopelma lividum (Theraphosidae) | S. Moore, W. F. Smyth, V. A. Gault, E. O'Kane, S. McClean, Rapid Commun. Mass. Spectrom. 2009, 23, 1747-1755                                       | C. lividum      |      | HPLC-ESI-MS/MS       | [Link](https://doi.org/10.1002/rcm.4063)                                 |
@@ -114,13 +114,15 @@ tags = ["S-1","C-1",
 | Acanthoscurria paulensis          | Theraphosidae   | 1957 / F. G. Fischer       |
 | Alopecosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Anemesia incana                   | Cyrtaucheniidae | 2008 / F. C. Schroeder     |
+| Aphonopelma californicum            | Theraphosidae   | 1989 / A. Savel-Niemann    |
 | Aphonopelma hentzi                | Theraphosidae   | 1973 / F. L. Schanbacher   |
 | Araneus gemma                     | Araneidae       | 1987 / S. L. Early         |
 | Araneus diadematus                | Araneidae       | 2008 / F. C. Schroeder     |
 | Araneus sp.                       | Araneidae       | 2008 / F. C. Schroeder     |
 | Araneus tartaricus                | Araneidae       | 2008 / F. C. Schroeder     |
 | Ariadna sp. | Segestriidae | 2020 / Y. M. Forster |
-| Avicularia avicularis             | Theraphosidae   | 2008 / F. C. Schroeder     |
+| Avicularia avicularia             | Theraphosidae   | 2008 / F. C. Schroeder     |
+| Avicularia vellutinum*              | Theraphosidae   | 1957 / F. G. Fischer       |
 | Cupiennius salei                  | Cupiennius      | 1994 / L. Kuhn-Nentwig     |
 | Cyriopagopus albostriatum         | Theraphosidae   | 2008 / F. C. Schroeder     |
 | Cyriopagopus lividum              | Theraphosidae   | 2008 / F. C. Schroeder     |
@@ -132,8 +134,6 @@ tags = ["S-1","C-1",
 | Drassodes sp.                     | Gnaphosidae     | 2008 / F. C. Schroeder     |
 | Eresus sp.                        | Eresidae        | 2008 / F. C. Schroeder     |
 | Eriophora edax                    | Araneidae       | 2008 / F. C. Schroeder     |
-| Eurypelma californicum            | Theraphosidae   | 1989 / A. Savel-Niemann    |
-| Eurypelma vellutinum              | Theraphosidae   | 1957 / F. G. Fischer       |
 | Eusparassus oculatus              | Sparassidae     | 2008 / F. C. Schroeder     |
 | Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Grammostola actaeon               | Theraphosidae   | 1957 / F. G. Fischer       |
@@ -141,7 +141,7 @@ tags = ["S-1","C-1",
 | Grammostola pulchripes            | Theraphosidae   | 1957 / F. G. Fischer       |
 | Heteropoda davidbowie | Sparassidae | 2020 / Y. M. Forster |
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
-| Hogna caroliensis | Lycosidae | 2020 / Y. M. Forster |
+| Hogna carolinensis | Lycosidae | 2020 / Y. M. Forster |
 | Hogna sp.                         | Lycosidae       | 2008 / F. C. Schroeder     |
 | Holconia flindersi                | Sparassidae     | 2008 / F. C. Schroeder     |
 | Isopedella canberrensus           | Sparassidae     | 2008 / F. C. Schroeder     |
@@ -152,9 +152,9 @@ tags = ["S-1","C-1",
 | Lycosa indagatrix                 | Lycosidae       | 1988 / G. Ridling Margaret |
 | Lycosa praegrandis                | Lycosidae       | 2008 / F. C. Schroeder     |
 | Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
-| Micrommata virescens virvirescens | Sparassidae     | 2008 / F. C. Schroeder     |
+| Micrommata virescens | Sparassidae     | 2008 / F. C. Schroeder     |
 | Neosparassus diana                | Sparassidae     | 2008 / F. C. Schroeder     |
-| Olio sp.                          | Sparassidae     | 2008 / F. C. Schroeder     |
+| Olios sp.                          | Sparassidae     | 2008 / F. C. Schroeder     |
 | Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Pelinobius muticus                | Theraphosidae   | 2008 / F. C. Schroeder     |
 | Peucetia viridans                 | Oxyopidae       | 2008 / F. C. Schroeder     |
@@ -162,7 +162,7 @@ tags = ["S-1","C-1",
 | Pisaura mirabilis                 | Pisauridae      | 2008 / F. C. Schroeder     |
 | Plectreurys tristis               | Plectreuridae   | 2008 / F. C. Schroeder     |
 | Rabidosa sp.                      | Lycosidae       | 2008 / F. C. Schroeder     |
-| Raveniola micrura                 | Nemesiidae      | 2008 / F. C. Schroeder     |
+| Raveniola micrura*                 | Nemesiidae      | 2008 / F. C. Schroeder     |
 | Selenocosmia hainana              | Theraphosidae   | 2008 / F. C. Schroeder     |
 | Steatoda paykulliana              | Theridiidae     | 2008 / F. C. Schroeder     |
 | Stegodyphus sp.                   | Eresidae        | 2008 / F. C. Schroeder     |

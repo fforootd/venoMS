@@ -7,7 +7,7 @@ tags = ["S-1","C-3",
 "Aphonopelma emilia*","Aphonopelma hentzi","Aphonopelma sp.","Argiope bruennichi",
 "Cupiennius salei",
 "Neoscona nautica",
-"Stromatopelma calceatum griseipe"]
+"Stromatopelma calceatum griseipes"]
 +++
 
 ![](/img/PA5.png)

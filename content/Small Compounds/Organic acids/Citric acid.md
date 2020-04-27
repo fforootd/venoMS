@@ -3,7 +3,7 @@ title = "Citric acid"
 categories = ["C6H8O7","P193","HDX198",
 "Agelenidae","Araneidae","Atracidae","Cupiennius","Lycosidae","Nemesiidae","Palpimanidae","Pisauridae","Salticidae","Segestriidae","Sicariidae","Sparassidae","Theraphosidae","Thomisidae","Titanoecidae","Zodariidae"]
 tags = ["S-1","C-4",
-"Aculepeira sp.","Agelenopsis aperta","Agelenopsis potteri","Aphonopelma hentzi","Aphonopelma seemnani","Aphonopelma sp.","Araneus diadematus","Araneus tartaricus","Ariadna sp.","Atrax robustus",
+"Aculepeira sp.","Agelenopsis aperta","Agelenopsis potteri","Aphonopelma hentzi","Aphonopelma seemanni","Aphonopelma sp.","Araneus diadematus","Araneus tartaricus","Ariadna sp.","Atrax robustus",
 "Brachypelma emilia","Brachypelma smithi",
 "Ceratogyrus marshalli cornuatus","Chilobrachys sp.","Coelotes pastoralis","Cupiennius salei","Cyriopagopus albostriatus","Cyriopagopus hainanus","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Dolomedes gertschi","Dolomedes tenebrosus",
@@ -12,10 +12,10 @@ tags = ["S-1","C-4",
 "Grammostola rosea",
 "Isopedella canberrensus","Isopedella leai",
 "Lachesana sp.","Larinioides cornutus","Loxosceles reclusa","Lycosa proegrandis",
-"Micrommata virescens virvirescenes","Misumena vatia",
-"Neosparassus diana","Nephila clavipes",
+"Micrommata virescens","Misumena vatia",
+"Neosparassus diana","Trichonephila clavipes",
 "Palpimanus sp.","Pelinobius muticus","Phidippus sp.","Phormictopus cancerides","Pireneitega luctuosa","Psalmopoeus cambridgei",
-"Rabidosa sp.","Raveniola micrura",
+"Rabidosa sp.","Raveniola micrura*",
 "Stromatopelma calceatum griseipes",
 "Titanoeca sp."]
 +++
@@ -71,8 +71,8 @@ tags = ["S-1","C-4",
 | [Data](/pdf/A-robustus/193_Citric-acid_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/193_Citric-acid_Ho-sp.pdf) | 210.06138 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/193_Citric-acid_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/193_Citric-acid_Nc.pdf) | 210.06138 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/193_Citric-acid_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/193_Citric-acid_Nc.pdf) | 210.06138 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/193_Citric-acid_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -122,10 +122,10 @@ tags = ["S-1","C-4",
 | Larinioides cornutus               | Araneidae     | 2008 / F. C. Schroeder |
 | Loxosceles reclusa                 | Sicariidae    | 1995 / A. W. Fenton    |
 | Lycosa proegrandis                 | Lycosidae     | 2008 / F. C. Schroeder |
-| Micrommata virescens virvirescenes | Sparassidae   | 2008 / F. C. Schroeder |
+| Micrommata virescens | Sparassidae   | 2008 / F. C. Schroeder |
 | Misumena vatia                     | Thomisidae    | 2008 / F. C. Schroeder |
 | Neosparassus diana                 | Sparassidae   | 2008 / F. C. Schroeder |
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Palpimanus sp.                     | Palpimanidae  | 2008 / F. C. Schroeder |
 | Pelinobius muticus                 | Theraphosidae | 2008 / F. C. Schroeder |
 | Phidippus sp.                      | Salticidae    | 2008 / F. C. Schroeder |
@@ -133,7 +133,7 @@ tags = ["S-1","C-4",
 | Pireneitega luctuosa               | Agelenidae    | 2008 / F. C. Schroeder |
 | Psalmopoeus cambridgei             | Theraphosidae | 2008 / F. C. Schroeder |
 | Rabidosa sp.                       | Lycosidae     | 2008 / F. C. Schroeder |
-| Raveniola micrura                  | Nemesiidae    | 2008 / F. C. Schroeder |
+| Raveniola micrura*                  | Nemesiidae    | 2008 / F. C. Schroeder |
 | Stromatopelma calceatum griseipes  | Theraphosidae | 1992 / C. Lange        |
 | Titanoeca sp.                      | Titanoecidae  | 2008 / F. C. Schroeder |
 

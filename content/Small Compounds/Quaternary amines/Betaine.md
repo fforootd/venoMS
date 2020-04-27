@@ -66,8 +66,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Geolycosa-sp/118_Betaine_Ge-sp.pdf) | 118.08680 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/H-davidbowie/118_Betaine_Hd.pdf) | 118.08680 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/118_Betaine_Hi-sp1.pdf) | 118.08680 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/118_Betaine_Hc.pdf) | 118.08680 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/118_Betaine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/118_Betaine_Hc.pdf) | 118.08680 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/118_Betaine_Hc_HDX.pdf) | HDX |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-mactans/118_Betaine_Lm.pdf) | 118.08680 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/118_Betaine_Lp.pdf) | 118.08680 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/118_Betaine_Ly-sp1.pdf) | 118.08680 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |

@@ -4,7 +4,7 @@ categories = ["C25H39N7O4","P502","D251","HDX512",
 "IndAcAsn5Gly4","Asn5Gly4",
 "Araneidae"]
 tags = ["S-1","C-2",
-"Nephila clavata","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+"Nephila clavata","Trichonephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/IndAcAsn5Gly4.png)
@@ -68,7 +68,7 @@ tags = ["S-1","C-2",
 | Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 2005 / M. S. Palma |
-| Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
+| Trichonephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
 | Nephilingis borbonica             | Araneidae | 1997 / Y. Itagaki  |
 | Nephilingis cruentata             | Araneidae | 2005 / M. S. Palma |
 

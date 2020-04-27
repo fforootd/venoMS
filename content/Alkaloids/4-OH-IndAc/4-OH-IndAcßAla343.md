@@ -4,7 +4,7 @@ categories = ["C23H38N6O3","P447","D224","HDX456",
 "4-OH-IndAcßAla343","ßAla343",
 "Zodariidae"]
 tags = ["S-3","C-3",
-"Lachesana sp.*"]
+"Lachesana sp."]
 +++
 
 ![](/img/4-OH-IndAcbAla343.png)
@@ -63,6 +63,6 @@ tags = ["S-3","C-3",
 
 | Spider species | Family     | Discovered             |
 |----------------|------------|------------------------|
-| Lachesana sp.* | Zodariidae | 2009 / S. Eichenberger |
+| Lachesana sp. | Zodariidae | 2009 / S. Eichenberger |
 
 ## Comments

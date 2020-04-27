@@ -4,7 +4,7 @@ categories = ["C25H43N9O6","P566","D283","HDX581",
 "2-4-OH2-PhAcAsn43Arg","Asn43Arg",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Nephila clavipes","Parawixia bistriata"]
+"Trichonephila clavipes","Parawixia bistriata"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn43Arg.png)
@@ -49,9 +49,9 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/N-clavipes/566_2-4-OH2-PhAcAsn43Arg_Nc.pdf) | 566.34146 |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/566_2-4-OH2-PhAcAsn43Arg_Nc_2.pdf) | 283.67464 |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/566_2-4-OH2-PhAcAsn43Arg_Nc_HDX.pdf) | HDX |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/566_2-4-OH2-PhAcAsn43Arg_Nc.pdf) | 566.34146 |           | T. clavipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/566_2-4-OH2-PhAcAsn43Arg_Nc_2.pdf) | 283.67464 |           | T. clavipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/566_2-4-OH2-PhAcAsn43Arg_Nc_HDX.pdf) | HDX |           | T. clavipes | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/566_2-4-OH2-PhAcAsn43Arg_Pb.pdf) | 566.34146 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/566_2-4-OH2-PhAcAsn43Arg_Pb_2.pdf) | 283.67464 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/566_2-4-OH2-PhAcAsn43Arg_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
@@ -68,7 +68,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
 | Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 
 

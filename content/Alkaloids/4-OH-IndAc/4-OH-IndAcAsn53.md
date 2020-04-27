@@ -4,7 +4,7 @@ categories = ["C22H34N6O4","P447","D224","HDX457",
 "4-OH-IndAcAsn53","Asn53",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Larinioides cornutus","Larinioides patagiatus","Nephila clavipes"]
+"Larinioides cornutus","Larinioides patagiatus","Trichonephila clavipes"]
 +++
 
 ![](/img/4-OH-IndAcAsn53.png)
@@ -53,8 +53,8 @@ tags = ["S-3","C-1",
 | [Data](/pdf/L-cornutus/447_4-OH-IndAcAsn53_Lc.pdf) | 447.27198 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/447_4-OH-IndAcAsn53_Lc_2.pdf) | 224.13990 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/447_4-OH-IndAcAsn53_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/447_4-OH-IndAcAsn53_Nc.pdf) | 447.27198 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/447_4-OH-IndAcAsn53_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/447_4-OH-IndAcAsn53_Nc.pdf) | 447.27198 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/447_4-OH-IndAcAsn53_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -69,7 +69,7 @@ tags = ["S-3","C-1",
 |------------------------|-----------|------------------------|
 | Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Larinioides patagiatus | Araneidae | 2009 / S. Eichenberger |
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
 
 
 ## Comments

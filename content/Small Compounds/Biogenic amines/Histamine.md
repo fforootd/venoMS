@@ -7,10 +7,11 @@ tags = ["S-1","C-1",
 "Cheiracanthium japonicum","Cupiennius salei","Cyriopagopus lividum",
 "Desertosa sp.",
 "Eusparassus oculatus","Geolycosa sp.",
-"Hippocosa sp.","Hogna caroliensis",
-"Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa godeffroyi","Lycosa indagatrix","Lycosa praegrandis","Lycosa sp.",
+"Hippocosa sp.","Hogna carolinensis",
+"Lampona cylindrata","Loxosceles intermedia","Lycosa erythrognatha","Lycosa indagatrix","Lycosa praegrandis","Lycosa sp.",
 "Neoscona nautica",
-"Peucetia viridans","Phidippus sp.","Phoneutria fera","Phoneutria nigriventer"]
+"Peucetia viridans","Phidippus sp.","Phoneutria fera","Phoneutria nigriventer",
+"Tasmaniocosa godeffroyi"]
 +++
 
 ![](/img/Histamine.png)
@@ -59,8 +60,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Desertosa-sp3/112_Histamine_De-sp3.pdf) | 112.08747 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Geolycosa-sp/112_Histamine_Ge-sp.pdf) | 112.08747 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/112_Histamine_Hi-sp1.pdf) | 112.08747 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/112_Histamine_Hc.pdf) | 112.08747 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/112_Histamine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/112_Histamine_Hc.pdf) | 112.08747 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/112_Histamine_Hc_HDX.pdf) | HDX |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-praegrandis/112_Histamine_Lp.pdf) | 112.08747 |           | L. praegrandis| Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp1/112_Histamine_Ly-sp1.pdf) | 112.08747 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp3/112_Histamine_Ly-sp3.pdf) | 112.08747 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
@@ -99,11 +100,10 @@ tags = ["S-1","C-1",
 | Eusparassus oculatus     | Sparassidae      | 2008 / F. C. Schroeder     |
 | Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
-| Hogna caroliensis | Lycosidae | 2020 / Y. M. Forster |
+| Hogna carolinensis | Lycosidae | 2020 / Y. M. Forster |
 | Lampona cylindrata       | Lamponidae       | 2000 / L. D. Rash          |
 | Loxosceles intermedia    | Sicariidae       | 2009 / K. S. Paludo        |
 | Lycosa erythrognatha     | Lycosidae        | 1957 / F. G. Fischer       |
-| Lycosa godeffroyi        | Lycosidae        | 1998 / L. D. Rash          |
 | Lycosa indagatrix        | Lycosidae        | 1988 / G. Ridling Margaret |
 | Lycosa praegrandis       | Lycosidae        | 2008 / F. C. Schroeder     |
 | Lycosa sp. | Lycosidae | 2020 / Y. M. Forster |
@@ -112,5 +112,6 @@ tags = ["S-1","C-1",
 | Phidippus sp.            | Salticidae       | 2008 / F. C. Schroeder     |
 | Phoneutria fera          | Ctenidae         | 1957 / F. G. Fischer       |
 | Phoneutria nigriventer   | Ctenidae         | 1973 / S. Schenberg        |
+| Tasmaniocosa godeffroyi        | Lycosidae        | 1998 / L. D. Rash          |
 
 ## Comments

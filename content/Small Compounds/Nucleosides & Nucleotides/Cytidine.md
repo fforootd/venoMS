@@ -3,7 +3,7 @@ title = "Cytidine"
 categories = ["C9H13N3O5","P244","HDX250",
 "Agelenidae","Araneidae","Eresidae","Lycosidae","Oxyopidae","Theridiidae"]
 tags = ["S-1","C-1",
-"Agelena orientalis","Agelenopsis aperta","Agelenopsis potteri","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Hogna caroliensis","Hololena curta","Hololena sp.","Larinioides cornutus","Latrodectus mactans","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Pireneitega luctuosa","Steatoda grossa","Stegodyphus sp."]
+"Agelena orientalis","Agelenopsis aperta","Agelenopsis potteri","Alopecosa sp.","Desertosa sp.","Eratigena agrestis","Eresus sp.","Geolycosa sp.","Hippocosa sp.","Hogna carolinensis","Hololena curta","Hololena sp.","Larinioides cornutus","Latrodectus mactans","Lycosa praegrandis","Lycosa sp.","Peucetia viridans","Pireneitega luctuosa","Steatoda grossa","Stegodyphus sp."]
 +++
 
 ![](/img/Cytidine.png)
@@ -58,8 +58,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/Eresus-sp2/244_Cytidine_Er-sp2.pdf) | 244.09334 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Geolycosa-sp/244_Cytidine_Ge-sp.pdf) | 244.09334 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
 | [Data](/pdf/Hippocosa-sp1/244_Cytidine_Hi-sp1.pdf) | 244.09334 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/244_Cytidine_Hc.pdf) | 244.09334 |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/244_Cytidine_Hc_HDX.pdf) | HDX |           | H. caroliensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/244_Cytidine_Hc.pdf) | 244.09334 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/244_Cytidine_Hc_HDX.pdf) | HDX |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-curta/244_Cytidine_Ap.pdf) | 244.09334 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/244_Cytidine_Ap_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/244_Cytidine_Ho-sp.pdf) | 244.09334 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
@@ -97,7 +97,7 @@ tags = ["S-1","C-1",
 | Eresus sp. | Eresidae | 2020 / Y. M. Forster |
 | Geolycosa sp. | Lycosidae | 2020 / Y. M. Forster |
 | Hippocosa sp. | Lycosidae | 2020 / Y. M. Forster |
-| Hogna caroliensis | Lycosidae | 2020 / Y. M. Forster |
+| Hogna carolinensis | Lycosidae | 2020 / Y. M. Forster |
 | Hololena curta | Agelenidae | 2020 / Y. M. Forster |
 | Hololena sp. | Agelenidae | 2020 / Y. M. Forster |
 | Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |

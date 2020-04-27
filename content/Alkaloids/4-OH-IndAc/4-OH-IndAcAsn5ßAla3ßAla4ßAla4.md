@@ -4,7 +4,7 @@ categories = ["C39H67N11O7","P802","D401","HDX817",
 "4-OH-IndAcAsn5ßAla3ßAla4ßAla4","Asn5ßAla3ßAla4ßAla4",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Nephila clavata","Nephila clavipes","Nephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
+"Nephila clavata","Trichonephila clavipes","Trichonephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
 ![](/img/4-OH-IndAcAsn5bAla3bAla4bAla4.png)
@@ -55,9 +55,9 @@ tags = ["S-3","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/802_4-OH-IndAcAsn5bAla3bAla4bAla4_Nc.pdf) | 802.53031 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/802_4-OH-IndAcAsn5bAla3bAla4bAla4_Nc_2.pdf) | 401.76907 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/802_4-OH-IndAcAsn5bAla3bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/802_4-OH-IndAcAsn5bAla3bAla4bAla4_Nc.pdf) | 802.53031 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/802_4-OH-IndAcAsn5bAla3bAla4bAla4_Nc_2.pdf) | 401.76907 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/802_4-OH-IndAcAsn5bAla3bAla4bAla4_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -73,8 +73,8 @@ tags = ["S-3","C-1",
 | Spider species                    | Family    | Discovered         |
 |-----------------------------------|-----------|--------------------|
 | Nephila clavata                   | Araneidae | 1997 / M. Hisada   |
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
-| Nephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila inaurata madagascariensis | Araneidae | 2005 / M. S. Palma |
 | Nephilingis borbonica             | Araneidae | 2005 / M. S. Palma |
 | Nephilingis cruentata             | Araneidae | 2005 / M. S. Palma |
 

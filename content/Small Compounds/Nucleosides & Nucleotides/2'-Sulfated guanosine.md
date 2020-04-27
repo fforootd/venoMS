@@ -3,7 +3,7 @@ title = "2'-Sulfated guanosine"
 categories = ["C10H13N5O8S","P364","HDX371",
 "Agelenidae","Sicariidae"]
 tags = ["S-2","C-4",
-"Coelotes pastoralis","Loxosceles sp."]
+"Coelotes pastoralis","Loxosceles arizonica","Loxosceles deserta","Loxosceles reclusa"]
 +++
 
 ![](/img/2-Sulfated_guanosine.png)
@@ -53,6 +53,8 @@ tags = ["S-2","C-4",
 | Spider species      | Family       | Discovered             |
 |---------------------|--------------|------------------------|
 | Coelotes pastoralis | Agelenidae | 2008 / F. C. Schroeder |
-| Loxosceles sp.      | Sicariidae   | 2008 / F. C. Schroeder |
+| Loxosceles arizonica      | Sicariidae   | 2008 / F. C. Schroeder |
+| Loxosceles deserta      | Sicariidae   | 2008 / F. C. Schroeder |
+| Loxosceles reclusa      | Sicariidae   | 2008 / F. C. Schroeder |
 
 ## Comments

@@ -4,7 +4,7 @@ categories = ["C32H53N11O5","P672","D336","HDX687",
 "IndAcAsn5ßAla4Arg","Asn5ßAla4Arg",
 "Araneidae"]
 tags = ["S-1","C-1",
-"Nephila clavata","Nephila clavipes"]
+"Nephila clavata","Trichonephila clavipes"]
 +++
 
 ![](/img/IndAcAsn5bAla4Arg.png)
@@ -51,9 +51,9 @@ tags = ["S-1","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/672_IndAcAsn5bAla4Arg_Nc.pdf) | 672.43094 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/672_IndAcAsn5bAla4Arg_Nc_2.pdf) | 336.71938 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/672_IndAcAsn5bAla4Arg_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/672_IndAcAsn5bAla4Arg_Nc.pdf) | 672.43094 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/672_IndAcAsn5bAla4Arg_Nc_2.pdf) | 336.71938 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/672_IndAcAsn5bAla4Arg_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
@@ -72,6 +72,6 @@ tags = ["S-1","C-1",
 | Spider species  | Family    | Discovered     |
 |-----------------|-----------|----------------|
 | Nephila clavata | Araneidae | 1988 / T. Toki |
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
 
 ## Comments

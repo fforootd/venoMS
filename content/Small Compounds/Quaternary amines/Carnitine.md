@@ -7,7 +7,7 @@ tags = ["S-1","C-1",
 "Diguetia canities","Desertosa sp.",
 "Heteropoda davidbowie",
 "Larinioides cornutus","Lycosa sp.",
-"Nephila clavipes",
+"Trichonephila clavipes",
 "Parawixia bistriata","Physocyclus mexicanus","Peucetia viridans",
 "Stegodyphus sp."]
 +++
@@ -61,8 +61,8 @@ tags = ["S-1","C-1",
 | [Data](/pdf/L-cornutus/162_Carnitine_Lc.pdf) | 162.11302 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/162_Carnitine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp4/162_Carnitine_Ly-sp4.pdf) | 162.11302 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/N-clavipes/162_Carnitine_Nc.pdf) | 162.11302 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/162_Carnitine_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/162_Carnitine_Nc.pdf) | 162.11302 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/162_Carnitine_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/162_Carnitine_Pb.pdf) | 162.11302 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/162_Carnitine_Pb_HDX.pdf) | 1HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/162_Carnitine_Pv.pdf) | 162.11302 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
@@ -85,7 +85,7 @@ tags = ["S-1","C-1",
 | Heteropoda davidbowie | Sparassidae   | 2020 / Y. M. Forster |
 | Larinioides cornutus  | Araneidae     | 2020 / Y. M. Forster |
 | Lycosa sp.            | Lycosidae     | 2020 / Y. M. Forster |
-| Nephila clavipes      | Araneidae     | 2020 / Y. M. Forster |
+| Trichonephila clavipes      | Araneidae     | 2020 / Y. M. Forster |
 | Parawixia bistriata   | Araneidae     | 2020 / Y. M. Forster |
 | Peucetia viridans     | Oxyopidae     | 2020 / Y. M. Forster |
 | Physocyclus mexicanus | Pholcidae     | 2020 / Y. M. Forster |

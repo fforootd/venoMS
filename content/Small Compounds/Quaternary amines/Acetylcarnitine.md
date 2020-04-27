@@ -5,7 +5,7 @@ categories = ["C9H18NO4","P204","HDX205",
 tags = ["S-1","C-1",
 "Alopecosa sp.",
 "Larinioides cornutus","Lycosa sp.",
-"Nephila clavipes",
+"Trichonephila clavipes",
 "Parawixia bistriata","Peucetia viridans"]
 draft = true
 +++
@@ -55,8 +55,8 @@ draft = true
 | [Data](/pdf/L-cornutus/204_Acetylcarnitine_Lc.pdf) | 204.12358 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/204_Acetylcarnitine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Lycosa-sp4/204_Acetylcarnitine_Ly-sp4.pdf) | 204.12358 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc.pdf) | 204.12358 |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc_HDX.pdf) | HDX |           | N. calvipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc.pdf) | 204.12358 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/204_Acetylcarnitine_Pb.pdf) | 204.12358 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/204_Acetylcarnitine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-viridans/204_Acetylcarnitine_Pv.pdf) | 204.12358 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
@@ -74,7 +74,7 @@ draft = true
 | Alopecosa sp.        | Lycosidae | 2020 / Y. M. Forster |
 | Larinioides cornutus | Araneidae | 2020 / Y. M. Forster |
 | Lycosa sp.           | Lycosidae | 2020 / Y. M. Forster |
-| Nephila clavipes     | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila clavipes     | Araneidae | 2020 / Y. M. Forster |
 | Parawixia bistriata | Araneidae | 2020 / Y. M. Forster |
 | Peucetia viridans    | Oxyopidae | 2020 / Y. M. Forster |
 

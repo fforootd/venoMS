@@ -4,7 +4,7 @@ categories = ["C45H82N12O9","P935","D468","HDX952",
 "2-4-OH2-PhAcAsn5bAla4bAla4bAla4bAla4","Asn5bAla4bAla4bAla4bAla4",
 "Araneidae"]
 tags = ["S-3","C-1",
-"Nephila clavipes"]
+"Trichonephila clavipes"]
 +++
 
 ![](/img/2-4-OH2-PhAcAsn5bAla4bAla4bAla4bAla4.png)
@@ -14,7 +14,7 @@ tags = ["S-3","C-1",
 | Name                       | Value              |
 |----------------------------|--------------------|
 | Level                      | S-3 / C-1          |
-| Discovered                 | 2020 / N. clavipes |
+| Discovered                 | 2020 / T. clavipes |
 | Synonym                    | ---                |
 | Molecular formula          | C₄₅H₈₂N₁₂O₉                   |
 | CAS                        | ---                |
@@ -56,9 +56,9 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/N-clavipes/935_2-4-OH2-PhAcAsn5bAla4bAla4bAla4bAla4_Nc.pdf) | 935.64059 |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/935_2-4-OH2-PhAcAsn5bAla4bAla4bAla4bAla4_Nc_2.pdf) | 468.32421 |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/935_2-4-OH2-PhAcAsn5bAla4bAla4bAla4bAla4_Nc_HDX.pdf) | HDX |           | N. calvipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/935_2-4-OH2-PhAcAsn5bAla4bAla4bAla4bAla4_Nc.pdf) | 935.64059 |           | T. clavipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/935_2-4-OH2-PhAcAsn5bAla4bAla4bAla4bAla4_Nc_2.pdf) | 468.32421 |           | T. clavipes | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/935_2-4-OH2-PhAcAsn5bAla4bAla4bAla4bAla4_Nc_HDX.pdf) | HDX |           | T. clavipes | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
@@ -71,7 +71,7 @@ tags = ["S-3","C-1",
 
 | Spider species     | Family     | Discovered           |
 |--------------------|------------|----------------------|
-| Nephila clavipes | Araneidae | 2020 / Y. M. Forster |
+| Trichonephila clavipes | Araneidae | 2020 / Y. M. Forster |
 
 
 ## Comments

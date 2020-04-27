@@ -2,7 +2,7 @@
 title = "ATP"
 categories = ["C10H16N5O13P3","P508","HDX517",
 "Theraphosidae"]
-tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum"]
+tags = ["Aphonopelma hentzi","Aphonopelma sp.","Aphonopelma californicum"]
 +++
 
 ![](/img/ATP.png)
@@ -46,15 +46,16 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Eurypelma californicum"]
 | Title                                                                                             | Reference                                                                                                                                                                                                       | Spider                      | Name | Content | Link                                                 |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------|---------|------------------------------------------------------|
 | Adenosine triphosphate in tarantula spider venoms and its synergistic effect with the venom toxin | T. K. Chan, C. R. Geren, D. E. Howell, G. V. Odell, Toxicon 1975, 13, 1, 61-66                                                                                                                                  | A. hentzi & Aphonopelma sp. |      |         | [Link](https://doi.org/10.1016/0041-0101(75)90159-2)         |
-| Biochemical analysis of tarantula venom (Eurypelma californicum)                                  | A. Savel-Niemann, D. Roth, Naturwissenschaften 1989, 76, 5, 212-213                                                                                                                                             | E. californicum             |      |         | [Link](https://link.springer.com/article/10.1007/BF00627688) |
-| Tarantula (Eurypelma californicum) venom, a multicomponent system                                 | A. Savel-Niemann, Biol. Chem. 1989, 370, 1, 485-498                                                                                                                                                             | E. californicum             |      |         | [Link](https://doi.org/10.1515/bchm3.1989.370.1.485)         |
+| Biochemical analysis of tarantula venom (Eurypelma californicum)                                  | A. Savel-Niemann, D. Roth, Naturwissenschaften 1989, 76, 5, 212-213                                                                                                                                             | A. californicum             |      |         | [Link](https://link.springer.com/article/10.1007/BF00627688) |
+| Tarantula (Eurypelma californicum) venom, a multicomponent system                                 | A. Savel-Niemann, Biol. Chem. 1989, 370, 1, 485-498                                                                                                                                                             | A. californicum             |      |         | [Link](https://doi.org/10.1515/bchm3.1989.370.1.485)         |
 
 ## Spider species
 
 | Spider species         | Family        | Discovered           |
 |------------------------|---------------|-------------------------|
+| Aphonopelma californicum | Theraphosidae | 1989 / A. Savel-Niemann |
 | Aphonopelma hentzi     | Theraphosidae | 1975 / T. K. Chan       |
 | Aphonopelma sp.        | Theraphosidae | 1975 / T. K. Chan       |
-| Eurypelma californicum | Theraphosidae | 1989 / A. Savel-Niemann |
+
 
 ## Comments

@@ -6,7 +6,7 @@ tags = ["S-1","C-4",
 "Aphonopelma seemanni",
 "Chilobrachys sp.","Cyriopagopus albostriatus","Cyriopagopus hainanus","Cyriopagopus lividum","Cyriopagopus schmidti",
 "Eusparassus oculatus",
-"Micrommata virescens virvirescenes"]
+"Micrommata virescens"]
 +++
 
 ![](/img/O-Acetylcholine.png)
@@ -62,6 +62,6 @@ tags = ["S-1","C-4",
 | Cyriopagopus lividum               | Theraphosidae | 2008 / F. C. Schroeder |
 | Cyriopagopus schmidti              | Theraphosidae | 2008 / F. C. Schroeder |
 | Eusparassus oculatus               | Sparassidae   | 2008 / F. C. Schroeder |
-| Micrommata virescens virvirescenes | Sparassidae   | 2008 / F. C. Schroeder |
+| Micrommata virescens | Sparassidae   | 2008 / F. C. Schroeder |
 
 ## Comments
