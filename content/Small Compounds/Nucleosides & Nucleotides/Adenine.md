@@ -45,6 +45,7 @@ tags = ["S-1","C-1",
 | pdf                               | Precursor | Co-eluting | Spider  | Source | Author        |
 |-----------------------------------|-----------|------------|---------|--------|---------------|
 | [Data](/pdf/136_Adenine_1-42.pdf) | 136.06232 |            | Adenine | Fluka  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/136_Adenine_Pb.pdf) | 136.06232 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 

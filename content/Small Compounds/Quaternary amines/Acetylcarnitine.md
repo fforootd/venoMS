@@ -7,7 +7,6 @@ tags = ["S-1","C-1",
 "Larinioides cornutus","Lycosa sp.",
 "Trichonephila clavipes",
 "Parawixia bistriata","Peucetia viridans"]
-draft = true
 +++
 
 ![](/img/Acetylcarnitine.png)
