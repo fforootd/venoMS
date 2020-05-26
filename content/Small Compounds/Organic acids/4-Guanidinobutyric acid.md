@@ -12,7 +12,7 @@ tags = ["S-1","C-2",
 
 | Name                      | Value                                                       |
 |---------------------------|-------------------------------------------------------------|
-| Level                     | S-1 /  |
+| Level                     | S-1 / C-2 [Link](http://massbank.jp/RecordDisplay.jsp?id=ML001501)  |
 | Discovered                | 2020 / P. bistriata & P. viridans                           |
 | Synonym                   |                                                             |
 | Molecular formula         | C₅H₁₁N₃O₂                                                   |
