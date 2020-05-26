@@ -45,17 +45,17 @@ tags = ["S-1","C-1",
 | pdf                                 | Precursor | Co-eluting | Spider       | Source | Author        |
 |-------------------------------------|-----------|------------|--------------|--------|---------------|
 | [Data](/pdf/132_Isoeucine_2-65.pdf) | 132.10245 |           | L-Isoleucine | Fluka  | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp1/132_Isoeucine_Al-sp1.pdf) | 132.10245 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp4/132_Isoeucine_Al-sp4.pdf) | 132.10245 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp5/132_Isoeucine_Al-sp5.pdf) | 132.10245 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Geolycosa-sp/132_Isoeucine_Ge-sp.pdf) | 132.10245 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
-| [Data](/pdf/H-davidbowie/132_Isoeucine_Hd.pdf) | 132.10245 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/Hippocosa-sp1/132_Isoeucine_Hi-sp1.pdf) | 132.10245 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/L-mactans/132_Isoeucine_Lm.pdf) | 132.10245 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/132_Isoeucine_Pb.pdf) | 132.10245 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/132_Isoeucine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-mexicanus/132_Isoeucine_Pm.pdf) | 132.10245 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/S-grossa/132_Isoeucine_Sg.pdf) | 132.10245 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/132_Isoleucine_Al-sp1.pdf) | 132.10245 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp4/132_Isoleucine_Al-sp4.pdf) | 132.10245 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/132_Isoleucine_Al-sp5.pdf) | 132.10245 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/132_Isoleucine_Ge-sp.pdf) | 132.10245 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/H-davidbowie/132_Isoleucine_Hd.pdf) | 132.10245 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/Hippocosa-sp1/132_Isoleucine_Hi-sp1.pdf) | 132.10245 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-mactans/132_Isoleucine_Lm.pdf) | 132.10245 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/132_Isoleucine_Pb.pdf) | 132.10245 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/132_Isoleucine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/132_Isoleucine_Pm.pdf) | 132.10245 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/132_Isoleucine_Sg.pdf) | 132.10245 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 
