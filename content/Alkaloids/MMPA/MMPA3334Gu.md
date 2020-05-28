@@ -5,6 +5,7 @@ categories = ["C18H41N7OS","P404","D202","HDX413",
 "Agelenidae"]
 tags = ["S-3","C-1",
 "Eratigena agrestis"]
+draft = "true"
 +++
 
 ![](/img/MMPA3334Gu.png)

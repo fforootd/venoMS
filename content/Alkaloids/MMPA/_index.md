@@ -1,6 +1,8 @@
 +++
 title = "MMPA"
 weight = 100
+draft = "true"
+
 +++
 
 ![](/img/MMPA.png?classes=border)
