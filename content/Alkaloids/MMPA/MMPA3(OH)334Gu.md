@@ -11,6 +11,8 @@ tags = ["S-3","C-1",
 
 ![](/img_MSMS/420_MMPA3(OH)334Gu_Ea.png?classes=border)
 
+![](/img_MSMS/420_MMPA3(OH)334Gu_Ea_2.png?classes=border)
+
 ## General Description
 
 | Name                       | Value              |
@@ -54,6 +56,7 @@ tags = ["S-3","C-1",
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
 | [Data](/pdf/E-agrestis/420_MMPA3(OH)334Gu_Ea.pdf)   | 420.31207 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/420_MMPA3(OH)334Gu_Ea_2.pdf)   | 210.65995 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/420_MMPA3(OH)334Gu_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
