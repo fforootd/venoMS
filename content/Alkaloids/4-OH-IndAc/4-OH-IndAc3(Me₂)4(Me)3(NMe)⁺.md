@@ -21,12 +21,12 @@ tags = ["S-3","C-1",
 |                            |                    |
 | Precursor 1  M⁺         | 432.33384                   |
 | Precursor 2 [M+H]²⁺       | 216.67083                   |
-| Precursor 3 [M+TFA]⁺               | 546.32671                   |
+| Precursor 3 [M+TFA+H]⁺               | 546.32671                   |
 |                            |                    |
 | HDX                        | 3                   |
 | Precursor HDX    d₃-M⁺   | 435.35268                   |
 | Precursor HDX 2 [d₃-M+D]²⁺ | 218.68339                   |
-| Precursor HDX 3 [d₃-M+TFA]⁺           | 551.35810                   |
+| Precursor HDX 3 [d₃-M+TFA+D]⁺           | 551.35810                   |
 |                            |                    |
 | Rt                         | 5.80                   |
 | Rt HDX                     | 4.64                   |
@@ -59,7 +59,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass components of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, ACS Chem Neurosci., 2020          | P. bistriata       |      | ESI-MS/MS        | [Link](https://pubs.acs.org/doi/10.1021/acschemneuro.0c00007)     |
 
 ## Spider species
 

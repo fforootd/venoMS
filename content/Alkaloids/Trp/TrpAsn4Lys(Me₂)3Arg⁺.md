@@ -20,13 +20,13 @@ tags = ["S-3","C-1",
 | CAS                        | ---                |
 |                            |                    |
 | Precursor 1  M⁺         | 758.51534                   |
-| Precursor 2 [M+TFA+H]²⁺       | 379.76158                   |
-| Precursor 3 [M+2TFA+H]⁺               | 872.50820                   |
+| Precursor 2 [M+H]²⁺       | 379.76158                   |
+| Precursor 3 [M+TFA+H]⁺               | 872.50820                   |
 |                            |                    |
 | HDX                        | 17                   |
 | Precursor HDX    d₁₇-M⁺   | 775.62204                   |
-| Precursor HDX 2 [d₁₇-M+TFA+D]²⁺ | 388.81807                   |
-| Precursor HDX 3 [d₁₇-M+2TFA+D]⁺           | 890.62119                   |
+| Precursor HDX 2 [d₁₇-M+D]²⁺ | 388.81807                   |
+| Precursor HDX 3 [d₁₇-M+TFA+D]⁺           | 890.62119                   |
 |                            |                    |
 | Rt                         | 7.35                   |
 | Rt HDX                     | 5.92                   |
@@ -61,7 +61,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass components of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, ACS Chem Neurosci., 2020          | P. bistriata       |      | ESI-MS/MS        | [Link](https://pubs.acs.org/doi/10.1021/acschemneuro.0c00007)     |
 
 ## Spider species
 

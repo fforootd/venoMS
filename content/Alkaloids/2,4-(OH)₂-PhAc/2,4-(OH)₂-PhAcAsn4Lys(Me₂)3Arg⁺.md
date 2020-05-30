@@ -25,8 +25,8 @@ tags = ["S-3","C-1",
 |                            |                    |
 | HDX                        | 16                   |
 | Precursor HDX    d₁₆-M⁺   | 738.56815                   |
-| Precursor HDX 2 [d₁₆-M+TFA+D]²⁺ | 370.29112                   |
-| Precursor HDX 3 [d₁₆-M+2TFA+D]⁺           | 853.56729                   |
+| Precursor HDX 2 [d₁₆-M+D]²⁺ | 370.29112                   |
+| Precursor HDX 3 [d₁₆-M+TFA+D]⁺           | 853.56729                   |
 |                            |                    |
 | Rt                         | 4.89                   |
 | Rt HDX                     | 3.69                   |
@@ -59,7 +59,7 @@ tags = ["S-3","C-1",
 
 | Title | Reference | Spider | Name | Content | Link |
 |-------|-----------|--------|------|---------|------|
-| Elucidation of the structure and synthesis of neuroprotective low molecular mass compounds of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, 2020, in preparation          | P. bistriata       |      | ESI-MS/MS        | [Link](unknown)     |
+| Elucidation of the structure and synthesis of neuroprotective low molecular mass components of the Parawixia bistriata spider venom      | Y. M. Forster, J. L. Green, A. Khatiwada, J. L. Liberato, P. A. Narayana Reddy, J. M. Salvino, S. Bienz, L. Bigler, W. Ferreira dos Santos, A. C. K. Fontana, ACS Chem Neurosci., 2020          | P. bistriata       |      | ESI-MS/MS        | [Link](https://pubs.acs.org/doi/10.1021/acschemneuro.0c00007)     |
 
 ## Spider species
 
