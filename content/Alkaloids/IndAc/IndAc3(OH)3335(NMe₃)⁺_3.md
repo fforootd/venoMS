@@ -23,7 +23,7 @@ tags = ["S-3","C-1",
 | Molecular formula           | C₃₀H₅₆N₇O₂⁺      |
 | CAS                         | ---              |
 |                             |                  |
-| Precursor 1  M+⁺            | 546.44955        |
+| Precursor 1  M⁺            | 546.44955        |
 | Precursor 2 [M+H]²⁺         | 273.72869        |
 | Precursor 3 [M+TFA]⁺        | 660.44241        |
 |                             |                  |

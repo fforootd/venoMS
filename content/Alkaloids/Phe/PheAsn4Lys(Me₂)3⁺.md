@@ -19,13 +19,13 @@ tags = ["S-3","C-1",
 | Molecular formula          | C₂₈H₅₁N₈O₄⁺                   |
 | CAS                        | ---                |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 563.40332                   |
-| Precursor 2 [M+2H]²⁺       | 282.20557                   |
+| Precursor 1  M⁺         | 563.40332                   |
+| Precursor 2 [M+H]²⁺       | 282.20557                   |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 11                   |
-| Precursor HDX   [d₁₁-M+D]⁺   | 574.47237                   |
-| Precursor HDX 2 [d₁₁-M+2D]²⁺ | 288.24323                   |
+| Precursor HDX    d₁₁-M⁺   | 574.47237                   |
+| Precursor HDX 2 [d₁₁-M+D]²⁺ | 288.24323                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 4.58                   |
