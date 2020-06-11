@@ -24,8 +24,8 @@ tags = ["S-4","C-3",
 | Precursor 3                  |                                     |
 |                              |                                     |
 | HDX                          | 18                                  |
-| Precursor HDX 1 [d₁₈-M+D]⁺   | 821.62442                           |
-| Precursor HDX 2 [d₁₈-M+2D]²⁺ | 411.81926                           |
+| Precursor HDX 1 [M(D₁₈)+D]⁺   | 821.62442                           |
+| Precursor HDX 2 [M(D₁₈)+2D]²⁺ | 411.81926                           |
 | Precursor HDX 3              |                                     |
 |                              |                                     |
 | Rt                           |                                     |

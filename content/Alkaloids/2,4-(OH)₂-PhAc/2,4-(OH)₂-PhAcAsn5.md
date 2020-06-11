@@ -23,8 +23,8 @@ tags = ["S-3","C-1","Parawixia bistriata"]
 | Precursor 3                 |                     |
 |                             |                     |
 | HDX                         | 6                   |
-| Precursor HDX 1 [d₆-M+D]⁺   | 374.24208           |
-| Precursor HDX 2 [d₆-M+2D]²⁺ | 188.12809           |
+| Precursor HDX 1 [M(D₆)+D]⁺   | 374.24208           |
+| Precursor HDX 2 [M(D₆)+2D]²⁺ | 188.12809           |
 | Precursor HDX 3             |                     |
 |                             |                     |
 | Rt                          | 5.44                    |
