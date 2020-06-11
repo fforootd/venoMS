@@ -37,8 +37,8 @@ tags = ["S-1","C-4",
 | Precursor 3 [M+Na]⁺        | 215.01677                                            |
 |                            |                                                      |
 | HDX                        | 4                                                    |
-| Precursor HDX 1 [d₄-M+D]⁺  | 198.06621                                            |
-| Precursor HDX 2 [d₄-M+Na]⁺ | 219.04188                                            |
+| Precursor HDX 1 [M(D₄)+D]⁺  | 198.06621                                            |
+| Precursor HDX 2 [M(D₄)+Na]⁺ | 219.04188                                            |
 | Precursor HDX 3            |                                                      |
 |                            |                                                      |
 | Rt                         | 1.81                                                 |

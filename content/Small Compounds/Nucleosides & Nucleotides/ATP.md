@@ -22,7 +22,7 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Aphonopelma californicum"]
 | Precursor 3               |                                    |
 |                           |                                    |
 | HDX                       | 8                                  |
-| Precursor HDX 1 [d₈-M+D]⁺ | 517.06006                          |
+| Precursor HDX 1 [M(D₈)+D]⁺ | 517.06006                          |
 | Precursor HDX 2           |                                    |
 | Precursor HDX 3           |                                    |
 |                           |                                    |

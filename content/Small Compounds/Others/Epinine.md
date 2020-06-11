@@ -23,7 +23,7 @@ tags = ["S-1","C-4",
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 3               |
-| Precursor HDX 1 [d₃-M+D]⁺ | 172.12756       |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 172.12756       |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
