@@ -21,12 +21,12 @@ tags = ["S-3","C-1",
 |                            |                    |
 | Precursor 1  M⁺         | 348.33385                   |
 | Precursor 2 [M+H]²⁺       | 174.67084                   |
-| Precursor 3 [M+TFA+H]⁺       | 462.32671                   |
+| Precursor 3 [(M+H)+CF₃CO₂]⁺       | 462.32671                   |
 |                            |                    |
 | HDX                        | 5                  |
-| Precursor HDX    d₅-M⁺   | 353.36523                   |
-| Precursor HDX 2 [d₅-M+D]²⁺ | 177.68967                   |
-| Precursor HDX 3 [d₅-M+TFA+D]⁺  | 468.36438                   |
+| Precursor HDX    M(D₅)⁺   | 353.36523                   |
+| Precursor HDX 2 [M(D₅)+D]²⁺ | 177.68967                   |
+| Precursor HDX 3 [(M(D₅)+D)+CF₃CO₂]⁺  | 468.36438                   |
 |                            |                    |
 | Rt                         | 1.23                   |
 | Rt HDX                     | 1.14                   |

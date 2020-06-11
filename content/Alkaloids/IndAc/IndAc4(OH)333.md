@@ -22,8 +22,8 @@ tags = ["S-3","C-1","Hololena curta","Hololena sp."]
 | Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 7                |
-| Precursor HDX 1 [d₇-M+D]⁺   | 441.37931        |
-| Precursor HDX 2 [d₇-M+2D]²⁺ | 221.69671        |
+| Precursor HDX 1 [M(D₇)+D]⁺   | 441.37931        |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 221.69671        |
 | Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 10.34                 |

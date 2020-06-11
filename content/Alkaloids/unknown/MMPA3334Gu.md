@@ -27,8 +27,8 @@ draft = "true"
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 8                   |
-| Precursor HDX   [d₈-M+D]⁺   | 413.37365                   |
-| Precursor HDX 2 [d₈-M+2D]²⁺ | 207.69388                   |
+| Precursor HDX   [M(D₈)+D]⁺   | 413.37365                   |
+| Precursor HDX 2 [M(D₈)+2D]²⁺ | 207.69388                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 3.18                  |

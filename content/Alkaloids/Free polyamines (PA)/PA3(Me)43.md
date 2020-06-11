@@ -22,8 +22,8 @@ tags = ["S-3","C-1","Larinioides cornutus"]
 | Precursor 3                 |           |
 |                             |           |
 | HDX                         | 5         |
-| Precursor HDX 1 [d₅-M+D]⁺   | 223.27689 |
-| Precursor HDX 2 [d₅-M+2D]²⁺ | 112.64549 |
+| Precursor HDX 1 [M(D₅)+D]⁺   | 223.27689 |
+| Precursor HDX 2 [M(D₅)+2D]²⁺ | 112.64549 |
 | Precursor HDX 3             |           |
 |                             |           |
 | Rt                          | 1.07          |
