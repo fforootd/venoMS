@@ -22,6 +22,8 @@ tags = ["S-1","C-1",
 | Synonym                     | AG 416b / HO 416b |
 | Molecular formula           | C₂₃H₄₀N₆O         |
 | CAS                         | 133823-88-8       |
+| SMILES |   |
+| InChI  |   |
 |                             |                   |
 | Precursor 1 [M+H]⁺          | 417.33419         |
 | Precursor 2 [M+2H]²⁺        | 209.17101         |

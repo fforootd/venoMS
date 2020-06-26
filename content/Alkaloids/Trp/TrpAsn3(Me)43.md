@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | LF 516A              |
 | Molecular formula            | C₂₆H₄₄N₈O₃           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 517.36147            |
 | Precursor 2 [M+2H]²⁺         | 259.18465            |

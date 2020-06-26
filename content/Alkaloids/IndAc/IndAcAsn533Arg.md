@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NTPX 643F   |
 | Molecular formula            | C₃₁H₅₃N₁₁O₄ |
 | CAS                          | ---         |
+| SMILES |   |
+| InChI  |   |
 |                              |             |
 | Precursor 1 [M+H]⁺           | 644.43603   |
 | Precursor 2 [M+2H]²⁺         | 322.72193   |

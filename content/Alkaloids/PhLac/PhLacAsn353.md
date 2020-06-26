@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | LF 478B              |
 | Molecular formula           | C₂₄H₄₂N₆O₄           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 479.33458            |
 | Precursor 2 [M+2H]²⁺        | 240.17120            |

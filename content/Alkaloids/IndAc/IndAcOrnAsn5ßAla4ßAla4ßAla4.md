@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 913G         |
 | Molecular formula            | C₄₅H₇₉N₁₃O₇       |
 | CAS                          | 129462-86-8       |
+| SMILES |   |
+| InChI  |   |
 |                              |                   |
 | Precursor 1 [M+H]⁺           | 914.63036         |
 | Precursor 2 [M+2H]²⁺         | 457.81909         |

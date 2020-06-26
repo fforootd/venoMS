@@ -21,6 +21,8 @@ draft = "true"
 | Synonym                    | ---                |
 | Molecular formula          | C₁₈H₄₁N₇O₁S₁                   |
 | CAS                        | ---                |
+| SMILES |   |
+| InChI  |   |
 |                            |                    |
 | Precursor 1 [M+H]⁺         | 404.31716                   |
 | Precursor 2 [M+2H]²⁺       | 202.66249                   |

@@ -18,7 +18,9 @@ tags = ["S-1","C-2",
 | Synonym                     | NPTX 501 / NPTX 501C                                                           |
 | Molecular formula           | C₂₅H₃₉N₇O₄                                                                     |
 | CAS                         | 909786-42-1                                                                    |
-|                             |                                                                                |
+| SMILES |   |
+| InChI  |   |
+|        |                                                                                |
 | Precursor 1 [M+H]⁺          | 502.31418                                                                      |
 | Precursor 2 [M+2H]²⁺        | 251.66100                                                                      |
 | Precursor 3                 |                                                                                |

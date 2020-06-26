@@ -17,6 +17,8 @@ tags = ["S-2","C-4",
 | Synonym                   |                                       |
 | Molecular formula         | C₁₀H₁₃N₅O₈S                           |
 | CAS                       | 1926-61-0                             |
+| SMILES |   |
+| InChI  |   |
 |                           |                                       |
 | Precursor 1 [M+H]⁺        | 364.05631                             |
 | Precursor 2               |                                       |

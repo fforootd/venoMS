@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | Arg 728 / Pseudoargiopinin 2 |
 | Molecular formula            | C₃₅H₆₀N₁₂O₅                  |
 | CAS                          | 117233-45-1                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                              |
 | Precursor 1 [M+H]⁺           | 729.48879                    |
 | Precursor 2 [M+2H]²⁺         | 365.24831                    |

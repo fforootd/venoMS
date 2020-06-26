@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 657 / NPTZX 657D |
 | Molecular formula            | C₃₃H₅₅N₉O₅            |
 | CAS                          | 129462-87-9           |
+| SMILES |   |
+| InChI  |   |
 |                              |                       |
 | Precursor 1 [M+H]⁺           | 658.44044             |
 | Precursor 2 [M+2H]²⁺         | 329.72413             |

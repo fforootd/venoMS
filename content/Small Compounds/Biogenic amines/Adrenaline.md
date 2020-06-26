@@ -17,6 +17,8 @@ tags = ["S-1","C-4",
 | Synonym                   | Epinephrine     |
 | Molecular formula         | C₉H₁₃NO₅        |
 | CAS                       | 51-43-4         |
+| SMILES |   |
+| InChI  |   |
 |                           |                 |
 | Precursor 1 [M+H]⁺        | 184.09737       |
 | Precursor 2               |                 |

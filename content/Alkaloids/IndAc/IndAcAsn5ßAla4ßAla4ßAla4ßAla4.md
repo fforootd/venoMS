@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | NPTX 941 / NPTX 941D |
 | Molecular formula            | C₄₇H₈₃N₁₃O₇          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 942.66166            |
 | Precursor 2 [M+2H]²⁺         | 471.83474            |

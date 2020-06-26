@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | LF 477A              |
 | Molecular formula           | C₂₄H₄₃N₇O₃           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 478.35057            |
 | Precursor 2 [M+2H]²⁺        | 239.67920            |

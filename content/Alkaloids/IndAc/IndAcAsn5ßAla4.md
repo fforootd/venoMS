@@ -18,6 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                     | Nephilatoxin 12 / NPTX 12 / NPTX 515 |
 | Molecular formula           | C₂₆H₄₁N₇O₄                           |
 | CAS                         | 150295-85-5                          |
+| SMILES |   |
+| InChI  |   |
 |                             |                                      |
 | Precursor 1 [M+H]⁺          | 516.32983                            |
 | Precursor 2 [M+2H]²⁺        | 258.66883                            |

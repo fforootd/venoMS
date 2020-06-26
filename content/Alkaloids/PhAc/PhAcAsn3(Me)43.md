@@ -22,6 +22,8 @@ tags = ["S-1","C-1",
 | Synonym                     | LF 448A              |
 | Molecular formula           | C₂₃H₄₀N₆O₃           |
 | CAS                         | 1682648-87-8         |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 449.32402            |
 | Precursor 2 [M+2H]²⁺        | 225.16592            |

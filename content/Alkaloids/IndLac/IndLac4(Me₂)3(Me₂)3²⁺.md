@@ -18,6 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                         | MG 30           |
 | Molecular formula               | C₂₅H₄₅N₅O₂²⁺    |
 | CAS                             | 740843-95-2     |
+| SMILES |   |
+| InChI  |   |
 |                                 |                 |
 | Precursor 1  M²⁺                | 223.67865       |
 | Precursor 2 [(M+H)+CF₃CO₂]²⁺         | 280.67509       |

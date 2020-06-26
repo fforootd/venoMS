@@ -18,6 +18,8 @@ tags =["S-4","C-3",
 | Synonym                      | NPTX 856 / NPTX 856A |
 | Molecular formula            | C₄₃H₇₆N₁₂O₆          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 857.60890            |
 | Precursor 2 [M+2H]²⁺         | 429.30836            |

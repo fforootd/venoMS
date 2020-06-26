@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 714 / NPTX 714A |
 | Molecular formula            | C₃₆H₆₂N₁₀O₅          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 715.49829            |
 | Precursor 2 [M+2H]²⁺         | 358.25306            |

@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 799 / NPTX 799D |
 | Molecular formula            | C₄₀H₆₉N₁₁O₆          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 800.55105            |
 | Precursor 2 [M+2H]²⁺         | 400.77944            |

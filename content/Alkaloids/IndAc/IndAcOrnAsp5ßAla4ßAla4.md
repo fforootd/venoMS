@@ -18,6 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                      | Nephilatoxin 7 / NPTX 7 |
 | Molecular formula            | C₃₈H₆₄N₁₀O₇             |
 | CAS                          | 114355-40-7             |
+| SMILES |   |
+| InChI  |   |
 |                              |                         |
 | Precursor 1 [M+H]⁺           | 773.50376               |
 | Precursor 2 [M+2H]²⁺         | 387.25579               |

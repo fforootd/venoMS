@@ -17,8 +17,10 @@ tags = ["S-1","C-2",
 | Discovered                   | 1988 / N. clavata                                                              |
 | Synonym                      | Nephilatoxin 8 / NPTX 8                                                        |
 | Molecular formula            | C₂₉H₄₈N₈O₄                                                                     |
-| CAS                          |                                                                                |
-|                              |                                                                                |
+| CAS   | ---                                                                               |
+| SMILES |   |
+| InChI  |   |
+|       |                                                                                |
 | Precursor 1 [M+H]⁺           | 573.38768                                                                      |
 | Precursor 2 [M+2H]²⁺         | 287.19775                                                                      |
 | Precursor 3                  |                                                                                |

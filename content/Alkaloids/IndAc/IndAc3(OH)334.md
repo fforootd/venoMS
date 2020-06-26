@@ -22,6 +22,8 @@ tags = ["S-1","C-1",
 | Synonym                     | AG 432g          |
 | Molecular formula           | C₂₃H₄₀N₆O₂       |
 | CAS                         | 389872-73-5      |
+| SMILES |   |
+| InChI  |   |
 |                             |                  |
 | Precursor 1 [M+H]⁺          | 433.32910        |
 | Precursor 2 [M+2H]²⁺        | 217.16846        |

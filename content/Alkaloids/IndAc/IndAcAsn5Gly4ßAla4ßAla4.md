@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 785 / NPTX 785C |
 | Molecular formula            | C₃₉H₆₇N₁₁O₆          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 786.53540            |
 | Precursor 2 [M+2H]²⁺         | 393.77161            |

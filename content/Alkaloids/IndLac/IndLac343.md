@@ -20,6 +20,8 @@ tags = ["S-1","C-3",
 | Synonym                     | Het 389                                 |
 | Molecular formula           | C₂₁H₃₅N₅O₂                              |
 | CAS                         | 128941-10-6                             |
+| SMILES |   |
+| InChI  |   |
 |                             |                                         |
 | Precursor 1 [M+H]⁺          | 390.28690                               |
 | Precursor 2 [M+2H]²⁺        | 195.64736                               |

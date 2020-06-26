@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | NPTX 917 / NPTX 927C |
 | Molecular formula            | C₄₆H₈₁N₁₃O₇          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 928.64601            |
 | Precursor 2 [M+2H]²⁺         | 464.82692            |

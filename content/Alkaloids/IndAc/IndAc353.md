@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | OZ 373             |
 | Molecular formula           | C₂₁H₃₅N₅O          |
 | CAS                         | ---                |
+| SMILES |   |
+| InChI  |   |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 374.29199          |
 | Precursor 2 [M+2H]²⁺        | 187.64991          |

@@ -16,6 +16,8 @@ tags = ["S-5","C-4",
 | Synonym                    | Arg 480                            |
 | Molecular formula          |                                    |
 | CAS                        |                                    |
+| SMILES |   |
+| InChI  |   |
 |                            |                                    |
 | Precursor   [M+H]⁺         |                                    |
 | Precursor 2 [M+2H]²⁺       |                                    |

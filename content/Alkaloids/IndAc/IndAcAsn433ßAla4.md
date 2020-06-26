@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 615 / NPTX 615B |
 | Molecular formula            | C₃₁H₅₃N₉O₄           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 616.42988            |
 | Precursor 2 [M+2H]²⁺         | 308.71885            |

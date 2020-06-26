@@ -17,6 +17,8 @@ tags = ["S-1","C-4",
 | Synonym                   |                    |
 | Molecular formula         | H₃O₄P              |
 | CAS                       | 7664-38-2          |
+| SMILES |   |
+| InChI  |   |
 |                           |                    |
 | Precursor 1 [M+H]⁺        | 98.98472           |
 | Precursor 2               |                    |

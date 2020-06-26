@@ -17,8 +17,10 @@ tags = ["S-1","C-1",
 | Discovered                  | 1997 / N. borbonica                                                            |
 | Synonym                     | LF 473E / NPTX 473 / NPTX 473B                                                 |
 | Molecular formula           | C₂₄H₃₉N₇O₃                                                                     |
-| CAS                         | 437763-68-3                                                                    |
-|                             |                                                                                |
+| CAS    | 437763-68-3                                                                    |
+| SMILES |   |
+| InChI  |   |
+|        |                                                                                |
 | Precursor 1 [M+H]⁺          | 474.31927                                                                      |
 | Precursor 2 [M+2H]²⁺        | 237.66355                                                                      |
 | Precursor 3                 |                                                                                |

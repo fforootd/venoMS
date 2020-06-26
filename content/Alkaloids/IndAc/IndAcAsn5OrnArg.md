@@ -18,6 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                      | Nephilatoxin 9 / NPTX 9 |
 | Molecular formula            | C₃₀H₄₉N₁₁O₅             |
 | CAS                          | 114355-42-9             |
+| SMILES |   |
+| InChI  |   |
 |                              |                         |
 | Precursor 1 [M+H]⁺           | 644.39964               |
 | Precursor 2 [M+2H]²⁺         | 322.70373               |

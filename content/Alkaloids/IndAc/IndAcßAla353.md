@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | LH 444               |
 | Molecular formula           | C₂₄H₄₀N₆O₂           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 445.32910            |
 | Precursor 2 [M+2H]²⁺        | 223.16846            |

@@ -16,6 +16,8 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Aphonopelma californicum"]
 | Synonym                   |                                    |
 | Molecular formula         | C₁₀H₁₆N₅O₁₃P₃                      |
 | CAS                       | 56-65-5                            |
+| SMILES |   |
+| InChI  |   |
 |                           |                                    |
 | Precursor 1 [M+H]⁺        | 508.00357                          |
 | Precursor 2               |                                    |

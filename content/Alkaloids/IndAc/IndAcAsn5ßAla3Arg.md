@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | NPTX 657 / NPTX 657E       |
 | Molecular formula            | C₃₁H₅₁N₁₁O₅                |
 | CAS                          | 193140-30-6                |
+| SMILES |   |
+| InChI  |   |
 |                              |                            |
 | Precursor 1 [M+H]⁺           | 658.41529                  |
 | Precursor 2 [M+2H]²⁺         | 329.71156                  |

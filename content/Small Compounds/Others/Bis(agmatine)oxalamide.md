@@ -17,6 +17,8 @@ tags = ["S-3","C-1",
 | Synonym                   | Plt-I                  |
 | Molecular formula         | C₁₂H₂₆N₈O₂        |
 | CAS                       | 151368-32-0       |
+| SMILES |   |
+| InChI  |   |
 |                           |                   |
 | Precursor 1 [M+H]⁺        | 315.22570         |
 | Precursor 2               |                   |

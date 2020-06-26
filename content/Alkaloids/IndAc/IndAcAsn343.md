@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | LF 473D              |
 | Molecular formula           | C₂₄H₃₉N₇O₃           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 474.31927            |
 | Precursor 2 [M+2H]²⁺        | 237.66355            |

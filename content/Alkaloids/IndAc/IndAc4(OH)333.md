@@ -16,6 +16,8 @@ tags = ["S-3","C-1","Hololena curta","Hololena sp."]
 | Synonym                     | AG 432h          |
 | Molecular formula           | C₂₃H₄₀N₆O₂       |
 | CAS                         | 389872-75-7      |
+| SMILES |   |
+| InChI  |   |
 |                             |                  |
 | Precursor 1 [M+H]⁺          | 433.32910        |
 | Precursor 2 [M+2H]²⁺        | 217.16846        |

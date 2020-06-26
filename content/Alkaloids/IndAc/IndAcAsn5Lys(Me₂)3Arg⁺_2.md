@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                     | Arg 743 / Pseudioargiopinin 1 |
 | Molecular formula           | C₃₆H₆₃N₁₂O₅⁺                  |
 | CAS                         | 117255-12-6                   |
+| SMILES |   |
+| InChI  |   |
 |                             |                               |
 | Precursor 1  M⁺             | 743.50444                     |
 | Precursor 2 [M+H]²⁺         | 372.25613                     |

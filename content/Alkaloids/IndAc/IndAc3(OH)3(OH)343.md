@@ -22,6 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                     | AG 505b          |
 | Molecular formula           | C₂₆H₄₇N₇O₃       |
 | CAS                         | 389872-46-2      |
+| SMILES |   |
+| InChI  |   |
 |                             |                  |
 | Precursor 1 [M+H]⁺          | 506.38186        |
 | Precursor 2 [M+2H]²⁺        | 253.69484        |

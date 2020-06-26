@@ -18,6 +18,8 @@ tags =["S-3","C-3",
 | Synonym                     | LF 391F              |
 | Molecular formula           | C₂₀H₃₃N₅O₃           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 392.26617            |
 | Precursor 2 [M+2H]²⁺        | 196.63700            |

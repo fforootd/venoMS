@@ -16,6 +16,8 @@ tags = ["S-5","C-4",
 | Synonym                    | NA 687          |
 | Molecular formula          |                 |
 | CAS                        |                 |
+| SMILES |   |
+| InChI  |   |
 |                            |                 |
 | Precursor 1 [M+H]⁺         |                 |
 | Precursor 2 [M+2H]²⁺       |                 |

@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 643 / NPTX 643C |
 | Molecular formula            | C₃₂H₅₃N₉O₅           |
 | CAS                          | 205673-37-6          |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 644.42479            |
 | Precursor 2 [M+2H]²⁺         | 322.71631            |

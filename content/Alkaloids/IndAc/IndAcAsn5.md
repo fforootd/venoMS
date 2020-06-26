@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | Arg 373 / Pseudoargiopinin 3      |
 | Molecular formula           | C₁₉H₂₇N₅O₃                        |
 | CAS                         | 152886-77-6 (S) / 175777-87-4 (R) |
+| SMILES |   |
+| InChI  |   |
 |                             |                                   |
 | Precursor 1 [M+H]⁺          | 374.21922                         |
 | Precursor 2 [M+2H]²⁺        | 187.61352                         |

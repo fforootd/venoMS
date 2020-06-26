@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | LF 517B              |
 | Molecular formula            | C₂₆H₄₃N₇O₄           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 518.34548            |
 | Precursor 2 [M+2H]²⁺         | 259.67665            |

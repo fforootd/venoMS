@@ -20,6 +20,8 @@ tags = ["S-3","C-1",
 | Synonym                     | HO 359         |
 | Molecular formula           | C₂₀H₃₃N₅O      |
 | CAS                         | 133805-34-2    |
+| SMILES |   |
+| InChI  |   |
 |                             |                |
 | Precursor 1 [M+H]⁺          | 360.27634      |
 | Precursor 2 [M+2H]²⁺        | 180.64208      |

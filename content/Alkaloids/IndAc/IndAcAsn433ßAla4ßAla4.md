@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 757 / NPTX 757B |
 | Molecular formula            | C₃₈H₆₇N₁₁O₅          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 758.54049            |
 | Precursor 2 [M+2H]²⁺         | 379.77416            |

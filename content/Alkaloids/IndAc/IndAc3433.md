@@ -22,6 +22,8 @@ tags = ["S-1","C-1",
 | Synonym                     | ---              |
 | Molecular formula           | C₂₃H₄₀N₆O        |
 | CAS                         | 755748-88-0      |
+| SMILES |   |
+| InChI  |   |
 |                             |                  |
 | Precursor 1 [M+H]⁺          | 417.33419        |
 | Precursor 2 [M+2H]²⁺        | 209.17101        |
