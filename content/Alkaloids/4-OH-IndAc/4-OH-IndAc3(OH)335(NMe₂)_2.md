@@ -22,16 +22,16 @@ tags = ["S-3","C-1",
 | Synonym                     | ---              |
 | Molecular formula           | C₂₆H₄₆N₆O₃       |
 | CAS                         | ---              |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCN(O)CCCNCCCNCCCCCN(C)C)CC1=CNC2=C1C(O)=CC=C2  |
+| InChI  | InChI=1S/C26H46N6O3/c1-31(2)17-5-3-4-12-27-13-7-14-28-15-8-18-32(35)19-9-16-29-25(34)20-22-21-30-23-10-6-11-24(33)26(22)23/h6,10-11,21,27-28,30,33,35H,3-5,7-9,12-20H2,1-2H3,(H,29,34)  |
 |                             |                  |
-| Precursor 1 [M+H]⁺          | 491.37096        |
-| Precursor 2 [M+2H]²⁺        | 246.18939        |
+| Precursor 1 [M+H]⁺          | 491.37042        |
+| Precursor 2 [M+2H]²⁺        | 246.18885        |
 | Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 6                |
-| Precursor HDX 1 [M(D₆)+D]⁺   | 498.41490        |
-| Precursor HDX 2 [M(D₆)+2D]²⁺ | 250.21450        |
+| Precursor HDX 1 [M(D₆)+D]⁺   | 498.41435        |
+| Precursor HDX 2 [M(D₆)+2D]²⁺ | 250.21395        |
 | Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 8.32             |
@@ -41,39 +41,39 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 231.11335 | 213.10279 | 214.08680 | 264.13481 | 114.12828 | 97.10173  | 131.15482 |
-| 2 | 304.16611 | 286.15555 | 287.13956 | 321.19266 | 171.18613 | 154.15958 | 188.21267 |
-| 3 | 361.22396 | 343.21340 | 344.19741 | 378.25051 | 228.24398 | 211.21743 | 261.26543 |
-| 4 | 446.31311 | 428.30255 | 429.28656 | 491.37096 | 301.29674 | 284.27019 | 318.32328 |
+| 1 | 231.11280 | 213.10224 | 214.08626 | 264.13427 | 114.12773 | 97.10118 | 131.15428 |
+| 2 | 304.16557 | 286.15500 | 287.13902 | 321.19212 | 171.18558 | 154.15903 | 188.21212 |
+| 3 | 361.22342 | 343.21285 | 344.19687 | 378.24997 | 228.24342 | 211.21688 | 261.26489 |
+| 4 | 446.31257 | 428.30200 | 429.28602 | 491.37042 | 301.29619 | 284.26964 | 318.32274 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 86.09697  | tz1-HNMe₂  |
-| 98.09697  | y2'        |
-| 126.12827 | z2-HNMe₂   |
-| 143.15482 | tz2-HNMe₂  |
-| 146.06059 | a'         |
-| 174.05550 | a0         |
-| 183.18612 | z3-HNMe₂   |
-| 191.08205 | ta0        |
-| 216.20759 | tz3-HNMe₂  |
-| 273.26544 | tz4-HNMe₂  |
+| 86.09643  | tz1-NHMe₂  |
+| 98.09643  | y2'        |
+| 126.12773 | z2-NHMe₂   |
+| 143.15482 | tz2-NHMe₂  |
+| 146.06004 | a'         |
+| 174.05495 | a0         |
+| 183.18558 | z3-NHMe₂   |
+| 191.08150 | ta0        |
+| 216.20704 | tz3-NHMe₂  |
+| 273.26489 | tz4-NHMe₂  |
 
 ## Recorded MS/MS spectra
 
 | pdf                                                           | Precursor | Co-eluting | Spider    | Source                       | Author        |
 |---------------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
-| [Data](/pdf/A-aperta/491_4-OH-IndAc3(OH)335(NMe2)_Aa.pdf)     | 491.37096 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-aperta/491_4-OH-IndAc3(OH)335(NMe2)_Aa_2.pdf)   | 246.18939 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/491_4-OH-IndAc3(OH)335(NMe2)_Aa.pdf)     | 491.37042 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/491_4-OH-IndAc3(OH)335(NMe2)_Aa_2.pdf)   | 246.18885 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/491_4-OH-IndAc3(OH)335(NMe2)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/491_4-OH-IndAc3(OH)335(NMe2)_Ap.pdf) | 491.37096 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/491_4-OH-IndAc3(OH)335(NMe2)_Ap_2.pdf) | 246.18939 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/491_4-OH-IndAc3(OH)335(NMe2)_Ap.pdf) | 491.37042 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/491_4-OH-IndAc3(OH)335(NMe2)_Ap_2.pdf) | 246.18885 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/491_4-OH-IndAc3(OH)335(NMe2)_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/E-agrestis/491_4-OH-IndAc3(OH)335(NMe2)_Ea.pdf)     | 491.37096 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/491_4-OH-IndAc3(OH)335(NMe2)_Ea.pdf)     | 491.37042 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/491_4-OH-IndAc3(OH)335(NMe2)_Ea_HDX.pdf)     | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/491_4-OH-IndAc3(OH)335(NMe2)_Pl.pdf) | 491.37096 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/491_4-OH-IndAc3(OH)335(NMe2)_Pl.pdf) | 491.37042 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/491_4-OH-IndAc3(OH)335(NMe2)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

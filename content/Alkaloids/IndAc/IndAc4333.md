@@ -22,16 +22,16 @@ tags = ["S-1","C-1",
 | Synonym                     | AG 416b / HO 416b |
 | Molecular formula           | C₂₃H₄₀N₆O         |
 | CAS                         | 133823-88-8       |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCCNCCCNCCCNCCCN)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C23H40N6O/c24-10-5-12-26-14-7-16-27-15-6-13-25-11-3-4-17-28-23(30)18-20-19-29-22-9-2-1-8-21(20)22/h1-2,8-9,19,25-27,29H,3-7,10-18,24H2,(H,28,30)  |
 |                             |                   |
-| Precursor 1 [M+H]⁺          | 417.33419         |
-| Precursor 2 [M+2H]²⁺        | 209.17101         |
+| Precursor 1 [M+H]⁺          | 417.33364         |
+| Precursor 2 [M+2H]²⁺        | 209.17046         |
 | Precursor 3                 |                   |
 |                             |                   |
 | HDX                         | 7                 |
-| Precursor HDX 1 [M(D₇)+D]⁺   | 425.38440                                            |
-| Precursor HDX 2 [M(D₇)+2D]²⁺ | 213.69925                                            |
+| Precursor HDX 1 [M(D₇)+D]⁺   | 425.38385                                            |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 213.69870                                            |
 | Precursor HDX 3             |                   |
 |                             |                   |
 | Rt                          | 9.00              |
@@ -41,10 +41,10 @@ tags = ["S-1","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 229.13409 | 211.12353 | 212.10754 | 246.16064 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 286.19194 | 268.18138 | 269.16539 | 303.21849 | 115.12352 | 98.09697  | 132.15007 |
-| 3 | 343.24979 | 325.23923 | 326.22324 | 360.27634 | 172.18137 | 155.15482 | 189.20792 |
-| 4 | 400.30764 | 382.29708 | 383.28109 | 417.33419 | 243.25487 | 226.22832 | 260.28142 |
+| 1 | 229.13354 | 211.12297 | 212.10699 | 246.16009 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 286.19139 | 268.18082 | 269.16484 | 303.21794 | 115.12297 | 98.09643 | 132.14952 |
+| 3 | 343.24924 | 325.23867 | 326.22269 | 360.27579 | 172.18082 | 155.15428 | 189.20737 |
+| 4 | 400.30709 | 382.29652 | 383.28054 | 417.33364 | 243.25432 | 226.22777 | 260.28087 |
 
 ## Additional MS/MS fragments
 
@@ -57,19 +57,19 @@ tags = ["S-1","C-1",
 
 | pdf                                            | Precursor | Co-eluting | Spider           | Source                       | Author        |
 |------------------------------------------------|-----------|------------|------------------|------------------------------|---------------|
-| [Data](/pdf/417_IndAc4333_9-00.pdf)            | 417.33419 |            | synth. IndAc4333 | UZH Bienz lab, CHE           | Y. M. Forster |
-| [Data](/pdf/417_IndAc4333_9-00_2.pdf)          | 209.17101 |            | synth. IndAc4333 | UZH Bienz lab, CHE           | Y. M. Forster |
-| [Data](/pdf/A-aperta/417_IndAc4333_Aa.pdf)     | 417.33419 |            | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-aperta/417_IndAc4333_Aa_2.pdf)   | 209.17101 |            | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/417_IndAc4333_9-00.pdf)            | 417.33364 |            | synth. IndAc4333 | UZH Bienz lab, CHE           | Y. M. Forster |
+| [Data](/pdf/417_IndAc4333_9-00_2.pdf)          | 209.17046 |            | synth. IndAc4333 | UZH Bienz lab, CHE           | Y. M. Forster |
+| [Data](/pdf/A-aperta/417_IndAc4333_Aa.pdf)     | 417.33364 |            | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/417_IndAc4333_Aa_2.pdf)   | 209.17046 |            | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/417_IndAc4333_Aa_HDX.pdf) | HDX       |            | A. aperta        | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/417_IndAc4333_Ap.pdf) | 417.33419 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/417_IndAc4333_Ap_2.pdf) | 209.17101 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/417_IndAc4333_Ap.pdf) | 417.33364 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/417_IndAc4333_Ap_2.pdf) | 209.17046 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/417_IndAc4333_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/417_IndAc4333_Hc.pdf) | 417.33419 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/417_IndAc4333_Hc_2.pdf) | 209.17101 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/417_IndAc4333_Hc.pdf) | 417.33364 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/417_IndAc4333_Hc_2.pdf) | 209.17046 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/417_IndAc4333_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/417_IndAc4333_Ho-sp.pdf) | 417.33419 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/417_IndAc4333_Ho-sp_2.pdf) | 209.17101 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/417_IndAc4333_Ho-sp.pdf) | 417.33364 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/417_IndAc4333_Ho-sp_2.pdf) | 209.17046 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/417_IndAc4333_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References
