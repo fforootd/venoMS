@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | LH 446               |
 | Molecular formula           | C₂₃H₃₈N₆O₃           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 447.30836            |
 | Precursor 2 [M+2H]²⁺        | 224.15809            |

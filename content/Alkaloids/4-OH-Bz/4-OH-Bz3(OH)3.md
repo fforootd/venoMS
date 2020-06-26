@@ -20,6 +20,8 @@ tags = ["S-3","C-1",
 | Synonym                     | ---         |
 | Molecular formula           | C₁₃H₂₁N₃O₃  |
 | CAS                         | ---         |
+| SMILES |   |
+| InChI  |   |
 |                             |             |
 | precursor 1 [M+H]⁺          | 268.16611   |
 | precursor 2 [M+2H]²⁺        | 134.58697   |

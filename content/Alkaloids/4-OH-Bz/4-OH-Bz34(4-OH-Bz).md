@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | DR 385               |
 | Molecular formula           | C₂₁H₂₇N₃O₄           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 386.20798            |
 | Precursor 2 [M+2H]²⁺        | 193.60790            |

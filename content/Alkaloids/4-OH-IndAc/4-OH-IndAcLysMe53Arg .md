@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | Arg 630 / Argiopinin 4 |
 | Molecular formula            | C₃₁H₅₄N₁₀O₄            |
 | CAS                          | 117233-43-9            |
+| SMILES |   |
+| InChI  |   |
 |                              |                        |
 | Precursor 1 [M+H]⁺           | 631.44077              |
 | Precursor 2 [M+2H]²⁺         | 316.22430              |

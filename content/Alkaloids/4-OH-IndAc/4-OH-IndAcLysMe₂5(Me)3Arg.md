@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | Arg 658 / Argiopinin 5 |
 | Molecular formula            | C₃₃H₅₈N₁₀O₄            |
 | CAS                          | 117233-44-0            |
+| SMILES |   |
+| InChI  |   |
 |                              |                        |
 | Precursor 1 [M+H]⁺           | 659.47207              |
 | Precursor 2 [M+2H]²⁺         | 330.23995              |

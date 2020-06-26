@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                    | Parawixin10                |
 | Molecular formula          | C₃₀H₅₅N₉O₃²⁺                   |
 | CAS                        | ---                |
+| SMILES |   |
+| InChI  |   |
 |                            |                    |
 | Precursor 1  M²⁺         | 294.72139                   |
 | Precursor 2 [(M+H)+CF₃CO₂]²⁺       | 351.71782                   |

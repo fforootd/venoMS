@@ -18,6 +18,8 @@ tags = ["S-4","C-1",
 | Synonym                      | NPTX 631 / NPTX 631B |
 | Molecular formula            | C₃₁H₅₃N₉O₅           |
 | CAS                          | 195884-65-2          |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 632.42479            |
 | Precursor 2 [M+2H]²⁺         | 316.71631            |

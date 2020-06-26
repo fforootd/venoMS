@@ -23,6 +23,8 @@ tags = ["S-3","C-1",
 | Synonym                     | PB 421             |
 | Molecular formula           | C₂₁H₃₉N₇O₂         |
 | CAS                         | 333401-98-2        |
+| SMILES |   |
+| InChI  |   |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 422.32435          |
 | Precursor 2 [M+2H]²⁺        | 211.66609          |

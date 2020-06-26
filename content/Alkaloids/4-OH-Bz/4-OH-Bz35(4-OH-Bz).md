@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | DR 399               |
 | Molecular formula           | C₂₂H₂₉N₃O₄           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 400.22363            |
 | Precursor 2 [M+2H]²⁺        | 200.61573            |

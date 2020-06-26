@@ -18,6 +18,8 @@ tags = ["S-2","C-1",
 | Synonym                     | Mygalin             |
 | Molecular formula           | C₂₁H₂₇N₃O₆          |
 | CAS                         | 925223-64-9         |
+| SMILES |   |
+| InChI  |   |
 |                             |                     |
 | Precursor 1 [M+H]⁺          | 418.19781           |
 | Precursor 2 [M+2H]²⁺        | 209.60282           |

@@ -18,6 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                     | DR 222               |
 | Molecular formula           | C₁₂H₁₈N₂O₂           |
 | CAS                         | 857263-12-8          |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 223.14465            |
 | Precursor 2 [M+2H]²⁺        | 112.07624            |

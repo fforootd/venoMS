@@ -22,6 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                     | AG 432 / AG 432b |
 | Molecular formula           | C₂₃H₄₀N₆O₂       |
 | CAS                         | 133805-31-9      |
+| SMILES |   |
+| InChI  |   |
 |                             |                  |
 | Precursor 1 [M+H]⁺          | 433.32910        |
 | Precursor 2 [M+2H]²⁺        | 217.16846        |

@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 906G         |
 | Molecular formula            | C₄₃H₇₈N₁₂O₉       |
 | CAS                          | ---               |
+| SMILES |   |
+| InChI  |   |
 |                              |                   |
 | Precursor 1 [M+H]⁺           | 907.60929         |
 | Precursor 2 [M+2H]²⁺         | 454.30856         |

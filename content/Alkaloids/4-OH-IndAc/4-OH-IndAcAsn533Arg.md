@@ -18,6 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                      | AR 659 / Arg 659 / Argiopinin 3 / Argiotoxin 659 / ArgTX 659 |
 | Molecular formula            | C₃₁H₅₃N₁₁O₅                                                  |
 | CAS                          | 111944-83-3                                                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                                                              |
 | Precursor 1 [M+H]⁺           | 660.43094                                                    |
 | Precursor 2 [M+2H]²⁺         | 330.71938                                                    |

@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | DR 456               |
 | Molecular formula           | C₂₅H₃₆N₄O₄           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 457.28148            |
 | Precursor 2 [M+2H]²⁺        | 229.14465            |

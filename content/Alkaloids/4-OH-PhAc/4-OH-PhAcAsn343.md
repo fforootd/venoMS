@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | LF 450D              |
 | Molecular formula           | C₂₂H₃₈N₆O₄           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 451.30328            |
 | Precursor 2 [M+2H]²⁺        | 226.15555            |

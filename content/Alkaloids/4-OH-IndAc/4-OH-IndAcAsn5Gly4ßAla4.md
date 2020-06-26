@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 659 / NPTX 6459C |
 | Molecular formula            | C₃₂H₅₃N₉O₆            |
 | CAS                          | ---                   |
+| SMILES |   |
+| InChI  |   |
 |                              |                       |
 | Precursor 1 [M+H]⁺           | 660.41970             |
 | Precursor 2 [M+2H]²⁺         | 330.71376             |

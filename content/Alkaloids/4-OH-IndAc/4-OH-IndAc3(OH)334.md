@@ -22,6 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                     | AG 448a / PB 448               |
 | Molecular formula           | C₂₃H₄₀N₆O₃                     |
 | CAS                         | 333401-99-3                    |
+| SMILES |   |
+| InChI  |   |
 |                             |                                |
 | Precursor 1 [M+H]⁺          | 449.32401                      |
 | Precursor 2 [M+2H]²⁺        | 225.16592                      |

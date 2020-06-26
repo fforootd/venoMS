@@ -18,6 +18,8 @@ tags = ["S-1","C-2",
 | Synonym                     | Joramine / Joroamine                                                           |
 | Molecular formula           | C₂₃H₃₈N₆O₅                                                                     |
 | CAS                         | 161897-98-9 (S) / 161897-98-9 (R)                                              |
+| SMILES |   |
+| InChI  |   |
 |                             |                                                                                |
 | Precursor 1 [M+H]⁺          | 479.29819                                                                      |
 | Precursor 2 [M+2H]²⁺        | 240.15301                                                                      |

@@ -21,6 +21,8 @@ tags = ["S-1","C-3",
 | Synonym                     | Putrescine  |
 | Molecular formula           | C₄H₁₂N₂     |
 | CAS                         | 110-60-1    |
+| SMILES |   |
+| InChI  |   |
 |                             |             |
 | Precursor 1 [M+H]⁺          | 89.10788    |
 | Precursor 2 [M+2H]²⁺        | 45.05785    |

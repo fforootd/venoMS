@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | LH 460               |
 | Molecular formula           | C₂₄H₄₀N₆O₃           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 461.32401            |
 | Precursor 2 [M+2H]²⁺        | 231.16592            |

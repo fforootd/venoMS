@@ -22,6 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                     | AG 521 / Agel 521 |
 | Molecular formula           | C₂₆H₄₇N₇O₄        |
 | CAS                         | 389872-43-9       |
+| SMILES |   |
+| InChI  |   |
 |                             |                   |
 | Precursor 1 [M+H]⁺          | 522.37677         |
 | Precursor 2 [M+2H]²⁺        | 261.69230         |

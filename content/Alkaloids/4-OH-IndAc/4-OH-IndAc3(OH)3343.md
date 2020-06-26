@@ -22,6 +22,8 @@ tags = ["S-1","C-1",
 | Synonym                     | AG 505 / Agatoxin 505 / Agel 505 / HO 505 |
 | Molecular formula           | C₂₆H₄₇N₇O₃                                |
 | CAS                         | 128549-97-3                               |
+| SMILES |   |
+| InChI  |   |
 |                             |                                           |
 | Precursor 1 [M+H]⁺          | 506.38186                                 |
 | Precursor 2 [M+2H]²⁺        | 253.69484                                 |

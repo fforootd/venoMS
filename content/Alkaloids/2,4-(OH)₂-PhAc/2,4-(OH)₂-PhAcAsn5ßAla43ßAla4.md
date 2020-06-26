@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 707 / NPTX 707A |
 | Molecular formula            | C₃₄H₆₁N₉O₇           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 708.47722            |
 | Precursor 2 [M+2H]²⁺         | 354.74252            |

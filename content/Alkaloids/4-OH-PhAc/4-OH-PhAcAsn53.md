@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | LF 407F              |
 | Molecular formula           | C₂₀H₃₃N₅O₄           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 408.26108            |
 | Precursor 2 [M+2H]²⁺        | 204.63445            |

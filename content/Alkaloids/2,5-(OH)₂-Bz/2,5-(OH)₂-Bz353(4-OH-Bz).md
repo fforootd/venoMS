@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | DR 472               |
 | Molecular formula           | C₂₅H₃₆N₄O₅           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 473.27640            |
 | Precursor 2 [M+2H]²⁺        | 237.14211            |

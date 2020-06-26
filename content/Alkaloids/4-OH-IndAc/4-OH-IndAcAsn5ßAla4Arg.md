@@ -18,6 +18,8 @@ tags = ["S-4","C-1",
 | Synonym                      | NPTX 687 / NPTX 687D |
 | Molecular formula            | C₃₂H₅₃N₁₁O₆          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 688.42585            |
 | Precursor 2 [M+2H]²⁺         | 344.71684            |

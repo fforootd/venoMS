@@ -18,6 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                      | Clavamine         |
 | Molecular formula            | C₃₅H₆₀N₁₂O₉       |
 | CAS                          | 129121-68-2       |
+| SMILES |   |
+| InChI  |   |
 |                              |                   |
 | Precursor 1 [M+H]⁺           | 793.46844         |
 | Precursor 2 [M+2H]²⁺         | 397.23813         |

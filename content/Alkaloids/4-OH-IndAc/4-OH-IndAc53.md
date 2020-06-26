@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | OZ 332B            |
 | Molecular formula           | C₁₈H₂₈N₄O₂         |
 | CAS                         | ---                |
+| SMILES |   |
+| InChI  |   |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 333.22905          |
 | Precursor 2 [M+2H]²⁺        | 167.11844          |

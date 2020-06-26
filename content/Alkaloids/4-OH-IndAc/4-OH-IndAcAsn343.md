@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | LF 489D              |
 | Molecular formula            | C₂₄H₃₉N₇O₄           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 490.31418            |
 | Precursor 2 [M+2H]²⁺         | 245.66100            |

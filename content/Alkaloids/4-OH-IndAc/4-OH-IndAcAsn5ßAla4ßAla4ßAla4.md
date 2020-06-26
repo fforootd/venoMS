@@ -18,6 +18,8 @@ tags = ["S-1","C-1",
 | Synonym                      | Nephilatoxin 5 / NPTX 5 |
 | Molecular formula            | C₄₀H₆₉N₁₁O₇             |
 | CAS                          | 119613-51-3 (S)         |
+| SMILES |   |
+| InChI  |   |
 |                              |                         |
 | Precursor 1 [M+H]⁺           | 816.54596               |
 | Precursor 2 [M+2H]²⁺         | 408.77689               |

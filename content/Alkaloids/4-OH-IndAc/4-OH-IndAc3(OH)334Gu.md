@@ -22,6 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                      | PB 490             |
 | Molecular formula            | C₂₄H₄₂N₈O₃         |
 | CAS                          | 333401-97-1        |
+| SMILES |   |
+| InChI  |   |
 |                              |                    |
 | Precursor 1 [M+H]⁺           | 491.34581          |
 | Precursor 2 [M+2H]²⁺         | 246.17682          |

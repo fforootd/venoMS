@@ -18,6 +18,8 @@ tags = ["S-1","C-1",
 | Synonym                      | NPTX 508 / NPTX 508D |
 | Molecular formula            | C₂₄H₄₀N₆O₆           |
 | CAS                          | 129655-19-2          |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 509.30876            |
 | Precursor 2 [M+2H]²⁺         | 255.15829            |

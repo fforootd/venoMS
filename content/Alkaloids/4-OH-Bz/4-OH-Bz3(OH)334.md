@@ -24,6 +24,8 @@ tags = ["S-1","C-1",
 | Synonym                     | AG 395a          |
 | Molecular formula           | C₂₀H₃₇N₅O₃       |
 | CAS                         | 389872-54-2      |
+| SMILES |   |
+| InChI  |   |
 |                             |                  |
 | Precursor 1 [M+H]⁺          | 396.29746        |
 | Precursor 2 [M+2H]²⁺        | 198.65264        |

@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 494 / NPTX 494C |
 | Molecular formula            | C₂₃H₃₈N₆O₆           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 495.29311            |
 | Precursor 2 [M+2H]²⁺         | 248.15047            |

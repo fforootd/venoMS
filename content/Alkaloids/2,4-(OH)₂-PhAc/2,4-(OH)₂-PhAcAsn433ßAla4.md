@@ -18,6 +18,8 @@ tags = ["S-1","C-1",
 | Synonym                      | NPTX 608 / NPTX 608B |
 | Molecular formula            | C₂₉H₅₂N₈O₆           |
 | CAS                          | 345303-37-9          |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 609.40881            |
 | Precursor 2 [M+2H]²⁺         | 305.20832            |

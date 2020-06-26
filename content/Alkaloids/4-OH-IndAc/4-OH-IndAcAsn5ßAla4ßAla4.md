@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | NPTX 673 / NPTX 673D |
 | Molecular formula            | C₃₃H₅₅N₉O₆           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 674.43535            |
 | Precursor 2 [M+2H]²⁺         | 337.72159            |

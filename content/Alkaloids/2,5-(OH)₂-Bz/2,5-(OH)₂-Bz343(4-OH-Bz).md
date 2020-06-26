@@ -17,7 +17,9 @@ tags = ["S-3","C-3",
 | Discovered                  | 2009 / Drassodes sp. |
 | Synonym                     | DR 458               |
 | Molecular formula           | C₂₄H₃₄N₄O₅           |
-| CAS                         |                      |
+| CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 459.26075            |
 | Precursor 2 [M+2H]²⁺        | 230.13429            |

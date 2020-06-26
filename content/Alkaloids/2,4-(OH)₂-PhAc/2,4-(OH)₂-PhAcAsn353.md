@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | LF 480B              |
 | Molecular formula            | C₂₃H₄₀N₆O₅           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 481.31385            |
 | Precursor 2 [M+2H]²⁺         | 241.16084            |

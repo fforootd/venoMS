@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | JSTX 2 / NPTX 650 |
 | Molecular formula            | C₃₁H₅₄N₈O₇        |
 | CAS                          | ---               |
+| SMILES |   |
+| InChI  |   |
 |                              |                   |
 | Precursor 1 [M+H]⁺           | 651.41937         |
 | Precursor 2 [M+2H]²⁺         | 326.21360         |

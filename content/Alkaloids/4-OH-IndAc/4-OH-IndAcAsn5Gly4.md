@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 517 / NPTX 517C |
 | Molecular formula            | C₂₅H₃₉N₇O₅           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 518.30909            |
 | Precursor 2 [M+2H]²⁺         | 259.65846            |

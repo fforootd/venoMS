@@ -18,7 +18,9 @@ tags = ["S-1","C-2",
 | Synonym                      | AR 636 / Arg 636 / Argiopine / Argiotoxin 636 / ArgTX 636 / ATX / AVTX 636     |
 | Molecular formula            | C₂₉H₅₂N₁₀O₆                                                                    |
 | CAS                          | 144576-90-9                                                                    |
-|                              |                                                                                |
+| SMILES |   |
+| InChI  |   |
+|        |                                                             |
 | Precursor 1 [M+H]⁺           | 637.41496                                                                      |
 | Precursor 2 [M+2H]²⁺         | 319.21139                                                                      |
 | Precursor 3                  |                                                                                |

@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 849 / NPTX 849A |
 | Molecular formula            | C₄₁H₇₅N₁₁O₈          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 850.58783            |
 | Precursor 2 [M+2H]²⁺         | 425.79783            |

@@ -19,6 +19,8 @@ tags = ["S-4","C-1",
 | Synonym                      | Arg 645 / NPTX 645 / NPTX 645B |
 | Molecular formula            | C₃₀H₅₁N₁₁O₅                    |
 | CAS                          | ---                            |
+| SMILES |   |
+| InChI  |   |
 |                              |                                |
 | Precursor 1 [M+H]⁺           | 646.41529                      |
 | Precursor 2 [M+2H]²⁺         | 323.71156                      |

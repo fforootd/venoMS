@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | LF 503B              |
 | Molecular formula            | C₂₅H₄₁N₇O₄           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 504.32983            |
 | Precursor 2 [M+2H]²⁺         | 252.66883            |

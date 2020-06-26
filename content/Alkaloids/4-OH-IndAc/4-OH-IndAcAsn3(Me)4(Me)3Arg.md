@@ -18,6 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                      | AR 673 / Arg 673 / ArgTX 673 |
 | Molecular formula            | C₃₂H₅₅N₁₁O₅                  |
 | CAS                          | 769084-09-5                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                              |
 | Precursor 1 [M+H]⁺           | 674.44659                    |
 | Precursor 2 [M+2H]²⁺         | 337.72721                    |

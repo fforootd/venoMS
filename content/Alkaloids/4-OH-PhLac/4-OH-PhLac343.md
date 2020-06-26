@@ -21,6 +21,8 @@ tags = ["S-2","C-1",
 | Synonym                     | PA 366      |
 | Molecular formula           | C₁₉H₃₄N₄O₃  |
 | CAS                         | ---         |
+| SMILES |   |
+| InChI  |   |
 |                             |             |
 | Precursor 1 [M+H]⁺          | 367.27092   |
 | Precursor 2 [M+2H]²⁺        | 184.13937   |

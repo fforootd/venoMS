@@ -17,6 +17,8 @@ tags = ["S-4","C-3",
 | Synonym                     | Arg 759 / Argiopinin 1 |
 | Molecular formula           | C₃₆H₆₃N₁₂O₆⁺           |
 | CAS                         | 117233-41-7            |
+| SMILES |   |
+| InChI  |   |
 |                             |                        |
 | Precursor 1  M⁺             | 759.49934              |
 | Precursor 2 [M+H]²⁺         | 380.25359              |

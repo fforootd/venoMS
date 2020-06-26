@@ -18,6 +18,8 @@ tags = ["S-1","C-1",
 | Synonym                     | CNS 2103                |
 | Molecular formula           | C₂₄H₄₂N₆O₂              |
 | CAS                         | 144923-45-5             |
+| SMILES |   |
+| InChI  |   |
 |                             |                         |
 | Precursor 1 [M+H]⁺          | 447.34475               |
 | Precursor 2 [M+2H]²⁺        | 224.17629               |

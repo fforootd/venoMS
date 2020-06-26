@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | NPTX 773 / NPTX 773B |
 | Molecular formula            | C₃₈H₆₇N₁₁O₆          |
 | CAS                          | 195884-67-4          |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 774.53540            |
 | Precursor 2 [M+2H]²⁺         | 387.77161            |

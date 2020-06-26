@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | LF 464A              |
 | Molecular formula           | C₂₃H₄₀N₆O₄           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 465.31893            |
 | Precursor 2 [M+2H]²⁺        | 233.16338            |

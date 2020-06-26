@@ -18,6 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                      | JSTX 4            |
 | Molecular formula            | C₂₈H₄₈N₁₀O₇       |
 | CAS                          | 133689-61-9       |
+| SMILES |   |
+| InChI  |   |
 |                              |                   |
 | Precursor 1 [M+H]⁺           | 637.37857         |
 | Precursor 2 [M+2H]²⁺         | 319.19320         |

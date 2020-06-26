@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | DR 238               |
 | Molecular formula           | C₁₅H₂₁N₂O₃           |
 | CAS                         | 1930497-19-0         |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 239.13957            |
 | Precursor 2 [M+2H]²⁺        | 120.07370            |

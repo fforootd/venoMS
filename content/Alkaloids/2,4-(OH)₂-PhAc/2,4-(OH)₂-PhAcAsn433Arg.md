@@ -19,6 +19,8 @@ tags = ["S-1","C-1",
 | Synonym                      | Arg 622 / AVTX 622 / NPTX 622 / NPTX 622B |
 | Molecular formula            | C₂₈H₅₀N₁₀O₆                               |
 | CAS                          | 345303-38-0 (S,S) / 2133411-64-8 (S,R)    |
+| SMILES |   |
+| InChI  |   |
 |                              |                                           |
 | Precursor 1 [M+H]⁺           | 623.39931                                 |
 | Precursor 2 [M+2H]²⁺         | 312.20357                                 |

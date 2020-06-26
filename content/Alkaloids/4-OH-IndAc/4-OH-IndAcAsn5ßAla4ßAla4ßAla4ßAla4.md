@@ -18,6 +18,8 @@ tags = ["S-1","C-1",
 | Synonym                      | Nephilatoxin 6 / NPTX 6 / NPTX 957 |
 | Molecular formula            | C₄₇H₈₃N₁₃O₈                        |
 | CAS                          | 119613-52-4 (S)                    |
+| SMILES |   |
+| InChI  |   |
 |                              |                                    |
 | Precursor 1 [M+H]⁺           | 958.65657                          |
 | Precursor 2 [M+2H]²⁺         | 479.83220                          |

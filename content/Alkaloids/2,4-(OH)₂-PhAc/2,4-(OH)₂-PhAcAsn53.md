@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | LF 423F              |
 | Molecular formula           | C₂₀H₃₃N₅O₅           |
 | CAS                         | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 424.25600            |
 | Precursor 2 [M+2H]²⁺        | 212.63191            |

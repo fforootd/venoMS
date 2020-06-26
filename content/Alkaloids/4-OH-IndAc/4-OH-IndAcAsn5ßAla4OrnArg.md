@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | Nephilatoxin 2 / NPTX 2 / NPTX 801E |
 | Molecular formula            | C₃₇H₆₃N₁₃O₇                         |
 | CAS                          | ---                                 |
+| SMILES |   |
+| InChI  |   |
 |                              |                                     |
 | Precursor 1 [M+H]⁺           | 802.50516                           |
 | Precursor 2 [M+2H]²⁺         | 401.75649                           |

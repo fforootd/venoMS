@@ -20,6 +20,8 @@ tags = ["S-2","C-1",
 | Synonym                    | APA 5                |
 | Molecular formula          | C₂₁H₃₉N₇O₄           |
 | CAS                        | 1084610-58-1         |
+| SMILES |   |
+| InChI  |   |
 |                            |                      |
 | Precursor 1 [M+H]⁺         | 454.31418            |
 | Precursor 2 [M+2H]²⁺       | 227.66100            |

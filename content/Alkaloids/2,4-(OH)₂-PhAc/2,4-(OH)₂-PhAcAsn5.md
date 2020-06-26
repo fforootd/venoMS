@@ -17,6 +17,8 @@ tags = ["S-3","C-1","Parawixia bistriata"]
 | Synonym                     | ---                 |
 | Molecular formula           | C₁₇H₂₆N₄O₅          |
 | CAS                         | 112111-38-3         |
+| SMILES |   |
+| InChI  |   |
 |                             |                     |
 | Precursor 1 [M+H]⁺          | 367.19815           |
 | Precursor 2 [M+2H]²⁺        | 184.10299           |

@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 872 / NPTX 872A |
 | Molecular formula            | C₄₃H₇₆N₁₂O₇          |
 | CAS                          | 195884-70-9          |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 873.60381            |
 | Precursor 2 [M+2H]²⁺         | 437.30582            |

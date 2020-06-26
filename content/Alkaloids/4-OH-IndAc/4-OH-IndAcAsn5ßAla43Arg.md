@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 744 / NPTX 744A |
 | Molecular formula            | C₃₅H₆₀N₁₂O₆          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 745.48370            |
 | Precursor 2 [M+2H]²⁺         | 373.24576            |

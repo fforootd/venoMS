@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | OZ 318B            |
 | Molecular formula           | C₁₇H₂₆N₄O₂         |
 | CAS                         | ---                |
+| SMILES |   |
+| InChI  |   |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 319.21340          |
 | Precursor 2 [M+2H]²⁺        | 160.11061          |

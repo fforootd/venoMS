@@ -18,6 +18,8 @@ tags = ["S-1","C-1",
 | Synonym                      | JSTX-1 / LF 466D  |
 | Molecular formula            | C₂₂H₃₈N₆O₅        |
 | CAS                          | 133698-34-7       |
+| SMILES |   |
+| InChI  |   |
 |                              |                   |
 | Precursor 1 [M+H]⁺           | 467.29820         |
 | Precursor 2 [M+2H]²⁺         | 234.15301         |

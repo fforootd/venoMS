@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | NPTX 792 / NPTX 792D |
 | Molecular formula            | C₃₈H₆₈N₁₀O₈          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 793.52998            |
 | Precursor 2 [M+2H]²⁺         | 397.26890            |

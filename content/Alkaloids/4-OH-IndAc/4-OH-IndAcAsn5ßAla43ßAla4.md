@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 730 / NPTX 730A |
 | Molecular formula            | C₃₆H₆₂N₁₀O₆          |
 | CAS                          | 195884-66-3          |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 731.49320            |
 | Precursor 2 [M+2H]²⁺         | 366.25051            |

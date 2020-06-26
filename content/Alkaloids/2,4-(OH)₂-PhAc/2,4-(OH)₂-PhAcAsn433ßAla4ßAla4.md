@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | NPTX 750 / NPTX 750B |
 | Molecular formula            | C₃₆H₆₆N₁₀O₇          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 751.51942            |
 | Precursor 2 [M+2H]²⁺         | 376.26362            |

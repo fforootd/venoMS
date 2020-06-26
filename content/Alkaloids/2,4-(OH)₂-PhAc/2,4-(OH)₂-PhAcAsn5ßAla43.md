@@ -18,6 +18,8 @@ tags = ["S-1","C-2",
 | Synonym                      | JSTX 3 / JSTX                                                                  |
 | Molecular formula            | C₂₇H₄₇N₇O₆                                                                     |
 | CAS                          | 119024-24-7                                                                    |
+| SMILES |   |
+| InChI  |   |
 |                              |                                                                                |
 | Precursor 1 [M+H]⁺           | 566.36661                                                                      |
 | Precursor 2 [M+2H]²⁺         | 283.68722                                                                      |

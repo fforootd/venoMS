@@ -22,6 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                     | AG 464a          |
 | Molecular formula           | C₂₃H₄₀N₆O₄       |
 | CAS                         | ---              |
+| SMILES |   |
+| InChI  |   |
 |                             |                  |
 | Precursor 1 [M+H]⁺          | 465.31892        |
 | Precursor 2 [M+2H]²⁺        | 233.16337        |

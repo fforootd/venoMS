@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | OZ 332A            |
 | Molecular formula           | C₁₈H₂₈N₄O₂         |
 | CAS                         | ---                |
+| SMILES |   |
+| InChI  |   |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 333.22905          |
 | Precursor 2 [M+2H]²⁺        | 167.11844          |

@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | Arg 744 / Argiopinin 2 |
 | Molecular formula            | C₃₅H₆₀N₁₂O₆            |
 | CAS                          | 117233-42-8            |
+| SMILES |   |
+| InChI  |   |
 |                              |                        |
 | Precursor 1 [M+H]⁺           | 745.48370              |
 | Precursor 2 [M+2H]²⁺         | 373.24576              |

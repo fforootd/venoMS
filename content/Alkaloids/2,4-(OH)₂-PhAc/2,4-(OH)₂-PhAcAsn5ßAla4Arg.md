@@ -18,6 +18,8 @@ tags = ["S-1","C-1",
 | Synonym                      | NSTX 3                                                                         |
 | Molecular formula            | C₃₀H₅₂N₁₀O₇                                                                    |
 | CAS                          | 1190024-26-9                                                                   |
+| SMILES |   |
+| InChI  |   |
 |                              |                                                                                |
 | Precursor 1 [M+H]⁺           | 665.40987                                                                      |
 | Precursor 2 [M+2H]²⁺         | 333.20885                                                                      |

@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 943 / NPTX 943C |
 | Molecular formula            | C₄₆H₈₁N₁₃O₈          |
 | CAS                          | 195884-72-1          |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 944.64092            |
 | Precursor 2 [M+2H]²⁺         | 472.82437            |

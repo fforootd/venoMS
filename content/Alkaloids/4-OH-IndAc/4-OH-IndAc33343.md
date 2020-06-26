@@ -16,6 +16,8 @@ tags = ["S-3","C-3"]
 | Synonym                     | AG 489b     |
 | Molecular formula           | C₂₆H₄₇N₇O₂  |
 | CAS                         | 389872-40-6 |
+| SMILES |   |
+| InChI  |   |
 |                             |             |
 | Precursor 1 [M+H]⁺          | 490.38695   |
 | Precursor 2 [M+2H]²⁺        | 245.69739   |

@@ -18,6 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | OZ 389             |
 | Molecular formula           | C₂₁H₃₅N₅O₂         |
 | CAS                         | 144923-47-7        |
+| SMILES |   |
+| InChI  |   |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 390.28690          |
 | Precursor 2 [M+2H]²⁺        | 195.64736          |

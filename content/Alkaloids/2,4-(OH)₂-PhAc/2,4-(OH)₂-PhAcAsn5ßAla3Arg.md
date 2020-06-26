@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | Arg 650 / NPTX 650 E |
 | Molecular formula            | C₂₉H₅₀N₁₀O₇          |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 651.39422            |
 | Precursor 2 [M+2H]²⁺         | 326.20102            |

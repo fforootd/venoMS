@@ -18,6 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                      | NPTX 801E         |
 | Molecular formula            | C₃₉H₆₇N₁₁O₇       |
 | CAS                          | 119613-48-8       |
+| SMILES |   |
+| InChI  |   |
 |                              |                   |
 | Precursor 1 [M+H]⁺           | 802.53031         |
 | Precursor 2 [M+2H]²⁺         | 401.76907         |

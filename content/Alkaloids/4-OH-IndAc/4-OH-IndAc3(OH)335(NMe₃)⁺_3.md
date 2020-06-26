@@ -22,6 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                      | AG 504 / AG 505a / Agel 505a |
 | Molecular formula            | C₂₇H₄₉N₆O₃⁺                  |
 | CAS                          | 129724-54-5                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                              |
 | Precursor 1  M⁺              | 505.38661                    |
 | Precursor 2 [M+H]²⁺          | 253.19722                    |

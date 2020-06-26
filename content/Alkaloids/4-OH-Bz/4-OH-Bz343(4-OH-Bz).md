@@ -17,7 +17,9 @@ tags = ["S-3","C-3",
 | Discovered                  | 2009 / Drassodes sp. |
 | Synonym                     | DR 442               |
 | Molecular formula           | C₂₁H₂₇N₃O₄           |
-| CAS                         |                      |
+| CAS                         | ---                     |
+| SMILES |   |
+| InChI  |   |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 443.26583            |
 | Precursor 2 [M+2H]²⁺        | 222.13683            |

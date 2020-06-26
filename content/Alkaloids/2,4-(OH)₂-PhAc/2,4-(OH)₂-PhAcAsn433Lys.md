@@ -18,6 +18,8 @@ tags = ["S-1","C-1",
 | Synonym                      | NPTX 594                                 |
 | Molecular formula            | C₂₈H₅₀N₈O₆                               |
 | CAS                          | 288072-21-9                              |
+| SMILES |   |
+| InChI  |   |
 |                              |                                          |
 | Precursor 1 [M+H]⁺           | 595.39316                                |
 | Precursor 2 [M+2H]²⁺         | 298.20049                                |

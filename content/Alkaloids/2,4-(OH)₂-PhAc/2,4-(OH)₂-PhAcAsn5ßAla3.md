@@ -18,6 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                      | Spidamine                         |
 | Molecular formula            | C₂₃H₃₈N₆O₆                        |
 | CAS                          | 161897-97-7 (S) / 186370-92-3 (R) |
+| SMILES |   |
+| InChI  |   |
 |                              |                                   |
 | Precursor 1 [M+H]⁺           | 495.29311                         |
 | Precursor 2 [M+2H]²⁺         | 248.15047                         |

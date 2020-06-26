@@ -18,6 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 531 / NPTX 531D |
 | Molecular formula            | C₂₆H₄₁N₇O₅           |
 | CAS                          | ---                  |
+| SMILES |   |
+| InChI  |   |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 532.32474            |
 | Precursor 2 [M+2H]²⁺         | 266.66628            |
