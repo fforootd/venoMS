@@ -18,16 +18,16 @@ tags = ["S-1","C-1",
 | Synonym                      | NSTX 3                                                                         |
 | Molecular formula            | C₃₀H₅₂N₁₀O₇                                                                    |
 | CAS                          | 1190024-26-9                                                                   |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CC=C(O)C=C1O)NC(CC(N)=O)C(NCCCCCNC(CCNCCCCNC(C(N)CCCNC(N)=N)=O)=O)=O  |
+| InChI  | InChI=1S/C30H52N10O7/c31-22(7-6-15-39-30(33)34)28(46)37-14-5-4-11-35-16-10-26(44)36-12-2-1-3-13-38-29(47)23(19-25(32)43)40-27(45)17-20-8-9-21(41)18-24(20)42/h8-9,18,22-23,35,41-42H,1-7,10-17,19,31H2,(H2,32,43)(H,36,44)(H,37,46)(H,38,47)(H,40,45)(H4,33,34,39)  |
 |                              |                                                                                |
-| Precursor 1 [M+H]⁺           | 665.40987                                                                      |
-| Precursor 2 [M+2H]²⁺         | 333.20885                                                                      |
+| Precursor 1 [M+H]⁺       | 665.40932      |
+| Precursor 2 [M+2H]²⁺        | 333.20830       |
 | Precursor 3                  |                                                                                |
 |                              |                                                                                |
 | HDX                          | 15                                                                             |
-| Precursor HDX 1 [M(D₁₅)+D]⁺   | 681.51030                                                                      |
-| Precursor HDX 2 [M(D₁₅)+2D]²⁺ | 341.76220                                                                      |
+| Precursor HDX 1 [M(D₁₅)+D]⁺   | 681.50975                                                                      |
+| Precursor HDX 2 [M(D₁₅)+2D]²⁺ | 341.76165                                                                      |
 | Precursor HDX 3              |                                                                                |
 |                              |                                                                                |
 | Rt                           | 7.75                                                                               |
@@ -37,23 +37,23 @@ tags = ["S-1","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 265.08245 | 247.07189 | 248.05590 | 282.10900 | 228.18244 | 211.15589 | 245.20899 |
-| 2 | 350.17160 | 332.16104 | 333.14505 | 367.19815 | 299.21955 | 282.19300 | 316.24610 |
-| 3 | 421.20871 | 403.19815 | 404.18216 | 438.23526 | 384.30870 | 367.28215 | 401.33525 |
-| 4 | 492.28221 | 474.27165 | 475.25566 | 665.40987 | 498.35163 | 481.32508 | 515.37818 |
+| 1 | 265.08190 | 247.07133 | 248.05535 | 282.10845 | 228.18189 | 211.15534 | 245.20844 |
+| 2 | 350.17105 | 332.16048 | 333.14450 | 367.19760 | 299.21900 | 282.19245 | 316.24555 |
+| 3 | 421.20816 | 403.19760 | 404.18161 | 438.23471 | 384.30815 | 367.28160 | 401.33470 |
+| 4 | 492.28166 | 474.27110 | 475.25511 | 665.40932 | 498.35108 | 481.32453 | 515.37763 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 123.04461 | a'         |
+| 123.04406 | a'         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/665_2-4-OH2-PhAcAsn5bAla4Arg_Nc.pdf) | 665.40987 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/665_2-4-OH2-PhAcAsn5bAla4Arg_Nc_2.pdf) | 333.20885 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/665_2-4-OH2-PhAcAsn5bAla4Arg_Nc.pdf) | 665.40932 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/665_2-4-OH2-PhAcAsn5bAla4Arg_Nc_2.pdf) | 333.20830 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/665_2-4-OH2-PhAcAsn5bAla4Arg_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References

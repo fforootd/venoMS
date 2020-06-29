@@ -18,16 +18,16 @@ tags = ["S-1","C-1",
 | Synonym                      | NPTX 594                                 |
 | Molecular formula            | C₂₈H₅₀N₈O₆                               |
 | CAS                          | 288072-21-9                              |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NC(CC(N)=O)C(NCCCCNCCCNCCCNC(C(N)CCCCN)=O)=O)CC1=CC=C(O)C=C1O  |
+| InChI  | InChI=1S/C28H50N8O6/c29-10-2-1-7-22(30)27(41)34-16-6-14-33-13-5-12-32-11-3-4-15-35-28(42)23(19-25(31)39)36-26(40)17-20-8-9-21(37)18-24(20)38/h8-9,18,22-23,32-33,37-38H,1-7,10-17,19,29-30H2,(H2,31,39)(H,34,41)(H,35,42)(H,36,40)  |
 |                              |                                          |
-| Precursor 1 [M+H]⁺           | 595.39316                                |
-| Precursor 2 [M+2H]²⁺         | 298.20049                                |
+| Precursor 1 [M+H]⁺       | 595.39261      |
+| Precursor 2 [M+2H]²⁺        | 298.19994       |
 | Precursor 3                  |                                          |
 |                              |                                          |
 | HDX                          | 13                                       |
-| Precursor HDX 1 [M(D₁₃)+D]⁺   | 609.48104                                |
-| Precursor HDX 2 [M(D₁₃)+2D]²⁺ | 305.74757                                |
+| Precursor HDX 1 [M(D₁₃)+D]⁺   | 609.48048                                |
+| Precursor HDX 2 [M(D₁₃)+2D]²⁺ | 305.74702                                |
 | Precursor HDX 3              |                                          |
 |                              |                                          |
 | Rt                           | 3.36                                         |
@@ -37,23 +37,23 @@ tags = ["S-1","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 265.08245 | 247.07189 | 248.05590 | 282.10900 | 186.16064 | 169.13409 | 203.18719 |
-| 2 | 336.15595 | 318.14539 | 319.12940 | 353.18250 | 243.21849 | 226.19194 | 260.24504 |
-| 3 | 393.21380 | 375.20324 | 376.18725 | 410.24035 | 314.29199 | 297.26544 | 331.31854 |
-| 4 | 450.27165 | 432.26109 | 433.24510 | 595.39316 | 428.33492 | 411.30837 | 445.36147 |
+| 1 | 265.08190 | 247.07133 | 248.05535 | 282.10845 | 186.16009 | 169.13354 | 203.18664 |
+| 2 | 336.15540 | 318.14483 | 319.12885 | 353.18195 | 243.21794 | 226.19139 | 260.24449 |
+| 3 | 393.21325 | 375.20268 | 376.18670 | 410.23980 | 314.29144 | 297.26489 | 331.31799 |
+| 4 | 450.27110 | 432.26053 | 433.24455 | 595.39261 | 428.33436 | 411.30782 | 445.36091 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 123.04461 | a'         |
+| 123.04406 | a'         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc.pdf) | 595.39316 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc_2.pdf) | 298.20049 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc.pdf) | 595.39261 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc_2.pdf) | 298.19994 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/595_2-4-OH2-PhAcAsn433Lys_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 

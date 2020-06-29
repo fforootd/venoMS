@@ -18,16 +18,16 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₂₃H₃₈N₆O₆                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NC(CC(N)=O)C(NCCCCNC(C(N)CCCN(C)C)=O)=O)CC1=CC=C(O)C=C1O  |
+| InChI  | InChI=1S/C23H38N6O6/c1-29(2)11-5-6-17(24)22(34)26-9-3-4-10-27-23(35)18(14-20(25)32)28-21(33)12-15-7-8-16(30)13-19(15)31/h7-8,13,17-18,30-31H,3-6,9-12,14,24H2,1-2H3,(H2,25,32)(H,26,34)(H,27,35)(H,28,33)  |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 495.29311                   |
-| Precursor 2 [M+2H]²⁺       | 248.15047                   |
+| Precursor 1 [M+H]⁺       | 495.29256      |
+| Precursor 2 [M+2H]²⁺        | 248.14992       |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 9                   |
-| Precursor HDX   [M(D₉)+D]⁺   | 505.35588                   |
-| Precursor HDX 2 [M(D₉)+2D]²⁺ | 253.68499                   |
+| Precursor HDX   [M(D₉)+D]⁺   | 505.35533                   |
+| Precursor HDX 2 [M(D₉)+2D]²⁺ | 253.68444                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 4.79                   |
@@ -37,21 +37,21 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 265.08245 | 247.07189 | 248.05590 | 282.10900 | 143.11844 | 126.09189 | 160.14498 |
-| 2 | 336.15595 | 318.14539 | 319.12940 | 353.18250 | 214.19194 | 197.16539 | 231.21848 |
-| 3 | 450.23526 | 432.22470 | 433.20871 | 495.29311 | 328.23487 | 311.20832 | 345.26141 |
+| 1 | 265.08190 | 247.07133 | 248.05535 | 282.10845 | 143.11789 | 126.09134 | 160.14444 |
+| 2 | 336.15540 | 318.14483 | 319.12885 | 353.18195 | 214.19139 | 197.16484 | 231.21794 |
+| 3 | 450.23471 | 432.22415 | 433.20816 | 495.29256 | 328.23432 | 311.20777 | 345.26087 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 123.04461 | a'         |
+| 123.04406 | a'         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/495_2-4-OH2-PhAcAsn4Orn(NMe2)_Pb.pdf) | 495.29311 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/495_2-4-OH2-PhAcAsn4Orn(NMe2)_Pb.pdf) | 495.29256 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/495_2-4-OH2-PhAcAsn4Orn(NMe2)_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA  | Y. M. Forster |
 
 

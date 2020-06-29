@@ -17,16 +17,16 @@ tags = ["S-3","C-1","Parawixia bistriata"]
 | Synonym                     | ---                 |
 | Molecular formula           | C₁₇H₂₆N₄O₅          |
 | CAS                         | 112111-38-3         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CC=C(O)C=C1O)NC(CC(N)=O)C(NCCCCCN)=O  |
+| InChI  | InChI=1S/C17H26N4O5/c18-6-2-1-3-7-20-17(26)13(10-15(19)24)21-16(25)8-11-4-5-12(22)9-14(11)23/h4-5,9,13,22-23H,1-3,6-8,10,18H2,(H2,19,24)(H,20,26)(H,21,25)  |
 |                             |                     |
-| Precursor 1 [M+H]⁺          | 367.19815           |
-| Precursor 2 [M+2H]²⁺        | 184.10299           |
+| Precursor 1 [M+H]⁺       | 367.19760      |
+| Precursor 2 [M+2H]²⁺        | 184.10244       |
 | Precursor 3                 |                     |
 |                             |                     |
-| HDX                         | 6                   |
-| Precursor HDX 1 [M(D₆)+D]⁺   | 374.24208           |
-| Precursor HDX 2 [M(D₆)+2D]²⁺ | 188.12809           |
+| HDX                         | 8                   |
+| Precursor HDX 1 [M(D₈)+D]⁺   | 376.25409           |
+| Precursor HDX 2 [M(D₈)+2D]²⁺ | 189.13382           |
 | Precursor HDX 3             |                     |
 |                             |                     |
 | Rt                          | 5.44                    |
@@ -36,20 +36,20 @@ tags = ["S-3","C-1","Parawixia bistriata"]
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 265.08245 | 247.07189 | 248.05590 | 282.10900 | 86.09697  | 69.07042  | 103.12352 |
-| 2 | 350.17160 | 332.16104 | 333.14505 | 367.19815 | 200.13990 | 183.11335 | 217.16645 |
+| 1 | 265.08190 | 247.07133 | 248.05535 | 282.10845 | 86.09643 | 69.06988 | 103.12297 |
+| 2 | 350.17105 | 332.16048 | 333.14450 | 367.19760 | 200.13935 | 183.11280 | 217.16590 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 123.04461 | a'         |
+| 123.04406 | a'         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/P-bistriata/367_2-4-OH2-PhAcAsn5_Pb.pdf) | 367.19815 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/367_2-4-OH2-PhAcAsn5_Pb.pdf) | 367.19760 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/367_2-4-OH2-PhAcAsn5_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References

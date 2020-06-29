@@ -18,17 +18,17 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₃₃H₆₀N₁₁O₇⁺                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CC=C(O)C=C1O)NC(CC(N)=O)C(NCCCCNC(C(N)CCCC[N+](C)(C)CCCNC(C(CCCNC(N)=N)N)=O)=O)=O  |
+| InChI  | InChI=1S/C33H59N11O7/c1-44(2,18-8-16-40-31(50)25(35)10-7-15-42-33(37)38)17-6-3-9-24(34)30(49)39-13-4-5-14-41-32(51)26(21-28(36)47)43-29(48)19-22-11-12-23(45)20-27(22)46/h11-12,20,24-26H,3-10,13-19,21,34-35H2,1-2H3,(H11-,36,37,38,39,40,41,42,43,45,46,47,48,49,50,51)/p+1  |
 |                            |                    |
-| Precursor 1  M⁺         | 722.46771                   |
-| Precursor 2 [M+H]²⁺       | 361.73777                   |
-| Precursor 3 [(M+H)+CF₃CO₂]⁺              | 836.46058                   |
+| Precursor 1  M⁺         | 722.46717                   |
+| Precursor 2 [M+H]²⁺       | 361.73722                   |
+| Precursor 3 [(M+H)+CF₃CO₂]⁺              | 836.46003                   |
 |                            |                    |
 | HDX                        | 16                   |
-| Precursor HDX    M(D₁₆)⁺   | 738.56815                   |
-| Precursor HDX 2 [M(D₁₆)+D]²⁺ | 370.29112                   |
-| Precursor HDX 3 [(M(D₁₆)+D)+CF₃CO₂]⁺           | 853.56729                   |
+| Precursor HDX    M(D₁₆)⁺   | 738.5676                   |
+| Precursor HDX 2 [M(D₁₆)+D]²⁺ | 370.29058                   |
+| Precursor HDX 3 [(M(D₁₆)+D)+CF₃CO₂]⁺           | 853.56674                   |
 |                            |                    |
 | Rt                         | 4.89                   |
 | Rt HDX                     | 3.69                   |
@@ -37,23 +37,23 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 265.08245 | 247.07189 | 248.05590 | 282.10900 | 214.16678 | 197.14023 | 259.22463 |
-| 2 | 336.15595 | 318.14539 | 319.12940 | 353.18250 | 370.29304 | 354.27432 | 387.31959 |
-| 3 | 464.25091 | 446.24035 | 447.22436 | 509.30876 | 441.36654 | 425.34782 | 458.39309 |
-| 4 | 549.34005 | 531.32949 | 532.31351 | 722.46772 | 555.40947 | 539.39075 | 572.43602 |
+| 1 | 265.08190 | 247.07133 | 248.05535 | 282.10845 | 214.16624 | 197.13969 | 259.22409 |
+| 2 | 336.15540 | 318.14483 | 319.12885 | 353.18195 | 370.29250 | 354.27378 | 387.31905 |
+| 3 | 464.25036 | 446.23980 | 447.22381 | 509.30821 | 441.36600 | 425.34728 | 458.39255 |
+| 4 | 549.33951 | 531.32894 | 532.31296 | 722.46717 | 555.40893 | 539.39020 | 572.43548 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 123.04461 | a'         |
+| 123.04406 | a'         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/722_2-4-OH2-PhAcAsn4Lys(Me2)3Arg_Pb_2.pdf) | 361.73777 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
-| [Data](/pdf/P-bistriata/722_2-4-OH2-PhAcAsn4Lys(Me2)3Arg_Pb_3.pdf) | 836.46058 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/722_2-4-OH2-PhAcAsn4Lys(Me2)3Arg_Pb_2.pdf) | 361.73722 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/722_2-4-OH2-PhAcAsn4Lys(Me2)3Arg_Pb_3.pdf) | 836.46003 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
 | [Data](/pdf/P-bistriata/722_2-4-OH2-PhAcAsn4Lys(Me2)3Arg_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
 
 

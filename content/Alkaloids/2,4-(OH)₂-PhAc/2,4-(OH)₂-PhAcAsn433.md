@@ -18,16 +18,16 @@ tags = ["S-1","C-1",
 | Synonym                      | NPTX 466 / NPTX 466B / LF 466E |
 | Molecular formula            | C₂₂H₃₈N₆O₅                     |
 | CAS                          | 133698-34-7                    |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CC=C(O)C=C1O)NC(CC(N)=O)C(NCCCCNCCCNCCCN)=O  |
+| InChI  | InChI=1S/C22H38N6O5/c23-7-3-9-26-11-4-10-25-8-1-2-12-27-22(33)18(15-20(24)31)28-21(32)13-16-5-6-17(29)14-19(16)30/h5-6,14,18,25-26,29-30H,1-4,7-13,15,23H2,(H2,24,31)(H,27,33)(H,28,32)  |
 |                              |                                |
-| Precursor 1 [M+H]⁺           | 467.29820                      |
-| Precursor 2 [M+2H]²⁺         | 234.15301                      |
-| Precursor 3                  |                                |
-|                              |                                |
-| HDX                          | 10                             |
-| Precursor HDX 1 [M(D₁₀)+D]⁺   | 478.36724                      |
-| Precursor HDX 2 [M(D₁₀)+2D]²⁺ | 240.19067                      |
+| Precursor 1 [M+H]⁺       | 467.29764      |
+| Precursor 2 [M+2H]²⁺        | 234.15246       |
+| Precursor 3                  |                   |
+|                              |                   |
+| HDX                          | 10                |
+| Precursor HDX 1 [M(D₁₀)+D]⁺   | 478.36669         |
+| Precursor HDX 2 [M(D₁₀)+2D]²⁺ | 240.19012         |
 | Precursor HDX 3              |                                |
 |                              |                                |
 | Rt                           | 3.29                               |
@@ -37,25 +37,25 @@ tags = ["S-1","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 265.08245 | 247.07189 | 248.05590 | 282.10900 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 336.15595 | 318.14539 | 319.12940 | 353.18250 | 115.12352 | 98.09697  | 132.15007 |
-| 3 | 393.21380 | 375.20324 | 376.18725 | 410.24035 | 186.19702 | 169.17047 | 203.22357 |
-| 4 | 450.27165 | 432.26109 | 433.24510 | 467.29820 | 300.23995 | 283.21340 | 317.26650 |
+| 1 | 265.08190 | 247.07133 | 248.05535 | 282.10845 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 336.15540 | 318.14483 | 319.12885 | 353.18195 | 115.12297 | 98.09643 | 132.14952 |
+| 3 | 393.21325 | 375.20268 | 376.18670 | 410.23980 | 186.19647 | 169.16993 | 203.22302 |
+| 4 | 450.27110 | 432.26053 | 433.24455 | 467.29764 | 300.23940 | 283.21285 | 317.26595 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 123.04461 | a'         |
+| 123.04406 | a'         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn433_Lc.pdf) | 467.29820 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn433_Lc_2.pdf) | 234.15301 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn433_Lc.pdf) | 467.29764 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn433_Lc_2.pdf) | 234.15246 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/467_2-4-OH2-PhAcAsn433_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/467_2-4-OH2-PhAcAsn433_Nc.pdf) | 467.29820 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/467_2-4-OH2-PhAcAsn433_Nc.pdf) | 467.29764 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/467_2-4-OH2-PhAcAsn433_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References
