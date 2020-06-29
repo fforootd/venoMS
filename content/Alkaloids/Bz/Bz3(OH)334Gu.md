@@ -25,13 +25,13 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 422.32435                   |
-| Precursor 2 [M+2H]²⁺       | 211.66609                   |
+| Precursor 1 [M+H]⁺       | 422.32380      |
+| Precursor 2 [M+2H]²⁺        | 211.66554       |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 8                   |
-| Precursor HDX   [M(D₈)+D]⁺   | 431.38084                   |
-| Precursor HDX 2 [M(D₈)+2D]²⁺ | 216.69747                   |
+| Precursor HDX   [M(D₈)+D]⁺   | 431.38029                   |
+| Precursor HDX 2 [M(D₈)+2D]²⁺ | 216.69692                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 7.89                   |
@@ -41,10 +41,10 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 162.09189 | 144.08133 | 145.06534 | 195.11335 | 114.10312 | 97.07657 | 131.12967 |
-| 2 | 235.14465 | 217.13409 | 218.11810 | 252.17120 | 171.16097 | 154.13442 | 188.18752 |
-| 3 | 292.20250 | 274.19194 | 275.17595 | 309.22905 | 228.21882 | 211.19227 | 261.24028 |
-| 4 | 363.27600 | 345.26544 | 346.24945 | 422.32435 | 301.27158 | 284.24503 | 318.29813 |
+| 1 | 162.09134 | 144.08078 | 145.06479 | 195.11280 | 114.10257 | 97.07602 | 131.12912 |
+| 2 | 235.14410 | 217.13354 | 218.11756 | 252.17065 | 171.16042 | 154.13387 | 188.18697 |
+| 3 | 292.20195 | 274.19139 | 275.17540 | 309.22850 | 228.21827 | 211.19172 | 261.23974 |
+| 4 | 363.27545 | 345.26489 | 346.24890 | 422.32380 | 301.27104 | 284.24449 | 318.29759 |
 
 ## Additional MS/MS fragments
 
@@ -56,8 +56,8 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/E-agrestis/422_Bz3(OH)334Gu_Ea.pdf)   | 422.32435 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/E-agrestis/422_Bz3(OH)334Gu_Ea_2.pdf)   | 211.66609 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/422_Bz3(OH)334Gu_Ea.pdf)   | 422.32380 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/422_Bz3(OH)334Gu_Ea_2.pdf)   | 211.66554 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/422_Bz3(OH)334Gu_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
