@@ -18,16 +18,16 @@ tags = ["S-3","C-1",
 | Synonym                      | LF 516A              |
 | Molecular formula            | C₂₆H₄₄N₈O₃           |
 | CAS                          | ---                  |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NC(CC(N)=O)C(NCCCN(C)CCCCNCCCN)=O)C(N)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C26H44N8O3/c1-34(14-5-4-11-30-12-6-10-27)15-7-13-31-26(37)23(17-24(29)35)33-25(36)21(28)16-19-18-32-22-9-3-2-8-20(19)22/h2-3,8-9,18,21,23,30,32H,4-7,10-17,27-28H2,1H3,(H2,29,35)(H,31,37)(H,33,36)  |
 |                              |                      |
-| Precursor 1 [M+H]⁺           | 517.36147            |
-| Precursor 2 [M+2H]²⁺         | 259.18465            |
+| Precursor 1 [M+H]⁺       | 517.36091      |
+| Precursor 2 [M+2H]²⁺        | 259.18410       |
 | Precursor 3                  |                      |
 |                              |                      |
 | HDX                          | 10                   |
-| Precursor HDX 1 [M(D₁₀)+D]⁺   | 528.43051            |
-| Precursor HDX 2 [M(D₁₀)+2D]²⁺ | 265.22231            |
+| Precursor HDX 1 [M(D₁₀)+D]⁺   | 528.42996            |
+| Precursor HDX 2 [M(D₁₀)+2D]²⁺ | 265.22176            |
 | Precursor HDX 3              |                      |
 |                              |                      |
 | Rt                           | 4.27                     |
@@ -37,25 +37,25 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 301.13007 | 283.11951 | 284.10352 | 318.15662 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 358.18792 | 340.17736 | 341.16137 | 389.23012 | 129.13917 | 112.11262 | 160.18137 |
-| 3 | 443.27707 | 425.26651 | 426.25052 | 460.30362 | 200.21267 | 183.18612 | 217.23922 |
-| 4 | 500.33492 | 482.32436 | 483.30837 | 517.36147 | 314.25560 | 297.22905 | 331.28215 |
+| 1 | 301.12952 | 283.11895 | 284.10297 | 318.15607 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 358.18737 | 340.17680 | 341.16082 | 389.22957 | 129.13862 | 112.11208 | 160.18082 |
+| 3 | 443.27652 | 425.26595 | 426.24997 | 460.30306 | 200.21212 | 183.18558 | 217.23867 |
+| 4 | 500.33436 | 482.32380 | 483.30782 | 517.36091 | 314.25505 | 297.22850 | 331.28160 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 130.06568    | "indol"      |
-| 159.09223    | a'           |
-| 170.06059    | c0           |
+| 130.06513    | "indol"      |
+| 159.09167    | a'           |
+| 170.06004    | c0           |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/L-cornutus/517_TrpAsn3(Me)43_Lc.pdf) | 517.36147 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-cornutus/517_TrpAsn3(Me)43_Lc_2.pdf) | 259.18465 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/517_TrpAsn3(Me)43_Lc.pdf) | 517.36091 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/517_TrpAsn3(Me)43_Lc_2.pdf) | 259.18410 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/517_TrpAsn3(Me)43_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
