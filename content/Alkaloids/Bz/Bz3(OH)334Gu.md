@@ -22,8 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₂₁H₃₉N₇O₂                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(C1=CC=CC=C1)NCCCN(O)CCCNCCCNCCCCNC(N)=N  |
+| InChI  | InChI=1S/C21H39N7O2/c22-21(23)27-15-5-4-11-24-12-6-13-25-14-7-17-28(30)18-8-16-26-20(29)19-9-2-1-3-10-19/h1-3,9-10,24-25,30H,4-8,11-18H2,(H,26,29)(H4,22,23,27)  |
 |                            |                    |
 | Precursor 1 [M+H]⁺       | 422.32380      |
 | Precursor 2 [M+2H]²⁺        | 211.66554       |
@@ -50,7 +50,7 @@ tags = ["S-3","C-1",
 
 | m/z | Annotation |
 |-----|------------|
-| 105.03404 | a0         |
+| 105.03349 | a0         |
 
 ## Recorded MS/MS spectra
 
