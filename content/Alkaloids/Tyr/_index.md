@@ -3,7 +3,7 @@ title = "Tyr"
 weight = 150
 +++
 
-![](/img/Trp.png?classes=border)
+![](/img/Tyr.png?classes=border)
 
 | Head           | a'        | a0        | a1(3)     | a1(4)     | a1(5)     | a1(Asn)   |
 |----------------|-----------|-----------|-----------|-----------|-----------|-----------|
