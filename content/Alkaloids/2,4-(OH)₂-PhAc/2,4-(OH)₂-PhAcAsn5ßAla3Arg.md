@@ -15,7 +15,7 @@ tags = ["S-3","C-1",
 |------------------------------|----------------------|
 | Level                        | S-3 / C-1                    |
 | Discovered                   | ? / ?                |
-| Synonym                      | Arg 650 / NPTX 650 E |
+| Synonym                      | Arg 650 / NPTX 650E  |
 | Molecular formula            | C₂₉H₅₀N₁₀O₇          |
 | CAS                          | ---                  |
 | SMILES | O=C(NC(CC(N)=O)C(NCCCCCNC(CCNCCCNC(C(N)CCCNC(N)=N)=O)=O)=O)CC1=CC=C(O)C=C1O  |

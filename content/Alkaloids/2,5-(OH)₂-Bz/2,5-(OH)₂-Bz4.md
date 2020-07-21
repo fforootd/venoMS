@@ -18,16 +18,16 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₁₁H₁₆N₂O₃                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCCCNC(C1=C(O)C=CC(O)=C1)=O  |
+| InChI  | InChI=1S/C11H16N2O3/c12-5-1-2-6-13-11(16)9-7-8(14)3-4-10(9)15/h3-4,7,14-15H,1-2,5-6,12H2,(H,13,16)  |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 225.12392                   |
-| Precursor 2 [M+2H]²⁺       | 113.06587                   |
+| Precursor 1 [M+H]⁺       | 225.12337      |
+| Precursor 2 [M+2H]²⁺        | 113.06532       |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 5                   |
-| Precursor HDX   [M(D₅)+D]⁺   | 231.16158                   |
-| Precursor HDX 2 [M(D₅)+2D]²⁺ | 116.58784                   |
+| Precursor HDX   [M(D₅)+D]⁺   | 231.16103                   |
+| Precursor HDX 2 [M(D₅)+2D]²⁺ | 116.58729                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 7.79                   |
@@ -37,19 +37,19 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 208.09737 | 190.08681 | 191.07082 | 208.09737 | 72.08132 | 55.05477 | 89.10787 |
+| 1 | 208.09682 | 190.08626 | 191.07027 | 208.09737 | 72.08078 | 55.05423 | 89.10732 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 137.02387 | a0         |
+| 137.02332 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/225_2-5-OH2-Bz4_Pb.pdf) | 225.12392 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/225_2-5-OH2-Bz4_Pb.pdf) | 225.12337 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/225_2-5-OH2-Bz4_Pb_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 
 

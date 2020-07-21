@@ -18,16 +18,16 @@ tags = ["S-2","C-1",
 | Synonym                     | Mygalin             |
 | Molecular formula           | C₂₁H₂₇N₃O₆          |
 | CAS                         | 925223-64-9         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(C1=C(O)C=CC(O)=C1)NCCCNCCCCNC(C2=C(O)C=CC(O)=C2)=O  |
+| InChI  | InChI=1S/C21H27N3O6/c25-14-4-6-18(27)16(12-14)20(29)23-10-2-1-8-22-9-3-11-24-21(30)17-13-15(26)5-7-19(17)28/h4-7,12-13,22,25-28H,1-3,8-11H2,(H,23,29)(H,24,30)  |
 |                             |                     |
-| Precursor 1 [M+H]⁺          | 418.19781           |
-| Precursor 2 [M+2H]²⁺        | 209.60282           |
+| Precursor 1 [M+H]⁺       | 418.19726      |
+| Precursor 2 [M+2H]²⁺        | 209.60227       |
 | Precursor 3                 |                     |
 |                             |                     |
 | HDX                         | 7                   |
-| Precursor HDX 1 [M(D₇)+D]⁺   | 426.24803           |
-| Precursor HDX 2 [M(D₇)+2D]²⁺ | 214.13107           |
+| Precursor HDX 1 [M(D₇)+D]⁺   | 426.24748           |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 214.13051           |
 | Precursor HDX 3             |                     |
 |                             |                     |
 | Rt                          | 20.27                    |
@@ -37,20 +37,20 @@ tags = ["S-2","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 194.08172 | 176.07116 | 177.05517 | 211.10827 | 208.09737 | 191.07082 | 225.12392 |
-| 2 | 265.15522 | 247.14466 | 248.12867 | 418.19781 | 265.15522 | 248.12867 | 282.18177 |
+| 1 | 194.08117 | 176.07060 | 177.05462 | 211.10772 | 208.09682 | 191.07027 | 225.12337 |
+| 2 | 265.15467 | 247.14410 | 248.12812 | 418.19726 | 265.15467 | 248.12812 | 282.18122 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 137.02387 | a0         |
+| 137.02332 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/P-bistriata/418_2-5-OH2-Bz34(2-5-OH2-Bz)_Pb.pdf) | 418.19781 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/418_2-5-OH2-Bz34(2-5-OH2-Bz)_Pb.pdf) | 418.19726 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/418_2-5-OH2-Bz34(2-5-OH2-Bz)_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References

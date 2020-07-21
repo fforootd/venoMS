@@ -18,16 +18,16 @@ tags = ["S-3","C-1",
 | Synonym                     | DR 238               |
 | Molecular formula           | C₁₅H₂₁N₂O₃           |
 | CAS                         | 1930497-19-0         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCCCN)C1=C(O)C=CC(O)=C1  |
+| InChI  | InChI=1S/C12H18N2O3/c13-6-2-1-3-7-14-12(17)10-8-9(15)4-5-11(10)16/h4-5,8,15-16H,1-3,6-7,13H2,(H,14,17)  |
 |                             |                      |
-| Precursor 1 [M+H]⁺          | 239.13957            |
-| Precursor 2 [M+2H]²⁺        | 120.07370            |
+| Precursor 1 [M+H]⁺       | 239.13902      |
+| Precursor 2 [M+2H]²⁺        | 120.07315       |
 | Precursor 3                 |                      |
 |                             |                      |
 | HDX                         | 5                    |
-| Precursor HDX 1 [M(D₅)+D]⁺   | 245.17723            |
-| Precursor HDX 2 [M(D₅)+2D]²⁺ | 123.59566            |
+| Precursor HDX 1 [M(D₅)+D]⁺   | 245.17668            |
+| Precursor HDX 2 [M(D₅)+2D]²⁺ | 123.59512            |
 | Precursor HDX 3             |                      |
 |                             |                      |
 | Rt                          | 10.32                     |
@@ -37,20 +37,20 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z        | y        | tz        |
 |---|-----------|-----------|-----------|-----------|----------|----------|-----------|
-| 1 | 222.11302 | 204.10246 | 205.08647 | 222.11302 | 86.09697 | 69.07042 | 103.12352 |
+| 1 | 222.11247 | 204.10191 | 205.08592 | 222.11302 | 86.09643 | 69.06988 | 103.12297 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 137.02387 | a0         |
+| 137.02332 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/Drassodes-sp1/239_2-5-OH2-Bz5_Dr-sp1.pdf) | 239.13957 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-bistriata/239_2-5-OH2-Bz5_Pb.pdf) | 239.13957 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/239_2-5-OH2-Bz5_Dr-sp1.pdf) | 239.13902 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/239_2-5-OH2-Bz5_Pb.pdf) | 239.13902 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/239_2-5-OH2-Bz5_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References

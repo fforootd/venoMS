@@ -18,17 +18,17 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₂₁H₃₉N₄O₃⁺                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | C[N+](C)(C)CCCCCNCCCNCCCNC(C1=C(O)C=CC(O)=C1)=O  |
+| InChI  | InChI=1S/C21H38N4O3/c1-25(2,3)16-6-4-5-11-22-12-7-13-23-14-8-15-24-21(28)19-17-18(26)9-10-20(19)27/h9-10,17,22-23H,4-8,11-16H2,1-3H3,(H2-,24,26,27,28)/p+1  |
 |                            |                    |
-| Precursor 1  M⁺         | 395.30222                   |
-| Precursor 2 [M+H]²⁺       | 198.15502                   |
-| Precursor 3 [(M+H)+CF₃CO₂]⁺              | 509.29508                   |
+| Precursor 1  M⁺         | 395.30167                   |
+| Precursor 2 [M+H]²⁺       | 198.15447                   |
+| Precursor 3 [(M+H)+CF₃CO₂]⁺              | 509.29453                   |
 |                            |                    |
 | HDX                        | 5                   |
-| Precursor HDX    M(D₅)⁺   | 400.33360                   |
-| Precursor HDX 2 [M(D₅)+D]²⁺ | 201.17385                   |
-| Precursor HDX 3 [(M(D₅)+D)+CF₃CO₂]⁺         | 515.33274                   |
+| Precursor HDX    M(D₅)⁺   | 400.33305                   |
+| Precursor HDX 2 [M(D₅)+D]²⁺ | 201.17330                   |
+| Precursor HDX 3 [(M(D₅)+D)+CF₃CO₂]⁺         | 515.33219                   |
 |                            |                    |
 | Rt                         | 5.69                   |
 | Rt HDX                     | 4.34                   |
@@ -37,23 +37,23 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 194.08172 | 176.07116 | 177.05517 | 211.10827 | 128.14393 | 111.11738 | 146.17830 |
-| 2 | 251.13957 | 233.12901 | 234.11302 | 268.16612 | 185.20178 | 167.16740 | 203.23615 |
-| 3 | 336.22872 | 318.21816 | 319.20217 | 395.30222 | 242.25963 | 223.21743 | 260.29400 |
+| 1 | 194.08117 | 176.07060 | 177.05462 | 211.10772 | 128.14338 | 111.11683 | 146.17775 |
+| 2 | 251.13902 | 233.12845 | 234.11247 | 268.16557 | 185.20123 | 167.16685 | 203.23560 |
+| 3 | 336.22817 | 318.21760 | 319.20162 | 395.30167 | 242.25907 | 223.21688 | 260.29345 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 137.02387 | a0         |
+| 137.02332 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/H-curta/395_2-5-OH2-Bz335(NMe3)_Hc.pdf) | 395.30222 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/395_2-5-OH2-Bz335(NMe3)_Hc.pdf) | 395.30167 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/395_2-5-OH2-Bz335(NMe3)_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/395_2-5-OH2-Bz335(NMe3)_Ho-sp.pdf) | 395.30222 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/395_2-5-OH2-Bz335(NMe3)_Ho-sp.pdf) | 395.30167 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/395_2-5-OH2-Bz335(NMe3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 

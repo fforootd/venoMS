@@ -15,7 +15,7 @@ tags = ["S-1","C-1",
 |------------------------------|-------------------|
 | Level                        | S-1 / C-1         |
 | Discovered                   | 1990 / N. clavata |
-| Synonym                      | JSTX-1 / LF 466D  |
+| Synonym                      | JSTX 1 / LF 466D  |
 | Molecular formula            | C₂₂H₃₈N₆O₅        |
 | CAS                          | 133698-34-7       |
 | SMILES | O=C(CC1=CC=C(O)C=C1O)NC(CC(N)=O)C(NCCCNCCCCNCCCN)=O  |

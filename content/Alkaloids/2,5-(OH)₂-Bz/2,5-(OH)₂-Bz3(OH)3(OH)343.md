@@ -18,16 +18,16 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₂₃H₄₄N₆O₅                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(C1=C(O)C=CC(O)=C1)NCCCN(O)CCCN(O)CCCNCCCCNCCCN  |
+| InChI  | InChI=1S/C23H44N6O5/c24-9-3-12-25-10-1-2-11-26-13-4-15-28(33)17-6-18-29(34)16-5-14-27-23(32)21-19-20(30)7-8-22(21)31/h7-8,19,25-26,30-31,33-34H,1-6,9-18,24H2,(H,27,32)  |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 485.34514                   |
-| Precursor 2 [M+2H]²⁺       | 243.17648                   |
+| Precursor 1 [M+H]⁺       | 485.34459      |
+| Precursor 2 [M+2H]²⁺        | 243.17594       |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 9                   |
-| Precursor HDX   [M(D₉)+D]⁺   | 495.40790                   |
-| Precursor HDX 2 [M(D₉)+2D]²⁺ | 248.71100                   |
+| Precursor HDX   [M(D₉)+D]⁺   | 495.40736                   |
+| Precursor HDX 2 [M(D₉)+2D]²⁺ | 248.71046                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 7.59                   |
@@ -37,27 +37,27 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 194.08172 | 176.07116 | 177.05517 | 227.10318 | 58.06567 | 41.03912 | 75.09222 |
-| 2 | 267.13448 | 249.12392 | 250.10793 | 300.15594 | 129.13917 | 112.11262 | 146.16572 |
-| 3 | 340.18724 | 322.17668 | 323.16069 | 357.21379 | 186.19702 | 169.17047 | 219.21848 |
-| 4 | 411.26074 | 393.25018 | 394.23419 | 428.28729 | 259.24978 | 242.22323 | 292.27124 |
-| 5 | 468.31859 | 450.30803 | 451.29204 | 485.34514 | 332.30254 | 315.27599 | 349.32909 |
+| 1 | 194.08117 | 176.07060 | 177.05462 | 227.10263 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 267.13393 | 249.12337 | 250.10738 | 300.15540 | 129.13862 | 112.11208 | 146.16517 |
+| 3 | 340.18670 | 322.17613 | 323.16015 | 357.21325 | 186.19647 | 169.16993 | 219.21794 |
+| 4 | 411.26020 | 393.24963 | 394.23365 | 428.28675 | 259.24924 | 242.22269 | 292.27070 |
+| 5 | 468.31805 | 450.30748 | 451.29150 | 485.34459 | 332.30200 | 315.27545 | 349.32855 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 137.02387 | a0         |
+| 137.02332 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/H-curta/485_2-5-OH2-Bz3(OH)3(OH)343_Hc.pdf) | 485.34514 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/485_2-5-OH2-Bz3(OH)3(OH)343_Hc_2.pdf) | 243.17648  |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/485_2-5-OH2-Bz3(OH)3(OH)343_Hc.pdf) | 485.34459 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/485_2-5-OH2-Bz3(OH)3(OH)343_Hc_2.pdf) | 243.17594  |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/485_2-5-OH2-Bz3(OH)3(OH)343_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/485_2-5-OH2-Bz3(OH)3(OH)343_Ho-sp.pdf) | 485.34514 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/485_2-5-OH2-Bz3(OH)3(OH)343_Ho-sp_2.pdf) | 243.17648 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/485_2-5-OH2-Bz3(OH)3(OH)343_Ho-sp.pdf) | 485.34459 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/485_2-5-OH2-Bz3(OH)3(OH)343_Ho-sp_2.pdf) | 243.17594 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/485_2-5-OH2-Bz3(OH)3(OH)343_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 

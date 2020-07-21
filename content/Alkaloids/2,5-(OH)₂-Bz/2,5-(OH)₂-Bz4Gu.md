@@ -18,16 +18,16 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₁₂H₁₈N₄O₃                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NC(NCCCCNC(C1=C(O)C=CC(O)=C1)=O)=N  |
+| InChI  | InChI=1S/C12H18N4O3/c13-12(14)16-6-2-1-5-15-11(19)9-7-8(17)3-4-10(9)18/h3-4,7,17-18H,1-2,5-6H2,(H,15,19)(H4,13,14,16)  |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 267.14572                   |
-| Precursor 2 [M+2H]²⁺       | 134.07677                   |
+| Precursor 1 [M+H]⁺       | 267.14517      |
+| Precursor 2 [M+2H]²⁺        | 134.07622       |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 7                   |
-| Precursor HDX   [M(D₇)+D]⁺   | 275.19593                   |
-| Precursor HDX 2 [M(D₇)+2D]²⁺ | 138.60502                   |
+| Precursor HDX   [M(D₇)+D]⁺   | 275.19538                   |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 138.60447                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 11.77                   |
@@ -37,23 +37,23 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 208.09737 | 190.08681 | 191.07082 | 250.11917 | 114.10312 | 97.07657 | 131.12967 |
+| 1 | 208.09682 | 190.08626 | 191.07027 | 250.11917 | 114.10257 | 97.07602 | 131.12912 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 137.02387 | a0         |
+| 137.02332 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/Desertosa-sp3/267_2-5-OH2-Bz4Gu_De-sp3.pdf) | 267.14572 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Drassodes-sp1/267_2-5-OH2-Bz4Gu_Dr-sp1.pdf) | 267.14572 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-bistriata/267_2-5-OH2-Bz4Gu_Pb.pdf) | 267.14572 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/267_2-5-OH2-Bz4Gu_De-sp3.pdf) |267.14517 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/267_2-5-OH2-Bz4Gu_Dr-sp1.pdf) | 267.14517 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/267_2-5-OH2-Bz4Gu_Pb.pdf) | 267.14517 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/267_2-5-OH2-Bz4Gu_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-viridans/267_2-5-OH2-Bz4Gu_Pv.pdf) | 267.14572 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-viridans/267_2-5-OH2-Bz4Gu_Pv.pdf) | 267.14517 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References
