@@ -18,8 +18,8 @@ tags = ["S-1","C-2",
 | Synonym                      | Nephilatoxin 1 / NPTX 1                                                        |
 | Molecular formula            | C₂₉H₄₈N₈O₅                                                                     |
 | CAS                          | 119688-54-9 (S)                                                                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CNC2=C1C(O)=CC=C2)NC(CC(N)=O)C(NCCCCCNC(CCNCCCCNCCCN)=O)=O  |
+| InChI  | InChI=1S/C29H48N8O5/c30-11-7-14-32-12-4-5-13-33-17-10-26(40)34-15-2-1-3-16-35-29(42)23(19-25(31)39)37-27(41)18-21-20-36-22-8-6-9-24(38)28(21)22/h6,8-9,20,23,32-33,36,38H,1-5,7,10-19,30H2,(H2,31,39)(H,34,40)(H,35,42)(H,37,41)  |
 |                              |                                                                                |
 | Precursor 1 [M+H]⁺           | 589.38259                                                                      |
 | Precursor 2 [M+2H]²⁺         | 295.19521                                                                      |
@@ -47,8 +47,8 @@ tags = ["S-1","C-2",
 
 | m/z       | Annotation |
 |-----------|------------|
-| 146.06059    | a'   |
-| 174.05550    | a0   |
+| 146.06004    | a'   |
+| 174.05495    | a0   |
 
 ## Recorded MS/MS spectra
 

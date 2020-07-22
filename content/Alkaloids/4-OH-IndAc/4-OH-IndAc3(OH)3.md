@@ -20,8 +20,8 @@ tags = ["S-3","C-1",
 | Synonym                     | ---                              |
 | Molecular formula           | C₁₆H₂₄N₄O₃                       |
 | CAS                         | ---                              |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CNC2=C1C(O)=CC=C2)NCCCN(O)CCCN  |
+| InChI  | InChI=1S/C16H24N4O3/c17-6-2-8-20(23)9-3-7-18-15(22)10-12-11-19-13-4-1-5-14(21)16(12)13/h1,4-5,11,19,21,23H,2-3,6-10,17H2,(H,18,22)  |
 |                             |                                  |
 | precursor 1 [M+H]⁺          | 321.19266                        |
 | precursor 2 [M+2H]²⁺        | 161.10024                        |
@@ -46,8 +46,8 @@ tags = ["S-3","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-| 146.06059    | a'   |
-| 174.05550    | a0   |
+| 146.06004    | a'   |
+| 174.05495    | a0   |
 
 ## Recorded MS/MS spectra
 

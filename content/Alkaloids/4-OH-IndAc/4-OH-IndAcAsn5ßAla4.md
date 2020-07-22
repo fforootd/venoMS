@@ -18,8 +18,8 @@ tags = ["S-4","C-3",
 | Synonym                      | NPTX 531 / NPTX 531D |
 | Molecular formula            | C₂₆H₄₁N₇O₅           |
 | CAS                          | ---                  |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NC(CC(N)=O)C(NCCCCCNC(CCNCCCCN)=O)=O)CC1=CNC2=C1C(O)=CC=C2  |
+| InChI  | InChI=1S/C26H41N7O5/c27-10-2-5-11-29-14-9-23(36)30-12-3-1-4-13-31-26(38)20(16-22(28)35)33-24(37)15-18-17-32-19-7-6-8-21(34)25(18)19/h6-8,17,20,29,32,34H,1-5,9-16,27H2,(H2,28,35)(H,30,36)(H,31,38)(H,33,37)  |
 |                              |                      |
 | Precursor 1 [M+H]⁺           | 532.32474            |
 | Precursor 2 [M+2H]²⁺         | 266.66628            |
@@ -46,8 +46,8 @@ tags = ["S-4","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-| 146.06059    | a'   |
-| 174.05550    | a0   |
+| 146.06004    | a'   |
+| 174.05495    | a0   |
 
 ## Recorded MS/MS spectra
 

@@ -18,8 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | OZ 389             |
 | Molecular formula           | C₂₁H₃₅N₅O₂         |
 | CAS                         | 144923-47-7        |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCNCCCCCNCCCN)CC1=CNC2=C1C(O)=CC=C2  |
+| InChI  | InChI=1S/C21H35N5O2/c22-9-5-12-23-10-2-1-3-11-24-13-6-14-25-20(28)15-17-16-26-18-7-4-8-19(27)21(17)18/h4,7-8,16,23-24,26-27H,1-3,5-6,9-15,22H2,(H,25,28)  |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 390.28690          |
 | Precursor 2 [M+2H]²⁺        | 195.64736          |
@@ -45,8 +45,8 @@ tags = ["S-3","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-| 146.06059    | a'   |
-| 174.05550    | a0   |
+| 146.06004    | a'   |
+| 174.05495    | a0   |
 
 ## Recorded MS/MS spectra
 

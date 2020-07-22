@@ -18,8 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | LH 446               |
 | Molecular formula           | C₂₃H₃₈N₆O₃           |
 | CAS                         | ---                  |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCC(NCCCNCCCCNCCCN)=O)CC1=CNC2=C1C(O)=CC=C2  |
+| InChI  | InChI=1S/C23H38N6O3/c24-9-4-12-25-10-1-2-11-26-13-5-14-27-21(31)8-15-28-22(32)16-18-17-29-19-6-3-7-20(30)23(18)19/h3,6-7,17,25-26,29-30H,1-2,4-5,8-16,24H2,(H,27,31)(H,28,32)  |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 447.30836            |
 | Precursor 2 [M+2H]²⁺        | 224.15809            |
@@ -46,8 +46,8 @@ tags = ["S-3","C-3",
 
 | m/z       | Annotation |
 |-----------|------------|
-| 146.06059    | a'   |
-| 174.05550    | a0   |
+| 146.06004    | a'   |
+| 174.05495    | a0   |
 
 ## Recorded MS/MS spectra
 

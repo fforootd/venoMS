@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | LF 446F              |
 | Molecular formula           | C₂₂H₃₄N₆O₄           |
 | CAS                         |                      |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NC(CC(N)=O)C(NCCCCCNCCCN)=O)CC1=CNC2=C1C(O)=CC=C2  |
+| InChI  | InChI=1S/C22H34N6O4/c23-8-5-10-25-9-2-1-3-11-26-22(32)17(13-19(24)30)28-20(31)12-15-14-27-16-6-4-7-18(29)21(15)16/h4,6-7,14,17,25,27,29H,1-3,5,8-13,23H2,(H2,24,30)(H,26,32)(H,28,31)  |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 447.27198            |
 | Precursor 2 [M+2H]²⁺        | 224.13990            |
@@ -45,8 +45,8 @@ tags = ["S-3","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-| 146.06059    | a'   |
-| 174.05550    | a0   |
+| 146.06004    | a'   |
+| 174.05495    | a0   |
 
 ## Recorded MS/MS spectra
 

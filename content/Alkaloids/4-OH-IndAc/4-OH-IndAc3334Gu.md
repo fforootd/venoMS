@@ -22,8 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                      | PB 474             |
 | Molecular formula            | C₂₄H₄₂N₈O₂         |
 | CAS                          | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NC(NCCCCNCCCNCCCNCCCNC(CC1=CNC2=C1C(O)=CC=C2)=O)=N  |
+| InChI  | InChI=1S/C24H42N8O2/c25-24(26)31-15-2-1-9-27-10-4-11-28-12-5-13-29-14-6-16-30-22(34)17-19-18-32-20-7-3-8-21(33)23(19)20/h3,7-8,18,27-29,32-33H,1-2,4-6,9-17H2,(H,30,34)(H4,25,26,31)  |
 |                              |                    |
 | Precursor 1 [M+H]⁺           | 475.35090          |
 | Precursor 2 [M+2H]²⁺         | 238.17936          |
@@ -50,8 +50,8 @@ tags = ["S-3","C-1",
 
 | m/z | Annotation |
 |-----|------------|
-| 146.06059    | a'   |
-| 174.05550    | a0   |
+| 146.06004    | a'   |
+| 174.05495    | a0   |
 
 ## Recorded MS/MS spectra
 

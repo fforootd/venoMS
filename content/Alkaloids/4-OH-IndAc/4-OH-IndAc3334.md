@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | AG 432a / AG 432c |
 | Molecular formula           | C₂₃H₄₀N₆O₂        |
 | CAS                         | 1241987-21-2      |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CNC2=C1C(O)=CC=C2)NCCCNCCCNCCCNCCCCN  |
+| InChI  | InChI=1S/C23H40N6O2/c24-9-1-2-10-25-11-4-12-26-13-5-14-27-15-6-16-28-22(31)17-19-18-29-20-7-3-8-21(30)23(19)20/h3,7-8,18,25-27,29-30H,1-2,4-6,9-17,24H2,(H,28,31)  |
 |                             |                   |
 | Precursor 1 [M+H]⁺          | 433.32910         |
 | Precursor 2 [M+2H]²⁺        | 217.16846         |
@@ -46,8 +46,8 @@ tags = ["S-3","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-| 146.06059    | a'   |
-| 174.05550    | a0   |
+| 146.06004    | a'   |
+| 174.05495    | a0   |
 
 ## Recorded MS/MS spectra
 

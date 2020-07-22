@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | OZ 332B            |
 | Molecular formula           | C₁₈H₂₈N₄O₂         |
 | CAS                         | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCCCNCCCN)CC1=CNC2=C1C(O)=CC=C2  |
+| InChI  | InChI=1S/C18H28N4O2/c19-8-5-10-20-9-2-1-3-11-21-17(24)12-14-13-22-15-6-4-7-16(23)18(14)15/h4,6-7,13,20,22-23H,1-3,5,8-12,19H2,(H,21,24)  |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 333.22905          |
 | Precursor 2 [M+2H]²⁺        | 167.11844          |
@@ -44,8 +44,8 @@ tags = ["S-3","C-1",
 
 | m/z | Annotation |
 |-----|------------|
-| 146.06059    | a'   |
-| 174.05550    | a0   |
+| 146.06004    | a'   |
+| 174.05495    | a0   |
 
 ## Recorded MS/MS spectra
 
