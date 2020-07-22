@@ -15,7 +15,7 @@ tags = ["S-3","C-1",
 |------------------------------|----------------------|
 | Level                        | S-3 / C-1                    |
 | Discovered                   | 1997 / N. borbonica  |
-| Synonym                      | NPTX 917 / NPTX 927C |
+| Synonym                      | NPTX 927 / NPTX 927C |
 | Molecular formula            | C₄₆H₈₁N₁₃O₇          |
 | CAS                          | ---                  |
 | SMILES |   |

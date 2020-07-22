@@ -1,6 +1,6 @@
 +++
 title = "2,4-(OH)₂-PhAcAsn5ßAla4AlaGlyArg"
-categories = ["C25H60N12O9","P793","D397","HDX811",
+categories = ["C35H60N12O9","P793","D397","HDX811",
 "2,4-(OH)2-PhAcAsn5ßAla4AlaGlyArg","Asn5ßAla4AlaGlyArg",
 "Araneidae"]
 tags = ["S-1","C-3",

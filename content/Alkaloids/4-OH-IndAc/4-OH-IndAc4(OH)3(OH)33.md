@@ -19,7 +19,7 @@ tags = ["S-3","C-1",
 |-----------------------------|------------------|
 | Level                       | S-3 / C-1               |
 | Discovered                  | 2001 / A. aperta |
-| Synonym                     | Ag 464           |
+| Synonym                     | AG 464           |
 | Molecular formula           | C₂₃H₄₀N₆O₄       |
 | CAS                         | 389872-63-3      |
 | SMILES |   |

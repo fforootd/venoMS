@@ -18,16 +18,16 @@ tags = ["S-3","C-1",
 | Synonym                     | AG 395           |
 | Molecular formula           | C₂₀H₃₇N₅O₃       |
 | CAS                         | 389872-52-0      |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCN(O)CCCNCCCCNCCCN)C1=CC=C(O)C=C1  |
+| InChI  | InChI=1S/C20H37N5O3/c21-10-3-13-22-11-1-2-12-23-14-4-16-25(28)17-5-15-24-20(27)18-6-8-19(26)9-7-18/h6-9,22-23,26,28H,1-5,10-17,21H2,(H,24,27)  |
 |                             |                  |
-| Precursor 1 [M+H]⁺          | 396.29746        |
-| Precursor 2 [M+2H]²⁺        | 198.65264        |
+| Precursor 1 [M+H]⁺          | 396.29692        |
+| Precursor 2 [M+2H]²⁺        | 198.65210        |
 | Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 7                |
-| Precursor HDX 1 [M(D₇)+D]⁺   | 404.34767        |
-| Precursor HDX 2 [M(D₇)+2D]²⁺ | 203.18089        |
+| Precursor HDX 1 [M(D₇)+D]⁺   | 404.34713        |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 203.18034        |
 | Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 4.28             |
@@ -37,29 +37,29 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 178.08680 | 160.07624 | 161.06025 | 211.10826 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 251.13956 | 233.12900 | 234.11301 | 268.16611 | 129.13917 | 112.11262 | 146.16572 |
-| 3 | 322.21306 | 304.20250 | 305.18651 | 339.23961 | 186.19702 | 169.17047 | 219.21848 |
-| 4 | 379.27091 | 361.26035 | 362.24436 | 396.29746 | 259.24978 | 242.22323 | 276.27633 |
+| 1 | 178.08626 | 160.07569 | 161.05971 | 211.10772 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 251.13902 | 233.12845 | 234.11247 | 268.16557 | 129.13862 | 112.11208 | 146.16517 |
+| 3 | 322.21252 | 304.20195 | 305.18597 | 339.23907 | 186.19647 | 169.16993 | 219.21794 |
+| 4 | 379.27037 | 361.25980 | 362.24382 | 396.29692 | 259.24924 | 242.22269 | 276.27579 |
 
 ## Additional MS/MS fragments
 
 | m/z | Annotation |
 |-----|------------|
-|     |            |
+| 121.02841 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                                                  | Precursor | Co-eluting      | Spider    | Source                       | Author        |
 |----------------------------------------------------------------------|-----------|-----------------|-----------|------------------------------|---------------|
-| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa.pdf)     | 396.29746 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_2.pdf)   | 198.65264 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa.pdf)     | 396.29692 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_2.pdf)   | 198.65210 | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Aa_HDX.pdf) | HDX       | 4-OH-Bz3(OH)334 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ap.pdf) | 396.29746 | 4-OH-Bz3(OH)334          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ap_2.pdf) | 198.65264 | 4-OH-Bz3(OH)334          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ap.pdf) | 396.29692 | 4-OH-Bz3(OH)334          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ap_2.pdf) | 198.65210 | 4-OH-Bz3(OH)334          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ap_HDX.pdf) | HDX | 4-OH-Bz3(OH)334          | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ho-sp.pdf) | 396.29746 | 4-OH-Bz3(OH)334           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ho-sp_2.pdf) | 198.65264 | 4-OH-Bz3(OH)334           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ho-sp.pdf) | 396.29692 | 4-OH-Bz3(OH)334           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ho-sp_2.pdf) | 198.65210 | 4-OH-Bz3(OH)334           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/396_4-OH-Bz3(OH)334_4-OH-Bz3(OH)343_Ho-sp_HDX.pdf) | HDX | 4-OH-Bz3(OH)334           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References

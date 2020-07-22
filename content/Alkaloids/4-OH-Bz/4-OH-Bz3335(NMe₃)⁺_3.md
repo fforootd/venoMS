@@ -20,17 +20,17 @@ tags = ["S-3","C-1",
 | Synonym                     | ---              |
 | Molecular formula           | C₂₄H₄₆N₅O₂⁺      |
 | CAS                         | ---              |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCNCCCNCCCNCCCCC[N+](C)(C)C)C1=CC=C(O)C=C1  |
+| InChI  | InChI=1S/C24H45N5O2/c1-29(2,3)21-6-4-5-14-25-15-7-16-26-17-8-18-27-19-9-20-28-24(31)22-10-12-23(30)13-11-22/h10-13,25-27H,4-9,14-21H2,1-3H3,(H-,28,30,31)/p+1  |
 |                             |                  |
-| Precursor 1  M⁺             | 436.36515        |
-| Precursor 2 [M+H]²⁺         | 218.68649        |
-| Precursor 3 [(M+H)+CF₃CO₂]⁺                | 550.35801                 |
+| Precursor 1  M⁺             | 436.36460        |
+| Precursor 2 [M+H]²⁺         | 218.68594        |
+| Precursor 3 [(M+H)+CF₃CO₂]⁺                | 550.35747                 |
 |                             |                  |
 | HDX                         | 5                |
-| Precursor HDX 1  M(D₅)⁺      | 441.39653        |
-| Precursor HDX 2 [M(D₅)+D]²⁺  | 221.70532        |
-| Precursor HDX 3 [(M(D₅)+D)+CF₃CO₂]⁺            | 556.39568                 |
+| Precursor HDX 1  M(D₅)⁺      | 441.39599        |
+| Precursor HDX 2 [M(D₅)+D]²⁺  | 221.70477        |
+| Precursor HDX 3 [(M(D₅)+D)+CF₃CO₂]⁺            | 556.39513                 |
 |                             |                  |
 | Rt                          | 3.78             |
 | Rt HDX                      | 2.84             |
@@ -39,40 +39,40 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 178.08680 | 160.07624 | 161.06025 | 195.11335 | 128.14393 | 111.11738 | 146.17830 |
-| 2 | 235.14465 | 217.13409 | 218.11810 | 252.17120 | 185.20178 | 167.16740 | 203.23615 |
-| 3 | 292.20250 | 274.19194 | 275.17595 | 309.22905 | 242.25963 | 223.21743 | 260.29400 |
-| 4 | 377.29165 | 359.28109 | 360.26510 | 436.36515 | 299.31748 | 279.26745 | 317.35185 |
+| 1 | 178.08626 | 160.07569 | 161.05971 | 195.11280 | 128.14338 | 111.11683 | 146.17775 |
+| 2 | 235.14410 | 217.13354 | 218.11756 | 252.17065 | 185.20123 | 167.16685 | 203.23560 |
+| 3 | 292.20195 | 274.19139 | 275.17540 | 309.22850 | 242.25907 | 223.21688 | 260.29345 |
+| 4 | 377.29110 | 359.28054 | 360.26455 | 436.36460 | 299.31692 | 279.26690 | 317.35130 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 98.09697  | y2'        |
-| 115.12352 | z2'        |
-| 121.02895 | a0         |
-| 126.12827 | z2-NMe₃    |
-| 143.15482 | tz2-NMe₃   |
-| 183.18612 | z3-NMe₃    |
-| 200.21267 | tz3-NMe₃   |
-| 257.27052 | tz4-NMe₃   |
+| 98.09643  | y2'        |
+| 115.12297 | z2'        |
+| 121.02841 | a0         |
+| 126.12773 | z2-NMe₃    |
+| 143.15428 | tz2-NMe₃   |
+| 183.18558 | z3-NMe₃    |
+| 200.21212 | tz3-NMe₃   |
+| 257.26997 | tz4-NMe₃   |
 
 ## Recorded MS/MS spectra
 
 | pdf                                                    | Precursor | Co-eluting | Spider    | Source                       | Author        |
 |--------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
-| [Data](/pdf/A-aperta/436_4-OH-Bz3335(NMe3)_Aa_2.pdf)   | 218.68649 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/436_4-OH-Bz3335(NMe3)_Aa_2.pdf)   | 218.68594 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/436_4-OH-Bz3335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/E-agrestis/436_4-OH-Bz3335(NMe3)_Ea.pdf) | 436.36515 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/E-agrestis/436_4-OH-Bz3335(NMe3)_Ea_2.pdf) | 218.68649 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/436_4-OH-Bz3335(NMe3)_Ea.pdf) | 436.36460 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/436_4-OH-Bz3335(NMe3)_Ea_2.pdf) | 218.68594 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/436_4-OH-Bz3335(NMe3)_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/436_4-OH-Bz3335(NMe3)_Hc.pdf) | 436.36515 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/436_4-OH-Bz3335(NMe3)_Hc_2.pdf) | 218.68649 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/436_4-OH-Bz3335(NMe3)_Hc.pdf) | 436.36460 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/436_4-OH-Bz3335(NMe3)_Hc_2.pdf) | 218.68594 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/436_4-OH-Bz3335(NMe3)_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/436_4-OH-Bz3335(NMe3)_Ho-sp_2.pdf) | 218.68649 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/436_4-OH-Bz3335(NMe3)_Ho-sp_2.pdf) | 218.68594 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/436_4-OH-Bz3335(NMe3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/436_4-OH-Bz3335(NMe3)_Pl.pdf) | 436.36515 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/436_4-OH-Bz3335(NMe3)_Pl_2.pdf) | 218.68649 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/436_4-OH-Bz3335(NMe3)_Pl.pdf) | 436.36460 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/436_4-OH-Bz3335(NMe3)_Pl_2.pdf) | 218.68594 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/436_4-OH-Bz3335(NMe3)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

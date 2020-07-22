@@ -1,6 +1,6 @@
 +++
 title = "TyrAsn343"
-categories = ["C19H35N5O2","P366","D183","HDX372",
+categories = ["C23H41N7O4","P480","D240","HDX489",
 "TyrAsn343","Asn343",
 "Theraphosidae"]
 tags = ["S-1","C-3",

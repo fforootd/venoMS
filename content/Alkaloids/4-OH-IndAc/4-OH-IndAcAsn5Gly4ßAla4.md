@@ -15,7 +15,7 @@ tags = ["S-4","C-3",
 |------------------------------|-----------------------|
 | Level                        | S-4 / C-3                     |
 | Discovered                   | 1997 / N. borbonica   |
-| Synonym                      | NPTX 659 / NPTX 6459C |
+| Synonym                      | NPTX 659 / NPTX 659C  | 
 | Molecular formula            | C₃₂H₅₃N₉O₆            |
 | CAS                          | ---                   |
 | SMILES |   |

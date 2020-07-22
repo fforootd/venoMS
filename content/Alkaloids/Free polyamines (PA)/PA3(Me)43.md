@@ -13,7 +13,7 @@ tags = ["S-3","C-1","Larinioides cornutus"]
 |-----------------------------|-----------|
 | Level                       | S-3 / C-1 |
 | Discovered                  | 2020 / L. cornutus          |
-| Synonym                     |           |
+| Synonym                     | ---          |
 | Molecular formula           | C₁₁H₂₈N₄  |
 | CAS                         | 56-19-9   |
 | SMILES |   |

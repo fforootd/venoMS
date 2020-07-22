@@ -18,16 +18,16 @@ tags = ["S-1","C-3",
 | Synonym                     | DR 222               |
 | Molecular formula           | C₁₂H₁₈N₂O₂           |
 | CAS                         | 857263-12-8          |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCCCN)C1=CC=C(O)C=C1  |
+| InChI  | InChI=1S/C12H18N2O2/c13-8-2-1-3-9-14-12(16)10-4-6-11(15)7-5-10/h4-7,15H,1-3,8-9,13H2,(H,14,16)  |
 |                             |                      |
-| Precursor 1 [M+H]⁺          | 223.14465            |
-| Precursor 2 [M+2H]²⁺        | 112.07624            |
+| Precursor 1 [M+H]⁺          | 223.14410            |
+| Precursor 2 [M+2H]²⁺        | 112.07569            |
 | Precursor 3                 |                      |
 |                             |                      |
 | HDX                         | 4                    |
-| Precursor HDX 1 [M(D₄)+D]⁺   | 228.17603            |
-| Precursor HDX 2 [M(D₄)+2D]²⁺ | 115.09507            |
+| Precursor HDX 1 [M(D₄)+D]⁺   | 228.17549            |
+| Precursor HDX 2 [M(D₄)+2D]²⁺ | 115.09452            |
 | Precursor HDX 3             |                      |
 |                             |                      |
 | Rt                          |                      |
@@ -37,13 +37,13 @@ tags = ["S-1","C-3",
 
 | # | a         | b         | c         | ta        | z        | y        | tz        |
 |---|-----------|-----------|-----------|-----------|----------|----------|-----------|
-| 1 | 206.11810 | 188.10754 | 189.09155 | 206.11810 | 86.09697 | 69.07042 | 103.12352 |
+| 1 | 206.11756 | 188.10699 | 189.09101 | 206.11810 | 86.09643 | 69.06988 | 103.12297 |
 
 ## Additional MS/MS fragments
 
 | m/z | Annotation |
 |-----|------------|
-|     |            |
+| 121.02841 | a0         |
 
 ## Recorded MS/MS spectra
 

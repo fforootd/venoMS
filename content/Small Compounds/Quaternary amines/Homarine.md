@@ -1,6 +1,6 @@
 +++
 title = "Homarine"
-categories = ["7H8NO2C","P138","HDX138",
+categories = ["C7H8NO2","P138","HDX138",
 "Agelenidae","Araneidae","Gnaphosidae","Lycosidae","Oxyopidae","Sparassidae","Theridiidae"]
 tags = ["S-1","C-1",
 "Alopecosa sp.",

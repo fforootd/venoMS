@@ -3,7 +3,7 @@ title = "4-OH-IndAcAsn433ßAla4"
 categories = ["C31H53N9O5","P632","D316","HDX645",
 "4-OH-IndAcAsn433ßAla4","Asn433ßAla4",
 "Araneidae"]
-tags = ["S-4","C-1",
+tags = ["S-3","C-1",
 "Trichonephila clavipes","Trichonephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-4","C-1",
 
 | Name                         | Value                |
 |------------------------------|----------------------|
-| Level                        | S-4 / C-1                    |
+| Level                        | S-3 / C-1                    |
 | Discovered                   | 1997 / N. borbonica  |
 | Synonym                      | NPTX 631 / NPTX 631B |
 | Molecular formula            | C₃₁H₅₃N₉O₅           |

@@ -12,7 +12,7 @@ tags = ["S-1","C-3",
 
 | Name                      | Value                |
 |---------------------------|----------------------|
-| Level                     | S-1 / C-4            |
+| Level                     | S-1 / C-3            |
 | Discovered                | 1988 / L. indagatrix |
 | Synonym                   |                      |
 | Molecular formula         | C₅H₁₁NO₂S            |

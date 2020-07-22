@@ -15,7 +15,7 @@ tags = ["S-1","C-1",
 |-----------------------------|-------------|
 | Level                       | S-1 / C-1          |
 | Discovered                  | 2019 / div. |
-| Synonym                     |             |
+| Synonym                     | ---            |
 | Molecular formula           | C₁₄H₁₉N₃O   |
 | CAS                         | 132502-14-8 |
 | SMILES |   |

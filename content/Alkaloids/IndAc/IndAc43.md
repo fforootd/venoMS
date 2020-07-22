@@ -1,6 +1,6 @@
 +++
 title = "IndAc43"
-categories = ["C17H26N4O","P","D","HDX",
+categories = ["C17H26N4O","P303","D152","HDX309",
 "IndAc43","43",
 "Agelenidae"]
 tags = ["S-3","C-1",

@@ -3,7 +3,7 @@ title = "4-OH-IndAcAsn433Arg"
 categories = ["C30H51N11O5","P646","D323","HDX662",
 "4-OH-IndAcAsn433Arg","Asn433Arg",
 "Araneidae"]
-tags = ["S-4","C-1",
+tags = ["S-3","C-1",
 "Argiope florida","Argiope trifasciata",
 "Trichonephila clavipes","Trichonephila inaurata madagascariensis","Nephilingis borbonica","Nephilingis cruentata"]
 +++
@@ -14,7 +14,7 @@ tags = ["S-4","C-1",
 
 | Name                         | Value                          |
 |------------------------------|--------------------------------|
-| Level                        | S-4 / C-1                              |
+| Level                        | S-3 / C-1                              |
 | Discovered                   | 1997 / N. borbonica            |
 | Synonym                      | Arg 645 / NPTX 645 / NPTX 645B |
 | Molecular formula            | C₃₀H₅₁N₁₁O₅                    |

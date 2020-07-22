@@ -15,7 +15,7 @@ tags = ["S-4","C-3",
 |------------------------------|-----------------------|
 | Level                        | S-4 / C-3                    |
 | Discovered                   | 1997 / N. borbonica   |
-| Synonym                      | NPTX 657 / NPTZX 657D |
+| Synonym                      | NPTX 657 / NPTX 657D |
 | Molecular formula            | C₃₃H₅₅N₉O₅            |
 | CAS                          | 129462-87-9           |
 | SMILES |   |

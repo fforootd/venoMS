@@ -3,7 +3,7 @@ title = "4-OH-IndAc3(Me₂)4(Me₂)3Arg²⁺"
 categories = ["C30H55N9O3","D294",
 "4-OH-IndAc3(Me2)4(Me2)3Arg","3(Me2)4(Me2)3Arg",
 "Araneidae"]
-tags = ["S-3","C-1",
+tags = ["S-1","C-1",
 "Parawixia bistriata"]
 +++
 
@@ -13,7 +13,7 @@ tags = ["S-3","C-1",
 
 | Name                       | Value              |
 |----------------------------|--------------------|
-| Level                      | S-3 / C-1          |
+| Level                      | S-1 / C-1          |
 | Discovered                 | 2020 / P. bistriata |
 | Synonym                    | Parawixin10                |
 | Molecular formula          | C₃₀H₅₅N₉O₃²⁺                   |

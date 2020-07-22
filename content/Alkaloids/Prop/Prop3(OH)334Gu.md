@@ -1,6 +1,6 @@
 +++
 title = "Prop3(OH)334Gu"
-categories = ["CHNO","P","D","HDX",
+categories = ["C17H39N7O2","P374","D187","HDX383",
 "Prop3(OH)334Gu","3(OH)334Gu",
 "Agelenidae"]
 tags = ["S-3","C-1",
