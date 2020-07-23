@@ -18,16 +18,16 @@ tags = ["S-3","C-1",
 | Synonym                     | Het 403             |
 | Molecular formula           | C₂₂H₃₇N₅O₂          |
 | CAS                         | 128941-11-7         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCCNCCCCCNCCCNC(C(O)CC1=CNC2=C1C=CC=C2)=O  |
+| InChI  | InChI=1S/C22H37N5O2/c23-10-6-13-24-11-4-1-5-12-25-14-7-15-26-22(29)21(28)16-18-17-27-20-9-3-2-8-19(18)20/h2-3,8-9,17,21,24-25,27-28H,1,4-7,10-16,23H2,(H,26,29)  |
 |                             |                     |
-| Precursor 1 [M+H]⁺          | 404.30255           |
-| Precursor 2 [M+2H]²⁺        | 202.65519           |
+| Precursor 1 [M+H]⁺          | 404.30200           |
+| Precursor 2 [M+2H]²⁺        | 202.65464           |
 | Precursor 3                 |                     |
 |                             |                     |
 | HDX                         | 7                   |
-| Precursor HDX 1 [M(D₇)+D]⁺   | 412.35276           |
-| Precursor HDX 2 [M(D₇)+2D]²⁺ | 207.18343           |
+| Precursor HDX 1 [M(D₇)+D]⁺   | 412.35222           |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 207.18288           |
 | Precursor HDX 3             |                     |
 |                             |                     |
 | Rt                          | 8.42                    |
@@ -37,25 +37,25 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 245.12900 | 227.11844 | 228.10245 | 262.15555 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 330.21815 | 312.20759 | 313.19160 | 347.24470 | 143.15482 | 126.12827 | 160.18137 |
-| 3 | 387.27600 | 369.26544 | 370.24945 | 404.30255 | 200.21267 | 183.18612 | 217.23922 |
+| 1 | 245.12845 | 227.11789 | 228.10191 | 262.15500 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 330.21760 | 312.20704 | 313.19105 | 347.24415 | 143.15428 | 126.12773 | 160.18082 |
+| 3 | 387.27545 | 369.26489 | 370.24890 | 404.30200 | 200.21212 | 183.18558 | 217.23867 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 130.06568  | "indol"    |
-| 160.07624  | a0         |
+| 130.06513  | "indol"    |
+| 160.07569  | a'         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/A-robustus/404_IndLac353_Ar.pdf) | 404.30255  |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/A-robustus/404_IndLac353_Ar_2.pdf) | 202.65519   |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/404_IndLac353_Ar.pdf) | 404.30200  |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/404_IndLac353_Ar_2.pdf) | 202.65464   |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/404_IndLac353_Ar_HDX.pdf) | HDX   |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/L-cornutus/404_IndLac353_Lc.pdf) | 404.30255 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/404_IndLac353_Lc.pdf) | 404.30200 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/404_IndLac353_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
