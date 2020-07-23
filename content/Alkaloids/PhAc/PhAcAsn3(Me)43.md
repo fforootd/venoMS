@@ -22,16 +22,16 @@ tags = ["S-1","C-1",
 | Synonym                     | LF 448A              |
 | Molecular formula           | C₂₃H₄₀N₆O₃           |
 | CAS                         | 1682648-87-8         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NC(CC(N)=O)C(NCCCN(C)CCCCNCCCN)=O)CC1=CC=CC=C1  |
+| InChI  | InChI=1S/C23H40N6O3/c1-29(15-6-5-12-26-13-7-11-24)16-8-14-27-23(32)20(18-21(25)30)28-22(31)17-19-9-3-2-4-10-19/h2-4,9-10,20,26H,5-8,11-18,24H2,1H3,(H2,25,30)(H,27,32)(H,28,31)  |
 |                             |                      |
-| Precursor 1 [M+H]⁺          | 449.32402            |
-| Precursor 2 [M+2H]²⁺        | 225.16592            |
+| Precursor 1 [M+H]⁺          | 449.32347            |
+| Precursor 2 [M+2H]²⁺        | 225.16537            |
 | Precursor 3                 |                      |
 |                             |                      |
 | HDX                         | 7                    |
-| Precursor HDX 1 [M(D₇)+D]⁺   | 457.37423            |
-| Precursor HDX 2 [M(D₇)+2D]²⁺ | 229.69417            |
+| Precursor HDX 1 [M(D₇)+D]⁺   | 457.37368            |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 229.69362            |
 | Precursor HDX 3             |                      |
 |                             |                      |
 | Rt                          | 4.83                 |
@@ -41,29 +41,29 @@ tags = ["S-1","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 233.09262 | 215.08206 | 216.06607 | 250.11917 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 290.15047 | 272.13991 | 273.12392 | 321.19267 | 129.13917 | 112.11262 | 160.18137 |
-| 3 | 375.23962 | 357.22906 | 358.21307 | 392.26617 | 200.21267 | 183.18612 | 217.23922 |
-| 4 | 432.29747 | 414.28691 | 415.27092 | 449.32402 | 314.25560 | 297.22905 | 331.28215 |
+| 1 | 233.09207 | 215.08150 | 216.06552 | 250.11862 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 290.14992 | 272.13935 | 273.12337 | 321.19212 | 129.13862 | 112.11208 | 160.18082 |
+| 3 | 375.23907 | 357.22850 | 358.21252 | 392.26562 | 200.21212 | 183.18558 | 217.23867 |
+| 4 | 432.29692 | 414.28635 | 415.27037 | 449.32347 | 314.25505 | 297.22850 | 331.28160 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 91.05478  | a'         |
-| 138.05550 | Asn3-2NH₃  |
-| 155.08205 | Asn3-NH₃   |
-| 172.10860 | Asn3       |
-| 303.18210 | ta2-H₂O    |
-| 304.1612  | ta2-NH₃    |
+| 91.05423  | a'         |
+| 138.05495 | Asn3-2NH₃  |
+| 155.08150 | Asn3-NH₃   |
+| 172.10805 | Asn3       |
+| 303.18155 | ta2-H₂O    |
+| 304.16557 | ta2-NH₃    |
 
 ## Recorded MS/MS spectra
 
 | pdf                                        | Precursor | Co-eluting | Spider           | Source             | Author        |
 |--------------------------------------------|-----------|------------|------------------|--------------------|---------------|
-| [Data](/pdf/449_PhAcAsn3(Me)43_4-83.pdf)   | 449.32402 |            | synth. IndAc4333 | UZH Bienz lab, CHE | Y. M. Forster |
-| [Data](/pdf/449_PhAcAsn3(Me)43_4-83_2.pdf) | 225.16592 |            | synth. IndAc4333 | UZH Bienz lab, CHE | Y. M. Forster |
-| [Data](/pdf/L-cornutus/449_PhAcAsn3(Me)43_Lc.pdf) | 449.32402 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/449_PhAcAsn3(Me)43_4-83.pdf)   | 449.32347 |            | synth. IndAc4333 | UZH Bienz lab, CHE | Y. M. Forster |
+| [Data](/pdf/449_PhAcAsn3(Me)43_4-83_2.pdf) | 225.16537 |            | synth. IndAc4333 | UZH Bienz lab, CHE | Y. M. Forster |
+| [Data](/pdf/L-cornutus/449_PhAcAsn3(Me)43_Lc.pdf) | 449.32347 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/449_PhAcAsn3(Me)43_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
