@@ -22,16 +22,16 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₂₃H₄₄N₈O                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCNCCCNCCCNCCCCNC(N)=N)C(CC1=CC=CC=C1)N  |
+| InChI  | InChI=1S/C23H44N8O/c24-21(19-20-9-2-1-3-10-20)22(32)30-18-8-16-29-15-7-14-28-13-6-12-27-11-4-5-17-31-23(25)26/h1-3,9-10,21,27-29H,4-8,11-19,24H2,(H,30,32)(H4,25,26,31)  |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 449.37164                   |
-| Precursor 2 [M+2H]²⁺       | 225.18973                   |
+| Precursor 1 [M+H]⁺         | 449.37108                   |
+| Precursor 2 [M+2H]²⁺       | 225.18918                   |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 10                   |
-| Precursor HDX   [M(D₁₀)+D]⁺   | 460.44068                   |
-| Precursor HDX 2 [M(D₁₀)+2D]²⁺ | 231.22739                   |
+| Precursor HDX   [M(D₁₀)+D]⁺   | 460.44013                   |
+| Precursor HDX 2 [M(D₁₀)+2D]²⁺ | 231.22684                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 4.63                   |
@@ -41,26 +41,26 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 205.13409 | 187.12353 | 188.10754 | 222.16064 | 114.10312 | 97.07657 | 131.12967 |
-| 2 | 262.19194 | 244.18138 | 245.16539 | 279.21849 | 171.16097 | 154.13442 | 188.18752 |
-| 3 | 319.24979 | 301.23923 | 302.22324 | 336.27634 | 228.21882 | 211.19227 | 245.24537 |
-| 4 | 390.32329 | 372.31273 | 373.29674 | 449.37164 | 285.27667 | 268.25012 | 302.30322 |
+| 1 | 205.13354 | 187.12297 | 188.10699 | 222.16009 | 114.10257 | 97.07602 | 131.12912 |
+| 2 | 262.19139 | 244.18082 | 245.16484 | 279.21794 | 171.16042 | 154.13387 | 188.18697 |
+| 3 | 319.24924 | 301.23867 | 302.22269 | 336.27579 | 228.21827 | 211.19172 | 245.24482 |
+| 4 | 390.32274 | 372.31217 | 373.29619 | 449.37108 | 285.27612 | 268.24957 | 302.30267 |
 
 ## Additional MS/MS fragments
 
 | m/z | Annotation |
 |-----|------------|
-| 120.08133    | a'           |
+| 120.08078    | a'           |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/E-agrestis/449_Phe3334Gu_Ea.pdf)   | 449.37164 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/E-agrestis/449_Phe3334Gu_Ea_2.pdf)   | 225.18973 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/449_Phe3334Gu_Ea.pdf)   | 449.37108 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/449_Phe3334Gu_Ea_2.pdf)   | 225.18918 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/449_Phe3334Gu_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/449_Phe3334Gu_Pl.pdf) | 449.37164 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/449_Phe3334Gu_Pl_2.pdf) | 225.18973 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/449_Phe3334Gu_Pl.pdf) | 449.37108 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/449_Phe3334Gu_Pl_2.pdf) | 225.18918 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/449_Phe3334Gu_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

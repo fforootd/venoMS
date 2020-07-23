@@ -18,16 +18,16 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₂₈H₅₁N₈O₄⁺                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(C(N)CC1=CC=CC=C1)NC(CC(N)=O)C(NCCCCNC(C(N)CCCC[N+](C)(C)CCCN)=O)=O  |
+| InChI  | InChI=1S/C28H50N8O4/c1-36(2,18-10-14-29)17-9-6-13-22(30)26(38)33-15-7-8-16-34-28(40)24(20-25(32)37)35-27(39)23(31)19-21-11-4-3-5-12-21/h3-5,11-12,22-24H,6-10,13-20,29-31H2,1-2H3,(H4-,32,33,34,35,37,38,39,40)/p+1  |
 |                            |                    |
-| Precursor 1  M⁺         | 563.40332                   |
-| Precursor 2 [M+H]²⁺       | 282.20557                   |
+| Precursor 1  M⁺         | 563.40278                   |
+| Precursor 2 [M+H]²⁺       | 282.20503                   |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 11                   |
-| Precursor HDX    M(D₁₁)⁺   | 574.47237                   |
-| Precursor HDX 2 [M(D₁₁)+D]²⁺ | 288.24323                   |
+| Precursor HDX    M(D₁₁)⁺   | 574.47182                   |
+| Precursor HDX 2 [M(D₁₁)+D]²⁺ | 288.24269                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 4.58                   |
@@ -37,23 +37,23 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 262.11917 | 244.10861 | 245.09262 | 279.14572 | 58.06566 | 41.03911 | 103.12352 |
-| 2 | 333.19267 | 315.18211 | 316.16612 | 350.21922 | 214.19193 | 198.17320 | 231.21848 |
-| 3 | 461.28763 | 443.27707 | 444.26108 | 506.34548 | 285.26543 | 269.24670 | 302.29198 |
-| 4 | 546.37677 | 528.36621 | 529.35023 | 563.40332 | 399.30836 | 383.28963 | 416.33491 |
+| 1 | 262.11862 | 244.10805 | 245.09207 | 279.14517 | 58.06513 | 41.03858 | 103.12297 |
+| 2 | 333.19212 | 315.18155 | 316.16557 | 350.21867 | 214.19139 | 198.17266 | 231.21794 |
+| 3 | 461.28708 | 443.27652 | 444.26053 | 506.34493 | 285.26489 | 269.24616 | 302.29144 |
+| 4 | 546.37623 | 528.36566 | 529.34968 | 563.40278 | 399.30782 | 383.28909 | 416.33436 |
 
 ## Additional MS/MS fragments
 
 | m/z | Annotation |
 |-----|------------|
-| 120.08133    | a'           |
+| 120.08078    | a'           |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/563_PheAsn4Lys(Me2)3_Pb.pdf) | 563.40332 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/563_PheAsn4Lys(Me2)3_Pb_2.pdf) | 282.20557 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/563_PheAsn4Lys(Me2)3_Pb.pdf) | 563.40278 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/563_PheAsn4Lys(Me2)3_Pb_2.pdf) | 282.20503 |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/563_PheAsn4Lys(Me2)3_Pb_HDX.pdf) | HDX |           | P. bistriata | Spider Pharm, USA | Y. M. Forster |
 
 
