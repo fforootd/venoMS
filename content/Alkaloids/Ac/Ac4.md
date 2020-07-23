@@ -20,13 +20,13 @@ tags = ["S-3","C-1","Parawixia bistriata"]
 | SMILES |   |
 | InChI  |   |
 |                             |                     |
-| Precursor 1 [M+H]⁺          | 131.11844           |
-| Precursor 2 [M+2H]²⁺        | 66.06313            |
+| Precursor 1 [M+H]⁺          | 131.11789           |
+| Precursor 2 [M+2H]²⁺        | 66.06258            |
 | Precursor 3                 |                     |
 |                             |                     |
 | HDX                         | 3                   |
-| Precursor HDX 1 [M(D₃)+D]⁺   | 135.14354           |
-| Precursor HDX 2 [M(D₃)+2D]²⁺ | 68.57882            |
+| Precursor HDX 1 [M(D₃)+D]⁺   | 135.14300           |
+| Precursor HDX 2 [M(D₃)+2D]²⁺ | 68.57827            |
 | Precursor HDX 3             |                     |
 |                             |                     |
 | Rt                          | 1.34                    |
@@ -36,7 +36,7 @@ tags = ["S-3","C-1","Parawixia bistriata"]
 
 | # | a         | b        | c        | ta        | z        | y        | tz       |
 |---|-----------|----------|----------|-----------|----------|----------|----------|
-| 1 | 114.09189 | 96.08133 | 97.06534 | 114.09189 | 72.08132 | 55.05477 | 89.10787 |
+| 1 | 114.09134 | 96.08078 | 97.06479 | 114.09189 | 72.08078 | 55.05423 | 89.10732 |
 
 ## Additional MS/MS fragments
 
@@ -48,7 +48,7 @@ tags = ["S-3","C-1","Parawixia bistriata"]
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/P-bistriata/131_Ac4_Pb.pdf) | 131.11844 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/131_Ac4_Pb.pdf) | 131.11789 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/131_Ac4_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
