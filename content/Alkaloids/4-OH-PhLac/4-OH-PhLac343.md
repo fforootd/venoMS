@@ -21,16 +21,16 @@ tags = ["S-2","C-1",
 | Synonym                     | PA 366      |
 | Molecular formula           | C₁₉H₃₄N₄O₃  |
 | CAS                         | ---         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCCNCCCCNCCCNC(C(O)CC1=CC=C(O)C=C1)=O  |
+| InChI  | InChI=1S/C19H34N4O3/c20-9-3-12-21-10-1-2-11-22-13-4-14-23-19(26)18(25)15-16-5-7-17(24)8-6-16/h5-8,18,21-22,24-25H,1-4,9-15,20H2,(H,23,26)  |
 |                             |             |
-| Precursor 1 [M+H]⁺          | 367.27092   |
-| Precursor 2 [M+2H]²⁺        | 184.13937   |
+| Precursor 1 [M+H]⁺          | 367.27037   |
+| Precursor 2 [M+2H]²⁺        | 184.13882   |
 | Precursor 3                 |             |
 |                             |             |
 | HDX                         | 7           |
-| Precursor HDX 1 [M(D₇)+D]⁺   | 375.32113   |
-| Precursor HDX 2 [M(D₇)+2D]²⁺ | 188.66762   |
+| Precursor HDX 1 [M(D₇)+D]⁺   | 375.32058   |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 188.66707   |
 | Precursor HDX 3             |             |
 |                             |             |
 | Rt                          | 3.18            |
@@ -40,9 +40,9 @@ tags = ["S-2","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 222.11302 | 204.10245 | 205.08647 | 239.13957 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 293.18652 | 275.17595 | 276.15997 | 310.21307 | 129.13917 | 112.11262 | 146.16572 |
-| 3 | 350.24437 | 332.23380 | 333.21782 | 367.27092 | 186.19702 | 169.17047 | 203.22357 |
+| 1 | 222.11247 | 204.10191 | 205.08592 | 239.13902 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 293.18597 | 275.17540 | 276.15942 | 310.21252 | 129.13862 | 112.11208 | 146.16517 |
+| 3 | 350.24382 | 332.23325 | 333.21727 | 367.27037 | 186.19647 | 169.16993 | 203.22302 |
 
 ## Additional MS/MS fragments
 
@@ -54,7 +54,7 @@ tags = ["S-2","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/A-robustus/367_4-OH-PhLac343_Ar.pdf)   | 367.27092 |            | A. robustus | Alpha Biotoxin, BEL  | Y. M. Forster |
+| [Data](/pdf/A-robustus/367_4-OH-PhLac343_Ar.pdf)   | 367.27037 |            | A. robustus | Alpha Biotoxin, BEL  | Y. M. Forster |
 | [Data](/pdf/A-robustus/367_4-OH-PhLac343_Ar_HDX.pdf)   | HDX |            | A. robustus | Alpha Biotoxin, BEL  | Y. M. Forster |
 
 ## References
