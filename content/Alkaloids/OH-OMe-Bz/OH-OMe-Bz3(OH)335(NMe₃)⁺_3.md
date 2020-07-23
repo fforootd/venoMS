@@ -18,17 +18,17 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₂₅H₄₈N₅O₄⁺                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCN(O)CCCNCCCNCCCCC[N+](C)(C)C)C1=CC=CC=C1.CO.COC  |
+| InChI  | InChI=1S/C24H45N5O2.C2H6O.CH4O/c1-29(2,3)22-9-5-8-15-25-16-10-17-26-18-11-20-28(31)21-12-19-27-24(30)23-13-6-4-7-14-23;1-3-2;1-2/h4,6-7,13-14,25-26,31H,5,8-12,15-22H2,1-3H3;1-2H3;2H,1H3/p+1  |
 |                            |                    |
-| Precursor 1  M⁺         | 482.37063                   |
-| Precursor 2 [M+H]²⁺       | 241.68923                   |
-| Precursor 3 [(M+H)+CF₃CO₂]⁺              | 596.36349                   |
+| Precursor 1  M⁺         | 482.37008                   |
+| Precursor 2 [M+H]²⁺       | 241.68868                   |
+| Precursor 3 [(M+H)+CF₃CO₂]⁺              | 596.36295                   |
 |                            |                    |
 | HDX                        | 5                   |
-| Precursor HDX    M(D₅)⁺   | 487.40201                   |
-| Precursor HDX 2 [M(D₅)+D]²⁺ | 244.70806                   |
-| Precursor HDX 3 [(M(D₅)+D)+CF₃CO₂]⁺          | 602.40116                   |
+| Precursor HDX    M(D₅)⁺   | 4487.40147                   |
+| Precursor HDX 2 [M(D₅)+D]²⁺ | 244.70751                   |
+| Precursor HDX 3 [(M(D₅)+D)+CF₃CO₂]⁺          | 602.40061                   |
 |                            |                    |
 | Rt                         | 6.70                   |
 | Rt HDX                     | 5.25                   |
@@ -37,23 +37,23 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 208.09737 | 190.08681 | 191.07082 | 241.11883 | 128.14393 | 111.11738 | 146.17830 |
-| 2 | 281.15013 | 263.13957 | 264.12358 | 298.17668 | 185.20178 | 167.16740 | 203.23615 |
-| 3 | 338.20798 | 320.19742 | 321.18143 | 355.23453 | 242.25963 | 223.21743 | 276.28891 |
-| 4 | 423.29713 | 405.28657 | 406.27058 | 482.37063 | 315.31239 | 295.26236 | 333.34676 |
+| 1 | 208.09682 | 190.08626 | 191.07027 | 241.11828 | 128.14338 | 111.11683 | 146.17775 |
+| 2 | 281.14958 | 263.13902 | 264.12303 | 298.17613 | 185.20123 | 167.16685 | 203.23560 |
+| 3 | 338.20743 | 320.19687 | 321.18088 | 355.23398 | 242.25907 | 223.21688 | 276.28836 |
+| 4 | 423.29658 | 405.28602 | 406.27003 | 482.37008 | 315.31184 | 295.26181 | 333.34621 |
 
 ## Additional MS/MS fragments
 
 | m/z | Annotation |
 |-----|------------|
-| 151.03952 | a0           |
+| 151.03897 | a0           |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-luctuosa/482_OH-OMe-Bz3(OH)335(NMe3)_Pl.pdf) | 482.37063 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/482_OH-OMe-Bz3(OH)335(NMe3)_Pl_2.pdf) | 241.68923 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/482_OH-OMe-Bz3(OH)335(NMe3)_Pl.pdf) | 482.37008 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/482_OH-OMe-Bz3(OH)335(NMe3)_Pl_2.pdf) | 241.68868 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/482_OH-OMe-Bz3(OH)335(NMe3)_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
