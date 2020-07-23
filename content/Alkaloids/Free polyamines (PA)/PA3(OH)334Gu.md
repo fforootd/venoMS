@@ -23,16 +23,16 @@ tags = ["S-3","C-1",
 | Synonym                     | ---                |
 | Molecular formula           | C₁₄H₃₅N₇O          |
 | CAS                         | 864812-14-6        |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCCN(O)CCCNCCCNCCCCNC(N)=N  |
+| InChI  | InChI=1S/C14H35N7O/c15-6-3-12-21(22)13-5-10-19-9-4-8-18-7-1-2-11-20-14(16)17/h18-19,22H,1-13,15H2,(H4,16,17,20)  |
 |                             |                    |
-| Precursor 1 [M+H]⁺          | 318.29814          |
-| Precursor 2 [M+2H]²⁺        | 159.65298          |
+| Precursor 1 [M+H]⁺          | 318.29759          |
+| Precursor 2 [M+2H]²⁺        | 159.65243          |
 | Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 9                  |
-| Precursor HDX 1 [M(D₉)+D]⁺   | 328.36091          |
-| Precursor HDX 2 [M(D₉)+2D]²⁺ | 165.18750          |
+| Precursor HDX 1 [M(D₉)+D]⁺   | 328.36035          |
+| Precursor HDX 2 [M(D₉)+2D]²⁺ | 165.18695          |
 | Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          | 1.17                   |
@@ -42,10 +42,10 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 58.06568  | 40.05512  | 41.03913  | 91.08714  | 114.10312 | 97.07657  | 131.12967 |
-| 2 | 131.11844 | 113.10788 | 114.09189 | 148.14499 | 171.16097 | 154.13442 | 188.18752 |
-| 3 | 188.17629 | 170.16573 | 171.14974 | 205.20284 | 228.21882 | 211.19227 | 261.24028 |
-| 4 | 259.24979 | 241.23923 | 242.22324 | 318.29814 | 301.27158 | 284.24503 | 318.29813 |
+| 1 | 58.06513 | 40.05456 | 41.03858 | 91.08659 | 114.10257 | 97.07602 | 131.12912 |
+| 2 | 131.11789 | 113.10732 | 114.09134 | 148.14444 | 171.16042 | 154.13387 | 188.18697 |
+| 3 | 188.17574 | 170.16517 | 171.14919 | 205.20229 | 228.21827 | 211.19172 | 261.23974 |
+| 4 | 259.24924 | 241.23867 | 242.22269 | 318.29759 | 301.27104 | 284.24449 | 318.29759 |
 
 ## Additional MS/MS fragments
 
@@ -57,10 +57,10 @@ tags = ["S-3","C-1",
 
 | pdf                                               | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |---------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/E-agrestis/318_PA3(OH)334Gu_Ea.pdf)   | 318.29814 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/E-agrestis/318_PA3(OH)334Gu_Ea_2.pdf) | 159.65298 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/318_PA3(OH)334Gu_Ea.pdf)   | 318.29759 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/318_PA3(OH)334Gu_Ea_2.pdf) | 159.65243 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/318_PA3(OH)334Gu_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/318_PA3(OH)334Gu_Pl.pdf) | 318.29814 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/318_PA3(OH)334Gu_Pl.pdf) | 318.29759 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/318_PA3(OH)334Gu_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

@@ -16,16 +16,16 @@ tags = ["S-3","C-1","Larinioides cornutus"]
 | Synonym                     | ---          |
 | Molecular formula           | C₁₁H₂₈N₄  |
 | CAS                         | 56-19-9   |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCCN(C)CCCCNCCCN  |
+| InChI  | InChI=1S/C11H28N4/c1-15(11-5-7-13)10-3-2-8-14-9-4-6-12/h14H,2-13H2,1H3  |
 |                             |           |
-| Precursor 1 [M+H]⁺          | 217.23923 |
-| Precursor 2 [M+2H]²⁺        | 109.12353 |
+| Precursor 1 [M+H]⁺          | 217.23867 |
+| Precursor 2 [M+2H]²⁺        | 109.12297 |
 | Precursor 3                 |           |
 |                             |           |
 | HDX                         | 5         |
-| Precursor HDX 1 [M(D₅)+D]⁺   | 223.27689 |
-| Precursor HDX 2 [M(D₅)+2D]²⁺ | 112.64549 |
+| Precursor HDX 1 [M(D₅)+D]⁺   | 223.27633 |
+| Precursor HDX 2 [M(D₅)+2D]²⁺ | 112.64494 |
 | Precursor HDX 3             |           |
 |                             |           |
 | Rt                          | 1.07          |
@@ -35,9 +35,9 @@ tags = ["S-3","C-1","Larinioides cornutus"]
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 58.06568  | 40.05512  | 41.03913  | 89.10788  | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 143.15483 | 125.14427 | 126.12828 | 160.18138 | 129.13917 | 112.11262 | 160.18137 |
-| 3 | 200.21268 | 182.20212 | 183.18613 | 217.23923 | 200.21267 | 183.18612 | 217.23922 |
+| 1 | 58.06513 | 40.05456 | 41.03858 | 89.10732 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 143.15428 | 125.14371 | 126.12773 | 160.18082 | 129.13862 | 112.11208 | 160.18082 |
+| 3 | 200.21212 | 182.20156 | 183.18558 | 217.23867 | 200.21212 | 183.18558 | 217.23867 |
 
 ## Additional MS/MS fragments
 
@@ -49,7 +49,7 @@ tags = ["S-3","C-1","Larinioides cornutus"]
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/L-cornutus/217_PA3(Me)43_PA353_Lc.pdf) | 217.23923 | PA353          | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/217_PA3(Me)43_PA353_Lc.pdf) | 217.23867 | PA353          | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/217_PA3(Me)43_PA353_Lc_HDX.pdf) | HDX | PA353          | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References

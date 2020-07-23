@@ -20,16 +20,16 @@ tags = ["S-3","C-1",
 | Synonym                     | ---                |
 | Molecular formula           | C₈H₂₁N₅            |
 | CAS                         | 15271-46-2         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCCNCCCCNC(N)=N  |
+| InChI  | InChI=1S/C8H21N5/c9-4-3-6-12-5-1-2-7-13-8(10)11/h12H,1-7,9H2,(H4,10,11,13)  |
 |                             |                    |
-| Precursor 1 [M+H]⁺          | 188.18753          |
-| Precursor 2 [M+2H]²⁺        | 94.59768           |
+| Precursor 1 [M+H]⁺          | 188.18697          |
+| Precursor 2 [M+2H]²⁺        | 94.59712           |
 | Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 7                  |
-| Precursor HDX 1 [M(D₇)+D]⁺   | 196.23774          |
-| Precursor HDX 2 [M(D₇)+2D]²⁺ | 99.12592           |
+| Precursor HDX 1 [M(D₇)+D]⁺   | 196.23719          |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 99.12537           |
 | Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          | 1.10                   |
@@ -39,8 +39,8 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 58.06568  | 40.05512  | 41.03913  | 75.09223  | 114.10312 | 97.07657  | 131.12967 |
-| 2 | 129.13918 | 111.12862 | 112.11263 | 188.18753 | 171.16097 | 154.13442 | 188.18752 |
+| 1 | 58.06513 | 40.05456 | 41.03858 | 75.09167 | 114.10257 | 97.07602 | 131.12912 |
+| 2 | 129.13862 | 111.12806 | 112.11208 | 188.18697 | 171.16042 | 154.13387 | 188.18697 |
 
 ## Additional MS/MS fragments
 
@@ -51,7 +51,7 @@ tags = ["S-3","C-1",
 ## Recorded MS/MS spectra
 | pdf                                       | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/E-agrestis/188_PA34Gu_Ea.pdf) | 188.18753 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/188_PA34Gu_Ea.pdf) | 188.18697 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/188_PA34Gu_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

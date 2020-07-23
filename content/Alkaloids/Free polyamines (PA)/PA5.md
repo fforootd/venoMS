@@ -21,16 +21,16 @@ tags = ["S-1","C-3",
 | Synonym                     | Cadaverine  |
 | Molecular formula           | C₅H₁₄N₂     |
 | CAS                         | 462-94-2    |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCCCCN  |
+| InChI  | InChI=1S/C5H14N2/c6-4-2-1-3-5-7/h1-7H2  |
 |                             |             |
-| Precursor 1 [M+H]⁺          | 103.12353   |
-| Precursor 2 [M+2H]²⁺        | 52.06568    |
+| Precursor 1 [M+H]⁺          | 103.12297   |
+| Precursor 2 [M+2H]²⁺        | 52.06513    |
 | Precursor 3                 |             |
 |                             |             |
 | HDX                         | 4           |
-| Precursor HDX 1 [M(D₄)+D]⁺   | 108.15491   |
-| Precursor HDX 2 [M(D₄)+2D]²⁺ | 55.08451    |
+| Precursor HDX 1 [M(D₄)+D]⁺   | 108.15436   |
+| Precursor HDX 2 [M(D₄)+2D]²⁺ | 55.08396    |
 | Precursor HDX 3             |             |
 |                             |             |
 | Rt                          |             |
@@ -40,7 +40,7 @@ tags = ["S-1","C-3",
 
 | # | a        | b        | c        | ta       | z        | y        | tz        |
 |---|----------|----------|----------|----------|----------|----------|-----------|
-| 1 | 86.09698 | 68.08642 | 69.07043 | 86.09698 | 86.09697 | 69.07042 | 103.12352 |
+| 1 | 86.09643 | 68.08586 | 69.06988 | 86.09697 | 86.09643 | 69.06988 | 103.12297 |
 
 ## Additional MS/MS fragments
 

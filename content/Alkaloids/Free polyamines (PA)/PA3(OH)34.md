@@ -18,16 +18,16 @@ tags = ["S-3","C-3",
 | Synonym                     | ---                         |
 | Molecular formula           | C₁₀H₂₆N₄O                   |
 | CAS                         | 864812-09-9                 |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCCN(O)CCCNCCCCN  |
+| InChI  | InChI=1S/C10H26N4O/c11-5-1-2-7-13-8-4-10-14(15)9-3-6-12/h13,15H,1-12H2  |
 |                             |                             |
-| Precursor 1 [M+H]⁺          | 219.21849                   |
-| Precursor 2 [M+2H]²⁺        | 110.11316                   |
+| Precursor 1 [M+H]⁺          | 219.21794                   |
+| Precursor 2 [M+2H]²⁺        | 110.11261                   |
 | Precursor 3                 |                             |
 |                             |                             |
 | HDX                         | 6                           |
-| Precursor HDX 1 [M(D₆)+D]⁺   | 226.26242                   |
-| Precursor HDX 2 [M(D₆)+2D]²⁺ | 114.13826                   |
+| Precursor HDX 1 [M(D₆)+D]⁺   | 226.26188                   |
+| Precursor HDX 2 [M(D₆)+2D]²⁺ | 114.13771                   |
 | Precursor HDX 3             |                             |
 |                             |                             |
 | Rt                          | 1.08                            |
@@ -37,9 +37,9 @@ tags = ["S-3","C-3",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 58.06568  | 40.05512  | 41.03913  | 91.08714  | 72.08132  | 55.05477  | 89.10787  |
-| 2 | 131.11844 | 113.10788 | 114.09189 | 148.14499 | 129.13917 | 112.11262 | 162.16063 |
-| 3 | 202.19194 | 184.18138 | 185.16539 | 219.21849 | 202.19193 | 185.16538 | 219.21848 |
+| 1 | 58.06513 | 40.05456 | 41.03858 | 91.08659 | 72.08078 | 55.05423 | 89.10732 |
+| 2 | 131.11789 | 113.10732 | 114.09134 | 148.14444 | 129.13862 | 112.11208 | 162.16009 |
+| 3 | 202.19139 | 184.18082 | 185.16484 | 219.21794 | 202.19139 | 185.16484 | 219.21794 |
 
 ## Additional MS/MS fragments
 
@@ -51,7 +51,7 @@ tags = ["S-3","C-3",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/Hololena-sp/219_PA3(OH)34_PA3(OH)43_Ho-sp.pdf) | 219.21849 | PA3(OH)43          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/219_PA3(OH)34_PA3(OH)43_Ho-sp.pdf) | 219.21794 | PA3(OH)43          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/219_PA3(OH)34_PA3(OH)43_Ho-sp_HDX.pdf) | HDX | PA3(OH)43          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References

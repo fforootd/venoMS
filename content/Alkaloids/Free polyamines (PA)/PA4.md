@@ -21,16 +21,16 @@ tags = ["S-1","C-3",
 | Synonym                     | Putrescine  |
 | Molecular formula           | C₄H₁₂N₂     |
 | CAS                         | 110-60-1    |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCCCN  |
+| InChI  | InChI=1S/C4H12N2/c5-3-1-2-4-6/h1-6H2  |
 |                             |             |
-| Precursor 1 [M+H]⁺          | 89.10788    |
-| Precursor 2 [M+2H]²⁺        | 45.05785    |
+| Precursor 1 [M+H]⁺          | 89.10732    |
+| Precursor 2 [M+2H]²⁺        | 45.05730    |
 | Precursor 3                 |             |
 |                             |             |
 | HDX                         | 4           |
-| Precursor HDX 1 [M(D₄)+D]⁺   | 94.13926    |
-| Precursor HDX 2 [M(D₄)+2D]²⁺ | 48.07668    |
+| Precursor HDX 1 [M(D₄)+D]⁺   | 94.13871    |
+| Precursor HDX 2 [M(D₄)+2D]²⁺ | 48.07613    |
 | Precursor HDX 3             |             |
 |                             |             |
 | Rt                          |             |
@@ -40,7 +40,7 @@ tags = ["S-1","C-3",
 
 | # | a        | b        | c        | ta       | z        | y        | tz       |
 |---|----------|----------|----------|----------|----------|----------|----------|
-| 1 | 72.08133 | 54.07077 | 55.05478 | 72.08133 | 72.08132 | 55.05477 | 89.10787 |
+| 1 | 72.08078 | 54.07021 | 55.05423 | 72.08132 | 72.08078 | 55.05423 | 89.10732 |
 
 ## Additional MS/MS fragments
 
