@@ -21,13 +21,13 @@ tags = ["S-3","C-1",
 | SMILES | O=C(NCCCCN(O)CCCN)CC1=CNC2=C1C=CC=C2  |
 | InChI  | InChI=1S/C17H26N4O2/c18-8-5-11-21(23)10-4-3-9-19-17(22)12-14-13-20-16-7-2-1-6-15(14)16/h1-2,6-7,13,20,23H,3-5,8-12,18H2,(H,19,22)  |
 |                             |                  |
-| Precursor 1 [M+H]⁺          | 335.20831        |
-| Precursor 2 [M+2H]²⁺        | 168.10807        |
+| Precursor 1 [M+H]⁺          | 335.20777        |
+| Precursor 2 [M+2H]²⁺        | 168.10752        |
 | Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 6                |
-| Precursor HDX 1 [M(D₆)+D]⁺   | 342.25224        |
-| Precursor HDX 2 [M(D₆)+2D]²⁺ | 172.13317        |
+| Precursor HDX 1 [M(D₆)+D]⁺   | 342.25170        |
+| Precursor HDX 2 [M(D₆)+2D]²⁺ | 172.13263        |
 | Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 8.72             |
@@ -37,8 +37,8 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 245.12900 | 227.11844 | 228.10245 | 278.15046 | 58.06567  | 41.03912  | 91.08713  |
-| 2 | 318.18176 | 300.17120 | 301.15521 | 335.20831 | 145.13408 | 128.10753 | 162.16063 |
+| 1 | 245.12845 | 227.11789 | 228.10191 | 278.14992 | 58.06513 | 41.03858 | 91.08659 |
+| 2 | 318.18122 | 300.17065 | 301.15467 | 335.20777 | 145.13354 | 128.10699 | 162.16009 |
 
 ## Additional MS/MS fragments
 
@@ -51,7 +51,7 @@ tags = ["S-3","C-1",
 
 | pdf                                                                    | Precursor | Co-eluting       | Spider    | Source                       | Author        |
 |------------------------------------------------------------------------|-----------|------------------|-----------|------------------------------|---------------|
-| [Data](/pdf/A-aperta/335_4-OH-IndAc3(OH)4_4-OH-IndAc4(OH)3_Aa.pdf)     | 335.20831 | 4-OH-IndAc3(OH)4 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/335_4-OH-IndAc3(OH)4_4-OH-IndAc4(OH)3_Aa.pdf)     | 335.20777 | 4-OH-IndAc3(OH)4 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/335_4-OH-IndAc3(OH)4_4-OH-IndAc4(OH)3_Aa_HDX.pdf) | HDX       | 4-OH-IndAc3(OH)4 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

@@ -21,13 +21,13 @@ tags = ["S-3","C-1",
 | SMILES | O=C(CC1=CNC2=C1C(O)=CC=C2)NCCCNCCCNCCCNCCCCN  |
 | InChI  | InChI=1S/C23H40N6O2/c24-9-1-2-10-25-11-4-12-26-13-5-14-27-15-6-16-28-22(31)17-19-18-29-20-7-3-8-21(30)23(19)20/h3,7-8,18,25-27,29-30H,1-2,4-6,9-17,24H2,(H,28,31)  |
 |                             |                   |
-| Precursor 1 [M+H]⁺          | 433.32910         |
-| Precursor 2 [M+2H]²⁺        | 217.16846         |
+| Precursor 1 [M+H]⁺          | 433.32855         |
+| Precursor 2 [M+2H]²⁺        | 217.16791         |
 | Precursor 3                 |                   |
 |                             |                   |
 | HDX                         | 8                 |
-| Precursor HDX 1 [M(D₈)+D]⁺   | 442.38559         |
-| Precursor HDX 2 [M(D₈)+2D]²⁺ | 222.19984         |
+| Precursor HDX 1 [M(D₈)+D]⁺   | 442.38504         |
+| Precursor HDX 2 [M(D₈)+2D]²⁺ | 222.19930         |
 | Precursor HDX 3             |                   |
 |                             |                   |
 | Rt                          | 5.62              |
@@ -37,10 +37,10 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 231.11335 | 213.10279 | 214.08680 | 248.13990 | 72.08132  | 55.05477  | 89.10787  |
-| 2 | 288.17120 | 270.16064 | 271.14465 | 305.19775 | 129.13917 | 112.11262 | 146.16572 |
-| 3 | 345.22905 | 327.21849 | 328.20250 | 362.25560 | 186.19702 | 169.17047 | 203.22357 |
-| 4 | 416.30255 | 398.29199 | 399.27600 | 433.32910 | 243.25487 | 226.22832 | 260.28142 |
+| 1 | 231.11280 | 213.10224 | 214.08626 | 248.13935 | 72.08078 | 55.05423 | 89.10732 |
+| 2 | 288.17065 | 270.16009 | 271.14410 | 305.19720 | 129.13862 | 112.11208 | 146.16517 |
+| 3 | 345.22850 | 327.21794 | 328.20195 | 362.25505 | 186.19647 | 169.16993 | 203.22302 |
+| 4 | 416.30200 | 398.29144 | 399.27545 | 433.32855 | 243.25432 | 226.22777 | 260.28087 |
 
 ## Additional MS/MS fragments
 
@@ -53,18 +53,18 @@ tags = ["S-3","C-1",
 
 | pdf                                                                               | Precursor | Co-eluting                      | Spider    | Source                       | Author |
 |-----------------------------------------------------------------------------------|-----------|---------------------------------|-----------|------------------------------|---|
-| [Data](/pdf/A-aperta/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Aa.pdf)     | 433.32910 | 4-OH-IndAc3343 / 4-OH-IndAc3433 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-aperta/433_4-OH-IndAc3334_4-OH-IndAc3343_Aa_2.pdf)                  | 217.16846 | 4-OH-IndAc3343                  | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Aa.pdf)     | 433.32855 | 4-OH-IndAc3343 / 4-OH-IndAc3433 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/433_4-OH-IndAc3334_4-OH-IndAc3343_Aa_2.pdf)                  | 217.16791 | 4-OH-IndAc3343                  | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Aa_HDX.pdf) | HDX       | 4-OH-IndAc3343 / 4-OH-IndAc3433 | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Ap.pdf) | 433.32910 | 4-OH-IndAc3343 / 4-OH-IndAc3433 | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Ap_2.pdf) | 217.16846 | 4-OH-IndAc3343 / 4-OH-IndAc3433 | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Ap.pdf) | 433.32855 | 4-OH-IndAc3343 / 4-OH-IndAc3433 | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Ap_2.pdf) | 217.16791 | 4-OH-IndAc3343 / 4-OH-IndAc3433 | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/433_4-OH-IndAc3334_4-OH-IndAc3343_4-OH-IndAc3433_Ap_HDX.pdf) | HDX | 4-OH-IndAc3343 / 4-OH-IndAc3433 | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/433_4-OH-IndAc3334_Hc.pdf) | 433.32910 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/433_4-OH-IndAc3334_Hc.pdf) | 433.32855 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/433_4-OH-IndAc3334_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/433_4-OH-IndAc3334_4-OH-IndAc3343_Ho-sp.pdf) | 433.32910 | 4-OH-IndAc3343          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/433_4-OH-IndAc3334_4-OH-IndAc3343_Ho-sp_2.pdf) | 217.16846 | 4-OH-IndAc3343          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/433_4-OH-IndAc3334_4-OH-IndAc3343_Ho-sp.pdf) | 433.32855 | 4-OH-IndAc3343          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/433_4-OH-IndAc3334_4-OH-IndAc3343_Ho-sp_2.pdf) | 217.16791 | 4-OH-IndAc3343          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/433_4-OH-IndAc3334_4-OH-IndAc3343_Ho-sp_HDX.pdf) | HDX | 4-OH-IndAc3343          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/433_4-OH-IndAc3334_Pl.pdf) | 433.32910 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/433_4-OH-IndAc3334_Pl.pdf) | 433.32855 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/433_4-OH-IndAc3334_4-OH-IndAc3343_Pl_HDX.pdf) | HDX | 4-OH-IndAc3343          | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

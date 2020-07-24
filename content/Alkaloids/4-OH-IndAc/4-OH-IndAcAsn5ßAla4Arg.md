@@ -21,13 +21,13 @@ tags = ["S-4","C-1",
 | SMILES | O=C(NC(CC(N)=O)C(NCCCCCNC(CCNCCCCNC(C(N)CCCNC(N)=N)=O)=O)=O)CC1=CNC2=C1C(O)=CC=C2  |
 | InChI  | InChI=1S/C32H53N11O6/c33-22(8-7-16-41-32(35)36)30(48)39-15-5-4-12-37-17-11-27(46)38-13-2-1-3-14-40-31(49)24(19-26(34)45)43-28(47)18-21-20-42-23-9-6-10-25(44)29(21)23/h6,9-10,20,22,24,37,42,44H,1-5,7-8,11-19,33H2,(H2,34,45)(H,38,46)(H,39,48)(H,40,49)(H,43,47)(H4,35,36,41)  |
 |                              |                      |
-| Precursor 1 [M+H]⁺           | 688.42585            |
-| Precursor 2 [M+2H]²⁺         | 344.71684            |
+| Precursor 1 [M+H]⁺           | 688.42530            |
+| Precursor 2 [M+2H]²⁺         | 344.71629            |
 | Precursor 3                  |                      |
 |                              |                      |
 | HDX                          | 15                   |
-| Precursor HDX 1 [M(D₁₅)+D]⁺   | 704.52628            |
-| Precursor HDX 2 [M(D₁₅)+2D]²⁺ | 353.27019            |
+| Precursor HDX 1 [M(D₁₅)+D]⁺   | 704.52573            |
+| Precursor HDX 2 [M(D₁₅)+2D]²⁺ | 353.26964            |
 | Precursor HDX 3              |                      |
 |                              |                      |
 | Rt                           | 10.89                     |
@@ -37,10 +37,10 @@ tags = ["S-4","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 288.09843 | 270.08787 | 271.07188 | 305.12498 | 228.18244 | 211.15589 | 245.20899 |
-| 2 | 373.18758 | 355.17702 | 356.16103 | 390.21413 | 299.21955 | 282.19300 | 316.24610 |
-| 3 | 444.22469 | 426.21413 | 427.19814 | 461.25124 | 384.30870 | 367.28215 | 401.33525 |
-| 4 | 515.29819 | 497.28763 | 498.27164 | 688.42585 | 498.35163 | 481.32508 | 515.37818 |
+| 1 | 288.09788 | 270.08732 | 271.07133 | 305.12443 | 228.18189 | 211.15534 | 245.20844 |
+| 2 | 373.18703 | 355.17647 | 356.16048 | 390.21358 | 299.21900 | 282.19245 | 316.24555 |
+| 3 | 444.22415 | 426.21358 | 427.19760 | 461.25069 | 384.30815 | 367.28160 | 401.33470 |
+| 4 | 515.29764 | 497.28708 | 498.27110 | 688.42530 | 498.35108 | 481.32453 | 515.37763 |
 
 ## Additional MS/MS fragments
 
@@ -53,8 +53,8 @@ tags = ["S-4","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/688_4-OH-IndAcAsn5bAla4Arg_Nc.pdf) | 688.42585 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/688_4-OH-IndAcAsn5bAla4Arg_Nc_2.pdf) | 344.71684 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/688_4-OH-IndAcAsn5bAla4Arg_Nc.pdf) | 688.42530 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/688_4-OH-IndAcAsn5bAla4Arg_Nc_2.pdf) | 344.71629 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/688_4-OH-IndAcAsn5bAla4Arg_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References

@@ -21,13 +21,13 @@ tags = ["S-3","C-1",
 | SMILES | O=C(NCCCCCNCCCN)CC1=CNC2=C1C(O)=CC=C2  |
 | InChI  | InChI=1S/C18H28N4O2/c19-8-5-10-20-9-2-1-3-11-21-17(24)12-14-13-22-15-6-4-7-16(23)18(14)15/h4,6-7,13,20,22-23H,1-3,5,8-12,19H2,(H,21,24)  |
 |                             |                    |
-| Precursor 1 [M+H]⁺          | 333.22905          |
-| Precursor 2 [M+2H]²⁺        | 167.11844          |
+| Precursor 1 [M+H]⁺          | 333.22850          |
+| Precursor 2 [M+2H]²⁺        | 167.11789          |
 | Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 6                  |
-| Precursor HDX 1 [M(D₆)+D]⁺   | 340.27298          |
-| Precursor HDX 2 [M(D₆)+2D]²⁺ | 171.14354          |
+| Precursor HDX 1 [M(D₆)+D]⁺   | 340.27244          |
+| Precursor HDX 2 [M(D₆)+2D]²⁺ | 171.14300          |
 | Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          | 9.14                   |
@@ -37,8 +37,8 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 259.14465 | 241.13409 | 242.11810 | 276.17120 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 316.20250 | 298.19194 | 299.17595 | 333.22905 | 143.15482 | 126.12827 | 160.18137 |
+| 1 | 259.14410 | 241.13354 | 242.11756 | 276.17065 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 316.20195 | 298.19139 | 299.17540 | 333.22850 | 143.15428 | 126.12773 | 160.18082 |
 
 ## Additional MS/MS fragments
 
@@ -51,7 +51,7 @@ tags = ["S-3","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/P-luctuosa/333_4-OH-IndAc53_Pl.pdf) | 333.22905 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/333_4-OH-IndAc53_Pl.pdf) | 333.22850 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/333_4-OH-IndAc53_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

@@ -23,13 +23,13 @@ tags = ["S-3","C-1",
 | SMILES | O=C(NCCCN(O)CCCNCCCCNC(N)=N)CC1=CNC2=C1C(O)=CC=C2  |
 | InChI  | InChI=1S/C21H35N7O3/c22-21(23)26-10-2-1-8-24-9-4-12-28(31)13-5-11-25-19(30)14-16-15-27-17-6-3-7-18(29)20(16)17/h3,6-7,15,24,27,29,31H,1-2,4-5,8-14H2,(H,25,30)(H4,22,23,26)  |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 434.28796                   |
-| Precursor 2 [M+2H]²⁺       | 217.64789                   |
+| Precursor 1 [M+H]⁺         | 434.28741                   |
+| Precursor 2 [M+2H]²⁺       | 217.64735                   |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 9                   |
-| Precursor HDX   [M(D₉)+D]⁺   | 444.35073                   |
-| Precursor HDX 2 [M(D₉)+2D]²⁺ | 223.18241                   |
+| Precursor HDX   [M(D₉)+D]⁺   | 444.35018                   |
+| Precursor HDX 2 [M(D₉)+2D]²⁺ | 223.18187                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 8.92                   |
@@ -39,9 +39,9 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 231.11335 | 213.10279 | 214.08680 | 264.13481 | 114.10312 | 97.07657 | 131.12967 |
-| 2 | 304.16611 | 286.15555 | 287.13956 | 321.19266 | 171.16097 | 154.13442 | 204.18243 |
-| 3 | 375.23961 | 357.22905 | 358.21306 | 434.28796 | 244.21373 | 227.18718 | 261.24028 |
+| 1 | 231.11280 | 213.10224 | 214.08626 | 264.13427 | 114.10257 | 97.07602 | 131.12912 |
+| 2 | 304.16557 | 286.15500 | 287.13902 | 321.19212 | 171.16042 | 154.13387 | 204.18189 |
+| 3 | 375.23907 | 357.22850 | 358.21252 | 434.28741 | 244.21319 | 227.18664 | 261.23974 |
 
 ## Additional MS/MS fragments
 
@@ -54,10 +54,10 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/E-agrestis/434_4-OH-IndAc3(OH)34Gu_Ea.pdf)   | 434.28796 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/434_4-OH-IndAc3(OH)34Gu_Ea.pdf)   | 434.28741 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/434_4-OH-IndAc3(OH)34Gu_Ea_HDX.pdf)   | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/434_4-OH-IndAc3(OH)34Gu_Pl.pdf) | 434.28796 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/434_4-OH-IndAc3(OH)34Gu_Pl_2.pdf) | 217.64789 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/434_4-OH-IndAc3(OH)34Gu_Pl.pdf) | 434.28741 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/434_4-OH-IndAc3(OH)34Gu_Pl_2.pdf) | 217.64735 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/434_4-OH-IndAc3(OH)34Gu_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

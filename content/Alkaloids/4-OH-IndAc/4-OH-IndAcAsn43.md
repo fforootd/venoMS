@@ -21,13 +21,13 @@ tags = ["S-3","C-1",
 | SMILES | O=C(CC1=CNC2=C1C(O)=CC=C2)NC(CC(N)=O)C(NCCCCNCCCN)=O  |
 | InChI  | InChI=1S/C21H32N6O4/c22-7-4-9-24-8-1-2-10-25-21(31)16(12-18(23)29)27-19(30)11-14-13-26-15-5-3-6-17(28)20(14)15/h3,5-6,13,16,24,26,28H,1-2,4,7-12,22H2,(H2,23,29)(H,25,31)(H,27,30)  |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 433.25633                   |
-| Precursor 2 [M+2H]²⁺       | 217.13208                   |
+| Precursor 1 [M+H]⁺         | 433.25578                   |
+| Precursor 2 [M+2H]²⁺       | 217.13153                   |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 9                   |
-| Precursor HDX   [M(D₉)+D]⁺   | 443.31909                   |
-| Precursor HDX 2 [M(D₉)+2D]²⁺ | 222.66660                   |
+| Precursor HDX   [M(D₉)+D]⁺   | 443.31855                   |
+| Precursor HDX 2 [M(D₉)+2D]²⁺ | 222.66605                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 5.97                   |
@@ -37,9 +37,9 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 288.09843 | 270.08787 | 271.07188 | 305.12498 | 58.06567 | 41.03912 | 75.09222 |
-| 2 | 359.17193 | 341.16137 | 342.14538 | 376.19848 | 129.13917 | 112.11262 | 146.16572 |
-| 3 | 416.22978 | 398.21922 | 399.20323 | 433.25633 | 243.18210 | 226.15555 | 260.20865 |
+| 1 | 288.09788 | 270.08732 | 271.07133 | 305.12443 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 359.17138 | 341.16082 | 342.14483 | 376.19793 | 129.13862 | 112.11208 | 146.16517 |
+| 3 | 416.22923 | 398.21867 | 399.20268 | 433.25578 | 243.18155 | 226.15500 | 260.20810 |
 
 ## Additional MS/MS fragments
 
@@ -52,9 +52,9 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/L-cornutus/433_4-OH-IndAcAsn43_Lc.pdf) | 433.25633 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/433_4-OH-IndAcAsn43_Lc.pdf) | 433.25578 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/433_4-OH-IndAcAsn43_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/433_4-OH-IndAcAsn43_Nc.pdf) | 433.25633 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/433_4-OH-IndAcAsn43_Nc.pdf) | 433.25578 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/433_4-OH-IndAcAsn43_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 

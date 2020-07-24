@@ -21,13 +21,13 @@ tags = ["S-1","C-1",
 | SMILES | NCCCNCCCNCCCNCCCCCNC(CC1=CNC2=C1C(O)=CC=C2)=O  |
 | InChI  | InChI=1S/C24H42N6O2/c25-10-5-12-27-14-7-16-28-15-6-13-26-11-2-1-3-17-29-23(32)18-20-19-30-21-8-4-9-22(31)24(20)21/h4,8-9,19,26-28,30-31H,1-3,5-7,10-18,25H2,(H,29,32)  |
 |                             |                         |
-| Precursor 1 [M+H]⁺          | 447.34475               |
-| Precursor 2 [M+2H]²⁺        | 224.17629               |
+| Precursor 1 [M+H]⁺          | 447.34420               |
+| Precursor 2 [M+2H]²⁺        | 224.17574               |
 | Precursor 3                 |                         |
 |                             |                         |
 | HDX                         | 8                       |
-| Precursor HDX 1 [M(D₈)+D]⁺   | 456.40124               |
-| Precursor HDX 2 [M(D₈)+2D]²⁺ | 229.20767               |
+| Precursor HDX 1 [M(D₈)+D]⁺   | 456.40069               |
+| Precursor HDX 2 [M(D₈)+2D]²⁺ | 229.20712               |
 | Precursor HDX 3             |                         |
 |                             |                         |
 | Rt                          | 8.62                        |
@@ -37,10 +37,10 @@ tags = ["S-1","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 259.14465 | 241.13409 | 242.11810 | 276.17120 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 316.20250 | 298.19194 | 299.17595 | 333.22905 | 115.12352 | 98.09697  | 132.15007 |
-| 3 | 373.26035 | 355.24979 | 356.23380 | 390.28690 | 172.18137 | 155.15482 | 189.20792 |
-| 4 | 430.31820 | 412.30764 | 413.29165 | 447.34475 | 257.27052 | 240.24397 | 274.29707 |
+| 1 | 259.14410 | 241.13354 | 242.11756 | 276.17065 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 316.20195 | 298.19139 | 299.17540 | 333.22850 | 115.12297 | 98.09643 | 132.14952 |
+| 3 | 373.25980 | 355.24924 | 356.23325 | 390.28635 | 172.18082 | 155.15428 | 189.20737 |
+| 4 | 430.31765 | 412.30709 | 413.29110 | 447.34420 | 257.26997 | 240.24342 | 274.29652 |
 
 ## Additional MS/MS fragments
 
@@ -53,8 +53,8 @@ tags = ["S-1","C-1",
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/P-luctuosa/447_4-OH-IndAc5333_Pl.pdf) | 447.34475 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/447_4-OH-IndAc5333_Pl_2.pdf) | 224.17629 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/447_4-OH-IndAc5333_Pl.pdf) | 447.34420 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/447_4-OH-IndAc5333_Pl_2.pdf) | 224.17574 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/447_4-OH-IndAc5333_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

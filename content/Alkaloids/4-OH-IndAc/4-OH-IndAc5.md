@@ -21,13 +21,13 @@ tags = ["S-3","C-1",
 | SMILES | O=C(NCCCCCN)CC1=CNC2=C1C(O)=CC=C2  |
 | InChI  | InChI=1S/C15H21N3O2/c16-7-2-1-3-8-17-14(20)9-11-10-18-12-5-4-6-13(19)15(11)12/h4-6,10,18-19H,1-3,7-9,16H2,(H,17,20)  |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 276.17120                   |
-| Precursor 2 [M+2H]²⁺       | 138.58951                   |
+| Precursor 1 [M+H]⁺         | 276.17065                   |
+| Precursor 2 [M+2H]²⁺       | 138.58896                   |
 | Precursor 3                |                    |
 |                            |                    |
 | HDX                        | 5                    |
-| Precursor HDX   [M(D₅)+D]⁺   | 282.20886                   |
-| Precursor HDX 2 [M(D₅)+2D]²⁺ | 142.11148                   |
+| Precursor HDX   [M(D₅)+D]⁺   | 282.20831                   |
+| Precursor HDX 2 [M(D₅)+2D]²⁺ | 142.11093                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 10.83                   |
@@ -37,7 +37,7 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 259.14465 | 241.13409 | 242.11810 | 259.14465 | 86.09697 | 69.07042 | 103.12352 |
+| 1 | 259.14410 | 241.13354 | 242.11756 | 259.14465 | 86.09643 | 69.06988 | 103.12297 |
 
 ## Additional MS/MS fragments
 
@@ -50,7 +50,7 @@ tags = ["S-3","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-luctuosa/276_4-OH-IndAc5_Pl.pdf) | 276.17120  |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/276_4-OH-IndAc5_Pl.pdf) | 276.17065  |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/276_4-OH-IndAc5_Pl_HDX.pdf) | HDX  |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 

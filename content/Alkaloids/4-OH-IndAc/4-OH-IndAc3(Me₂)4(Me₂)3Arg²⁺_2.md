@@ -21,14 +21,14 @@ tags = ["S-1","C-1",
 | SMILES | O=C(CC1=CNC2=C1C(O)=CC=C2)NCCC[N+](C)(C)CCCC[N+](C)(C)CCCNC(C(N)CCCNC(N)=N)=O  |
 | InChI  | InChI=1S/C30H53N9O3/c1-38(2,19-9-15-34-27(41)21-23-22-37-25-12-7-13-26(40)28(23)25)17-5-6-18-39(3,4)20-10-16-35-29(42)24(31)11-8-14-36-30(32)33/h7,12-13,22,24,37H,5-6,8-11,14-21,31H2,1-4H3,(H5-2,32,33,34,35,36,40,41,42)/p+2  |
 |                            |                    |
-| Precursor 1  M²⁺         | 294.72139                   |
-| Precursor 2 [(M+H)+CF₃CO₂]²⁺       | 351.71782                   |
-| Precursor 3 [(M+H)+2(CF₃CO₂)]⁺               | 816.42069                   |
+| Precursor 1  M²⁺         | 294.72084                   |
+| Precursor 2 [(M+H)+CF₃CO₂]²⁺       | 351.71700                   |
+| Precursor 3 [(M+H)+2(CF₃CO₂)]⁺               | 816.41740                   |
 |                            |                    |
 | HDX                        | 10                   |
-| Precursor HDX    M(D₁₀)²⁺   | 299.75277                   |
-| Precursor HDX 2 [(M(D₁₀)+D)+CF₃CO₂]²⁺ | 357.25235                   |
-| Precursor HDX 3 [(M(D₁₀)+D)+2(CF₃CO₂)]²⁺           | 827.48973                   |
+| Precursor HDX    M(D₁₀)²⁺   | 299.75223                   |
+| Precursor HDX 2 [(M(D₁₀)+D)+CF₃CO₂]²⁺ | 357.25152                   |
+| Precursor HDX 3 [(M(D₁₀)+D)+2(CF₃CO₂)]²⁺           | 827.48644                   |
 |                            |                    |
 | Rt                         | 6.98                   |
 | Rt HDX                     | 5.35                   |
@@ -37,9 +37,9 @@ tags = ["S-1","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 231.11335 | 213.10279 | 214.08680 | 276.17120 | 214.16678 | 197.14023 | 259.22463 |
-| 2 | 330.21814 | 312.20758 | 313.19160 | 375.27600 | 313.27157 | 297.25285 | 358.32943 |
-| 3 | 415.30729 | 397.29673 | 398.28074 | 588.43495 | 398.36073 | 383.34983 | 415.38728 |
+| 1 | 231.11280 | 213.10224 | 214.08626 | 276.17065 | 214.16624 | 197.13969 | 259.22409 |
+| 2 | 330.21760 | 312.20704 | 313.19105 | 375.27545 | 313.27104 | 297.25231 | 358.32889 |
+| 3 | 415.30675 | 397.29619 | 398.28020 | 588.43441 | 398.36019 | 383.34929 | 415.38673 |
 
 ## Additional MS/MS fragments
 
@@ -52,9 +52,9 @@ tags = ["S-1","C-1",
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb.pdf) | 294.72139 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
-| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_2.pdf) | 351.71782 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
-| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_3.pdf) | 816.42069 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb.pdf) | 294.72084 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_2.pdf) | 351.71700 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_3.pdf) | 816.41740 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
 | [Data](/pdf/P-bistriata/589_4-OH-IndAc3(Me2)4(Me2)3Arg_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
 
 
