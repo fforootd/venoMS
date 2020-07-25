@@ -1,6 +1,6 @@
 +++
 title = "4-OH-IndAc3(OH)335(NMe)"
-categories = ["C25H44N6O3","P477","D239","HDX484",
+categories = ["C25H44N6O3","P477","D239","HDX485",
 "4-OH-IndAc3(OH)335(NMe)","3(OH)335(NMe)",
 "Agelenidae"]
 tags = ["S-3","C-1",

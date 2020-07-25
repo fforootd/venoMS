@@ -25,11 +25,11 @@ tags = ["S-1","C-1",
 | SMILES | O=C(NCCCCNCCCNCCCNCCCN)CC1=CNC2=C1C=CC=C2  |
 | InChI  | InChI=1S/C23H40N6O/c24-10-5-12-26-14-7-16-27-15-6-13-25-11-3-4-17-28-23(30)18-20-19-29-22-9-2-1-8-21(20)22/h1-2,8-9,19,25-27,29H,3-7,10-18,24H2,(H,28,30)  |
 |                             |                   |
-| Precursor 1 [M+H]⁺          | 417.33364         |
-| Precursor 2 [M+2H]²⁺        | 209.17046         |
-| Precursor 3                 |                   |
-|                             |                   |
-| HDX                         | 7                 |
+| Precursor 1 [M+H]⁺          | 417.33364                                            |
+| Precursor 2 [M+2H]²⁺        | 209.17046                                            |
+| Precursor 3                 |                                                      |
+|                             |                                                      |
+| HDX                         | 7                                                    |
 | Precursor HDX 1 [M(D₇)+D]⁺   | 425.38385                                            |
 | Precursor HDX 2 [M(D₇)+2D]²⁺ | 213.69870                                            |
 | Precursor HDX 3             |                   |
@@ -50,8 +50,8 @@ tags = ["S-1","C-1",
 
 | m/z       | Annotation |
 |-----------|------------|
-| 130.06568 | a'         |
-| 158.06059 | a0         |
+| 130.06513 | a'         |
+| 158.06004 | a0         |
 
 ## Recorded MS/MS spectra
 

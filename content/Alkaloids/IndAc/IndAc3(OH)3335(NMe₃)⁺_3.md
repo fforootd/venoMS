@@ -25,14 +25,14 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                             |                  |
-| Precursor 1  M⁺            | 546.44955        |
-| Precursor 2 [M+H]²⁺         | 273.72869        |
-| Precursor 3 [(M+H)+CF₃CO₂]⁺        | 660.44241        |
+| Precursor 1  M⁺            | 546.44900        |
+| Precursor 2 [M+H]²⁺         | 273.72814        |
+| Precursor 3 [(M+H)+CF₃CO₂]⁺        | 660.44186        |
 |                             |                  |
 | HDX                         | 6                |
-| Precursor HDX 1  M(D₆)⁺      | 552.48721        |
-| Precursor HDX 2 [M(D₆)+D]²⁺  | 277.25066        |
-| Precursor HDX 3 [(M(D₆)+D)+CF₃CO₂]⁺ | 667.48635        |
+| Precursor HDX 1  M(D₆)⁺      | 552.48666        |
+| Precursor HDX 2 [M(D₆)+D]²⁺  | 277.25011        |
+| Precursor HDX 3 [(M(D₆)+D)+CF₃CO₂]⁺ | 667.48580        |
 |                             |                  |
 | Rt                          | 10.10            |
 | Rt HDX                      | 8.42             |
@@ -41,39 +41,39 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 215.11844 | 197.10788 | 198.09189 | 248.13990 | 128.14393 | 111.11738 | 146.17830 |
-| 2 | 288.17120 | 270.16064 | 271.14465 | 305.19775 | 185.20178 | 167.16740 | 203.23615 |
-| 3 | 345.22905 | 327.21849 | 328.20250 | 362.25560 | 242.25963 | 223.21743 | 260.29400 |
-| 4 | 402.28690 | 384.27634 | 385.26035 | 419.31345 | 299.31748 | 279.26745 | 333.34676 |
-| 5 | 487.37605 | 469.36549 | 470.34950 | 546.44955 | 372.37024 | 351.31239 | 390.40461 |
+| 1 | 215.11789 | 197.10732 | 198.09134 | 248.13935 | 128.14338 | 111.11683 | 146.17775 |
+| 2 | 288.17065 | 270.16009 | 271.14410 | 305.19720 | 185.20123 | 167.16685 | 203.23560 |
+| 3 | 345.22850 | 327.21794 | 328.20195 | 362.25505 | 242.25907 | 223.21688 | 260.29345 |
+| 4 | 402.28635 | 384.27579 | 385.25980 | 419.31290 | 299.31692 | 279.26690 | 333.34621 |
+| 5 | 487.37550 | 469.36494 | 470.34895 | 546.44900 | 372.36969 | 351.31184 | 390.40406 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
 | 86.09697  | tz1-NMe₃   |
-| 98.09697  | y2'        |
-| 114.09189 | y2'        |
-| 130.06568 | a'         |
-| 126.12827 | z2-NMe₃    |
-| 143.15482 | tz2-NMe₃   |
-| 183.18612 | z3-NMe₃    |
-| 200.21267 | tz3-NMe₃   |
-| 240.24397 | z4-NMe₃    |
-| 273.26544 | tz4-NMe₃   |
-| 330.32329 | tz5-NMe₃   |
+| 98.09643  | y2'        |
+| 114.09134 | y2'        |
+| 130.06513 | a'         |
+| 126.12773 | z2-NMe₃    |
+| 143.15428 | tz2-NMe₃   |
+| 183.18558 | z3-NMe₃    |
+| 200.21212 | tz3-NMe₃   |
+| 240.24342 | z4-NMe₃    |
+| 273.26489 | tz4-NMe₃   |
+| 330.32274 | tz5-NMe₃   |
 
 ## Recorded MS/MS spectra
 
 | pdf                                                       | Precursor | Co-eluting | Spider    | Source                       | Author        |
 |-----------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
-| [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa.pdf)     | 546.44955 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa_2.pdf)   | 273.72869 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa.pdf)     | 546.44900 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa_2.pdf)   | 273.72814 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/546_IndAc3(OH)3335(NMe3)_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/546_IndAc3(OH)3335(NMe3)_Hc.pdf) | 546.44955 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/546_IndAc3(OH)3335(NMe3)_Hc_2.pdf) | 273.72869 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/546_IndAc3(OH)3335(NMe3)_Hc.pdf) | 546.44900 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/546_IndAc3(OH)3335(NMe3)_Hc_2.pdf) | 273.72814 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/546_IndAc3(OH)3335(NMe3)_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/546_IndAc3(OH)3335(NMe3)_Ho-sp_2.pdf) | 273.72869 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/546_IndAc3(OH)3335(NMe3)_Ho-sp_2.pdf) | 273.72814 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/546_IndAc3(OH)3335(NMe3)_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References

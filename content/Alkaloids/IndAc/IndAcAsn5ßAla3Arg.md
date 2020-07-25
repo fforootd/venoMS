@@ -21,13 +21,13 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                              |                            |
-| Precursor 1 [M+H]⁺           | 658.41529                  |
-| Precursor 2 [M+2H]²⁺         | 329.71156                  |
+| Precursor 1 [M+H]⁺           | 658.41474                  |
+| Precursor 2 [M+2H]²⁺         | 329.71101                  |
 | Precursor 3                  |                            |
 |                              |                            |
 | HDX                          | 14                         |
-| Precursor HDX 1 [M(D₁₄)+D]⁺   | 673.50944                  |
-| Precursor HDX 2 [M(D₁₄)+2D]²⁺ | 337.76177                  |
+| Precursor HDX 1 [M(D₁₄)+D]⁺   | 673.50889                  |
+| Precursor HDX 2 [M(D₁₄)+2D]²⁺ | 337.76122                  |
 | Precursor HDX 3              |                            |
 |                              |                            |
 | Rt                           | 12.93                           |
@@ -37,24 +37,24 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 272.10352 | 254.09296 | 255.07697 | 289.13007 | 214.16679 | 197.14024 | 231.19334 |
-| 2 | 357.19267 | 339.18211 | 340.16612 | 374.21922 | 285.20390 | 268.17735 | 302.23045 |
-| 3 | 428.22978 | 410.21922 | 411.20323 | 445.25633 | 370.29305 | 353.26650 | 387.31960 |
-| 4 | 485.28763 | 467.27707 | 468.26108 | 658.41529 | 484.33598 | 467.30943 | 501.36253 |
+| 1 | 272.10297 | 254.09240 | 255.07642 | 289.12952 | 214.16624 | 197.13969 | 231.19279 |
+| 2 | 357.19212 | 339.18155 | 340.16557 | 374.21867 | 285.20335 | 268.17680 | 302.22990 |
+| 3 | 428.22923 | 410.21867 | 411.20268 | 445.25578 | 370.29250 | 353.26595 | 387.31905 |
+| 4 | 485.28708 | 467.27652 | 468.26053 | 658.41474 | 484.33543 | 467.30888 | 501.36198 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 130.06568 | a'         |
-| 158.06059 | a0         |
+| 130.06513 | a'         |
+| 158.06004 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/N-clavipes/658_IndAcAsn5bAla3Arg_Nc.pdf) | 658.41529 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/658_IndAcAsn5bAla3Arg_Nc_2.pdf) | 329.71156 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/658_IndAcAsn5bAla3Arg_Nc.pdf) | 658.41474 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/658_IndAcAsn5bAla3Arg_Nc_2.pdf) | 329.71101 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/658_IndAcAsn5bAla3Arg_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References

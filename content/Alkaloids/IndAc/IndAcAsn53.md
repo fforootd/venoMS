@@ -21,13 +21,13 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                             |                      |
-| Precursor 1 [M+H]⁺          | 431.27707            |
-| Precursor 2 [M+2H]²⁺        | 216.14245            |
+| Precursor 1 [M+H]⁺          | 431.27652            |
+| Precursor 2 [M+2H]²⁺        | 216.14190            |
 | Precursor 3                 |                      |
 |                             |                      |
 | HDX                         | 8                    |
-| Precursor HDX 1 [M(D₈)+D]⁺   | 440.33356            |
-| Precursor HDX 2 [M(D₈)+2D]²⁺ | 221.17383            |
+| Precursor HDX 1 [M(D₈)+D]⁺   | 440.33301            |
+| Precursor HDX 2 [M(D₈)+2D]²⁺ | 221.17328            |
 | Precursor HDX 3             |                      |
 |                             |                      |
 | Rt                          | 10.15                     |
@@ -37,22 +37,22 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 272.10352 | 254.09296 | 255.07697 | 289.13007 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 357.19267 | 339.18211 | 340.16612 | 374.21922 | 143.15482 | 126.12827 | 160.18137 |
-| 3 | 414.25052 | 396.23996 | 397.22397 | 431.27707 | 257.19775 | 240.17120 | 274.22430 |
+| 1 | 272.10297 | 254.09240 | 255.07642 | 289.12952 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 357.19212 | 339.18155 | 340.16557 | 374.21867 | 143.15428 | 126.12773 | 160.18082 |
+| 3 | 414.24997 | 396.23940 | 397.22342 | 431.27652 | 257.19720 | 240.17065 | 274.22375 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 130.06568 | a'         |
-| 158.06059 | a0         |
+| 130.06513 | a'         |
+| 158.06004 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/L-cornutus/431_IndAcAsn53_Lc.pdf) | 431.27707 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/431_IndAcAsn53_Lc.pdf) | 431.27652 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/431_IndAcAsn53_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References

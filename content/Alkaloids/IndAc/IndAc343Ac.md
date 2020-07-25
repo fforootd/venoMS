@@ -1,6 +1,6 @@
 +++
 title = "IndAc343Ac"
-categories = ["C22H35N5O2","P402","D201","HDX407",
+categories = ["C22H35N5O2","P402","D201","HDX408",
 "IndAc343Ac","343Ac",
 "Agelenidae"]
 tags = ["S-3","C-1",
@@ -21,13 +21,13 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 402.28690                   |
-| Precursor 2 [M+2H]²⁺       | 201.64736                   |
+| Precursor 1 [M+H]⁺         | 402.28635                   |
+| Precursor 2 [M+2H]²⁺       | 201.64681                   |
 | Precursor 3                |                    |
 |                            |                    |
-| HDX                        | 4                   |
-| Precursor HDX   [M(D₄)+D]⁺   | 407.31829                   |
-| Precursor HDX 2 [M(D₄)+2D]²⁺ | 204.66620                   |
+| HDX                        | 5                   |
+| Precursor HDX   [M(D₅)+D]⁺   | 408.32401                   |
+| Precursor HDX 2 [M(D₅)+2D]²⁺ | 205.16878                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 11.08                   |
@@ -37,22 +37,22 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 215.11844 | 197.10788 | 198.09189 | 232.14499 | 100.07624 | 83.04969 | 117.10279 |
-| 2 | 286.19194 | 268.18138 | 269.16539 | 303.21849 | 171.14974 | 154.12319 | 188.17629 |
-| 3 | 343.24979 | 325.23923 | 326.22324 | 402.28690 | 228.20759 | 211.18104 | 245.23414 |
+| 1 | 215.11789 | 197.10732 | 198.09134 | 232.14444 | 100.07569 | 83.04914 | 117.10224 |
+| 2 | 286.19139 | 268.18082 | 269.16484 | 303.21794 | 171.14919 | 154.12264 | 188.17574 |
+| 3 | 343.24924 | 325.23867 | 326.22269 | 402.28635 | 228.20704 | 211.18049 | 245.23359 |
 
 ## Additional MS/MS fragments
 
 | m/z | Annotation |
 |-----|------------|
-| 130.06568 | a'         |
-| 158.06059 | a0         |
+| 130.06513 | a'         |
+| 158.06004 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/Hololena-sp/402_IndAc343Ac_Ho-sp.pdf) | 402.28690 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/402_IndAc343Ac_Ho-sp.pdf) | 402.28635 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/402_IndAc343Ac_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 

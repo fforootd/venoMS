@@ -25,13 +25,13 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                             |                  |
-| Precursor 1 [M+H]⁺          | 475.35090        |
-| Precursor 2 [M+2H]²⁺        | 238.17936        |
+| Precursor 1 [M+H]⁺          | 475.35035        |
+| Precursor 2 [M+2H]²⁺        | 238.17881        |
 | Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 9                |
-| Precursor HDX 1 [M(D₉)+D]⁺   | 485.41367        |
-| Precursor HDX 2 [M(D₉)+2D]²⁺ | 243.71388        |
+| Precursor HDX 1 [M(D₉)+D]⁺   | 485.41312        |
+| Precursor HDX 2 [M(D₉)+2D]²⁺ | 243.71333        |
 | Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 10.56            |
@@ -41,32 +41,32 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 215.11844 | 197.10788 | 198.09189 | 248.13990 | 114.10312 | 97.07657  | 131.12967 |
-| 2 | 288.17120 | 270.16064 | 271.14465 | 305.19775 | 171.16097 | 154.13442 | 188.18752 |
-| 3 | 345.22905 | 327.21849 | 328.20250 | 362.25560 | 228.21882 | 211.19227 | 261.24028 |
-| 4 | 416.30255 | 398.29199 | 399.27600 | 475.35090 | 301.27158 | 284.24503 | 318.29813 |
+| 1 | 215.11789 | 197.10732 | 198.09134 | 248.13935 | 114.10257 | 97.07602 | 131.12912 |
+| 2 | 288.17065 | 270.16009 | 271.14410 | 305.19720 | 171.16042 | 154.13387 | 188.18697 |
+| 3 | 345.22850 | 327.21794 | 328.20195 | 362.25505 | 228.21827 | 211.19172 | 261.23974 |
+| 4 | 416.30200 | 398.29144 | 399.27545 | 475.35035 | 301.27104 | 284.24449 | 318.29759 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 72.08132  | tz1-Gu     |
-| 98.09697  | y2'        |
-| 112.11262 | z2-Gu      |
-| 130.06568 | a'         |
-| 169.17017 | z3-Gu      |
+| 72.08078  | tz1-Gu     |
+| 98.09643  | y2'        |
+| 112.11208 | z2-Gu      |
+| 130.06513 | a'         |
+| 169.16993 | z3-Gu      |
 
 ## Recorded MS/MS spectra
 
 | pdf                                                  | Precursor | Co-eluting | Spider    | Source                       | Author        |
 |------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
-| [Data](/pdf/A-aperta/475_IndAc3(OH)334Gu_Aa.pdf)     | 475.35090 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/475_IndAc3(OH)334Gu_Aa.pdf)     | 475.35035 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/475_IndAc3(OH)334Gu_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/E-agrestis/475_IndAc3(OH)334Gu_Ea.pdf) | 475.35090 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/E-agrestis/475_IndAc3(OH)334Gu_Ea_2.pdf) | 238.17936 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/475_IndAc3(OH)334Gu_Ea.pdf) | 475.35035 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/475_IndAc3(OH)334Gu_Ea_2.pdf) | 238.17881 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/475_IndAc3(OH)334Gu_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/475_IndAc3(OH)334Gu_Pl.pdf) | 475.35090 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/475_IndAc3(OH)334Gu_Pl_2.pdf) | 238.17936 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/475_IndAc3(OH)334Gu_Pl.pdf) | 475.35035 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/475_IndAc3(OH)334Gu_Pl_2.pdf) | 238.17881 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/475_IndAc3(OH)334Gu_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

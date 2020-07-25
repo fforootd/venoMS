@@ -25,13 +25,13 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                             |                  |
-| Precursor 1 [M+H]⁺          | 492.36621        |
-| Precursor 2 [M+2H]²⁺        | 246.68702        |
+| Precursor 1 [M+H]⁺          | 492.36566        |
+| Precursor 2 [M+2H]²⁺        | 246.68647        |
 | Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 8                |
-| Precursor HDX 1 [M(D₈)+D]⁺   | 501.42270        |
-| Precursor HDX 2 [M(D₈)+2D]²⁺ | 251.71840        |
+| Precursor HDX 1 [M(D₈)+D]⁺   | 501.42216        |
+| Precursor HDX 2 [M(D₈)+2D]²⁺ | 251.71785        |
 | Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 9.66             |
@@ -41,29 +41,28 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 215.11844 | 197.10788 | 198.09189 | 248.13990 | 58.06567  | 41.03912  | 91.08713  |
-| 2 | 288.17120 | 270.16064 | 271.14465 | 305.19775 | 131.11843 | 114.09188 | 148.14498 |
-| 3 | 345.22905 | 327.21849 | 328.20250 | 362.25560 | 188.17628 | 171.14973 | 205.20283 |
-| 4 | 402.28690 | 384.27634 | 385.26035 | 435.30836 | 245.23413 | 228.20758 | 278.25559 |
-| 5 | 475.33966 | 457.32910 | 458.31311 | 492.36621 | 318.28689 | 301.26034 | 335.31344 |
+| 1 | 215.11789 | 197.10732 | 198.09134 | 248.13935 | 58.06513 | 41.03858 | 91.08659 |
+| 2 | 288.17065 | 270.16009 | 271.14410 | 305.19720 | 131.11789 | 114.09134 | 148.14444 |
+| 3 | 345.22850 | 327.21794 | 328.20195 | 362.25505 | 188.17574 | 171.14919 | 205.20229 |
+| 4 | 402.28635 | 384.27579 | 385.25980 | 435.30782 | 245.23359 | 228.20704 | 278.25505 |
+| 5 | 475.33912 | 457.32855 | 458.31257 | 492.36566 | 318.28635 | 301.25980 | 335.31290 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 98.09697  | y2'        |
-| 114.09189 | y2'        |
-| 115.12352 | z2'        |
-| 130.06568 | a'         |
+| 98.09643  | y2'        |
+| 115.12297 | z2'        |
+| 130.06513 | a'         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                                     | Precursor | Co-eluting | Spider    | Source                       | Author        |
 |---------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
-| [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa.pdf)     | 492.36621 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa_2.pdf)   | 246.68702 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa.pdf)     | 492.36566 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa_2.pdf)   | 246.68647 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/492_IndAc3(OH)333(OH)3_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/492_IndAc3(OH)333(OH)3_Ap.pdf) | 492.36621 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/492_IndAc3(OH)333(OH)3_Ap.pdf) | 492.36566 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/492_IndAc3(OH)333(OH)3_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

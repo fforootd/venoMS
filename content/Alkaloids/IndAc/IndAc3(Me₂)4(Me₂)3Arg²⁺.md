@@ -21,14 +21,14 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                            |                    |
-| Precursor 1  M²⁺         | 286.72393                   |
-| Precursor 2 [(M+H)+CF₃CO₂]²⁺       | 343.72037                   |
-| Precursor 3 [(M+H)+2(CF₃CO₂)]⁺               | 800.42577                   |
+| Precursor 1  M²⁺         | 286.72339                   |
+| Precursor 2 [(M+H)+CF₃CO₂]²⁺       | 343.71955                   |
+| Precursor 3 [(M+H)+2(CF₃CO₂)]⁺               | 800.42248                   |
 |                            |                    |
 | HDX                        | 9                   |
-| Precursor HDX    M(D₉)²⁺   | 291.25218                   |
-| Precursor HDX 2 [(M(D₉)+D)+CF₃CO₂]²⁺ | 348.75175                   |
-| Precursor HDX 3 [(M(D₉)+D)+2(CF₃CO₂)]⁺           | 810.48854                   |
+| Precursor HDX    M(D₉)²⁺   | 291.25163                   |
+| Precursor HDX 2 [(M(D₉)+D)+CF₃CO₂]²⁺ | 348.75093                   |
+| Precursor HDX 3 [(M(D₉)+D)+2(CF₃CO₂)]⁺           | 810.48525                   |
 |                            |                    |
 | Rt                         | 8.07                   |
 | Rt HDX                     | 6.64                   |
@@ -37,24 +37,24 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 215.11844 | 197.10788 | 198.09189 | 260.17629 | 214.16678 | 197.14023 | 259.22463 |
-| 2 | 314.22323 | 296.21267 | 297.19669 | 359.28109 | 313.27157 | 297.25285 | 358.32943 |
-| 3 | 399.31238 | 381.30182 | 382.28583 | 572.44004 | 398.36073 | 383.34983 | 415.38728 |
+| 1 | 215.11789 | 197.10732 | 198.09134 | 260.17574 | 214.16624 | 197.13969 | 259.22409 |
+| 2 | 314.22269 | 296.21212 | 297.19614 | 359.28054 | 313.27104 | 297.25231 | 358.32889 |
+| 3 | 399.31184 | 381.30127 | 382.28529 | 572.43950 | 398.36019 | 383.34929 | 415.38673 |
 
 ## Additional MS/MS fragments
 
 | m/z | Annotation |
 |-----|------------|
-| 130.06568 | a'         |
-| 158.06059 | a0         |
+| 130.06513 | a'         |
+| 158.06004 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/P-bistriata/573_IndAc3(Me2)4(Me2)3Arg_Pb.pdf) | 286.72393 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
-| [Data](/pdf/P-bistriata/573_IndAc3(Me2)4(Me2)3Arg_Pb_2.pdf) | 343.72037 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
-| [Data](/pdf/P-bistriata/573_IndAc3(Me2)4(Me2)3Arg_Pb_3.pdf) | 800.42577 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/573_IndAc3(Me2)4(Me2)3Arg_Pb.pdf) | 286.72339 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/573_IndAc3(Me2)4(Me2)3Arg_Pb_2.pdf) | 343.71955 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/573_IndAc3(Me2)4(Me2)3Arg_Pb_3.pdf) | 800.42248 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
 | [Data](/pdf/P-bistriata/573_IndAc3(Me2)4(Me2)3Arg_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos,  | Y. M. Forster |
 
 

@@ -25,13 +25,13 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                             |                    |
-| Precursor 1 [M+H]⁺          | 459.35599          |
-| Precursor 2 [M+2H]²⁺        | 230.18191          |
+| Precursor 1 [M+H]⁺          | 459.35543          |
+| Precursor 2 [M+2H]²⁺        | 230.18136          |
 | Precursor 3                 |                    |
 |                             |                    |
 | HDX                         | 9                  |
-| Precursor HDX 1 [M(D₉)+D]⁺   | 469.41876          |
-| Precursor HDX 2 [M(D₉)+2D]²⁺ | 235.71643          |
+| Precursor HDX 1 [M(D₉)+D]⁺   | 469.41820          |
+| Precursor HDX 2 [M(D₉)+2D]²⁺ | 235.71588          |
 | Precursor HDX 3             |                    |
 |                             |                    |
 | Rt                          | 9.10                   |
@@ -41,27 +41,27 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 215.11844 | 197.10788 | 198.09189 | 232.14499 | 114.10312 | 97.07657  | 131.12967 |
-| 2 | 272.17629 | 254.16573 | 255.14974 | 289.20284 | 171.16097 | 154.13442 | 188.18752 |
-| 3 | 329.23414 | 311.22358 | 312.20759 | 346.26069 | 228.21882 | 211.19227 | 245.24537 |
-| 4 | 400.30764 | 382.29708 | 383.28109 | 459.35599 | 285.27667 | 268.25012 | 302.30322 |
+| 1 | 215.11789 | 197.10732 | 198.09134 | 232.14444 | 114.10257 | 97.07602 | 131.12912 |
+| 2 | 272.17574 | 254.16517 | 255.14919 | 289.20229 | 171.16042 | 154.13387 | 188.18697 |
+| 3 | 329.23359 | 311.22302 | 312.20704 | 346.26014 | 228.21827 | 211.19172 | 245.24482 |
+| 4 | 400.30709 | 382.29652 | 383.28054 | 459.35543 | 285.27612 | 268.24957 | 302.30267 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 130.06568 | a'         |
-| 158.06059 | a0         |
+| 130.06513 | a'         |
+| 158.06004 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/E-agrestis/459_IndAc3334Gu_Ea.pdf) | 459.35599 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/E-agrestis/459_IndAc3334Gu_Ea_2.pdf) | 230.18191 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/459_IndAc3334Gu_Ea.pdf) | 459.35543 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/E-agrestis/459_IndAc3334Gu_Ea_2.pdf) | 230.18136 |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/E-agrestis/459_IndAc3334Gu_Ea_HDX.pdf) | HDX |            | E. agrestis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/459_IndAc3334Gu_Pl.pdf) | 459.35599 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/459_IndAc3334Gu_Pl_2.pdf) | 230.18191 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/459_IndAc3334Gu_Pl.pdf) | 459.35543 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/459_IndAc3334Gu_Pl_2.pdf) | 230.18136 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/459_IndAc3334Gu_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

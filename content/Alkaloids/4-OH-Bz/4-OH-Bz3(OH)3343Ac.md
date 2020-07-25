@@ -1,6 +1,6 @@
 +++
 title = "4-OH-Bz3(OH)3343Ac"
-categories = ["C25H46N6O4","P495","D248","HDX502",
+categories = ["C25H46N6O4","P495","D248","HDX503",
 "4-OH-Bz3(OH)3343Ac","3(OH)3343Ac",
 "Agelenidae"]
 tags = ["S-3","C-1",

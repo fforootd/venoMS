@@ -25,13 +25,13 @@ tags = ["S-1","C-1",
 | SMILES |   |
 | InChI  |   |
 |                             |                      |
-| Precursor 1 [M+H]⁺          | 488.33492            |
-| Precursor 2 [M+2H]²⁺        | 244.67137            |
+| Precursor 1 [M+H]⁺          | 488.33436            |
+| Precursor 2 [M+2H]²⁺        | 244.67082            |
 | Precursor 3                 |                      |
 |                             |                      |
 | HDX                         | 8                    |
-| Precursor HDX 1 [M(D₈)+D]⁺   | 497.39141            |
-| Precursor HDX 2 [M(D₈)+2D]²⁺ | 249.70275            |
+| Precursor HDX 1 [M(D₈)+D]⁺   | 497.39086            |
+| Precursor HDX 2 [M(D₈)+2D]²⁺ | 249.70220            |
 | Precursor HDX 3             |                      |
 |                             |                      |
 | Rt                          | 7.08                 |
@@ -41,30 +41,30 @@ tags = ["S-1","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 272.10352 | 254.09296 | 255.07697 | 289.13007 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 329.16137 | 311.15081 | 312.13482 | 360.20357 | 129.13917 | 112.11262 | 160.18137 |
-| 3 | 414.25052 | 396.23996 | 397.22397 | 431.27707 | 200.21267 | 183.18612 | 217.23922 |
-| 4 | 471.30837 | 453.29781 | 454.28182 | 488.33492 | 314.25560 | 297.22905 | 331.28215 |
+| 1 | 272.10297 | 254.09240 | 255.07642 | 289.12952 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 329.16082 | 311.15025 | 312.13427 | 360.20302 | 129.13862 | 112.11208 | 160.18082 |
+| 3 | 414.24997 | 396.23940 | 397.22342 | 431.27652 | 200.21212 | 183.18558 | 217.23867 |
+| 4 | 471.30782 | 453.29725 | 454.28127 | 488.33436 | 314.25505 | 297.22850 | 331.28160 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 130.06568 | a0         |
-| 138.05550 | Asn3-2NH₃  |
-| 155.08205 | Asn3-NH₃   |
-| 172.10860 | Asn3       |
-| 342.19399 | ta2-H₂O    |
-| 343.17702 | ta2--NH₃   |
+| 130.06513 | a'         |
+| 138.05495 | Asn3-2NH₃  |
+| 155.08150 | Asn3-NH₃   |
+| 172.10805 | Asn3       |
+| 342.19245 | ta2-H₂O    |
+| 343.17647 | ta2-NH₃   |
 
 ## Recorded MS/MS spectra
 
 | pdf                                         | Precursor | Co-eluting | Spider              | Source             | Author        |
 |---------------------------------------------|-----------|------------|---------------------|--------------------|---------------|
-| [Data](/pdf/488_IndAcAsn3(Me)43_7-08.pdf)   | 488.33492 |            | synth. IndAc3(Me)43 | UZH Bienz lab, CHE | Y. M. Forster |
-| [Data](/pdf/488_IndAcAsn3(Me)43_7-08_2.pdf) | 244.67137 |            | synth. IndAc3(Me)43 | UZH Bienz lab, CHE | Y. M. Forster |
-| [Data](/pdf/L-cornutus/488_IndAcAsn3(Me)43_Lc.pdf) | 488.33492 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-cornutus/488_IndAcAsn3(Me)43_Lc_2.pdf) | 244.67137 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/488_IndAcAsn3(Me)43_7-08.pdf)   | 488.334362 |            | synth. IndAc3(Me)43 | UZH Bienz lab, CHE | Y. M. Forster |
+| [Data](/pdf/488_IndAcAsn3(Me)43_7-08_2.pdf) | 244.67082 |            | synth. IndAc3(Me)43 | UZH Bienz lab, CHE | Y. M. Forster |
+| [Data](/pdf/L-cornutus/488_IndAcAsn3(Me)43_Lc.pdf) | 488.33436 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/488_IndAcAsn3(Me)43_Lc_2.pdf) | 244.67082 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/488_IndAcAsn3(Me)43_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References

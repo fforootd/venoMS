@@ -21,13 +21,13 @@ tags = ["S-1","C-1",
 | SMILES |   |
 | InChI  |   |
 |        |                                                                                |
-| Precursor 1 [M+H]⁺          | 474.31927                                                                      |
-| Precursor 2 [M+2H]²⁺        | 237.66355                                                                      |
-| Precursor 3                 |                                                                                |
-|                             |                                                                                |
-| HDX                         | 9                                                                              |
-| Precursor HDX 1 [M(D₉)+D]⁺   | 484.38203                                                                      |
-| Precursor HDX 2 [M(D₉)+2D]²⁺ | 243.19807                                                                      |
+| Precursor 1 [M+H]⁺          | 474.31871            |
+| Precursor 2 [M+2H]²⁺        | 237.66300            |
+| Precursor 3                 |                      |
+|                             |                      |
+| HDX                         | 9                    |
+| Precursor HDX 1 [M(D₉)+D]⁺   | 484.38148            |
+| Precursor HDX 2 [M(D₉)+2D]²⁺ | 243.19752            |
 | Precursor HDX 3             |                                                                                |
 |                             |                                                                                |
 | Rt                          | 7.91                                                                               |
@@ -37,24 +37,24 @@ tags = ["S-1","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 272.10352 | 254.09296 | 255.07697 | 289.13007 | 58.06567  | 41.03912  | 75.09222  |
-| 2 | 343.17702 | 325.16646 | 326.15047 | 360.20357 | 115.12352 | 98.09697  | 132.15007 |
-| 3 | 400.23487 | 382.22431 | 383.20832 | 417.26142 | 186.19702 | 169.17047 | 203.22357 |
-| 4 | 457.29272 | 439.28216 | 440.26617 | 474.31927 | 300.23995 | 283.21340 | 317.26650 |
+| 1 | 272.10297 | 254.09240 | 255.07642 | 289.12952 | 58.06513 | 41.03858 | 75.09167 |
+| 2 | 343.17647 | 325.16590 | 326.14992 | 360.20302 | 115.12297 | 98.09643 | 132.14952 |
+| 3 | 400.23432 | 382.22375 | 383.20777 | 417.26087 | 186.19647 | 169.16993 | 203.22302 |
+| 4 | 457.29217 | 439.28160 | 440.26562 | 474.31871 | 300.23940 | 283.21285 | 317.26595 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 130.06568 | a'         |
-| 158.06059 | a0         |
+| 130.06513 | a'         |
+| 158.06004 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/L-cornutus/474_IndAcAsn433_Lc.pdf) | 474.31927 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-cornutus/474_IndAcAsn433_Lc_2.pdf) | 237.66355 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/474_IndAcAsn433_Lc.pdf) | 474.31871 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/474_IndAcAsn433_Lc_2.pdf) | 237.66300 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/474_IndAcAsn433_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 
 ## References

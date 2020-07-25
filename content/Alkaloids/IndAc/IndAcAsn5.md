@@ -21,13 +21,13 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                             |                                   |
-| Precursor 1 [M+H]⁺          | 374.21922                         |
-| Precursor 2 [M+2H]²⁺        | 187.61352                         |
+| Precursor 1 [M+H]⁺          | 374.21867                         |
+| Precursor 2 [M+2H]²⁺        | 187.61297                         |
 | Precursor 3                 |                                   |
 |                             |                                   |
 | HDX                         | 7                                 |
-| Precursor HDX 1 [M(D₇)+D]⁺   | 382.26943                         |
-| Precursor HDX 2 [M(D₇)+2D]²⁺ | 192.14177                         |
+| Precursor HDX 1 [M(D₇)+D]⁺   | 382.26888                         |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 192.14122                         |
 | Precursor HDX 3             |                                   |
 |                             |                                   |
 | Rt                          | 12.10                                  |
@@ -37,21 +37,21 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 272.10352 | 254.09296 | 255.07697 | 289.13007 | 86.09697  | 69.07042  | 103.12352 |
-| 2 | 357.19267 | 339.18211 | 340.16612 | 374.21922 | 200.13990 | 183.11335 | 217.16645 |
+| 1 | 272.10297 | 254.09240 | 255.07642 | 289.12952 | 86.09643 | 69.06988 | 103.12297 |
+| 2 | 357.19212 | 339.18155 | 340.16557 | 374.21867 | 200.13935 | 183.11280 | 217.16590 |
 
 ## Additional MS/MS fragments
 
 | m/z | Annotation |
 |-----|------------|
-| 130.06568 | a'         |
-| 158.06059 | a0         |
+| 130.06513 | a'         |
+| 158.06004 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/P-bistriata/374_IndAcAsn5_Pb.pdf) | 374.21922 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/374_IndAcAsn5_Pb.pdf) | 374.21867 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/374_IndAcAsn5_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References

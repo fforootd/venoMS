@@ -21,13 +21,13 @@ tags = ["S-1","C-1",
 | SMILES |   |
 | InChI  |   |
 |                             |             |
-| Precursor 1 [M+H]⁺          | 246.16064   |
-| Precursor 2 [M+2H]²⁺        | 123.58423   |
+| Precursor 1 [M+H]⁺          | 246.16009   |
+| Precursor 2 [M+2H]²⁺        | 123.58368   |
 | Precursor 3                 |             |
 |                             |             |
 | HDX                         | 4           |
-| Precursor HDX 1 [M(D₄)+D]⁺   | 251.19202   |
-| Precursor HDX 2 [M(D₄)+2D]²⁺ | 126.60306   |
+| Precursor HDX 1 [M(D₄)+D]⁺   | 251.19147   |
+| Precursor HDX 2 [M(D₄)+2D]²⁺ | 126.60251   |
 | Precursor HDX 3             |             |
 |                             |             |
 | Rt                          | 11.48            |
@@ -37,24 +37,24 @@ tags = ["S-1","C-1",
 
 | # | a         | b         | c         | ta        | z        | y        | tz       |
 |---|-----------|-----------|-----------|-----------|----------|----------|----------|
-| 1 | 229.13409 | 211.12353 | 212.10754 | 229.13409 | 72.08132 | 55.05477 | 89.10787 |
+| 1 | 229.13354 | 211.12297 | 212.10699 | 229.13409 | 72.08078 | 55.05423 | 89.10732 |
 
 ## Additional MS/MS fragments
 
 | m/z | Annotation |
 |-----|------------|
-| 130.06568 | a'         |
-| 158.06059 | a0         |
+| 130.06513 | a'         |
+| 158.06004 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/A-potteri/246_IndAc4_Ap.pdf) | 246.16064 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/246_IndAc4_Ap.pdf) | 246.16009 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/246_IndAc4_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/246_IndAc4_Hc.pdf) | 246.16064 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/246_IndAc4_Hc.pdf) | 246.16009 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/246_IndAc4_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/246_IndAc4_Ho-sp.pdf) | 246.16064 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/246_IndAc4_Ho-sp.pdf) | 246.16009 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/246_IndAc4_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 ## References

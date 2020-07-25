@@ -1,6 +1,6 @@
 +++
 title = "IndAc4(OH)333Ac"
-categories = ["C25H42N6O3","P475","D238","HDX481",
+categories = ["C25H42N6O3","P475","D238","HDX482",
 "IndAc4(OH)333Ac","4(OH)333",
 "Agelenidae"]
 tags = ["S-3","C-1",
@@ -21,13 +21,13 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                            |                    |
-| Precursor 1 [M+H]⁺         | 475.33966                   |
-| Precursor 2 [M+2H]²⁺       | 238.17374                   |
+| Precursor 1 [M+H]⁺         | 475.33912                   |
+| Precursor 2 [M+2H]²⁺       | 238.17320                   |
 | Precursor 3                |                    |
 |                            |                    |
-| HDX                        | 5                   |
-| Precursor HDX   [M(D₅)+D]⁺   | 481.37733                   |
-| Precursor HDX 2 [M(D₅)+2D]²⁺ | 241.69571                   |
+| HDX                        | 6                   |
+| Precursor HDX   [M(D₆)+D]⁺   | 482.38305                   |
+| Precursor HDX 2 [M(D₆)+2D]²⁺ | 242.19830                   |
 | Precursor HDX 3            |                    |
 |                            |                    |
 | Rt                         | 12.19                   |
@@ -37,26 +37,26 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 229.13409 | 211.12353 | 212.10754 | 262.15555 | 100.07624 | 83.04969 | 117.10279 |
-| 2 | 302.18685 | 284.17629 | 285.16030 | 319.21340 | 157.13409 | 140.10754 | 174.16064 |
-| 3 | 359.24470 | 341.23414 | 342.21815 | 376.27125 | 214.19194 | 197.16539 | 247.21340 |
-| 4 | 416.30255 | 398.29199 | 399.27600 | 475.33966 | 301.26035 | 284.23380 | 318.28690 |
+| 1 | 229.13354 | 211.12297 | 212.10699 | 262.15500 | 100.07569 | 83.04914 | 117.10224 |
+| 2 | 302.18630 | 284.17574 | 285.15975 | 319.21285 | 157.13354 | 140.10699 | 174.16009 |
+| 3 | 359.24415 | 341.23359 | 342.21760 | 376.27070 | 214.19139 | 197.16484 | 247.21285 |
+| 4 | 416.30200 | 398.29144 | 399.27545 | 475.33912 | 301.25980 | 284.23325 | 318.28635 |
 
 
 ## Additional MS/MS fragments
 
 | m/z | Annotation |
 |-----|------------|
-| 130.06568 | a'         |
-| 158.06059 | a0         |
+| 130.06513 | a'         |
+| 158.06004 | a0         |
 
 ## Recorded MS/MS spectra
 
 | pdf                                             | Precursor | Co-eluting | Spider      | Source                       | Author        |
 |-------------------------------------------------|-----------|------------|-------------|------------------------------|---------------|
-| [Data](/pdf/A-potteri/475_IndAc4(OH)333Ac_Ap.pdf) | 475.33966 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/475_IndAc4(OH)333Ac_Ap.pdf) | 475.33912 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/475_IndAc4(OH)333Ac_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/475_IndAc4(OH)333Ac_Hc.pdf) | 475.33966 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/475_IndAc4(OH)333Ac_Hc.pdf) | 475.33912 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/475_IndAc4(OH)333Ac_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 

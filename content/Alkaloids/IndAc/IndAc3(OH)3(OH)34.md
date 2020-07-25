@@ -23,13 +23,13 @@ tags = ["S-3","C-1",
 | SMILES |   |
 | InChI  |   |
 |                             |                  |
-| Precursor 1 [M+H]⁺          | 449.32401        |
-| Precursor 2 [M+2H]²⁺        | 225.16592        |
+| Precursor 1 [M+H]⁺          | 449.32347        |
+| Precursor 2 [M+2H]²⁺        | 225.16537        |
 | Precursor 3                 |                  |
 |                             |                  |
 | HDX                         | 7                |
-| Precursor HDX 1 [M(D₇)+D]⁺   | 457.37422        |
-| Precursor HDX 2 [M(D₇)+2D]²⁺ | 229.69416        |
+| Precursor HDX 1 [M(D₇)+D]⁺   | 457.37368        |
+| Precursor HDX 2 [M(D₇)+2D]²⁺ | 229.69362        |
 | Precursor HDX 3             |                  |
 |                             |                  |
 | Rt                          | 10.59            |
@@ -39,33 +39,33 @@ tags = ["S-3","C-1",
 
 | # | a         | b         | c         | ta        | z         | y         | tz        |
 |---|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | 215.11844 | 197.10788 | 198.09189 | 248.13990 | 72.08132  | 55.05477  | 89.10787  |
-| 2 | 288.17120 | 270.16064 | 271.14465 | 321.19266 | 129.13917 | 112.11262 | 162.16063 |
-| 3 | 361.22396 | 343.21340 | 344.19741 | 378.25051 | 202.19193 | 185.16538 | 235.21339 |
-| 4 | 432.29746 | 414.28690 | 415.27091 | 449.32401 | 275.24469 | 258.21814 | 292.27124 |
+| 1 | 215.11789 | 197.10732 | 198.09134 | 248.13935 | 72.08078 | 55.05423 | 89.10732 |
+| 2 | 288.17065 | 270.16009 | 271.14410 | 321.19212 | 129.13862 | 112.11208 | 162.16009 |
+| 3 | 361.22342 | 343.21285 | 344.19687 | 378.24997 | 202.19139 | 185.16484 | 235.21285 |
+| 4 | 432.29692 | 414.28635 | 415.27037 | 449.32347 | 275.24415 | 258.21760 | 292.27070 |
 
 ## Additional MS/MS fragments
 
 | m/z       | Annotation |
 |-----------|------------|
-| 114.09189 | y2'        |
-| 128.10754 | y2'        |
-| 130.06568 | a'         |
-| 131.11843 | z2'        |
-| 145.13409 | z2'        |
+| 114.09134 | y2'        |
+| 128.10699 | y2'        |
+| 130.06513 | a'         |
+| 131.11789 | z2'        |
+| 145.13354 | z2'        |
 
 ## Recorded MS/MS spectra
 
 | pdf                                                    | Precursor | Co-eluting | Spider    | Source                       | Author        |
 |--------------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
-| [Data](/pdf/A-aperta/449_IndAc3(OH)3(OH)34_Aa.pdf)     | 449.32401 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/449_IndAc3(OH)3(OH)34_Aa.pdf)     | 449.32347 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/449_IndAc3(OH)3(OH)34_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/449_IndAc3(OH)3(OH)34_Ap.pdf) | 449.32401 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/449_IndAc3(OH)3(OH)34_Ap.pdf) | 449.32347 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/449_IndAc3(OH)3(OH)34_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-curta/1449_IndAc3(OH)3(OH)34_Hc.pdf) | 449.32401 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-curta/1449_IndAc3(OH)3(OH)34_Hc.pdf) | 449.32347 |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/H-curta/1449_IndAc3(OH)3(OH)34_Hc_HDX.pdf) | HDX |           | H. curta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/449_IndAc3(OH)3(OH)34_IndAc3(OH)3(OH)43_Ho-sp.pdf) | 449.32401 | IndAc3(OH)3(OH)43          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/449_IndAc3(OH)3(OH)34_IndAc3(OH)3(OH)43_Ho-sp_2.pdf) | 225.16592 | IndAc3(OH)3(OH)43          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/449_IndAc3(OH)3(OH)34_IndAc3(OH)3(OH)43_Ho-sp.pdf) | 449.32347 | IndAc3(OH)3(OH)43          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/449_IndAc3(OH)3(OH)34_IndAc3(OH)3(OH)43_Ho-sp_2.pdf) | 225.16537 | IndAc3(OH)3(OH)43          | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/449_IndAc3(OH)3(OH)34_IndAc3(OH)3(OH)43_Ho-sp_HDX.pdf) | HDX | IndAc3(OH)3(OH)43         | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 
 
