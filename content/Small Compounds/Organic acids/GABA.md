@@ -34,37 +34,37 @@ tags = ["S-1","C-1",
 | Synonym                   |             |
 | Molecular formula         | C₄H₉NO₂     |
 | CAS                       | 56-12-2     |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(CCCN)=O  |
+| InChI  | InChI=1S/C4H9NO2/c5-3-1-2-4(6)7/h1-3,5H2,(H,6,7)  |
 |                           |             |
-| Precursor 1 [M+H]⁺        | 104.07115   |
+| Precursor 1 [M+H]⁺        | 104.07061   |
 | Precursor 2               |             |
 | Precursor 3               |             |
 |                           |             |
 | HDX                       | 3           |
-| Precursor HDX 1 [M(D₃)+D]⁺ | 108.09626   |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 108.09571   |
 | Precursor HDX 2           |             |
 | Precursor HDX 3           |             |
 |                           |             |
 | Rt                        | 1.17        |
-| Rt HDX                    |             |
+| Rt HDX                    | 1.15            |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation     |
 |-----------|-------------------|----------------|
-| 104.07115 | C₄H₁₀NO₂          | [M+H]⁺         |
-| 87.04460  | C₄H₇O₂            | [M+H-NH₃]⁺     |
-| 86.06059  | C₄H₈NO            | [M+H-H₂O]⁺     |
-| 69.03404  | C₄H₅O             | [M+H-NH₃-H₂O]⁺ |
-| 68.05002  | C₄H₆N             | [M+H-2H₂O]⁺    |
+| 104.07061 | C₄H₁₀NO₂          | [M+H]⁺         |
+| 87.04406  | C₄H₇O₂            | [M+H-NH₃]⁺     |
+| 86.06004  | C₄H₈NO            | [M+H-H₂O]⁺     |
+| 69.03349  | C₄H₅O             | [M+H-NH₃-H₂O]⁺ |
+| 68.04948  | C₄H₆N             | [M+H-2H₂O]⁺    |
 
 ## Recorded MS/MS spectra
 
 | pdf                            | Precursor | Co-eluting | Spider              | Source        | Author        |
 |--------------------------------|-----------|------------|---------------------|---------------|---------------|
-| [Data](/pdf/104_GABA_1-17.pdf) | 104.07115 |            | γ-Aminobutyric acid | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/A-robustus/104_Choline_GABA_Ar.pdf) | 104.07115 | Choline           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/104_GABA_1-17.pdf) | 104.07061 |            | γ-Aminobutyric acid | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/A-robustus/104_Choline_GABA_Ar.pdf) | 104.07061 | Choline           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/104_GABA_Ar_HDX.pdf) | HDX |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 
 ## References

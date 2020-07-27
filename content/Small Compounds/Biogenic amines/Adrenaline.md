@@ -1,6 +1,6 @@
 +++
 title = "Adrenaline"
-categories = ["C9H13NO5","P184","HDX189",
+categories = ["C9H13NO3","P184","HDX189",
 "Araneidae","Cheiracanthiidae"]
 tags = ["S-1","C-4",
 "Araneus gemma","Cheiracanthium japonicum"]
@@ -15,17 +15,17 @@ tags = ["S-1","C-4",
 | Level                     | S-1 / C-4               |
 | Discovered                | 1987 / A. gemma |
 | Synonym                   | Epinephrine     |
-| Molecular formula         | C₉H₁₃NO₅        |
+| Molecular formula         | C₉H₁₃NO₃        |
 | CAS                       | 51-43-4         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC1=C(O)C=CC(C(O)CNC)=C1  |
+| InChI  | InChI=1S/C9H13NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,9-13H,5H2,1H3  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 184.09737       |
+| Precursor 1 [M+H]⁺        | 184.09682       |
 | Precursor 2               |                 |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 4               |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 189.12875       |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 189.12820      |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |

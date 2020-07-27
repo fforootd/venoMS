@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                    |
 | Molecular formula         | C₁₀H₁₃N₅O₄         |
 | CAS                       | 58-61-7            |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC1[C@@H](CO)O[C@@H](N2C=NC3=C2N=CN=C3N)C1O  |
+| InChI  | InChI=1S/C10H13N5O4/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(18)6(17)4(1-16)19-10/h2-4,6-7,10,16-18H,1H2,(H2,11,12,13)/t4-,6+,7?,10-/m1/s1  |
 |                           |                    |
-| Precursor 1 [M+H]⁺        | 268.10457          |
+| Precursor 1 [M+H]⁺        | 268.10403          |
 | Precursor 2               |                    |
 | Precursor 3               |                    |
 |                           |                    |
 | HDX                       | 5                  |
-| Precursor HDX 1 [M(D₅)+D]⁺ | 274.14224          |
+| Precursor HDX 1 [M(D₅)+D]⁺ | 274.14169          |
 | Precursor HDX 2           |                    |
 | Precursor HDX 3           |                    |
 |                           |                    |
@@ -38,28 +38,28 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation      |
 |-----------|-------------------|-----------------|
-| 268.10457 | C₁₀0H₁₄N₅O₄       | [M+H]⁺          |
-| 136.06232 | C₅H₆N₅            | [adenine+H]⁺    |
-| 133.05008 | C₅H₉O₄            | [ribose+H-H₂O]⁺ |
+| 268.10403 | C₁₀0H₁₄N₅O₄       | [M+H]⁺          |
+| 136.06177 | C₅H₆N₅            | [adenine+H]⁺    |
+| 133.04954 | C₅H₉O₄            | [ribose+H-H₂O]⁺ |
 
 ## Recorded MS/MS spectra
 
 | pdf                                            | Precursor | Co-eluting | Spider    | Source                       | Author        |
 |------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
-| [Data](/pdf/268_Adenosine_2-29.pdf)            | 268.10457 |            | Adenosine | Sigma Aldrich                | Y. M. Forster |
-| [Data](/pdf/A-aperta/268_Adenosine_Aa.pdf)     | 268.10457 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/268_Adenosine_2-29.pdf)            | 268.10403 |            | Adenosine | Sigma Aldrich                | Y. M. Forster |
+| [Data](/pdf/A-aperta/268_Adenosine_Aa.pdf)     | 268.10403 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/268_Adenosine_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/268_Adenosine_Ap.pdf) | 268.10457 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/268_Adenosine_Ap.pdf) | 268.10403 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/268_Adenosine_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-robustus/268_Adenosine_Ar.pdf) | 268.10457 |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/268_Adenosine_Ar.pdf) | 268.10403 |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/268_Adenosine_Ar_HDX.pdf) | HDX |           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/Drassodes-sp1/268_Adenosine_Dr-sp1.pdf) | 268.10457 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-davidbowie/268_Adenosine_Hd.pdf) | 268.10457 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/L-cornutus/268_Adenosine_Lc.pdf) | 268.10457 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/268_Adenosine_Dr-sp1.pdf) | 268.10403 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/268_Adenosine_Hd.pdf) | 268.10403 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/L-cornutus/268_Adenosine_Lc.pdf) | 268.10403 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/268_Adenosine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/268_Adenosine_Pb.pdf) | 268.10457 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/268_Adenosine_Pb.pdf) | 268.10403 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/268_Adenosine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/268_Adenosine_Pl.pdf) | 268.10457 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/268_Adenosine_Pl.pdf) | 268.10403 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/268_Adenosine_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

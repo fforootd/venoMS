@@ -17,15 +17,15 @@ tags = ["S-2","C-4",
 | Synonym                   |                                       |
 | Molecular formula         | C₁₀H₁₃N₅O₈S                           |
 | CAS                       | 1926-61-0                             |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC1[C@@H](CO)O[C@@H](N2C=NC3=C2N=C(N)NC3=O)C1OS(=O)(O)=O  |
+| InChI  | InChI=1S/C10H13N5O8S/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(23-24(19,20)21)5(17)3(1-16)22-9/h2-3,5-6,9,16-17H,1H2,(H,19,20,21)(H3,11,13,14,18)/t3-,5+,6?,9-/m1/s1  |
 |                           |                                       |
-| Precursor 1 [M+H]⁺        | 364.05631                             |
+| Precursor 1 [M+H]⁺        | 364.05576                             |
 | Precursor 2               |                                       |
 | Precursor 3               |                                       |
 |                           |                                       |
 | HDX                       | 6                                     |
-| Precursor HDX 1 [M(D₆)+D]⁺ | 371.10024                             |
+| Precursor HDX 1 [M(D₆)+D]⁺ | 371.09970                             |
 | Precursor HDX 2           |                                       |
 | Precursor HDX 3           |                                       |
 |                           |                                       |

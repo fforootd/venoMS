@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                     |
 | Molecular formula         | C₅H₅N₅              |
 | CAS                       | 73-24-5             |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NC1=NC=NC2=C1N=CN2  |
+| InChI  | InChI=1S/C5H5N5/c6-4-3-5(9-1-7-3)10-2-8-4/h1-2H,(H3,6,7,8,9,10)  |
 |                           |                     |
-| Precursor 1 [M+H]⁺        | 136.06232           |
+| Precursor 1 [M+H]⁺        | 136.06177           |
 | Precursor 2               |                     |
 | Precursor 3               |                     |
 |                           |                     |
 | HDX                       | 4                   |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 141.09370           |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 141.09316           |
 | Precursor HDX 2           |                     |
 | Precursor HDX 3           |                     |
 |                           |                     |
@@ -38,16 +38,16 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
-| 137.04634 | C₅H₅N₄O           |            |
-| 136.06232 | C₅H₆N₅            | [M+H]⁺     |
-| 119.03577 | C₅H₃N₄            |            |
+| 137.04579 | C₅H₅N₄O           |            |
+| 136.06177 | C₅H₆N₅            | [M+H]⁺     |
+| 119.03522 | C₅H₃N₄            |            |
 
 ## Recorded MS/MS spectra
 
 | pdf                               | Precursor | Co-eluting | Spider  | Source | Author        |
 |-----------------------------------|-----------|------------|---------|--------|---------------|
-| [Data](/pdf/136_Adenine_1-42.pdf) | 136.06232 |            | Adenine | Fluka  | Y. M. Forster |
-| [Data](/pdf/P-bistriata/136_Adenine_Pb.pdf) | 136.06232 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/136_Adenine_1-42.pdf) | 136.06177 |            | Adenine | Fluka  | Y. M. Forster |
+| [Data](/pdf/P-bistriata/136_Adenine_Pb.pdf) | 136.06177 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References
 

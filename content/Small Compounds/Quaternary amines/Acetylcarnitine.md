@@ -22,45 +22,45 @@ tags = ["S-1","C-1",
 | Synonym                 |             |
 | Molecular formula       | C₉H₁₈NO₄    |
 | CAS                     | 14992-62-2  |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(CC(OC(C)=O)C[N+](C)(C)C)=O  |
+| InChI  | InChI=1S/C9H17NO4/c1-7(11)14-8(5-9(12)13)6-10(2,3)4/h8H,5-6H2,1-4H3/p+1  |
 |                         |             |
-| Precursor 1  M⁺         | 204.12358   |
+| Precursor 1  M⁺         | 204.12303   |
 | Precursor 2             |             |
 | Precursor 3             |             |
 |                         |             |
 | HDX                     | 1           |
-| Precursor HDX 1  M(D₁)⁺ | 205.12986   |
+| Precursor HDX 1  M(D₁)⁺ | 205.12931   |
 | Precursor HDX 2         |             |
 | Precursor HDX 3         |             |
 |                         |             |
 | Rt                      | 1.51 / 1.72 |
-| Rt HDX                  |             |
+| Rt HDX                  | 1.59            |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
-| 204.12358 | C₉H₁₈NO₄          | M⁺         |
-| 145.05008 | C₆H₉O₄            |            |
-| 144.10245 | C₇H₁₄NO₂          |            |
-| 85.02895  | C₄H₅O₂            |            |
-| 60.08132  | C₃H₁₀N            |            |
+| 204.12303 | C₉H₁₈NO₄          | M⁺         |
+| 145.04954 | C₆H₉O₄            |            |
+| 144.10191 | C₇H₁₄NO₂          |            |
+| 85.02841  | C₄H₅O₂            |            |
+| 60.08078  | C₃H₁₀N            |            |
 
 ## Recorded MS/MS spectra
 
 | pdf                                       | Precursor | Co-eluting | Spider                               | Source        | Author        |
 |-------------------------------------------|-----------|------------|--------------------------------------|---------------|---------------|
-| [Data](/pdf/204_Acetylcarnitine_1-51.pdf) | 204.12358 |            | O-Acetyl-L-carnitine (CAS 5080-50-2) | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp5/204_Acetylcarnitine_Al-sp5.pdf) | 204.12358 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/L-cornutus/204_Acetylcarnitine_Lc.pdf) | 204.12358 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/204_Acetylcarnitine_1-51.pdf) | 204.12303 |            | O-Acetyl-L-carnitine (CAS 5080-50-2) | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/204_Acetylcarnitine_Al-sp5.pdf) | 204.12303 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-cornutus/204_Acetylcarnitine_Lc.pdf) | 204.12303 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/204_Acetylcarnitine_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp4/204_Acetylcarnitine_Ly-sp4.pdf) | 204.12358 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc.pdf) | 204.12358 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp4/204_Acetylcarnitine_Ly-sp4.pdf) | 204.12303 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc.pdf) | 204.12303 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/204_Acetylcarnitine_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/204_Acetylcarnitine_Pb.pdf) | 204.12358 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/204_Acetylcarnitine_Pb.pdf) | 204.12303 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/204_Acetylcarnitine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-viridans/204_Acetylcarnitine_Pv.pdf) | 204.12358 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-viridans/204_Acetylcarnitine_Pv.pdf) | 204.12303 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

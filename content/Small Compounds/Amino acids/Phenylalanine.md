@@ -19,47 +19,47 @@ tags = ["S-1","C-1",
 | Synonym                   |                 |
 | Molecular formula         | C₉H₁₁NO₂        |
 | CAS                       | 63-91-2         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)CC1=CC=CC=C1)=O  |
+| InChI  | InChI=1S/C9H11NO2/c10-8(9(11)12)6-7-4-2-1-3-5-7/h1-5,8H,6,10H2,(H,11,12)  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 166.08680       |
+| Precursor 1 [M+H]⁺        | 166.08626       |
 | Precursor 2               |                 |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 3               |
-| Precursor HDX 1 [M(D₃)+D]⁺ | 170.11191       |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 170.11136       |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
 | Rt                        | 4.84            |
-| Rt HDX                    |                 |
+| Rt HDX                    | 4.76                |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation     |
 |-----------|-------------------|----------------|
-| 166.08680 | C₉H₁₂NO₂          | [M+H]⁺         |
-| 149.06025 | C₉H₉O₂            | [M+H-NH₃]⁺     |
-| 131.04969 | C₉H₇O             | [M+H-NH₃-H₂O]⁺ |
-| 120.08132 | C₈H₁₀N            | [M+H-HCOOH]⁺   |
-| 107.04969 | C₇H₇O             |                |
-| 103.05478 | C₈H₇              |                |
-| 93.07043  | C₇H₉              |                |
+| 166.08626 | C₉H₁₂NO₂          | [M+H]⁺         |
+| 149.05971 | C₉H₉O₂            | [M+H-NH₃]⁺     |
+| 131.04914 | C₉H₇O             | [M+H-NH₃-H₂O]⁺ |
+| 120.08078 | C₈H₁₀N            | [M+H-HCOOH]⁺   |
+| 107.04914 | C₇H₇O             |                |
+| 103.05423 | C₈H₇              |                |
+| 93.06988  | C₇H₉              |                |
 
 ## Recorded MS/MS spectra
 
 | pdf                                     | Precursor | Co-eluting | Spider        | Source | Author        |
 |-----------------------------------------|-----------|------------|---------------|--------|---------------|
-| [Data](/pdf/166_Phenylalanine_4-84.pdf) | 166.08680 |            | Phenylalanine | Fluka  | Y. M. Forster |
-| [Data](/pdf/H-davidbowie/166_Phenylalanine_Hd.pdf) | 166.08680 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/L-mactans/166_Phenylalanine_Lm.pdf) | 166.08680 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/166_Phenylalanine_Nc.pdf) | 166.08680 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/166_Phenylalanine_4-84.pdf) | 166.08626 |            | Phenylalanine | Fluka  | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/166_Phenylalanine_Hd.pdf) | 166.08626 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/L-mactans/166_Phenylalanine_Lm.pdf) | 166.08626 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/166_Phenylalanine_Nc.pdf) | 166.08626 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/166_Phenylalanine_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/166_Phenylalanine_Pb.pdf) | 166.08680 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/166_Phenylalanine_Pb.pdf) | 166.08626 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/166_Phenylalanine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-viridans/166_Phenylalanine_Pv.pdf) | 166.08680 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-mexicanus/166_Phenylalanine_Pm.pdf) | 166.08680 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/S-grossa/166_Phenylalanine_Sg.pdf) | 166.08680 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-viridans/166_Phenylalanine_Pv.pdf) | 166.08626 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/166_Phenylalanine_Pm.pdf) | 166.08626 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/166_Phenylalanine_Sg.pdf) | 166.08626 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

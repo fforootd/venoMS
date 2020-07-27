@@ -16,63 +16,63 @@ tags = ["S-1","C-1",
 |---------------------------|-----------------|
 | Level                     | S-1 / C-1       |
 | Discovered                | 1994 / C. salei |
-| Synonym                   | Parawixin2                |
+| Synonym                   | Parawixin 2                |
 | Molecular formula         | C₆H₁₄N₄O₂       |
 | CAS                       | 74-79-3         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)CCCNC(N)=N)=O  |
+| InChI  | InChI=1S/C6H14N4O2/c7-4(5(11)12)2-1-3-10-6(8)9/h4H,1-3,7H2,(H,11,12)(H4,8,9,10)  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 175.11950       |
+| Precursor 1 [M+H]⁺        | 175.11895       |
 | Precursor 2               |                 |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 7               |
-| Precursor HDX 1 [M(D₇)+D]⁺ | 183.16971       |
+| Precursor HDX 1 [M(D₇)+D]⁺ | 183.16917       |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
 | Rt                        | 1.12            |
-| Rt HDX                    |                 |
+| Rt HDX                    | 1.08                |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation         |
 |-----------|-------------------|--------------------|
-| 175.11950 | C₆H₁₅N₄O₂         | [M+H]⁺             |
-| 158.09295 | C₆H₁₂N₃O₂         | [M+H-NH₃]⁺         |
-| 157.10894 | C₆H₁₃N₄O          | [M+H-H₂O]⁺         |
-| 130.09804 | C₅H₁₂N₃O          |                    |
-| 116.07115 | C₅H₁₂N₃O          |                    |
-| 115.08714 | C₅H₁₀NO₂          | [M+H-CH₅N₃]⁺       |
-| 112.08747 | C₅H₁₀N₃           | [M+H-NH₃-H₂O]⁺     |
-| 72.08132  | C₄H₁₀N            |                    |
-| 70.08132  | C₄H₈N             | [M+H-HCOOH-CH₅N₃]⁺ |
-| 60.05617  | CH₆N₃             | [H₂NC=NHNH₂+H]⁺    |
+| 175.11895 | C₆H₁₅N₄O₂         | [M+H]⁺             |
+| 158.09240 | C₆H₁₂N₃O₂         | [M+H-NH₃]⁺         |
+| 157.10839 | C₆H₁₃N₄O          | [M+H-H₂O]⁺         |
+| 130.09749 | C₅H₁₂N₃O          |                    |
+| 116.07061 | C₅H₁₀NO₂          | [M+H-CH₅N₃]⁺       |
+| 115.08659 | C₅H₁₁N₂O          |                    |
+| 112.08692 | C₅H₁₀N₃           | [M+H-NH₃-H₂O]⁺     |
+| 72.08078  | C₄H₁₀N            |                    |
+| 70.06513  | C₄H₈N             | [M+H-HCOOH-CH₅N₃]⁺ |
+| 60.05562  | CH₆N₃             | [H₂NC=NHNH₂+H]⁺    |
 
 ## Recorded MS/MS spectra
 
 | pdf                                | Precursor | Co-eluting | Spider                         | Source        | Author        |
 |------------------------------------|-----------|------------|--------------------------------|---------------|---------------|
-| [Data](/pdf/175_Arginine_1-12.pdf) | 175.11950 |            | L-Arginine HCl (CAS 1119-34-2) | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp1/175_Arginine_Al-sp1.pdf) | 175.11950 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Ariadna-sp/175_Arginine_Ar-sp.pdf) | 175.11950 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/175_Arginine_1-12.pdf) | 175.11895 |            | L-Arginine HCl (CAS 1119-34-2) | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/175_Arginine_Al-sp1.pdf) | 175.11895 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/175_Arginine_Ar-sp.pdf) | 175.11895 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/175_Arginine_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Desertosa-sp3/175_Arginine_De-sp3.pdf) | 175.11950 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Drassodes-sp1/175_Arginine_Dr-sp1.pdf) | 175.11950 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Eresus-sp2/175_Arginine_Er-sp2.pdf) | 175.11950 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Geolycosa-sp/175_Arginine_Ge-sp.pdf) | 175.11950 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
-| [Data](/pdf/H-davidbowie/175_Arginine_Hd.pdf) | 175.11950 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/Hippocosa-sp1/175_Arginine_Hi-sp1.pdf) | 175.11950 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/L-praegrandis/175_Arginine_Lp.pdf) | 175.11950 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp1/175_Arginine_Ly-sp1.pdf) | 175.11950 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp3/175_Arginine_Ly-sp3.pdf) | 175.11950 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp5/175_Arginine_Ly-sp5.pdf) | 175.11950 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-bistriata/175_Arginine_Pb.pdf) | 175.11950 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/175_Arginine_De-sp3.pdf) | 175.11895 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/175_Arginine_Dr-sp1.pdf) | 175.11895 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Eresus-sp2/175_Arginine_Er-sp2.pdf) | 175.11895 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/175_Arginine_Ge-sp.pdf) | 175.11895 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/H-davidbowie/175_Arginine_Hd.pdf) | 175.11895 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/Hippocosa-sp1/175_Arginine_Hi-sp1.pdf) | 175.11895 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-praegrandis/175_Arginine_Lp.pdf) | 175.11895 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp1/175_Arginine_Ly-sp1.pdf) | 175.11895 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp3/175_Arginine_Ly-sp3.pdf) | 175.11895 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp5/175_Arginine_Ly-sp5.pdf) | 175.11895 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/175_Arginine_Pb.pdf) | 175.11895 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/175_Arginine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-viridans/175_Arginine_Pv.pdf) | 175.11950 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-mexicanus/175_Arginine_Pm.pdf) | 175.11950 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/S-grossa/175_Arginine_Sg.pdf) | 175.11950 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Stegodyphus-sp4/175_Arginine_St-sp4.pdf) | 175.11950 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-viridans/175_Arginine_Pv.pdf) | 175.11895 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/175_Arginine_Pm.pdf) | 175.11895 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/175_Arginine_Sg.pdf) | 175.11895 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Stegodyphus-sp4/175_Arginine_St-sp4.pdf) | 175.11895 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

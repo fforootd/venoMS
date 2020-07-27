@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                                   |
 | Molecular formula         | C₆H₁₄N₂O₂                         |
 | CAS                       | 56-87-1                           |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)CCCCN)=O  |
+| InChI  | InChI=1S/C6H14N2O2/c7-4-2-1-3-5(8)6(9)10/h5H,1-4,7-8H2,(H,9,10)  |
 |                           |                                   |
-| Precursor 1 [M+H]⁺        | 147.11335                         |
+| Precursor 1 [M+H]⁺        | 147.11280                         |
 | Precursor 2               |                                   |
 | Precursor 3               |                                   |
 |                           |                                   |
 | HDX                       | 5                                 |
-| Precursor HDX 1 [[M(D₅)+D]⁺ | 153.15101                         |
+| Precursor HDX 1 [[M(D₅)+D]⁺ | 153.15046                         |
 | Precursor HDX 2           |                                   |
 | Precursor HDX 3           |                                   |
 |                           |                                   |
@@ -38,22 +38,22 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation       |
 |-----------|-------------------|------------------|
-| 147.11335 | C₆H₁₅N₂O₂         | [M+H]⁺           |
-| 130.08680 | C₆H₁₂NO₂          | [M+H-NH₃]⁺       |
-| 129.10279 | C₆H₁₃N₂O          | [M+H-H₂O]⁺       |
-| 102.09189 | C₅H₁₂NO           |                  |
-| 84.08132  | C₅H₁₀N            |                  |
-| 74.09697  | C₄H₁₂N            |                  |
-| 56.05024  | C₃H₆N             |                  |
+| 147.11280 | C₆H₁₅N₂O₂         | [M+H]⁺           |
+| 130.08626 | C₆H₁₂NO₂          | [M+H-NH₃]⁺       |
+| 129.10224 | C₆H₁₃N₂O          | [M+H-H₂O]⁺       |
+| 102.09134 | C₅H₁₂NO           |                  |
+| 84.08078  | C₅H₁₀N            |                  |
+| 74.09643  | C₄H₁₂N            |                  |
+| 56.04948  | C₃H₆N             |                  |
 
 ## Recorded MS/MS spectra
 
 | pdf                              | Precursor | Co-eluting | Spider   | Source | Author        |
 |----------------------------------|-----------|------------|----------|--------|---------------|
-| [Data](/pdf/147_Lysine_1-08.pdf) | 147.11335 |            | L-Lysine | Fluka  | Y. M. Forster |
-| [Data](/pdf/Geolycosa-sp/147_Lysine_Ge-sp.pdf) | 147.11335 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
-| [Data](/pdf/Lycosa-sp5/147_Lysine_Ly-sp5.pdf) | 147.11335 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-mexicanus/147_Lysine_Glutamine_Pm.pdf) | 147.11335 | Glutamine          | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/147_Lysine_1-08.pdf) | 147.11280 |            | L-Lysine | Fluka  | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/147_Lysine_Ge-sp.pdf) | 147.11280 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/Lycosa-sp5/147_Lysine_Ly-sp5.pdf) | 147.11280 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/147_Lysine_Glutamine_Pm.pdf) | 147.11280 | Glutamine          | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

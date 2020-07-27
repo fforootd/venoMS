@@ -19,45 +19,45 @@ tags = ["S-1","C-1",
 | Synonym                   |                      |
 | Molecular formula         | C₆H₁₃NO₂             |
 | CAS                       | 73-32-5              |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)C(C)CC)=O  |
+| InChI  | InChI=1S/C6H13NO2/c1-3-4(2)5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)  |
 |                           |                      |
-| Precursor 1 [M+H]⁺        | 132.10245            |
+| Precursor 1 [M+H]⁺        | 132.10191            |
 | Precursor 2               |                      |
 | Precursor 3               |                      |
 |                           |                      |
 | HDX                       | 3                    |
-| Precursor HDX 1 [M(D₃)+D]⁺ | 136.12756            |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 136.12701            |
 | Precursor HDX 2           |                      |
 | Precursor HDX 3           |                      |
 |                           |                      |
 | Rt                        | 2.65                 |
-| Rt HDX                    |                      |
+| Rt HDX                    | 2.73                     |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation       |
 |-----------|-------------------|------------------|
-| 132.10245 | C₆H₁₄NO₂          | [M+H]⁺           |
-| 86.09697  | C₅H₁₂N            | [M+H-HCOOH]⁺     |
-| 69.07043  | C₅H₉              | [M+H-HCOOH-NH₃]⁺ |
+| 132.10191 | C₆H₁₄NO₂          | [M+H]⁺           |
+| 86.09643  | C₅H₁₂N            | [M+H-HCOOH]⁺     |
+| 69.06988  | C₅H₉              | [M+H-HCOOH-NH₃]⁺ |
 
 ## Recorded MS/MS spectra
 
 | pdf                                 | Precursor | Co-eluting | Spider       | Source | Author        |
 |-------------------------------------|-----------|------------|--------------|--------|---------------|
-| [Data](/pdf/132_Isoeucine_2-65.pdf) | 132.10245 |           | L-Isoleucine | Fluka  | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp1/132_Isoleucine_Al-sp1.pdf) | 132.10245 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp4/132_Isoleucine_Al-sp4.pdf) | 132.10245 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp5/132_Isoleucine_Al-sp5.pdf) | 132.10245 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Geolycosa-sp/132_Isoleucine_Ge-sp.pdf) | 132.10245 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
-| [Data](/pdf/H-davidbowie/132_Isoleucine_Hd.pdf) | 132.10245 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/Hippocosa-sp1/132_Isoleucine_Hi-sp1.pdf) | 132.10245 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/L-mactans/132_Isoleucine_Lm.pdf) | 132.10245 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/132_Isoleucine_Pb.pdf) | 132.10245 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/132_Isoeucine_2-65.pdf) | 132.10191 |           | L-Isoleucine | Fluka  | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/132_Isoleucine_Al-sp1.pdf) | 132.10191 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp4/132_Isoleucine_Al-sp4.pdf) | 132.10191 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/132_Isoleucine_Al-sp5.pdf) | 132.10191 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/132_Isoleucine_Ge-sp.pdf) | 132.10191 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/H-davidbowie/132_Isoleucine_Hd.pdf) | 132.10191 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/Hippocosa-sp1/132_Isoleucine_Hi-sp1.pdf) | 132.10191 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-mactans/132_Isoleucine_Lm.pdf) | 132.10191 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/132_Isoleucine_Pb.pdf) | 132.10191 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/132_Isoleucine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-mexicanus/132_Isoleucine_Pm.pdf) | 132.10245 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/S-grossa/132_Isoleucine_Sg.pdf) | 132.10245 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/132_Isoleucine_Pm.pdf) | 132.10191 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/132_Isoleucine_Sg.pdf) | 132.10191 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

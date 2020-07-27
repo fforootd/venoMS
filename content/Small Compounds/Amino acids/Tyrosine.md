@@ -19,45 +19,45 @@ tags= ["S-1","C-1",
 | Synonym                   |                 |
 | Molecular formula         | C₉H₁₁NO₃        |
 | CAS                       | 60-18-4         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)CC1=CC=C(O)C=C1)=O  |
+| InChI  | InChI=1S/C9H11NO3/c10-8(9(12)13)5-6-1-3-7(11)4-2-6/h1-4,8,11H,5,10H2,(H,12,13)  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 182.08172       |
-| Precursor 2 [M+H-NH₃]⁺    | 165.05517       |
+| Precursor 1 [M+H]⁺        | 182.08117       |
+| Precursor 2 [M+H-NH₃]⁺    | 165.05462       |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 4               |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 187.11310       |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 187.11255       |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
 | Rt                        | 3.01            |
-| Rt HDX                    |                 |
+| Rt HDX                    | 2.73                |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation     |
 |-----------|-------------------|----------------|
-| 182.08172 | C₉H₁₂NO₃          | [M+H]⁺         |
-| 165.05517 | C₉H₉O₃            | [M+H-NH₃]⁺     |
-| 147.04460 | C₉H₇O₂            | [M+H-NH₃-H₂O]⁺ |
-| 136.07624 | C₈H₁₀NO           | [M+H-HCOOH]⁺   |
-| 123.04460 | C₇H₇O₂            |                |
-| 121.06534 | C₈H₉O             |                |
-| 119.04969 | C₈H₇O             |                |
-| 95.04969  | C₆H₇O             |                |
-| 91.05478  | C₇H₇              |                |
-| 86.09697  | C₅H₁₂N            |                |
+| 182.08117 | C₉H₁₂NO₃          | [M+H]⁺         |
+| 165.05462 | C₉H₉O₃            | [M+H-NH₃]⁺     |
+| 147.04406 | C₉H₇O₂            | [M+H-NH₃-H₂O]⁺ |
+| 136.07569 | C₈H₁₀NO           | [M+H-HCOOH]⁺   |
+| 123.04406 | C₇H₇O₂            |                |
+| 121.06479 | C₈H₉O             |                |
+| 119.04914 | C₈H₇O             |                |
+| 95.04914  | C₆H₇O             |                |
+| 91.05423  | C₇H₇              |                |
+| 86.09643  | C₅H₁₂N            |                |
 
 ## Recorded MS/MS spectra
 
 | pdf                                | Precursor | Co-eluting | Spider     | Source        | Author        |
 |------------------------------------|-----------|------------|------------|---------------|---------------|
-| [Data](/pdf/182_Tyrosine_3-01.pdf) | 182.08172 |            | L-Tyrosine | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/H-davidbowie/182_Tyrosine_Hd.pdf) | 182.08172 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/P-bistriata/182_Tyrosine_Pb.pdf) | 182.08172 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/182_Tyrosine_3-01.pdf) | 182.08117 |            | L-Tyrosine | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/182_Tyrosine_Hd.pdf) | 182.08117 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/P-bistriata/182_Tyrosine_Pb.pdf) | 182.08117 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/182_Tyrosine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-mexicanus/182_Tyrosine_Pm.pdf) | 182.08172 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/182_Tyrosine_Pm.pdf) | 182.08117 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
 
 
 ## References

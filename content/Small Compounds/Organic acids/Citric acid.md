@@ -31,16 +31,16 @@ tags = ["S-1","C-4",
 | Synonym                    |                                                      |
 | Molecular formula          | C₆H₈O₇                                               |
 | CAS                        | 77-92-9                                              |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(CC(C(O)=O)(O)CC(O)=O)=O  |
+| InChI  | InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)  |
 |                            |                                                      |
-| Precursor 1 [M+H]⁺         | 193.03482                                            |
-| Precursor 2 [M+NH₄]⁺       | 210.06138                                            |
-| Precursor 3 [M+Na]⁺        | 215.01677                                            |
+| Precursor 1 [M+H]⁺         | 193.03428                                            |
+| Precursor 2 [M+NH₄]⁺       | 210.06083                                            |
+| Precursor 3 [M+Na]⁺        | 215.01622                                            |
 |                            |                                                      |
 | HDX                        | 4                                                    |
-| Precursor HDX 1 [M(D₄)+D]⁺  | 198.06621                                            |
-| Precursor HDX 2 [M(D₄)+Na]⁺ | 219.04188                                            |
+| Precursor HDX 1 [M(D₄)+D]⁺  | 198.06566                                            |
+| Precursor HDX 2 [M(D₄)+Na]⁺ | 219.04133                                            |
 | Precursor HDX 3            |                                                      |
 |                            |                                                      |
 | Rt                         | 1.81                                                 |
@@ -50,30 +50,30 @@ tags = ["S-1","C-4",
 
 | m/z       | Molecular formula | Annotation        |
 |-----------|-------------------|-------------------|
-| 175.02426 | C₆H₇O₆            | [M+H-H₂O]⁺        |
-| 157.01370 | C₆H₅O₅            | [M+H-2H₂O]⁺       |
-| 139.00313 | C₆H₃O₄            | [M+H-3H₂O]⁺       |
-| 129.01878 | C₅H₅O₄            | [M+H-HCOOH-H₂O]⁺  |
-| 115.00313 | C₄H₃O₄            |                   |
-| 111.00822 | C₅H₃O₃            | [M+H-HCOOH-2H₂O]⁺ |
-| 87.00822  | C₃H₃O₃            |                   |
-| 68.99765  | C₃HO₂             |                   |
+| 175.02371 | C₆H₇O₆            | [M+H-H₂O]⁺        |
+| 157.01315 | C₆H₅O₅            | [M+H-2H₂O]⁺       |
+| 139.00259 | C₆H₃O₄            | [M+H-3H₂O]⁺       |
+| 129.01824 | C₅H₅O₄            | [M+H-HCOOH-H₂O]⁺  |
+| 115.00259 | C₄H₃O₄            |                   |
+| 111.00767 | C₅H₃O₃            | [M+H-HCOOH-2H₂O]⁺ |
+| 87.00767  | C₃H₃O₃            |                   |
+| 68.99711  | C₃HO₂             |                   |
 
 ## Recorded MS/MS spectra
 
 | pdf                                              | Precursor | Co-eluting | Spider    | Source                       | Author        |
 |--------------------------------------------------|-----------|------------|-----------|------------------------------|---------------|
-| [Data](/pdf/A-aperta/193_Citric-acid_Aa.pdf)     | 210.06138 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-aperta/193_Citric-acid_Aa.pdf)     | 210.06083 |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-aperta/193_Citric-acid_Aa_HDX.pdf) | HDX       |            | A. aperta | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-potteri/193_Citric-acid_Ap.pdf) | 210.06138 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-potteri/193_Citric-acid_Ap.pdf) | 210.06083 |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/A-potteri/193_Citric-acid_Ap_HDX.pdf) | HDX |           | A. potteri | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Ariadna-sp/193_Citric-acid_Ar-sp.pdf) | 210.06138 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/193_Citric-acid_Ar-sp.pdf) | 210.06083 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/193_Citric-acid_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/A-robustus/193_Citric-acid_Ar.pdf) | 210.06138 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/193_Citric-acid_Ar.pdf) | 210.06083 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/193_Citric-acid_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/Hololena-sp/193_Citric-acid_Ho-sp.pdf) | 210.06138 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Hololena-sp/193_Citric-acid_Ho-sp.pdf) | 210.06083 |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Hololena-sp/193_Citric-acid_Ho-sp_HDX.pdf) | HDX |           | Hololena sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/N-clavipes/193_Citric-acid_Nc.pdf) | 210.06138 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/N-clavipes/193_Citric-acid_Nc.pdf) | 210.06083 |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/N-clavipes/193_Citric-acid_Nc_HDX.pdf) | HDX |           | T. clavipes| Spider Pharm, USA | Y. M. Forster |
 
 ## References

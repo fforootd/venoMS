@@ -23,47 +23,47 @@ tags = ["S-1","C-1",
 | Synonym                |                                    |
 | Molecular formula      | C₅H₁₄NO                            |
 | CAS                    | 62-49-7                            |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OCC[N+](C)(C)C  |
+| InChI  | InChI=1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1  |
 |                        |                                    |
-| Precursor 1  M⁺        | 104.10754                          |
+| Precursor 1  M⁺        | 104.10699                          |
 | Precursor 2            |                                    |
 | Precursor 3            |                                    |
 |                        |                                    |
 | HDX                    | 1                                  |
-| Precursor HDX 1  M(D₁)⁺ | 105.11381                          |
+| Precursor HDX 1  M(D₁)⁺ | 105.11327                          |
 | Precursor HDX 2        |                                    |
 | Precursor HDX 3        |                                    |
 |                        |                                    |
 | Rt                     | 1.15                               |
-| Rt HDX                 |                                    |
+| Rt HDX                 | 1.13                                   |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation  |
 |-----------|-------------------|-------------|
-| 104.10754 | C₅H₁₄NO           | M⁺          |
-| 60.08132  | C₃H₁₀N            | [HN(CH₃)₃]⁺ |
-| 58.06567  | C₃H₈N             |             |
+| 104.10699 | C₅H₁₄NO           | M⁺          |
+| 60.08078  | C₃H₁₀N            | [HN(CH₃)₃]⁺ |
+| 58.06513  | C₃H₈N             |             |
 
 ## Recorded MS/MS spectra
 
 | pdf                               | Precursor | Co-eluting | Spider                              | Source        | Author        |
 |-----------------------------------|-----------|------------|-------------------------------------|---------------|---------------|
-| [Data](/pdf/104_Choline_1-15.pdf) | 104.10754 |            | Choline, 45% in MeOH (CAS 123-41-1) | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/A-orientalis/104_Choline_Ao.pdf) | 104.10754 |           | A. orientalis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/A-robustus/104_Choline_GABA_Ar.pdf) | 104.10754 | GABA           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/104_Choline_1-15.pdf) | 104.10699 |            | Choline, 45% in MeOH (CAS 123-41-1) | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/A-orientalis/104_Choline_Ao.pdf) | 104.10699 |           | A. orientalis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/A-robustus/104_Choline_GABA_Ar.pdf) | 104.10699 | GABA           | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/104_Choline_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/D-canities/104_Choline_Dc.pdf) | 104.10754 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Eresus-sp2/104_Choline_Er-sp2.pdf) | 104.10754 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-davidbowie/104_Choline_Hd.pdf) | 104.10754 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/L-cornutus/104_Choline_Lc.pdf) | 104.10754 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/D-canities/104_Choline_Dc.pdf) | 104.10699 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Eresus-sp2/104_Choline_Er-sp2.pdf) | 104.10699 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/104_Choline_Hd.pdf) | 104.10699 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/L-cornutus/104_Choline_Lc.pdf) | 104.10699 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/104_Choline_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/104_Choline_Pb.pdf) | 104.10754 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/104_Choline_Pb_HDX.pdf) | 104.10754 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-tristis/104_Choline_Pt.pdf) | 104.10754 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/104_Choline_Pb.pdf) | 104.10699 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/104_Choline_Pb_HDX.pdf) | 104.10699 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/P-tristis/104_Choline_Pt.pdf) | 104.10699 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/104_Choline_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Stegodyphus-sp4/104_Choline_St-sp4.pdf) | 104.10754 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Stegodyphus-sp4/104_Choline_St-sp4.pdf) | 104.10699 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 
 ## References

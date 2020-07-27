@@ -19,46 +19,46 @@ tags = ["S-1","C-1",
 | Synonym                   |                    |
 | Molecular formula         | C₈H₁₁NO            |
 | CAS                       | 51-67-2            |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC1=CC=C(CCN)C=C1  |
+| InChI  | InChI=1S/C8H11NO/c9-6-5-7-1-3-8(10)4-2-7/h1-4,10H,5-6,9H2  |
 |                           |                    |
-| Precursor 1 [M+H]⁺        | 138.09189          |
-| Precursor 2 [M+H-NH₃]⁺    | 121.06534          |
+| Precursor 1 [M+H]⁺        | 138.09134          |
+| Precursor 2 [M+H-NH₃]⁺    | 121.06479          |
 | Precursor 3               |                    |
 |                           |                    |
 | HDX                       | 3                  |
-| Precursor HDX 1 [M(D₃)+D]⁺ | 142.11699          |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 142.11645          |
 | Precursor HDX 2           |                    |
 | Precursor HDX 3           |                    |
 |                           |                    |
 | Rt                        | 2.83               |
-| Rt HDX                    |                    |
+| Rt HDX                    | 2.39                   |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation     |
 |-----------|-------------------|----------------|
-| 138.09189 | C₈H₁₂NO           | [M+H]⁺         |
-| 121.06534 | C₈H₉O             | [M+H-NH₃]⁺     |
-| 103.05478 | C₈H₇              | [M+H-NH₃-H₂O]⁺ |
-| 95.04969  | C₆H₇O             |                |
-| 93.07043  | C₇H₉              |                |
-| 91.05478  | C₇H₇              |                |
+| 138.09134 | C₈H₁₂NO           | [M+H]⁺         |
+| 121.06479 | C₈H₉O             | [M+H-NH₃]⁺     |
+| 103.05423 | C₈H₇              | [M+H-NH₃-H₂O]⁺ |
+| 95.04914  | C₆H₇O             |                |
+| 93.06988  | C₇H₉              |                |
+| 91.05423  | C₇H₇              |                |
 
 ## Recorded MS/MS spectra
 
 | pdf                                | Precursor | Co-eluting | Spider   | Source        | Author        |
 |------------------------------------|-----------|------------|----------|---------------|---------------|
-| [Data](/pdf/138_Tyramine_2-83.pdf) | 138.09189 |            | Tyramine | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp4/138_Tyramine_Al-sp4.pdf) | 138.09189 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp5/138_Tyramine_Al-sp5.pdf) | 138.09189 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Geolycosa-sp/138_Tyramine_Ge-sp.pdf) | 138.09189 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
-| [Data](/pdf/Hippocosa-sp1/138_Tyramine_Hi-sp1.pdf) | 138.09189 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/138_Tyramine_Hc.pdf) | 138.09189 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/138_Tyramine_2-83.pdf) | 138.09134 |            | Tyramine | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp4/138_Tyramine_Al-sp4.pdf) | 138.09134 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/138_Tyramine_Al-sp5.pdf) | 138.09134 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/138_Tyramine_Ge-sp.pdf) | 138.09134 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/Hippocosa-sp1/138_Tyramine_Hi-sp1.pdf) | 138.09134 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/138_Tyramine_Hc.pdf) | 138.09134 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/138_Tyramine_Hc_HDX.pdf) | HDX |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-praegrandis/138_Tyramine_Lp.pdf) | 138.09189 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp3/104_Choline_Ly-sp3.pdf) | 138.09189 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp4/104_Choline_Ly-sp4.pdf) | 138.09189 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-praegrandis/138_Tyramine_Lp.pdf) | 138.09134 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp3/104_Choline_Ly-sp3.pdf) | 138.09134 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp4/104_Choline_Ly-sp4.pdf) | 138.09134 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

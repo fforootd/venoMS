@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                 |
 | Molecular formula         | C₅H₁₁NO₂        |
 | CAS                       | 72-18-4         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)C(C)C)=O  |
+| InChI  | InChI=1S/C5H11NO2/c1-3(2)4(6)5(7)8/h3-4H,6H2,1-2H3,(H,7,8)  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 118.08680       |
+| Precursor 1 [M+H]⁺        | 118.08626       |
 | Precursor 2               |                 |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 3               |
-| Precursor HDX 1 [M(D₃)+D]⁺ | 122.11191       |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 122.11136       |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
@@ -38,15 +38,15 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation     |
 |-----------|-------------------|----------------|
-| 118.08680 | C₅H₁₂NO₂          | [M+H]⁺         |
-| 72.08132  | C₄H₁₀NO           | [M+H-H₂O]⁺     |
-| 55.05478  | C₄H₇O             | [M+H-H₂O-NH₃]⁺ |
+| 118.08626 | C₅H₁₂NO₂          | [M+H]⁺         |
+| 72.08078  | C₄H₁₀N            | [M+H-HCCOH]⁺     |
+| 55.05423  | C₄H₇              | [M+H-HCOOH-NH₃]⁺ |
 
 ## Recorded MS/MS spectra
 
 | pdf                              | Precursor | Co-eluting | Spider   | Source | Author        |
 |----------------------------------|-----------|------------|----------|--------|---------------|
-| [Data](/pdf/118_Valine_1-45.pdf) | 118.08680 |            | L-Valine | Fluka  | Y. M. Forster |
+| [Data](/pdf/118_Valine_1-45.pdf) | 118.08626 |            | L-Valine | Fluka  | Y. M. Forster |
 
 ## References
 

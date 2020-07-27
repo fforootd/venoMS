@@ -15,19 +15,19 @@ tags = ["S-1","C-1"]
 |---------------------------|---------------------|
 | Level                     | S-1 / C-1                   |
 | Discovered                | ---- / --- |
-| Synonym                   | Parawixin2                    |
+| Synonym                   | Parawixin 2                    |
 | Molecular formula         | C₆H₁₄N₄O₂           |
 | CAS                       | 764724-17-6         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NC(C(N)CCCNC(N)=O)=O  |
+| InChI  | InChI=1S/C6H14N4O2/c7-4(5(8)11)2-1-3-10-6(9)12/h4H,1-3,7H2,(H2,8,11)(H3,9,10,12)  |
 |                           |                     |
-| Precursor 1 [M+H]⁺        | 175.11950           |
-| Precursor 2 [M+Na]⁺       | 197.10144           |
-| Precursor 3 [2M+H]⁺       | 349.23118           |
-| Precursor 4 [2M+Na]⁺      | 371.21312           |
+| Precursor 1 [M+H]⁺        | 175.11895           |
+| Precursor 2 [M+Na]⁺       | 197.10090           |
+| Precursor 3 [2M+H]⁺       | 349.23063           |
+| Precursor 4 [2M+Na]⁺      | 371.21257           |
 |                           |                     |
 | HDX                       | 7                   |
-| Precursor HDX 1 [M(D₇)+D]⁺ | 183.16971           |
+| Precursor HDX 1 [M(D₇)+D]⁺ | 183.16917           |
 | Precursor HDX 2           |                     |
 | Precursor HDX 3           |                     |
 |                           |                     |
@@ -38,21 +38,21 @@ tags = ["S-1","C-1"]
 
 | m/z       | Molecular formula | Annotation          |
 |-----------|-------------------|---------------------|
-| 175.11950 | C₆H₁₅N₄O₂         | [M+H]⁺              |
-| 158.09295 | C₆H₁₂N₃O₂         | [M+H-NH₃]⁺          |
-| 141.06640 | C₆H₉N₂O₂          | [M+H-2NH₃]⁺         |
-| 115.08714 | C₅H₁₁N₂O          | [M+H-H₂NCONH₂]⁺     |
-| 113.07149 | C₅H₉N₂O           |                     |
-| 99.01945  | C₃H₃N₂O₂          |                     |
-| 98.06059  | C₅H₈NO            | [M+H-H₂NCONH₂-NH₃]⁺ |
-| 86.06059  | C₄H₈NO            |                     |
-| 70.06567  | C₄H₈N             |                     |
+| 175.11895 | C₆H₁₅N₄O₂         | [M+H]⁺              |
+| 158.09240 | C₆H₁₂N₃O₂         | [M+H-NH₃]⁺          |
+| 141.06585 | C₆H₉N₂O₂          | [M+H-2NH₃]⁺         |
+| 115.08659 | C₅H₁₁N₂O          | [M+H-H₂NCONH₂]⁺     |
+| 113.07094 | C₅H₉N₂O           |                     |
+| 99.01890  | C₃H₃N₂O₂          |                     |
+| 98.06004  | C₅H₈NO            | [M+H-H₂NCONH₂-NH₃]⁺ |
+| 86.06004  | C₄H₈NO            |                     |
+| 70.06513  | C₄H₈N             |                     |
 
 ## Recorded MS/MS spectra
 
 | pdf                               | Precursor | Co-eluting | Spider  | Source   | Author        |
 |-----------------------------------|-----------|------------|---------|----------|---------------|
-| [Data](/pdf/175_FrPbAII_1-15.pdf) | 175.11950 |            | FrPbAII | Biotrend | Y. M. Forster |
+| [Data](/pdf/175_FrPbAII_1-15.pdf) | 175.11895 |            | FrPbAII | Biotrend | Y. M. Forster |
 
 ## References
 

@@ -23,39 +23,39 @@ tags = ["S-1","C-1",
 | Synonym                   |                  |
 | Molecular formula         | C₄H₇NO₄          |
 | CAS                       | 56-84-8          |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)CC(O)=O)=O  |
+| InChI  | InChI=1S/C4H7NO4/c5-2(4(8)9)1-3(6)7/h2H,1,5H2,(H,6,7)(H,8,9)  |
 |                           |                  |
-| Precursor 1 [M+H]⁺        | 134.04533        |
+| Precursor 1 [M+H]⁺        | 134.04478        |
 | Precursor 2               |                  |
 | Precursor 3               |                  |
 |                           |                  |
 | HDX                       | 4                |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 139.07671        |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 139.07617        |
 | Precursor HDX 2           |                  |
 | Precursor HDX 3           |                  |
 |                           |                  |
 | Rt                        | 1.13             |
-| Rt HDX                    |                  |
+| Rt HDX                    | 1.10                 |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation   |
 |-----------|-------------------|--------------|
-| 134.04533 | C₄H₈NO₄           | [M+H]⁺       |
-| 116.03477 | C₄H₆NO₃           | [M+H-H₂O]⁺   |
-| 88.03985  | C₃H₆NO₂           | [M+H-HCOOH]⁺ |
-| 74.02420  | C₂H₄NO₂           |              |
+| 134.04478 | C₄H₈NO₄           | [M+H]⁺       |
+| 116.03422 | C₄H₆NO₃           | [M+H-H₂O]⁺   |
+| 88.03930  | C₃H₆NO₂           | [M+H-HCOOH]⁺ |
+| 74.02365  | C₂H₄NO₂           |              |
 
 ## Recorded MS/MS spectra
 
 | pdf                                     | Precursor | Co-eluting | Spider          | Source        | Author        |
 |-----------------------------------------|-----------|------------|-----------------|---------------|---------------|
-| [Data](/pdf/134_Aspartic_acid_1-13.pdf) | 134.04533 |            | L-Aspartic acid | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp1/104_Choline_Al-sp1.pdf) | 134.04533 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Ariadna-sp/134_Aspartic-acid_Ar-sp.pdf) | 134.04533 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/134_Aspartic_acid_1-13.pdf) | 134.04478 |            | L-Aspartic acid | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/104_Choline_Al-sp1.pdf) | 134.04478 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/134_Aspartic-acid_Ar-sp.pdf) | 134.04478 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/134_Aspartic-acid_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-tristis/134_Aspartic-acid_Pt.pdf) | 134.04533  |           | Plectreurys tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/134_Aspartic-acid_Pt.pdf) | 134.04478  |           | Plectreurys tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/134_Aspartic-acid_Pt_HDX.pdf) | HDX  |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 
 ## References

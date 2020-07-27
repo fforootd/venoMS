@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                                    |
 | Molecular formula         | C₁₀H₁₄N₅O₇P                        |
 | CAS                       | 61-19-8                            |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC1[C@@H](COP(O)(O)=O)O[C@@H](N2C=NC3=C2N=CN=C3N)C1O  |
+| InChI  | InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(22-10)1-21-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6+,7?,10-/m1/s1  |
 |                           |                                    |
-| Precursor 1 [M+H]⁺        | 348.07091                          |
+| Precursor 1 [M+H]⁺        | 348.07036                          |
 | Precursor 2               |                                    |
 | Precursor 3               |                                    |
 |                           |                                    |
 | HDX                       | 6                                  |
-| Precursor HDX 1 [M(D₆)+D]⁺ | 355.11484                          |
+| Precursor HDX 1 [M(D₆)+D]⁺ | 355.11430                          |
 | Precursor HDX 2           |                                    |
 | Precursor HDX 3           |                                    |
 |                           |                                    |
@@ -38,14 +38,14 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation   |
 |-----------|-------------------|--------------|
-| 348.07091 | C₁₀H₁₅N₅O₇P       | [M+H]⁺       |
-| 136.06232 | C₅H₆N₅            | [adenine+H]⁺ |
+| 348.07036 | C₁₀H₁₅N₅O₇P       | [M+H]⁺       |
+| 136.06177 | C₅H₆N₅            | [adenine+H]⁺ |
 
 ## Recorded MS/MS spectra
 
 | pdf                           | Precursor | Co-eluting | Spider                                                    | Source | Author        |
 |-------------------------------|-----------|------------|-----------------------------------------------------------|--------|---------------|
-| [Data](/pdf/348_AMP_1-42.pdf) | 348.07091 |            | Adenosine-5'-monophosphate, disodium salt (CAS 4578-31-8) | Fluka  | Y. M. Forster |
+| [Data](/pdf/348_AMP_1-42.pdf) | 348.07036 |            | Adenosine-5'-monophosphate, disodium salt (CAS 4578-31-8) | Fluka  | Y. M. Forster |
 
 ## References
 

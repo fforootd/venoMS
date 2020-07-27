@@ -34,64 +34,64 @@ tags = ["S-1","C-1",
 | Synonym                   |                                   |
 | Molecular formula         | C₅H₉NO₄                           |
 | CAS                       | 56-86-0                           |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(CCC(N)C(O)=O)=O  |
+| InChI  | InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)  |
 |                           |                                   |
-| Precursor 1 [M+H]⁺        | 148.06098                         |
+| Precursor 1 [M+H]⁺        | 148.06043                         |
 | Precursor 2               |                                   |
 | Precursor 3               |                                   |
 |                           |                                   |
 | HDX                       | 4                                 |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 153.09236                         |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 153.09182                         |
 | Precursor HDX 2           |                                   |
 | Precursor HDX 3           |                                   |
 |                           |                                   |
 | Rt                        | 1.15                              |
-| Rt HDX                    |                                   |
+| Rt HDX                    | 1.14                                  |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation       |
 |-----------|-------------------|------------------|
-| 148.06098 | C₅H₁₀NO₄          | [M+H]⁺           |
-| 131.03443 | C₅H₇O₄            | [M+H-NH₃]⁺       |
-| 130.05042 | C₅H₈NO₃           | [M+H-H₂O]⁺       |
-| 102.05550 | C₄H₈NO₂           | [M+H-HCOOH]⁺     |
-| 85.02895  | C₄H₅O₂            | [M+H-HCOOH-NH₃]⁺ |
-| 84.04494  | C₄H₆NO            | [M+H-HCOOH-H₂O]⁺ |
-| 56.05002  | C₃H₆N             |                  |
+| 148.06043 | C₅H₁₀NO₄          | [M+H]⁺           |
+| 131.03389 | C₅H₇O₄            | [M+H-NH₃]⁺       |
+| 130.04987 | C₅H₈NO₃           | [M+H-H₂O]⁺       |
+| 102.05495 | C₄H₈NO₂           | [M+H-HCOOH]⁺     |
+| 85.02841  | C₄H₅O₂            | [M+H-HCOOH-NH₃]⁺ |
+| 84.04439  | C₄H₆NO            | [M+H-HCOOH-H₂O]⁺ |
+| 56.04948  | C₃H₆N             |                  |
 
 ## Recorded MS/MS spectra
 
 | pdf                                     | Precursor | Co-eluting | Spider          | Source | Author        |
 |-----------------------------------------|-----------|------------|-----------------|--------|---------------|
-| [Data](/pdf/148_Glutamic_acid_1-15.pdf) | 148.06098 |            | L-Glutamic acid | Fluka  | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp1/148_Glutamic-acid_Al-sp1.pdf) | 148.06098 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp4/148_Glutamic-acid_Al-sp4.pdf) | 148.06098 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp5/148_Glutamic-acid_Al-sp5.pdf) | 148.06098 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Ariadna-sp/148_Glutamic-acid_Ar-sp.pdf) | 148.06098 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/148_Glutamic_acid_1-15.pdf) | 148.06043 |            | L-Glutamic acid | Fluka  | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/148_Glutamic-acid_Al-sp1.pdf) | 148.06043 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp4/148_Glutamic-acid_Al-sp4.pdf) | 148.06043 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/148_Glutamic-acid_Al-sp5.pdf) | 148.06043  |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Ariadna-sp/148_Glutamic-acid_Ar-sp.pdf) | 148.06043 |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/Ariadna-sp/148_Glutamic-acid_Ar-sp_HDX.pdf) | HDX |           | Ariadna sp. | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Desertosa-sp3/148_Glutamic-acid_De-sp3.pdf) | 148.06098 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Drassodes-sp1/148_Glutamic-acid_Dr-sp1.pdf) | 148.06098 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Eresus-sp2/148_Glutamic-acid_Er-sp2.pdf) | 148.06098 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Geolycosa-sp/148_Glutamic-acid_Ge-sp.pdf) | 148.06098 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
-| [Data](/pdf/H-davidbowie/148_Glutamic-acid_Hd.pdf) | 148.06098 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/Hippocosa-sp1/148_Glutamic-acid_Hi-sp1.pdf) | 148.06098 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc.pdf) | 148.06098 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/148_Glutamic-acid_De-sp3.pdf) | 148.06043 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Drassodes-sp1/148_Glutamic-acid_Dr-sp1.pdf) | 148.06043 |           | Drassodes sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Eresus-sp2/148_Glutamic-acid_Er-sp2.pdf) | 148.06043 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/148_Glutamic-acid_Ge-sp.pdf) | 148.06043 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/H-davidbowie/148_Glutamic-acid_Hd.pdf) | 148.06043 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/Hippocosa-sp1/148_Glutamic-acid_Hi-sp1.pdf) | 148.06043 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc.pdf) | 148.06043 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/148_Glutamic-acid_Hc_HDX.pdf) | HDX |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-cornutus/148_Glutamic-acid_Lc.pdf) | 148.06098 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/L-cornutus/148_Glutamic-acid_Lc.pdf) | 148.06043 |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/L-cornutus/148_Glutamic-acid_Lc_HDX.pdf) | HDX |           | L. cornutus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-praegrandis/148_Glutamic-acid_Lp.pdf) | 148.06098 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp1/148_Glutamic-acid_Ly-sp1.pdf) | 148.06098 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp3/148_Glutamic-acid_Ly-sp3.pdf) | 148.06098 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp4/148_Glutamic-acid_Ly-sp4.pdf) | 148.06098 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp5/148_Glutamic-acid_Ly-sp5.pdf) | 148.06098 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-bistriata/148_Glutamic-acid_Pb.pdf) | 148.06098 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/L-praegrandis/148_Glutamic-acid_Lp.pdf) | 148.06043 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp1/148_Glutamic-acid_Ly-sp1.pdf) | 148.06043 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp3/148_Glutamic-acid_Ly-sp3.pdf) | 148.06043 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp4/148_Glutamic-acid_Ly-sp4.pdf) | 148.06043 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp5/148_Glutamic-acid_Ly-sp5.pdf) | 148.06043 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/148_Glutamic-acid_Pb.pdf) | 148.06043 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/148_Glutamic-acid_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-viridans/148_Glutamic-acid_Pv.pdf) | 148.06098 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-tristis/148_Glutamic-acid_Pt.pdf) | 148.06098 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-viridans/148_Glutamic-acid_Pv.pdf) | 148.06043 |           | P. viridans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/148_Glutamic-acid_Pt.pdf) | 148.06043 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/148_Glutamic-acid_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Stegodyphus-sp4/148_Glutamic-acid_St-sp4.pdf) | 148.06098 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Stegodyphus-sp4/148_Glutamic-acid_St-sp4.pdf) | 148.06043 |           | Stegodyphus sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References
 

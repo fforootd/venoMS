@@ -17,15 +17,15 @@ tags = ["S-2","C-2",
 | Synonym                  |                                                          |
 | Molecular formula        | C₁₂H₁₄N₄O₁₃                                              |
 | CAS                      | 1337960-95-8                                             |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C1N(ON(O)NON2C(CC(C(O)=O)(O)CC2=O)=O)C(CC(C(O)=O)(O)C1)=O  |
+| InChI  | InChI=1S/C12H14N4O13/c17-5-1-11(25,9(21)22)2-6(18)14(5)28-13-16(27)29-15-7(19)3-12(26,10(23)24)4-8(15)20/h13,25-27H,1-4H2,(H,21,22)(H,23,24)  |
 |                          |                                                          |
-| Precursor 1 [M+H]⁺       | 423.06356                                                |
+| Precursor 1 [M+H]⁺       | 423.06301                                                |
 | Precursor 2              |                                                          |
 | Precursor 3              |                                                          |
 |                          |                                                          |
 | HDX                      | 6                                                        |
-| Precursor HDX 1 [M(D₆)+D]⁺ | 430.10750                                                |
+| Precursor HDX 1 [M(D₆)+D]⁺ | 430.10695                                                |
 | Precursor HDX 2          |                                                          |
 | Precursor HDX 3          |                                                          |
 |                          |                                                          |

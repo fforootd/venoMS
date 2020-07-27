@@ -17,15 +17,15 @@ tags = ["S-1","C-1"]
 | Synonym             |            |
 | Molecular formula   | C₇H₈NO₂    |
 | CAS                 | 824-77-1   |
-| SMILES |   |
-| InChI  |   |
+| SMILES | C[N+]1=CC=C(C(O)=O)C=C1  |
+| InChI  | InChI=1S/C7H7NO2/c1-8-4-2-6(3-5-8)7(9)10/h2-5H,1H3/p+1  |
 |                     |            |
-| Precursor 1  M⁺     | 138.05550  |
+| Precursor 1  M⁺     | 138.05495  |
 | Precursor 2         |            |
 | Precursor 3         |            |
 |                     |            |
 | HDX                 | 1          |
-| Precursor HDX 1  M(D₁)⁺ | 139.06178  |
+| Precursor HDX 1  M(D₁)⁺ | 139.06123  |
 | Precursor HDX 2     |            |
 | Precursor HDX 3     |            |
 |                     |            |
@@ -36,16 +36,15 @@ tags = ["S-1","C-1"]
 
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
-| 138.05550 | C₇H₈NO₂           | M⁺         |
-| 110.06598 | C₆H₈NO            | [M-CO]⁺    |
-| 96.04494  | C₅H₆NO            |            |
-| 94.06567  | C₆H₈NO            | [M-CO₂]⁺   |
+| 138.05495 | C₇H₈NO₂           | M⁺         |
+| 110.06004 | C₆H₈NO            | [M-CO]⁺    |
+| 94.06513  | C₆H₈N             | [M-CO₂]⁺   |
 
 ## Recorded MS/MS spectra
 
 | pdf                                                         | Precursor | Co-eluting | Spider                                             | Source                                 | Author        |
 |-------------------------------------------------------------|-----------|------------|----------------------------------------------------|----------------------------------------|---------------|
-| [Data](/pdf/138_1-Methyl-4-pyridinium-carboxylate_1-19.pdf) | 138.05550 |            | 1-Methyl-4-pyridinium carboxylate (CAS 36455-39-7) | Dominique Kamber, University of Zurich | Y. M. Forster |
+| [Data](/pdf/138_1-Methyl-4-pyridinium-carboxylate_1-19.pdf) | 138.05495 |            | 1-Methyl-4-pyridinium carboxylate (CAS 36455-39-7) | UZH, Bigler lab | Y. M. Forster |
 
 ## References
 

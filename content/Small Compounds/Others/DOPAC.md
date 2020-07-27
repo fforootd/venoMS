@@ -17,15 +17,15 @@ tags = ["S-1","C-4",
 | Synonym                   |                 |
 | Molecular formula         | C₈H₈O₄          |
 | CAS                       | 102-32-9        |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC1=C(O)C=CC(CC(O)=O)=C1  |
+| InChI  | InChI=1S/C8H8O4/c9-6-2-1-5(3-7(6)10)4-8(11)12/h1-3,9-10H,4H2,(H,11,12)  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 169.05008       |
+| Precursor 1 [M+H]⁺        | 169.04954       |
 | Precursor 2               |                 |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 3               |
-| Precursor HDX 1 [M(D₃)+D]⁺ | 173.07519       |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 173.07464       |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |

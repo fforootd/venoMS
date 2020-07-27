@@ -17,15 +17,15 @@ tags = ["S-1","C-4",
 | Synonym                   |                 |
 | Molecular formula         | C₃H₇NO₂         |
 | CAS                       | 56-41-7         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)C)=O  |
+| InChI  | InChI=1S/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 90.05550        |
+| Precursor 1 [M+H]⁺        | 90.05495        |
 | Precursor 2               |                 |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 3               |
-| Precursor HDX 1 [M(D₃)+D]⁺ | 94.08061        |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 94.08006        |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |

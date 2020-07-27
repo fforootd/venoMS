@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                 |
 | Molecular formula         | C₃H₇NO₃         |
 | CAS                       | 56-45-1         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)CO)=O  |
+| InChI  | InChI=1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 106.05042       |
+| Precursor 1 [M+H]⁺        | 106.04987       |
 | Precursor 2               |                 |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 4               |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 111.08180       |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 111.08125       |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
@@ -38,17 +38,17 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation   |
 |-----------|-------------------|--------------|
-| 106.05042 | C₃H₈NO₃           | [M+H]⁺       |
-| 88.03985  | C₃H₆NO₂           | [M+H-H₂O]⁺   |
-| 70.02929  | C₃H₄NO            | [M+H-2H₂O]⁺  |
-| 60.04494  | C₂H₆NO            | [M+H-HCOOH]⁺ |
+| 106.04987 | C₃H₈NO₃           | [M+H]⁺       |
+| 88.03930  | C₃H₆NO₂           | [M+H-H₂O]⁺   |
+| 70.02874  | C₃H₄NO            | [M+H-2H₂O]⁺  |
+| 60.04439  | C₂H₆NO            | [M+H-HCOOH]⁺ |
 
 ## Recorded MS/MS spectra
 
 | pdf                              | Precursor | Co-eluting | Spider   | Source        | Author        |
 |----------------------------------|-----------|------------|----------|---------------|---------------|
-| [Data](/pdf/106_Serine_1-10.pdf) | 106.05042 |            | L-Serine | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/L-mactans/106_Serine_Lm.pdf) | 106.05042 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/106_Serine_1-10.pdf) | 106.04987 |            | L-Serine | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/L-mactans/106_Serine_Lm.pdf) | 106.04987 |           | L. mactans | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

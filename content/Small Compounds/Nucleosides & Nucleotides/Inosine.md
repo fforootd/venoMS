@@ -19,42 +19,42 @@ tags = ["S-1","C-1",
 | Synonym                   |                   |
 | Molecular formula         | C₁₀H₁₂N₄O₅        |
 | CAS                       | 58-63-9           |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC1[C@@H](CO)O[C@@H](N2C=NC3=C2N=CNC3=O)C1O  |
+| InChI  | InChI=1S/C10H12N4O5/c15-1-4-6(16)7(17)10(19-4)14-3-13-5-8(14)11-2-12-9(5)18/h2-4,6-7,10,15-17H,1H2,(H,11,12,18)/t4-,6+,7?,10-/m1/s1  |
 |                           |                   |
-| Precursor 1 [M+H]⁺        | 269.08859         |
+| Precursor 1 [M+H]⁺        | 269.08805         |
 | Precursor 2               |                   |
 | Precursor 3               |                   |
 |                           |                   |
 | HDX                       | 4                 |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 274.11997         |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 274.11943         |
 | Precursor HDX 2           |                   |
 | Precursor HDX 3           |                   |
 |                           |                   |
 | Rt                        | 2.83              |
-| Rt HDX                    |                   |
+| Rt HDX                    | 2.31                  |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation        |
 |-----------|-------------------|-------------------|
-| 137.04634 | C₅H₅N₄O           | [hypoxanthine+H]⁺ |
+| 137.04579 | C₅H₅N₄O           | [hypoxanthine+H]⁺ |
 
 ## Recorded MS/MS spectra
 
 | pdf                               | Precursor | Co-eluting | Spider  | Source        | Author        |
 |-----------------------------------|-----------|------------|---------|---------------|---------------|
-| [Data](/pdf/269_Inosine_2-83.pdf) | 269.08859 |         | Inosine | Sigma Aldrich | Y. M. Forster |
-| [Data](/pdf/A-robustus/269_Inosine_Ar.pdf) | 269.08859 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/269_Inosine_2-83.pdf) | 269.08805 |         | Inosine | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/A-robustus/269_Inosine_Ar.pdf) | 269.08805 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/269_Inosine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/D-canities/269_Inosine_Dc.pdf) | 269.08859 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/Eresus-sp2/269_Inosine_Er-sp2.pdf) | 269.08859 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-bistriata/269_Inosine_Pb.pdf) | 269.08859 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/D-canities/269_Inosine_Dc.pdf) | 269.08805 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Eresus-sp2/269_Inosine_Er-sp2.pdf) | 269.08805 |           | Eresus sp.2 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-bistriata/269_Inosine_Pb.pdf) | 269.08805 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/269_Inosine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
-| [Data](/pdf/P-mexicanus/269_Inosine_Pm.pdf) | 269.08859 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-tristis/269_Inosine_Pt.pdf) | 269.08859 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-mexicanus/269_Inosine_Pm.pdf) | 269.08805 |           | P. mexicanus | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-tristis/269_Inosine_Pt.pdf) | 269.08805 |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/P-tristis/269_Inosine_Pt_HDX.pdf) | HDX |           | P. tristis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/S-grossa/269_Inosine_Sg.pdf) | 269.08859 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/S-grossa/269_Inosine_Sg.pdf) | 269.08805 |           | S. grossa | Spider Pharm, USA | Y. M. Forster |
 
 ## References
 

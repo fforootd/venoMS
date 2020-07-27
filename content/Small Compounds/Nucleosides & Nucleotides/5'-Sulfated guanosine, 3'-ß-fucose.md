@@ -1,6 +1,6 @@
 +++
 title = "5'-Sulfated guanosine, 3'-ß-fucose"
-categories = ["C16H23N5O12S2","P510","HDX519",
+categories = ["C17H25N5O11S","P508","HDX517",
 "Agelenidae"]
 tags = ["S-2","C-4",
 "Eratigena agrestis"]
@@ -15,17 +15,17 @@ tags = ["S-2","C-4",
 | Level                     | S-2 / C-4                |
 | Discovered                | 2004 / E. agrestis |
 | Synonym                   |                    |
-| Molecular formula         | C₁₆H₂₃N₅O₁₂S₂      |
+| Molecular formula         | C₁₇H₂₅N₅O₁₁S      |
 | CAS                       | 760215-13-2        |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC1C(O[C@H]2[C@H](O)[C@@H](O)[C@@H](O)[C@@H](C)C2)[C@@H](COS(=O)(O)=O)O[C@H]1N3C=NC4=C3N=C(N)NC4=O  |
+| InChI  | InChI=1S/C17H25N5O11S/c1-5-2-6(10(24)11(25)9(5)23)32-13-7(3-31-34(28,29)30)33-16(12(13)26)22-4-19-8-14(22)20-17(18)21-15(8)27/h4-7,9-13,16,23-26H,2-3H2,1H3,(H,28,29,30)(H3,18,20,21,27)/t5-,6+,7+,9-,10-,11-,12?,13-,16+/m0/s1  |
 |                           |                    |
-| Precursor 1 [M+H]⁺        | 510.11422          |
+| Precursor 1 [M+H]⁺        | 508.13440          |
 | Precursor 2               |                    |
 | Precursor 3               |                    |
 |                           |                    |
 | HDX                       | 8                  |
-| Precursor HDX 1 [M(D₈)+D]⁺ | 519.17071          |
+| Precursor HDX 1 [M(D₈)+D]⁺ | 517.19089          |
 | Precursor HDX 2           |                    |
 | Precursor HDX 3           |                    |
 |                           |                    |

@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                      |
 | Molecular formula         | C₃H₇NO₂S             |
 | CAS                       | 52-90-4              |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)CS)=O  |
+| InChI  | InChI=1S/C3H7NO2S/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H,5,6)  |
 |                           |                      |
-| Precursor 1 [M+H]⁺        | 122.02757            |
+| Precursor 1 [M+H]⁺        | 122.02703            |
 | Precursor 2               |                      |
 | Precursor 3               |                      |
 |                           |                      |
 | HDX                       | 4                    |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 127.05895            |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 127.05841            |
 | Precursor HDX 2           |                      |
 | Precursor HDX 3           |                      |
 |                           |                      |
@@ -38,17 +38,17 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation     |
 |-----------|-------------------|----------------|
-| 122.02757 | C₃H₈NO₂S          | [M+H]⁺         |
-| 105.00103 | C₃H₅O₂S           | [M+H-NH₃]⁺     |
-| 86.99046  | C₃H₃OS            | [M+H-NH₃-H₂O]⁺ |
-| 76.02210  | C₂H₆NS            | [M+H-HCOOH]⁺   |
-| 58.99555  | C₂H₃              |                |
+| 122.02703 | C₃H₈NO₂S          | [M+H]⁺         |
+| 105.00048 | C₃H₅O₂S           | [M+H-NH₃]⁺     |
+| 86.98991  | C₃H₃OS            | [M+H-NH₃-H₂O]⁺ |
+| 76.02155  | C₂H₆NS            | [M+H-HCOOH]⁺   |
+| 58.99500  | C₂H₃S             |                |
 
 ## Recorded MS/MS spectra
 
 | pdf                                | Precursor | Co-eluting | Spider     | Source | Author        |
 |------------------------------------|-----------|------------|------------|--------|---------------|
-| [Data](/pdf/122_Cysteine_1-17.pdf) | 122.02757 |            | L-Cysteine | Fluka  | Y. M. Forster |
+| [Data](/pdf/122_Cysteine_1-17.pdf) | 122.02703 |            | L-Cysteine | Fluka  | Y. M. Forster |
 
 ## References
 

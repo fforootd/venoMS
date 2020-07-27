@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                 |
 | Molecular formula         | C₈H₁₁NO₂        |
 | CAS                       | 51-61-6         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC1=C(O)C=CC(CCN)=C1  |
+| InChI  | InChI=1S/C8H11NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5,10-11H,3-4,9H2  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 154.08680       |
+| Precursor 1 [M+H]⁺        | 154.08626       |
 | Precursor 2               |                 |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 4               |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 159.11818       |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 159.11764       |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
@@ -38,17 +38,17 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
-| 154.08680 | C₈H₁₂NO₂          | [M+H]⁺     |
-| 137.06025 | C₈H₉NO₂           | [M+H-NH₃]⁺ |
-| 119.04969 | C₈H₇NO            |            |
-| 109.06534 | C₇H₉NO            |            |
-| 91.05478  | C₇H₇              |            |
+| 154.08626 | C₈H₁₂NO₂          | [M+H]⁺     |
+| 137.05971 | C₈H₉O₂            | [M+H-NH₃]⁺ |
+| 119.04914 | C₈H₇O            |            |
+| 109.06479 | C₇H₉O            |            |
+| 91.05423  | C₇H₇              |            |
 
 ## Recorded MS/MS spectra
 
 | pdf                                | Precursor | Co-eluting | Spider                     | Source     | Author        |
 |------------------------------------|-----------|------------|----------------------------|------------|---------------|
-| [Data](/pdf/154_Dopamine_2-04.pdf) | 154.08680 |            | Dopamine HCL (CAS 62-31-7) | Fluorochem | Y. M. Forster |
+| [Data](/pdf/154_Dopamine_2-04.pdf) | 154.08626 |            | Dopamine HCL (CAS 62-31-7) | Fluorochem | Y. M. Forster |
 
 ## References
 

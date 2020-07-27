@@ -19,43 +19,43 @@ tags = ["S-1","C-1",
 | Synonym                   |                      |
 | Molecular formula         | C₁₁H₁₂N₂O₂           |
 | CAS                       | 73-22-3              |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)CC1=CNC2=C1C=CC=C2)=O  |
+| InChI  | InChI=1S/C11H12N2O2/c12-9(11(14)15)5-7-6-13-10-4-2-1-3-8(7)10/h1-4,6,9,13H,5,12H2,(H,14,15)  |
 |                           |                      |
-| Precursor 1 [M+H]⁺        | 205.09770            |
-| Precursor 2 [M+H-NH₃]⁺    | 188.07115            |
+| Precursor 1 [M+H]⁺        | 205.09715            |
+| Precursor 2 [M+H-NH₃]⁺    | 188.07061            |
 | Precursor 3               |                      |
 |                           |                      |
 | HDX                       | 4                    |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 210.12908            |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 210.12854            |
 | Precursor HDX 2           |                      |
 | Precursor HDX 3           |                      |
 |                           |                      |
 | Rt                        | 9.38                 |
-| Rt HDX                    |                      |
+| Rt HDX                    | 8.60                    |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation     |
 |-----------|-------------------|----------------|
-| 188.07115 | C₁₁H₁₀NO₂         | [M+H-NH₃]⁺     |
-| 170.06059 | C₁₁H₈NO           | [M+H-NH₃-H₂O]⁺ |
-| 160.07624 | C₁₀H₁₀NO          |                |
-| 159.09222 | C₁₀H₁₁N₂          | [M+H-HCOOH]⁺   |
-| 146.06059 | C₉H₈NO            |                |
-| 144.08132 | C₁₀H₁₀N           |                |
-| 142.06567 | C₁₀H₈N            |                |
-| 132.08132 | C₉H₁₀N            |                |
-| 130.06567 | C₉H₈N             |                |
-| 118.06567 | C₈H₈N             |                |
+| 188.07061 | C₁₁H₁₀NO₂         | [M+H-NH₃]⁺     |
+| 170.06004 | C₁₁H₈NO           | [M+H-NH₃-H₂O]⁺ |
+| 160.07569 | C₁₀H₁₀NO          |                |
+| 159.09167 | C₁₀H₁₁N₂          | [M+H-HCOOH]⁺   |
+| 146.06004 | C₉H₈NO            |                |
+| 144.08078 | C₁₀H₁₀N           |                |
+| 142.06513 | C₁₀H₈N            |                |
+| 132.08078 | C₉H₁₀N            |                |
+| 130.06513 | C₉H₈N             |                |
+| 118.06513 | C₈H₈N             |                |
 
 ## Recorded MS/MS spectra
 
 | pdf                                  | Precursor | Co-eluting | Spider       | Source | Author        |
 |--------------------------------------|-----------|------------|--------------|--------|---------------|
-| [Data](/pdf/205_Tryptophan_9-38.pdf) | 205.09770 |            | L-Tryptophan | Merck  | Y. M. Forster |
-| [Data](/pdf/H-davidbowie/205_Tryptophan_Hd.pdf) | 205.09770 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/P-bistriata/205_Tryptophan_Pb.pdf) | 205.09770 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/205_Tryptophan_9-38.pdf) | 205.09715 |            | L-Tryptophan | Merck  | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/205_Tryptophan_Hd.pdf) | 205.09715 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/P-bistriata/205_Tryptophan_Pb.pdf) | 205.09715 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/205_Tryptophan_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References

@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                 |
 | Molecular formula         | C₆H₉N₃O₂        |
 | CAS                       | 71-00-1         |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C(N)CC1=CNC=N1)=O  |
+| InChI  | InChI=1S/C6H9N3O2/c7-5(6(10)11)1-4-2-8-3-9-4/h2-3,5H,1,7H2,(H,8,9)(H,10,11)  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 156.07730       |
+| Precursor 1 [M+H]⁺        | 156.07675       |
 | Precursor 2               |                 |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 4               |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 161.10868       |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 161.10814       |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
@@ -38,18 +38,18 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation       |
 |-----------|-------------------|------------------|
-| 156.07730 | C₆H₁₀N₃O₂         | [M+H]⁺           |
-| 110.07182 | C₅H₈N₃            | [M+H-HCOOH]⁺     |
-| 95.06092  | C₅H₇N₂            |                  |
-| 93.04527  | C₅H₅N₂            | [M+H-HCOOH-NH₃]⁺ |
-| 83.06092  | C₄H₇N₂            |                  |
-| 82.05310  | C₄H₆N₂            |                  |
+| 156.07675 | C₆H₁₀N₃O₂         | [M+H]⁺           |
+| 110.07127 | C₅H₈N₃            | [M+H-HCOOH]⁺     |
+| 95.06037  | C₅H₇N₂            |                  |
+| 93.04472  | C₅H₅N₂            | [M+H-HCOOH-NH₃]⁺ |
+| 83.06037  | C₄H₇N₂            |                  |
+| 82.05255  | C₄H₆N₂            |                  |
 
 ## Recorded MS/MS spectra
 
 | pdf                                 | Precursor | Co-eluting | Spider      | Source | Author        |
 |-------------------------------------|-----------|------------|-------------|--------|---------------|
-| [Data](/pdf/156_Histidine_1-10.pdf) | 156.07730 |            | L-Histidine | Fluka  | Y. M. Forster |
+| [Data](/pdf/156_Histidine_1-10.pdf) | 156.07675 |            | L-Histidine | Fluka  | Y. M. Forster |
 
 ## References
 

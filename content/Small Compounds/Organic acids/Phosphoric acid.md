@@ -17,15 +17,15 @@ tags = ["S-1","C-4",
 | Synonym                   |                    |
 | Molecular formula         | H₃O₄P              |
 | CAS                       | 7664-38-2          |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OP(O)(O)=O  |
+| InChI  | InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)  |
 |                           |                    |
-| Precursor 1 [M+H]⁺        | 98.98472           |
+| Precursor 1 [M+H]⁺        | 98.98417           |
 | Precursor 2               |                    |
 | Precursor 3               |                    |
 |                           |                    |
 | HDX                       | 3                  |
-| Precursor HDX 1 [M(D₃)+D]⁺ | 103.00982          |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 103.00928          |
 | Precursor HDX 2           |                    |
 | Precursor HDX 3           |                    |
 |                           |                    |

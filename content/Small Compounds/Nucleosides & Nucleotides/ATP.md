@@ -16,15 +16,15 @@ tags = ["Aphonopelma hentzi","Aphonopelma sp.","Aphonopelma californicum"]
 | Synonym                   |                                    |
 | Molecular formula         | C₁₀H₁₆N₅O₁₃P₃                      |
 | CAS                       | 56-65-5                            |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC1[C@@H](COP(OP(OP(O)(O)=O)(O)=O)(O)=O)O[C@@H](N2C=NC3=C2N=CN=C3N)C1O  |
+| InChI  | InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6+,7?,10-/m1/s1  |
 |                           |                                    |
-| Precursor 1 [M+H]⁺        | 508.00357                          |
+| Precursor 1 [M+H]⁺        | 508.00302                          |
 | Precursor 2               |                                    |
 | Precursor 3               |                                    |
 |                           |                                    |
 | HDX                       | 8                                  |
-| Precursor HDX 1 [M(D₈)+D]⁺ | 517.06006                          |
+| Precursor HDX 1 [M(D₈)+D]⁺ | 517.05951                          |
 | Precursor HDX 2           |                                    |
 | Precursor HDX 3           |                                    |
 |                           |                                    |

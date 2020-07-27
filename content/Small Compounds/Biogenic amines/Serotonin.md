@@ -24,44 +24,44 @@ tags = ["S-1","C-1",
 | Synonym                   | 5-Hydroxytryptamine / 5-HT |
 | Molecular formula         | C₁₀H₁₂N₂O                  |
 | CAS                       | 50-67-9                    |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCC1=CNC2=C1C=C(O)C=C2  |
+| InChI  | InChI=1S/C10H12N2O/c11-4-3-7-6-12-10-2-1-8(13)5-9(7)10/h1-2,5-6,12-13H,3-4,11H2  |
 |                           |                            |
-| Precursor 1 [M+H]⁺        | 177.10279                  |
-| Precursor 2 [M+H-NH₃]⁺    | 160.07624                  |
+| Precursor 1 [M+H]⁺        | 177.10224                  |
+| Precursor 2 [M+H-NH₃]⁺    | 160.07569                  |
 | Precursor 3               |                            |
 |                           |                            |
 | HDX                       | 4                          |
-| Precursor HDX 1 [M(D₄)+D]⁺ | 182.13417                  |
+| Precursor HDX 1 [M(D₄)+D]⁺ | 182.13362                  |
 | Precursor HDX 2           |                            |
 | Precursor HDX 3           |                            |
 |                           |                            |
 | Rt                        | 4.31                       |
-| Rt HDX                    |                            |
+| Rt HDX                    | 3.48                           |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
-| 160.07624 | C₁₀H₁₀NO          | [M+H-NH₃]⁺ |
-| 132.08132 | C₉H₁₀N            |            |
-| 160.07624 | C₉H₇              |            |
+| 160.07569 | C₁₀H₁₀NO          | [M+H-NH₃]⁺ |
+| 132.08078 | C₉H₁₀N            |            |
+| 115.05423 | C₉H₇              |            |
 
 ## Recorded MS/MS spectra
 
 | pdf                                 | Precursor | Co-eluting | Spider                       | Source | Author        |
 |-------------------------------------|-----------|------------|------------------------------|--------|---------------|
-| [Data](/pdf/177_Serotonin_4-31.pdf) | 177.10279 |            | Serotonin HCl (CAS 153-98-0) | Fluka  | Y. M. Forster |
-| [Data](/pdf/A-robustus/177_Serotonin_Ar.pdf) | 177.10279 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/177_Serotonin_4-31.pdf) | 177.10224 |            | Serotonin HCl (CAS 153-98-0) | Fluka  | Y. M. Forster |
+| [Data](/pdf/A-robustus/177_Serotonin_Ar.pdf) | 177.10224 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/177_Serotonin_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/Desertosa-sp3/177_Serotonin_De-sp3.pdf) | 177.10279 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-davidbowie/177_Serotonin_Hd.pdf) | 177.10279 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/177_Serotonin_Hc.pdf) | 177.10279 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/177_Serotonin_De-sp3.pdf) | 177.10224 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-davidbowie/177_Serotonin_Hd.pdf) | 177.10224 |           | H. davidbowie | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/177_Serotonin_Hc.pdf) | 177.10224 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/177_Serotonin_Hc_HDX.pdf) | HDX |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-praegrandis/177_Serotonin_Lp.pdf) | 177.10279 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp1/177_Serotonin_Ly-sp1.pdf) | 177.10279 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp5/177_Serotonin_Ly-sp5.pdf) | 177.10279 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-luctuosa/177_Serotonin_Pl.pdf) | 177.10279 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/L-praegrandis/177_Serotonin_Lp.pdf) | 177.10224 |           | L. praegrandis | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp1/177_Serotonin_Ly-sp1.pdf) | 177.10224 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp5/177_Serotonin_Ly-sp5.pdf) | 177.10224 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-luctuosa/177_Serotonin_Pl.pdf) | 177.10224 |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 | [Data](/pdf/P-luctuosa/177_Serotonin_Pl_HDX.pdf) | HDX |           | P. luctuosa | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
 
 ## References

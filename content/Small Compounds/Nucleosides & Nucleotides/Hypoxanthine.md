@@ -1,6 +1,6 @@
 +++
 title = "Hypoxanthine"
-categories = ["C5H5N4O","P137","HDX140",
+categories = ["C5H4N4O","P137","HDX140",
 "Araneidae","Atracidae","Diguetidae"]
 tags = ["S-1","C-1",
 "Atrax robustus","Diguetia canities","Parawixia bistriata"]
@@ -15,37 +15,37 @@ tags = ["S-1","C-1",
 | Level                     | S-1 / C-1                                                 |
 | Discovered                | 2020 / P. bistriata                                         |
 | Synonym                   |                                                             |
-| Molecular formula         | C₅H₅N₄O                                                     |
+| Molecular formula         | C₅H₄N₄O                                                     |
 | CAS                       | 68-94-0                                                     |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C1C(N=CN2)=C2N=CN1  |
+| InChI  | InChI=1S/C5H4N4O/c10-5-3-4(7-1-6-3)8-2-9-5/h1-2H,(H2,6,7,8,9,10)  |
 |                           |                                                             |
-| Precursor 1 [M+H]⁺        | 137.04634                                                   |
+| Precursor 1 [M+H]⁺        | 137.04579                                                   |
 | Precursor 2               |                                                             |
 | Precursor 3               |                                                             |
 |                           |                                                             |
 | HDX                       | 2                                                           |
-| Precursor HDX 1 [M(D₂)+D]⁺ | 140.06516                                                   |
+| Precursor HDX 1 [M(D₂)+D]⁺ | 140.06462                                                   |
 | Precursor HDX 2           |                                                             |
 | Precursor HDX 3           |                                                             |
 |                           |                                                             |
-| Rt                        |                                                             |
-| Rt HDX                    |                                                             |
+| Rt                        | 1.65                                                            |
+| Rt HDX                    | 1.45                                                            |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
-| 137.04634 | C₅H₆N₄O           | [M+H]⁺     |
+| 137.04579 | C₅H₆N₄O           | [M+H]⁺     |
 
 ## Recorded MS/MS spectra
 
 | pdf | Precursor | Co-eluting | Spider | Source | Author |
 |-----|-----------|------------|--------|--------|--------|
-| [Data](/pdf/A-robustus/137_Hypoxanthine_Ar.pdf) |137.04634 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
+| [Data](/pdf/A-robustus/137_Hypoxanthine_Ar.pdf) | 137.04579 |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
 | [Data](/pdf/A-robustus/137_Hypoxanthine_Ar_HDX.pdf) | HDX |            | A. robustus | Alpha Biotoxin, BEL | Y. M. Forster |
-| [Data](/pdf/D-canities/137_Hypoxanthine_Dc.pdf) | 137.04634 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/P-bistriata/137_Hypoxanthine_Pb.pdf) | 137.04634 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
+| [Data](/pdf/D-canities/137_Hypoxanthine_Dc.pdf) | 137.04579 |           | D. canities | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/P-bistriata/137_Hypoxanthine_Pb.pdf) | 137.04579 |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 | [Data](/pdf/P-bistriata/137_Hypoxanthine_Pb_HDX.pdf) | HDX |           | P. bistriata | Prof. Dr. Wagner Ferreira dos Santos, BRA | Y. M. Forster |
 
 ## References

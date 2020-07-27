@@ -27,49 +27,49 @@ tags = ["S-1","C-1",
 | Synonym                   |                                   |
 | Molecular formula         | C₅H₉N₃                            |
 | CAS                       | 51-45-6                           |
-| SMILES |   |
-| InChI  |   |
+| SMILES | NCCC1=CNC=N1  |
+| InChI  | InChI=1S/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)  |
 |                           |                                   |
-| Precursor 1 [M+H]⁺        | 112.08747                         |
+| Precursor 1 [M+H]⁺        | 112.08692                         |
 | Precursor 2               |                                   |
 | Precursor 3               |                                   |
 |                           |                                   |
 | HDX                       | 3                                 |
-| Precursor HDX 1 [M(D₃)+D]⁺ | 116.11258                         |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 116.11203                         |
 | Precursor HDX 2           |                                   |
 | Precursor HDX 3           |                                   |
 |                           |                                   |
 | Rt                        | 1.09                              |
-| Rt HDX                    |                                   |
+| Rt HDX                    | 1.06                                  |
 
 ## MS/MS fragments
 
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
-| 112.08747 | C₅H₁₀N₃           | [M+H]⁺     |
-| 95.06092  | C₅H₇N₂            | [M+H-NH₃]⁺ |
-| 83.06092  | C₄H₇N₂            |            |
-| 68.05002  | C₄H₆N             |            |
+| 112.08692 | C₅H₁₀N₃           | [M+H]⁺     |
+| 95.06037  | C₅H₇N₂            | [M+H-NH₃]⁺ |
+| 83.06037  | C₄H₇N₂            |            |
+| 68.04948  | C₄H₆N             |            |
 
 ## Recorded MS/MS spectra
 
 | pdf                                 | Precursor | Co-eluting | Spider                       | Source | Author        |
 |-------------------------------------|-----------|------------|------------------------------|--------|---------------|
-| [Data](/pdf/112_Histamine_1-09.pdf) | 112.08747 |            | Histamine 2HCl (CAS 56-92-8) | Fluka  | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp1/112_Histamine_Al-sp1.pdf) | 112.08747 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp4/112_Histamine_Al-sp4.pdf) | 112.08747 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Alopecosa-sp5/112_Histamine_Al-sp5.pdf) | 112.08747 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Desertosa-sp3/112_Histamine_De-sp3.pdf) | 112.08747 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Geolycosa-sp/112_Histamine_Ge-sp.pdf) | 112.08747 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
-| [Data](/pdf/Hippocosa-sp1/112_Histamine_Hi-sp1.pdf) | 112.08747 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/H-caroliensis/112_Histamine_Hc.pdf) | 112.08747 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
+| [Data](/pdf/112_Histamine_1-09.pdf) | 112.08692 |            | Histamine 2HCl (CAS 56-92-8) | Fluka  | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp1/112_Histamine_Al-sp1.pdf) | 112.08692 |           | Alopecosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp4/112_Histamine_Al-sp4.pdf) | 112.08692 |           | Alopecosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Alopecosa-sp5/112_Histamine_Al-sp5.pdf) | 112.08692 |           | Alopecosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Desertosa-sp3/112_Histamine_De-sp3.pdf) | 112.08692 |           | Desertosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Geolycosa-sp/112_Histamine_Ge-sp.pdf) | 112.08692 |           | Geolycosa sp. | Spider Pharm, USA| Y. M. Forster |
+| [Data](/pdf/Hippocosa-sp1/112_Histamine_Hi-sp1.pdf) | 112.08692 |           | Hippocosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/H-caroliensis/112_Histamine_Hc.pdf) | 112.08692 |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
 | [Data](/pdf/H-caroliensis/112_Histamine_Hc_HDX.pdf) | HDX |           | H. carolinensis | Spider Pharm, USA | Y. M. Forster |
-| [Data](/pdf/L-praegrandis/112_Histamine_Lp.pdf) | 112.08747 |           | L. praegrandis| Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp1/112_Histamine_Ly-sp1.pdf) | 112.08747 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp3/112_Histamine_Ly-sp3.pdf) | 112.08747 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp4/112_Histamine_Ly-sp4.pdf) | 112.08747 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/Lycosa-sp5/112_Histamine_Ly-sp5.pdf) | 112.08747 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
-| [Data](/pdf/P-viridans/112_Histamine_Pv.pdf) | 112.08747 |           | P. viridans | Spider Pharm, USA  | Y. M. Forster |
+| [Data](/pdf/L-praegrandis/112_Histamine_Lp.pdf) | 112.08692 |           | L. praegrandis| Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp1/112_Histamine_Ly-sp1.pdf) | 112.08692 |           | Lycosa sp.1 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp3/112_Histamine_Ly-sp3.pdf) | 112.08692 |           | Lycosa sp.3 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp4/112_Histamine_Ly-sp4.pdf) | 112.08692 |           | Lycosa sp.4 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/Lycosa-sp5/112_Histamine_Ly-sp5.pdf) | 112.08692 |           | Lycosa sp.5 | Fauna Laboratories Ltd., KAZ | Y. M. Forster |
+| [Data](/pdf/P-viridans/112_Histamine_Pv.pdf) | 112.08692 |           | P. viridans | Spider Pharm, USA  | Y. M. Forster |
 
 ## References
 

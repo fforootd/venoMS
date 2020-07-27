@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                    |
 | Molecular formula         | C₅H₉NO₂            |
 | CAS                       | 147-85-3           |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OC(C1NCCC1)=O  |
+| InChI  | InChI=1S/C5H9NO2/c7-5(8)4-2-1-3-6-4/h4,6H,1-3H2,(H,7,8)  |
 |                           |                    |
-| Precursor 1 [M+H]⁺        | 116.07115          |
+| Precursor 1 [M+H]⁺        | 116.07061          |
 | Precursor 2               |                    |
 | Precursor 3               |                    |
 |                           |                    |
 | HDX                       | 1                  |
-| Precursor HDX 1 [M(D₁)+D]⁺ | 118.08370          |
+| Precursor HDX 1 [M(D₁)+D]⁺ | 118.08316          |
 | Precursor HDX 2           |                    |
 | Precursor HDX 3           |                    |
 |                           |                    |
@@ -38,14 +38,14 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation   |
 |-----------|-------------------|--------------|
-| 116.07115 | C₅H₁₀NO₂          | [M+H]⁺       |
-| 70.07567  | C₄H₈N             | [M+H-HCOOH]⁺ |
+| 116.07061 | C₅H₁₀NO₂          | [M+H]⁺       |
+| 70.06513  | C₄H₈N             | [M+H-HCOOH]⁺ |
 
 ## Recorded MS/MS spectra
 
 | pdf                               | Precursor | Co-eluting | Spider    | Source         | Author        |
 |-----------------------------------|-----------|------------|-----------|----------------|---------------|
-| [Data](/pdf/116_Proline_1-20.pdf) | 116.07115 |            | L-Proline | Acros Organics | Y. M. Forster |
+| [Data](/pdf/116_Proline_1-20.pdf) | 116.07061 |            | L-Proline | Acros Organics | Y. M. Forster |
 
 ## References
 

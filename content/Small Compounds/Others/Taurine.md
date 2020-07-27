@@ -19,15 +19,15 @@ tags = ["S-1","C-1",
 | Synonym                   |                 |
 | Molecular formula         | C₂H₇NO₃S        |
 | CAS                       | 107-35-7        |
-| SMILES |   |
-| InChI  |   |
+| SMILES | OS(CCN)(=O)=O  |
+| InChI  | InChI=1S/C2H7NO3S/c3-1-2-7(4,5)6/h1-3H2,(H,4,5,6)  |
 |                           |                 |
-| Precursor 1 [M+H]⁺        | 126.02249       |
+| Precursor 1 [M+H]⁺        | 126.02194       |
 | Precursor 2               |                 |
 | Precursor 3               |                 |
 |                           |                 |
 | HDX                       | 3               |
-| Precursor HDX 1 [M(D₃)+D]⁺ | 130.04759       |
+| Precursor HDX 1 [M(D₃)+D]⁺ | 130.04705       |
 | Precursor HDX 2           |                 |
 | Precursor HDX 3           |                 |
 |                           |                 |
@@ -38,14 +38,14 @@ tags = ["S-1","C-1",
 
 | m/z       | Molecular formula | Annotation |
 |-----------|-------------------|------------|
-| 126.02249 | C₂H₈NO₃S          | [M+H]⁺     |
-| 108.01192 | C₂H₆NO₂S          | [M+H-H₂O]⁺ |
+| 126.02194 | C₂H₈NO₃S          | [M+H]⁺     |
+| 108.01138 | C₂H₆NO₂S          | [M+H-H₂O]⁺ |
 
 ## Recorded MS/MS spectra
 
 | pdf                               | Precursor | Co-eluting | Spider  | Source        | Author        |
 |-----------------------------------|-----------|------------|---------|---------------|---------------|
-| [Data](/pdf/126_Taurine_1-10.pdf) | 126.02249 |            | Taurine | Sigma Aldrich | Y. M. Forster |
+| [Data](/pdf/126_Taurine_1-10.pdf) | 126.02194 |            | Taurine | Sigma Aldrich | Y. M. Forster |
 
 ## References
 
