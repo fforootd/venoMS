@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | LF 487C              |
 | Molecular formula           | C₂₅H₄₁N₇O₃           |
 | CAS                         | ---                  |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NC(CC(N)=O)C(NCCCCCNCCCNCCCN)=O)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C25H41N7O3/c26-10-6-12-29-14-7-13-28-11-4-1-5-15-30-25(35)22(17-23(27)33)32-24(34)16-19-18-31-21-9-3-2-8-20(19)21/h2-3,8-9,18,22,28-29,31H,1,4-7,10-17,26H2,(H2,27,33)(H,30,35)(H,32,34)  |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 488.33436            |
 | Precursor 2 [M+2H]²⁺        | 244.67082            |

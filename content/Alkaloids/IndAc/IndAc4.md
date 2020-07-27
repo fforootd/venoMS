@@ -18,8 +18,8 @@ tags = ["S-1","C-1",
 | Synonym                     | ---            |
 | Molecular formula           | C₁₄H₁₉N₃O   |
 | CAS                         | 132502-14-8 |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCCN)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C14H19N3O/c15-7-3-4-8-16-14(18)9-11-10-17-13-6-2-1-5-12(11)13/h1-2,5-6,10,17H,3-4,7-9,15H2,(H,16,18)  |
 |                             |             |
 | Precursor 1 [M+H]⁺          | 246.16009   |
 | Precursor 2 [M+2H]²⁺        | 123.58368   |

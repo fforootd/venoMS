@@ -18,8 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                      | Nephilatoxin 11 / NPTX 11 |
 | Molecular formula            | C₂₄H₃₇N₇O₄                |
 | CAS                          | 119613-54-6               |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CNC2=C1C=CC=C2)NC(CC(N)=O)C(NCCCCCNC(C(N)CCCN)=O)=O  |
+| InChI  | InChI=1S/C24H37N7O4/c25-10-6-8-18(26)23(34)28-11-4-1-5-12-29-24(35)20(14-21(27)32)31-22(33)13-16-15-30-19-9-3-2-7-17(16)19/h2-3,7,9,15,18,20,30H,1,4-6,8,10-14,25-26H2,(H2,27,32)(H,28,34)(H,29,35)(H,31,33)  |
 |                              |                           |
 | Precursor 1 [M+H]⁺           | 488.29798                 |
 | Precursor 2 [M+2H]²⁺         | 244.65263                 |

@@ -22,8 +22,8 @@ tags = ["S-1","C-1",
 | Synonym                     | AG 489 / Agatoxin 489 / Agel 489 / HO 489 |
 | Molecular formula           | C₂₆H₄₇N₇O₂                                |
 | CAS                         | 128549-96-2                               |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCN(O)CCCNCCCNCCCCNCCCN)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C26H47N7O2/c27-11-5-14-28-12-3-4-13-29-15-6-16-30-17-7-19-33(35)20-8-18-31-26(34)21-23-22-32-25-10-2-1-9-24(23)25/h1-2,9-10,22,28-30,32,35H,3-8,11-21,27H2,(H,31,34)  |
 |                             |                                           |
 | Precursor 1 [M+H]⁺          | 490.38640                                 |
 | Precursor 2 [M+2H]²⁺        | 245.69684                                 |

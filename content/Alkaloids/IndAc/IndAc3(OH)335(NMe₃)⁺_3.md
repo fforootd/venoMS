@@ -22,8 +22,8 @@ tags = ["S-1","C-1",
 | Synonym                     | AG 488 / AG 489a / Agel 489 / Agel 489a |
 | Molecular formula           | C₂₇H₄₉N₆O₂⁺                             |
 | CAS                         | 129724-53-4                             |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCN(O)CCCNCCCNCCCCC[N+](C)(C)C)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C27H48N6O2/c1-33(2,3)21-8-4-7-14-28-15-9-16-29-17-10-19-32(35)20-11-18-30-27(34)22-24-23-31-26-13-6-5-12-25(24)26/h5-6,12-13,23,28-29,31,35H,4,7-11,14-22H2,1-3H3/p+1  |
 |                             |                                         |
 | Precursor 1  M⁺             | 489.39115                               |
 | Precursor 2 [M+H]²⁺         | 245.19921                               |

@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₁₉H₃₁N₅O₂	                    |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CNC2=C1C=CC=C2)NCCCN(O)CCCNCCCN  |
+| InChI  | InChI=1S/C19H31N5O2/c20-8-3-9-21-10-4-12-24(26)13-5-11-22-19(25)14-16-15-23-18-7-2-1-6-17(16)18/h1-2,6-7,15,21,23,26H,3-5,8-14,20H2,(H,22,25)  |
 |                            |                    |
 | Precursor 1 [M+H]⁺         | 362.25505                   |
 | Precursor 2 [M+2H]²⁺       | 181.63116                   |

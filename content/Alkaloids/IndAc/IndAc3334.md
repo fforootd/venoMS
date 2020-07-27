@@ -18,8 +18,8 @@ tags = ["S-1","C-1",
 | Synonym                     | AG 416a                                              |
 | Molecular formula           | C₂₃H₄₀N₆O                                            |
 | CAS                         | 389872-68-8                                          |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCNCCCNCCCNCCCCN)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C23H40N6O/c24-10-3-4-11-25-12-5-13-26-14-6-15-27-16-7-17-28-23(30)18-20-19-29-22-9-2-1-8-21(20)22/h1-2,8-9,19,25-27,29H,3-7,10-18,24H2,(H,28,30)  |
 |                             |                                                      |
 | Precursor 1 [M+H]⁺          | 417.33364                                            |
 | Precursor 2 [M+2H]²⁺        | 209.17046                                            |

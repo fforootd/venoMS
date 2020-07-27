@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | LF 430F              |
 | Molecular formula           | C₂₂H₃₄N₆O₃           |
 | CAS                         | ---                  |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NC(CC(N)=O)C(NCCCCCNCCCN)=O)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C22H34N6O3/c23-9-6-11-25-10-4-1-5-12-26-22(31)19(14-20(24)29)28-21(30)13-16-15-27-18-8-3-2-7-17(16)18/h2-3,7-8,15,19,25,27H,1,4-6,9-14,23H2,(H2,24,29)(H,26,31)(H,28,30)  |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 431.27652            |
 | Precursor 2 [M+2H]²⁺        | 216.14190            |

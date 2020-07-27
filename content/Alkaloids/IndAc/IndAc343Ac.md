@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₂₂H₃₅N₅O₂                   |
 | CAS                        | ---                |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCNCCCCNCCCNC(C)=O)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C22H35N5O2/c1-18(28)25-14-6-12-23-10-4-5-11-24-13-7-15-26-22(29)16-19-17-27-21-9-3-2-8-20(19)21/h2-3,8-9,17,23-24,27H,4-7,10-16H2,1H3,(H,25,28)(H,26,29)  |
 |                            |                    |
 | Precursor 1 [M+H]⁺         | 402.28635                   |
 | Precursor 2 [M+2H]²⁺       | 201.64681                   |

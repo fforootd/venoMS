@@ -18,8 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | LH 430               |
 | Molecular formula           | C₂₃H₃₈N₆O₂           |
 | CAS                         | ---                  |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCC(NCCCNCCCCNCCCN)=O)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C23H38N6O2/c24-10-5-13-25-11-3-4-12-26-14-6-15-27-22(30)9-16-28-23(31)17-19-18-29-21-8-2-1-7-20(19)21/h1-2,7-8,18,25-26,29H,3-6,9-17,24H2,(H,27,30)(H,28,31)  |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 431.31290            |
 | Precursor 2 [M+2H]²⁺        | 216.16009            |

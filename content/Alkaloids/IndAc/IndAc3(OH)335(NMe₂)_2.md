@@ -22,8 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                     | ---              |
 | Molecular formula           | C₂₆H₄₆N₆O₂       |
 | CAS                         | ---              |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CNC2=C1C=CC=C2)NCCCN(O)CCCNCCCNCCCCCN(C)C  |
+| InChI  | InChI=1S/C26H46N6O2/c1-31(2)18-7-3-6-13-27-14-8-15-28-16-9-19-32(34)20-10-17-29-26(33)21-23-22-30-25-12-5-4-11-24(23)25/h4-5,11-12,22,27-28,30,34H,3,6-10,13-21H2,1-2H3,(H,29,33)  |
 |                             |                  |
 | Precursor 1 [M+H]⁺          | 475.37550        |
 | Precursor 2 [M+2H]²⁺        | 238.19139        |

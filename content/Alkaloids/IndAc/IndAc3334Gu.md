@@ -22,8 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                     | ---                |
 | Molecular formula           | C₂₄H₄₂N₈O          |
 | CAS                         | 1448806-47-0       |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCNCCCNCCCNCCCCNC(N)=N)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C24H42N8O/c25-24(26)31-16-4-3-10-27-11-5-12-28-13-6-14-29-15-7-17-30-23(33)18-20-19-32-22-9-2-1-8-21(20)22/h1-2,8-9,19,27-29,32H,3-7,10-18H2,(H,30,33)(H4,25,26,31)  |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 459.35543          |
 | Precursor 2 [M+2H]²⁺        | 230.18136          |

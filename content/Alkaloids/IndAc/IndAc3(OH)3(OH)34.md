@@ -20,8 +20,8 @@ tags = ["S-3","C-1",
 | Synonym                     | ---              |
 | Molecular formula           | C₂₃H₄₀N₆O₃       |
 | CAS                         | ---              |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(NCCCN(O)CCCN(O)CCCNCCCCN)CC1=CNC2=C1C=CC=C2  |
+| InChI  | InChI=1S/C23H40N6O3/c24-10-3-4-11-25-12-5-14-28(31)16-7-17-29(32)15-6-13-26-23(30)18-20-19-27-22-9-2-1-8-21(20)22/h1-2,8-9,19,25,27,31-32H,3-7,10-18,24H2,(H,26,30)  |
 |                             |                  |
 | Precursor 1 [M+H]⁺          | 449.32347        |
 | Precursor 2 [M+2H]²⁺        | 225.16537        |

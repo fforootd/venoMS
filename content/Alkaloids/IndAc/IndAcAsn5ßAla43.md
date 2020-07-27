@@ -18,8 +18,8 @@ tags = ["S-1","C-2",
 | Synonym                      | Nephilatoxin 8 / NPTX 8                                                        |
 | Molecular formula            | C₂₉H₄₈N₈O₄                                                                     |
 | CAS   | ---                                                                               |
-| SMILES |   |
-| InChI  |   |
+| SMILES | O=C(CC1=CNC2=C1C=CC=C2)NC(CC(N)=O)C(NCCCCCNC(CCNCCCCNCCCN)=O)=O  |
+| InChI  | InChI=1S/C29H48N8O4/c30-12-8-15-32-13-6-7-14-33-18-11-27(39)34-16-4-1-5-17-35-29(41)25(20-26(31)38)37-28(40)19-22-21-36-24-10-3-2-9-23(22)24/h2-3,9-10,21,25,32-33,36H,1,4-8,11-20,30H2,(H2,31,38)(H,34,39)(H,35,41)(H,37,40)  |
 |       |                                                                                |
 | Precursor 1 [M+H]⁺           | 573.38713                                                                      |
 | Precursor 2 [M+2H]²⁺         | 287.19720                                                                      |
