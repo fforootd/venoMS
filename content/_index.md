@@ -11,4 +11,4 @@ venoMS is a free database for low molecular mass compounds found in spider venom
 
 venoMS has been designed to support the identification of known spider venom metabolites and the structure elucidation of new polyamine toxins based on their UHPLC-HR-ESI-MS, MS/MS and H/D exchange data. The database can easily be queried using the search box at the top of the page, and the fragment ions of a yet unknown polyamine toxin can now be readily generated with our fragment ion calculator (FRIOC).
 
-In addition, a compilation of all contained structures in a csv file can be accessed [here](/csv/venoms-table.csv).
+In addition, a compilation of all contained structures in a csv file can be accessed [here](/csv/venoms_table.csv).
