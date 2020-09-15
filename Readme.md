@@ -2,10 +2,10 @@
 
 ## Open Terminal
 
-`cd go/src/github.com/fforootd/spider/`
+`cd go/src/github.com/fforootd/venoMS/`
 
 `hugo serve`
 
 ## Open Website
 
-`http://localhost:1313/venoms/`
+`http://localhost:1313/`
