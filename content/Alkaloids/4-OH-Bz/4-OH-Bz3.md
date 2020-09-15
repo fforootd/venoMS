@@ -21,8 +21,8 @@ tags = ["S-1","C-1",
 | Synonym                     | ---              |
 | Molecular formula           | C₁₀H₁₄N₂O₂       |
 | CAS                         | 195152-34-2      |
-| SMILES | O=C(NCCCN)C1=CC=C(O)C=C1  |
-| InChI  | InChI=1S/C10H14N2O2/c11-6-1-7-12-10(14)8-2-4-9(13)5-3-8/h2-5,13H,1,6-7,11H2,(H,12,14)  |
+| SMILES | `O=C(NCCCN)C1=CC=C(O)C=C1`  |
+| InChI  | `InChI=1S/C10H14N2O2/c11-6-1-7-12-10(14)8-2-4-9(13)5-3-8/h2-5,13H,1,6-7,11H2,(H,12,14)`  |
 |                             |                  |
 | Precursor 1 [M+H]⁺          | 195.11280        |
 | Precursor 2 [M+2H]²⁺        | 98.06004         |

@@ -20,8 +20,8 @@ tags = ["S-3","C-1",
 | Synonym                     | ---         |
 | Molecular formula           | C₁₃H₂₁N₃O₃  |
 | CAS                         | ---         |
-| SMILES | NCCCN(O)CCCNC(C1=CC=C(O)C=C1)=O  |
-| InChI  | InChI=1S/C13H21N3O3/c14-7-1-9-16(19)10-2-8-15-13(18)11-3-5-12(17)6-4-11/h3-6,17,19H,1-2,7-10,14H2,(H,15,18)  |
+| SMILES | `NCCCN(O)CCCNC(C1=CC=C(O)C=C1)=O`  |
+| InChI  | `InChI=1S/C13H21N3O3/c14-7-1-9-16(19)10-2-8-15-13(18)11-3-5-12(17)6-4-11/h3-6,17,19H,1-2,7-10,14H2,(H,15,18)`  |
 |                             |             |
 | precursor 1 [M+H]⁺          | 268.16557   |
 | precursor 2 [M+2H]²⁺        | 134.58642   |

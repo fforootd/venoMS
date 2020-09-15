@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                     | DR 238               |
 | Molecular formula           | C₁₅H₂₁N₂O₃           |
 | CAS                         | 1930497-19-0         |
-| SMILES | O=C(NCCCCCN)C1=C(O)C=CC(O)=C1  |
-| InChI  | InChI=1S/C12H18N2O3/c13-6-2-1-3-7-14-12(17)10-8-9(15)4-5-11(10)16/h4-5,8,15-16H,1-3,6-7,13H2,(H,14,17)  |
+| SMILES | `O=C(NCCCCCN)C1=C(O)C=CC(O)=C1`  |
+| InChI  | `InChI=1S/C12H18N2O3/c13-6-2-1-3-7-14-12(17)10-8-9(15)4-5-11(10)16/h4-5,8,15-16H,1-3,6-7,13H2,(H,14,17)`  |
 |                             |                      |
 | Precursor 1 [M+H]⁺       | 239.13902      |
 | Precursor 2 [M+2H]²⁺        | 120.07315       |

@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₁₀H₁₄N₂O₃                   |
 | CAS                        | ---                |
-| SMILES | O=C(NCCCN)C1=C(O)C=CC(O)=C1  |
-| InChI  | InChI=1S/C10H14N2O3/c11-4-1-5-12-10(15)8-6-7(13)2-3-9(8)14/h2-3,6,13-14H,1,4-5,11H2,(H,12,15)  |
+| SMILES | `O=C(NCCCN)C1=C(O)C=CC(O)=C1`  |
+| InChI  | `InChI=1S/C10H14N2O3/c11-4-1-5-12-10(15)8-6-7(13)2-3-9(8)14/h2-3,6,13-14H,1,4-5,11H2,(H,12,15)`  |
 |                            |                    |
 | Precursor 1 [M+H]⁺         | 211.10772                   |
 | Precursor 2 [M+2H]²⁺       | 106.05750                   |

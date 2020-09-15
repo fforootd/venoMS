@@ -18,8 +18,8 @@ tags = ["S-1","C-3",
 | Synonym                     | DR 222               |
 | Molecular formula           | C₁₂H₁₈N₂O₂           |
 | CAS                         | 857263-12-8          |
-| SMILES | O=C(NCCCCCN)C1=CC=C(O)C=C1  |
-| InChI  | InChI=1S/C12H18N2O2/c13-8-2-1-3-9-14-12(16)10-4-6-11(15)7-5-10/h4-7,15H,1-3,8-9,13H2,(H,14,16)  |
+| SMILES | `O=C(NCCCCCN)C1=CC=C(O)C=C1`  |
+| InChI  | `InChI=1S/C12H18N2O2/c13-8-2-1-3-9-14-12(16)10-4-6-11(15)7-5-10/h4-7,15H,1-3,8-9,13H2,(H,14,16)`  |
 |                             |                      |
 | Precursor 1 [M+H]⁺          | 223.14410            |
 | Precursor 2 [M+2H]²⁺        | 112.07569            |
