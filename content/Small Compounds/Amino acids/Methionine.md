@@ -17,8 +17,8 @@ tags = ["S-1","C-3",
 | Synonym                   |                      |
 | Molecular formula         | C₅H₁₁NO₂S            |
 | CAS                       | 63-68-3              |
-| SMILES | OC(C(N)CCSC)=O  |
-| InChI  | InChI=1S/C5H11NO2S/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)  |
+| SMILES | `OC(C(N)CCSC)=O`  |
+| InChI  | `InChI=1S/C5H11NO2S/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)`  |
 |                           |                      |
 | Precursor 1 [M+H]⁺        | 150.05831            |
 | Precursor 2               |                      |

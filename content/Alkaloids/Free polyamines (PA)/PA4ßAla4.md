@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₁₁H₂₆N₄O                   |
 | CAS                        | ---                |
-| SMILES | NCCCCNC(CCNCCCCN)=O  |
-| InChI  | InChI=1S/C11H26N4O/c12-6-1-3-8-14-10-5-11(16)15-9-4-2-7-13/h14H,1-10,12-13H2,(H,15,16)  |
+| SMILES | `NCCCCNC(CCNCCCCN)=O`  |
+| InChI  | `InChI=1S/C11H26N4O/c12-6-1-3-8-14-10-5-11(16)15-9-4-2-7-13/h14H,1-10,12-13H2,(H,15,16)`  |
 |                            |                    |
 | Precursor 1 [M+H]⁺         | 231.21794                   |
 | Precursor 2 [M+2H]²⁺       | 116.11261                   |

@@ -20,8 +20,8 @@ tags = ["S-3","C-1",
 | Synonym                     | ---                              |
 | Molecular formula           | C₁₁H₂₈N₆                         |
 | CAS                         | ---                              |
-| SMILES | NCCCNCCCNCCCCNC(N)=N  |
-| InChI  | InChI=1S/C11H28N6/c12-5-3-7-16-9-4-8-15-6-1-2-10-17-11(13)14/h15-16H,1-10,12H2,(H4,13,14,17)  |
+| SMILES | `NCCCNCCCNCCCCNC(N)=N`  |
+| InChI  | `InChI=1S/C11H28N6/c12-5-3-7-16-9-4-8-15-6-1-2-10-17-11(13)14/h15-16H,1-10,12H2,(H4,13,14,17)`  |
 |                             |                                  |
 | Precursor 1 [M+H]⁺          | 245.24482                        |
 | Precursor 2 [M+2H]²⁺        | 123.12605                        |

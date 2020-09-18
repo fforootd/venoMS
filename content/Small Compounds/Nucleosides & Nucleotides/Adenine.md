@@ -19,8 +19,8 @@ tags = ["S-1","C-1",
 | Synonym                   |                     |
 | Molecular formula         | C₅H₅N₅              |
 | CAS                       | 73-24-5             |
-| SMILES | NC1=NC=NC2=C1N=CN2  |
-| InChI  | InChI=1S/C5H5N5/c6-4-3-5(9-1-7-3)10-2-8-4/h1-2H,(H3,6,7,8,9,10)  |
+| SMILES | `NC1=NC=NC2=C1N=CN2`  |
+| InChI  | `InChI=1S/C5H5N5/c6-4-3-5(9-1-7-3)10-2-8-4/h1-2H,(H3,6,7,8,9,10)`  |
 |                           |                     |
 | Precursor 1 [M+H]⁺        | 136.06177           |
 | Precursor 2               |                     |

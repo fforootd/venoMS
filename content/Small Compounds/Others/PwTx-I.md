@@ -17,8 +17,8 @@ tags = ["S-2","C-2",
 | Synonym                   | 6-Hydroxytrypargine / 6-HT                              |
 | Molecular formula         | C₁₅H₂₁N₅O                                         |
 | CAS                       | 1188405-18-6                                      |
-| SMILES | OC(C=C1)=CC2=C1NC3=C2CCNC3CCCNC(N)=N  |
-| InChI  | InChI=1S/C15H21N5O/c16-15(17)19-6-1-2-13-14-10(5-7-18-13)11-8-9(21)3-4-12(11)20-14/h3-4,8,13,18,20-21H,1-2,5-7H2,(H4,16,17,19)  |
+| SMILES | `OC(C=C1)=CC2=C1NC3=C2CCNC3CCCNC(N)=N`  |
+| InChI  | `InChI=1S/C15H21N5O/c16-15(17)19-6-1-2-13-14-10(5-7-18-13)11-8-9(21)3-4-12(11)20-14/h3-4,8,13,18,20-21H,1-2,5-7H2,(H4,16,17,19)`  |
 |                           |                                                   |
 | Precursor 1 [M+H]⁺        | 288.18189                                         |
 | Precursor 2               |                                                   |

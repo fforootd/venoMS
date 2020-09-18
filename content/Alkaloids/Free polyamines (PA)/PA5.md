@@ -21,8 +21,8 @@ tags = ["S-1","C-3",
 | Synonym                     | Cadaverine  |
 | Molecular formula           | C₅H₁₄N₂     |
 | CAS                         | 462-94-2    |
-| SMILES | NCCCCCN  |
-| InChI  | InChI=1S/C5H14N2/c6-4-2-1-3-5-7/h1-7H2  |
+| SMILES | `NCCCCCN`  |
+| InChI  | `InChI=1S/C5H14N2/c6-4-2-1-3-5-7/h1-7H2`  |
 |                             |             |
 | Precursor 1 [M+H]⁺          | 103.12297   |
 | Precursor 2 [M+2H]²⁺        | 52.06513    |

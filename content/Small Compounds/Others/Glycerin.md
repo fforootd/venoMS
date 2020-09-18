@@ -17,8 +17,8 @@ tags = ["S-1","C-4",
 | Synonym                   |                    |
 | Molecular formula         | C₃H₈O₃             |
 | CAS                       | 56-81-5            |
-| SMILES | OCC(O)CO  |
-| InChI  | InChI=1S/C3H8O3/c4-1-3(6)2-5/h3-6H,1-2H2  |
+| SMILES | `OCC(O)CO`  |
+| InChI  | `InChI=1S/C3H8O3/c4-1-3(6)2-5/h3-6H,1-2H2`  |
 |                           |                    |
 | Precursor 1 [M+H]⁺        | 93.05462           |
 | Precursor 2               |                    |

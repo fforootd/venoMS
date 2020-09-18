@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₁₄H₃₅N₄⁺                   |
 | CAS                        | ---                |
-| SMILES | NCCCNCCCNCCCCC[N+](C)(C)C  |
-| InChI  | InChI=1S/C14H35N4/c1-18(2,3)14-6-4-5-10-16-12-8-13-17-11-7-9-15/h16-17H,4-15H2,1-3H3/q+1  |
+| SMILES | `NCCCNCCCNCCCCC[N+](C)(C)C`  |
+| InChI  | `InChI=1S/C14H35N4/c1-18(2,3)14-6-4-5-10-16-12-8-13-17-11-7-9-15/h16-17H,4-15H2,1-3H3/q+1`  |
 |                            |                    |
 | Precursor 1  M⁺         | 259.28562                   |
 | Precursor 2 [M+H]²⁺       | 130.14645                   |

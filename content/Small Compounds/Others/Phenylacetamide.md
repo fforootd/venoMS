@@ -22,8 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                   |             |
 | Molecular formula         | C₈H₉NO      |
 | CAS                       | 103-81-1    |
-| SMILES | NC(CC1=CC=CC=C1)=O  |
-| InChI  | InChI=1S/C8H9NO/c9-8(10)6-7-4-2-1-3-5-7/h1-5H,6H2,(H2,9,10)  |
+| SMILES | `NC(CC1=CC=CC=C1)=O`  |
+| InChI  | `InChI=1S/C8H9NO/c9-8(10)6-7-4-2-1-3-5-7/h1-5H,6H2,(H2,9,10)`  |
 |                           |             |
 | Precursor 1 [M+H]⁺        | 136.07569   |
 | Precursor 2               |             |

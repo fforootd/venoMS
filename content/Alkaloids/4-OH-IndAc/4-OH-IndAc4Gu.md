@@ -20,8 +20,8 @@ tags = ["S-3","C-1",
 | alternative name(s)         | ---                              |
 | molecular formula           | C₁₅H₂₁N₅O₂                       |
 | CAS                         | ---                              |
-| SMILES | O=C(NCCCCNC(N)=N)CC1=CNC2=C1C(O)=CC=C2  |
-| InChI  | InChI=1S/C15H21N5O2/c16-15(17)19-7-2-1-6-18-13(22)8-10-9-20-11-4-3-5-12(21)14(10)11/h3-5,9,20-21H,1-2,6-8H2,(H,18,22)(H4,16,17,19)  |
+| SMILES | `O=C(NCCCCNC(N)=N)CC1=CNC2=C1C(O)=CC=C2`  |
+| InChI  | `InChI=1S/C15H21N5O2/c16-15(17)19-7-2-1-6-18-13(22)8-10-9-20-11-4-3-5-12(21)14(10)11/h3-5,9,20-21H,1-2,6-8H2,(H,18,22)(H4,16,17,19)`  |
 |                             |                                  |
 | precursor 1 [M+H]⁺          | 304.17680                        |
 | precursor 2 [M+2H]²⁺        | 152.59204                        |

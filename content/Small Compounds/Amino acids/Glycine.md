@@ -17,8 +17,8 @@ tags = ["S-1","C-4",
 | Synonym                   |                    |
 | Molecular formula         | C₂H₅NO₂            |
 | CAS                       | 56-40-6            |
-| SMILES | OC(CN)=O  |
-| InChI  | InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)  |
+| SMILES | `OC(CN)=O`  |
+| InChI  | `InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)`  |
 |                           |                    |
 | Precursor 1 [M+H]⁺        | 76.03930           |
 | Precursor 2               |                    |

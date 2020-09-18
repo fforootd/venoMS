@@ -19,8 +19,8 @@ tags = ["S-1","C-1",
 | Synonym                   | Parawixin 2                |
 | Molecular formula         | C₆H₁₄N₄O₂       |
 | CAS                       | 74-79-3         |
-| SMILES | OC(C(N)CCCNC(N)=N)=O  |
-| InChI  | InChI=1S/C6H14N4O2/c7-4(5(11)12)2-1-3-10-6(8)9/h4H,1-3,7H2,(H,11,12)(H4,8,9,10)  |
+| SMILES | `OC(C(N)CCCNC(N)=N)=O`  |
+| InChI  | `InChI=1S/C6H14N4O2/c7-4(5(11)12)2-1-3-10-6(8)9/h4H,1-3,7H2,(H,11,12)(H4,8,9,10)`  |
 |                           |                 |
 | Precursor 1 [M+H]⁺        | 175.11895       |
 | Precursor 2               |                 |

@@ -19,8 +19,8 @@ tags= ["S-1","C-1",
 | Synonym                   |                 |
 | Molecular formula         | C₉H₁₁NO₃        |
 | CAS                       | 60-18-4         |
-| SMILES | OC(C(N)CC1=CC=C(O)C=C1)=O  |
-| InChI  | InChI=1S/C9H11NO3/c10-8(9(12)13)5-6-1-3-7(11)4-2-6/h1-4,8,11H,5,10H2,(H,12,13)  |
+| SMILES | `OC(C(N)CC1=CC=C(O)C=C1)=O`  |
+| InChI  | `InChI=1S/C9H11NO3/c10-8(9(12)13)5-6-1-3-7(11)4-2-6/h1-4,8,11H,5,10H2,(H,12,13)`  |
 |                           |                 |
 | Precursor 1 [M+H]⁺        | 182.08117       |
 | Precursor 2 [M+H-NH₃]⁺    | 165.05462       |

@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | alternative name(s)         | ---                              |
 | molecular formula           | C₁₃H₁₇N₃O₂                       |
 | CAS                         | 1798547-88-2                     |
-| SMILES | O=C(NCCCN)CC1=CNC2=C1C(O)=CC=C2  |
-| InChI  | InChI=1S/C13H17N3O2/c14-5-2-6-15-12(18)7-9-8-16-10-3-1-4-11(17)13(9)10/h1,3-4,8,16-17H,2,5-7,14H2,(H,15,18)  |
+| SMILES | `O=C(NCCCN)CC1=CNC2=C1C(O)=CC=C2`  |
+| InChI  | `InChI=1S/C13H17N3O2/c14-5-2-6-15-12(18)7-9-8-16-10-3-1-4-11(17)13(9)10/h1,3-4,8,16-17H,2,5-7,14H2,(H,15,18)`  |
 |                             |                                  |
 | precursor 1 [M+H]⁺          | 248.13935                        |
 | precursor 2 [M+2H]²⁺        | 124.57331                        |

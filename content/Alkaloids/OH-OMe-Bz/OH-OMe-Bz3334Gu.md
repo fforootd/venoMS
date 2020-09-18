@@ -20,8 +20,8 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₂₂H₄₁N₇O₃                   |
 | CAS                        | ---                |
-| SMILES | O=C(NCCCNCCCNCCCNCCCCNC(N)=N)C1=CC=CC=C1.CO.COC  |
-| InChI  | InChI=1S/C21H39N7O.C2H6O.CH4O/c22-21(23)28-17-5-4-11-24-12-6-13-25-14-7-15-26-16-8-18-27-20(29)19-9-2-1-3-10-19;1-3-2;1-2/h1-3,9-10,24-26H,4-8,11-18H2,(H,27,29)(H4,22,23,28);1-2H3;2H,1H3  |
+| SMILES | `O=C(NCCCNCCCNCCCNCCCCNC(N)=N)C1=CC=CC=C1.CO.COC`  |
+| InChI  | `InChI=1S/C21H39N7O.C2H6O.CH4O/c22-21(23)28-17-5-4-11-24-12-6-13-25-14-7-15-26-16-8-18-27-20(29)19-9-2-1-3-10-19;1-3-2;1-2/h1-3,9-10,24-26H,4-8,11-18H2,(H,27,29)(H4,22,23,28);1-2H3;2H,1H3`  |
 |                            |                    |
 | Precursor 1 [M+H]⁺         | 452.33436                   |
 | Precursor 2 [M+2H]²⁺       | 226.67082                   |

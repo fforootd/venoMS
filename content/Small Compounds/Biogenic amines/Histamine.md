@@ -27,8 +27,8 @@ tags = ["S-1","C-1",
 | Synonym                   |                                   |
 | Molecular formula         | C₅H₉N₃                            |
 | CAS                       | 51-45-6                           |
-| SMILES | NCCC1=CNC=N1  |
-| InChI  | InChI=1S/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)  |
+| SMILES | `NCCC1=CNC=N1`  |
+| InChI  | `InChI=1S/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)`  |
 |                           |                                   |
 | Precursor 1 [M+H]⁺        | 112.08692                         |
 | Precursor 2               |                                   |

@@ -17,8 +17,8 @@ tags = ["S-1","C-4",
 | Synonym                   | Epinephrine     |
 | Molecular formula         | C₉H₁₃NO₃        |
 | CAS                       | 51-43-4         |
-| SMILES | OC1=C(O)C=CC(C(O)CNC)=C1  |
-| InChI  | InChI=1S/C9H13NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,9-13H,5H2,1H3  |
+| SMILES | `OC1=C(O)C=CC(C(O)CNC)=C1`  |
+| InChI  | `InChI=1S/C9H13NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,9-13H,5H2,1H3`  |
 |                           |                 |
 | Precursor 1 [M+H]⁺        | 184.09682       |
 | Precursor 2               |                 |

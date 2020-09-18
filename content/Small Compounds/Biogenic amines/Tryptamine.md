@@ -19,8 +19,8 @@ tags = ["S-1","C-1",
 | Synonym                   |                    |
 | Molecular formula         | C₁₀H₁₂N₂           |
 | CAS                       | 61-54-1            |
-| SMILES | NCCC1=CNC2=C1C=CC=C2  |
-| InChI  | InChI=1S/C10H12N2/c11-6-5-8-7-12-10-4-2-1-3-9(8)10/h1-4,7,12H,5-6,11H2  |
+| SMILES | `NCCC1=CNC2=C1C=CC=C2`  |
+| InChI  | `InChI=1S/C10H12N2/c11-6-5-8-7-12-10-4-2-1-3-9(8)10/h1-4,7,12H,5-6,11H2`  |
 |                           |                    |
 | Precursor 1 [M+H]⁺        | 161.10732          |
 | Precursor 2               |                    |

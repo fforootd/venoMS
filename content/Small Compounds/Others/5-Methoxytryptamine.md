@@ -17,8 +17,8 @@ tags = ["S-1","C-4",
 | Synonym                   |                    |
 | Molecular formula         | C₁₁H₁₄N₂O          |
 | CAS                       | 608-07-1           |
-| SMILES | NCCC1=CNC2=C1C=C(OC)C=C2  |
-| InChI  | InChI=1S/C11H14N2O/c1-14-9-2-3-11-10(6-9)8(4-5-12)7-13-11/h2-3,6-7,13H,4-5,12H2,1H3  |
+| SMILES | `NCCC1=CNC2=C1C=C(OC)C=C2`  |
+| InChI  | `InChI=1S/C11H14N2O/c1-14-9-2-3-11-10(6-9)8(4-5-12)7-13-11/h2-3,6-7,13H,4-5,12H2,1H3`  |
 |                           |                    |
 | Precursor 1 [M+H]⁺        | 191.11789          |
 | Precursor 2               |                    |

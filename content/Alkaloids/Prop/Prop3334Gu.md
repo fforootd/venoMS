@@ -22,8 +22,8 @@ tags = ["S-3","C-1",
 | Synonym                     | ---                |
 | Molecular formula           | C₁₇H₃₉N₇O          |
 | CAS                         | ---                |
-| SMILES | NC(NCCCCNCCCNCCCNCCCNC(CC)=O)=N  |
-| InChI  | InChI=1S/C17H39N7O/c1-2-16(25)23-15-7-13-22-12-6-11-21-10-5-9-20-8-3-4-14-24-17(18)19/h20-22H,2-15H2,1H3,(H,23,25)(H4,18,19,24)  |
+| SMILES | `NC(NCCCCNCCCNCCCNCCCNC(CC)=O)=N`  |
+| InChI  | `InChI=1S/C17H39N7O/c1-2-16(25)23-15-7-13-22-12-6-11-21-10-5-9-20-8-3-4-14-24-17(18)19/h20-22H,2-15H2,1H3,(H,23,25)(H4,18,19,24)`  |
 |                             |                    |
 | Precursor 1 [M+H]⁺       | 358.32889      |
 | Precursor 2 [M+2H]²⁺        | 179.66808       |

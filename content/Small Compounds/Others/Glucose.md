@@ -17,8 +17,8 @@ tags = ["S-1","C-4",
 | Synonym                   |                    |
 | Molecular formula         | C₆H₁₂O₆            |
 | CAS                       | 50-99-7            |
-| SMILES | O[C@@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O1  |
-| InChI  | InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6+/m1/s1  |
+| SMILES | `O[C@@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O1`  |
+| InChI  | `InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6+/m1/s1` |
 |                           |                    |
 | Precursor 1 [M+H]⁺        | 181.07066          |
 | Precursor 2               |                    |

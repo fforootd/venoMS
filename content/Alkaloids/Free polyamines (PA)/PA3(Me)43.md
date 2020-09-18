@@ -16,8 +16,8 @@ tags = ["S-3","C-1","Larinioides cornutus"]
 | Synonym                     | ---          |
 | Molecular formula           | C₁₁H₂₈N₄  |
 | CAS                         | 56-19-9   |
-| SMILES | NCCCN(C)CCCCNCCCN  |
-| InChI  | InChI=1S/C11H28N4/c1-15(11-5-7-13)10-3-2-8-14-9-4-6-12/h14H,2-13H2,1H3  |
+| SMILES | `NCCCN(C)CCCCNCCCN`  |
+| InChI  | `InChI=1S/C11H28N4/c1-15(11-5-7-13)10-3-2-8-14-9-4-6-12/h14H,2-13H2,1H3`  |
 |                             |           |
 | Precursor 1 [M+H]⁺          | 217.23867 |
 | Precursor 2 [M+2H]²⁺        | 109.12297 |

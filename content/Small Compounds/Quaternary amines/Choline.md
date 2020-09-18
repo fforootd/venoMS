@@ -23,8 +23,8 @@ tags = ["S-1","C-1",
 | Synonym                |                                    |
 | Molecular formula      | C₅H₁₄NO                            |
 | CAS                    | 62-49-7                            |
-| SMILES | OCC[N+](C)(C)C  |
-| InChI  | InChI=1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1  |
+| SMILES | `OCC[N+](C)(C)C`  |
+| InChI  | `InChI=1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1`  |
 |                        |                                    |
 | Precursor 1  M⁺        | 104.10699                          |
 | Precursor 2            |                                    |

@@ -19,8 +19,8 @@ tags = ["S-1","C-1",
 | Synonym                   |                 |
 | Molecular formula         | C₆H₁₃NO₂        |
 | CAS                       | 61-90-5         |
-| SMILES | OC(C(N)CC(C)C)=O  |
-| InChI  | InChI=1S/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)  |
+| SMILES | `OC(C(N)CC(C)C)=O`  |
+| InChI  | `InChI=1S/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)`  |
 |                           |                 |
 | Precursor 1 [M+H]⁺        | 132.10191            |
 | Precursor 2               |                      |

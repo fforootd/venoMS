@@ -18,8 +18,8 @@ tags = ["S-3","C-3",
 | Synonym                     | OZ 318B            |
 | Molecular formula           | C₁₇H₂₆N₄O₂         |
 | CAS                         | ---                |
-| SMILES | O=C(NCCCCNCCCN)CC1=CNC2=C1C(O)=CC=C2  |
-| InChI  | InChI=1S/C17H26N4O2/c18-7-4-9-19-8-1-2-10-20-16(23)11-13-12-21-14-5-3-6-15(22)17(13)14/h3,5-6,12,19,21-22H,1-2,4,7-11,18H2,(H,20,23)  |
+| SMILES | `O=C(NCCCCNCCCN)CC1=CNC2=C1C(O)=CC=C2`  |
+| InChI  | `InChI=1S/C17H26N4O2/c18-7-4-9-19-8-1-2-10-20-16(23)11-13-12-21-14-5-3-6-15(22)17(13)14/h3,5-6,12,19,21-22H,1-2,4,7-11,18H2,(H,20,23)`  |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 319.21285          |
 | Precursor 2 [M+2H]²⁺        | 160.11006          |

@@ -24,8 +24,8 @@ tags = ["S-1","C-1",
 | Synonym                   | 5-Hydroxytryptamine / 5-HT |
 | Molecular formula         | C₁₀H₁₂N₂O                  |
 | CAS                       | 50-67-9                    |
-| SMILES | NCCC1=CNC2=C1C=C(O)C=C2  |
-| InChI  | InChI=1S/C10H12N2O/c11-4-3-7-6-12-10-2-1-8(13)5-9(7)10/h1-2,5-6,12-13H,3-4,11H2  |
+| SMILES | `NCCC1=CNC2=C1C=C(O)C=C2`  |
+| InChI  | `InChI=1S/C10H12N2O/c11-4-3-7-6-12-10-2-1-8(13)5-9(7)10/h1-2,5-6,12-13H,3-4,11H2`  |
 |                           |                            |
 | Precursor 1 [M+H]⁺        | 177.10224                  |
 | Precursor 2 [M+H-NH₃]⁺    | 160.07569                  |

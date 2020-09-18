@@ -18,8 +18,8 @@ tags = ["S-3","C-1",
 | Synonym                    | ---                |
 | Molecular formula          | C₁₃H₃₃N₅O₂                   |
 | CAS                        | ---                |
-| SMILES | NCCCN(O)CCCN(CCCCNCCCN)O  |
-| InChI  | InChI=1S/C13H33N5O2/c14-6-3-9-16-8-1-2-10-17(19)12-5-13-18(20)11-4-7-15/h16,19-20H,1-15H2  |
+| SMILES | `NCCCN(O)CCCN(CCCCNCCCN)O`  |
+| InChI  | `InChI=1S/C13H33N5O2/c14-6-3-9-16-8-1-2-10-17(19)12-5-13-18(20)11-4-7-15/h16,19-20H,1-15H2`  |
 |                            |                    |
 | Precursor 1 [M+H]⁺         | 292.27070                   |
 | Precursor 2 [M+2H]²⁺       | 146.63899                   |

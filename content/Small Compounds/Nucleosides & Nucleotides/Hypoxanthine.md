@@ -17,8 +17,8 @@ tags = ["S-1","C-1",
 | Synonym                   |                                                             |
 | Molecular formula         | C₅H₄N₄O                                                     |
 | CAS                       | 68-94-0                                                     |
-| SMILES | O=C1C(N=CN2)=C2N=CN1  |
-| InChI  | InChI=1S/C5H4N4O/c10-5-3-4(7-1-6-3)8-2-9-5/h1-2H,(H2,6,7,8,9,10)  |
+| SMILES | `O=C1C(N=CN2)=C2N=CN1`  |
+| InChI  | `InChI=1S/C5H4N4O/c10-5-3-4(7-1-6-3)8-2-9-5/h1-2H,(H2,6,7,8,9,10)`  |
 |                           |                                                             |
 | Precursor 1 [M+H]⁺        | 137.04579                                                   |
 | Precursor 2               |                                                             |

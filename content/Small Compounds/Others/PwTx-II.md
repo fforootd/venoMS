@@ -17,8 +17,8 @@ tags = ["S-2","C-2",
 | Synonym                   | 1,4-Guanidinobutoxy-6-hydroxy-1,2,3,4-tetrahydro-ß-carboline |
 | Molecular formula         | C₁₆H₂₃N₅O₂                                                   |
 | CAS                       | 880354-41-6                                                  |
-| SMILES | OC(C=C1)=CC2=C1NC3C(C(CCCNC(N)=N)=O)NCCC23  |
-| InChI  | InChI=1S/C16H23N5O2/c17-16(18)20-6-1-2-13(23)15-14-10(5-7-19-15)11-8-9(22)3-4-12(11)21-14/h3-4,8,10,14-15,19,21-22H,1-2,5-7H2,(H4,17,18,20)  |
+| SMILES | `OC(C=C1)=CC2=C1NC3C(C(CCCNC(N)=N)=O)NCCC23`  |
+| InChI  | `InChI=1S/C16H23N5O2/c17-16(18)20-6-1-2-13(23)15-14-10(5-7-19-15)11-8-9(22)3-4-12(11)21-14/h3-4,8,10,14-15,19,21-22H,1-2,5-7H2,(H4,17,18,20)`  |
 |                           |                                                              |
 | Precursor 1 [M+H]⁺        | 316.17680                                                    |
 | Precursor 2               |                                                              |

@@ -21,8 +21,8 @@ tags = ["S-2","C-1",
 | Synonym                     | PA 366      |
 | Molecular formula           | C₁₉H₃₄N₄O₃  |
 | CAS                         | ---         |
-| SMILES | NCCCNCCCCNCCCNC(C(O)CC1=CC=C(O)C=C1)=O  |
-| InChI  | InChI=1S/C19H34N4O3/c20-9-3-12-21-10-1-2-11-22-13-4-14-23-19(26)18(25)15-16-5-7-17(24)8-6-16/h5-8,18,21-22,24-25H,1-4,9-15,20H2,(H,23,26)  |
+| SMILES | `NCCCNCCCCNCCCNC(C(O)CC1=CC=C(O)C=C1)=O`  |
+| InChI  | `InChI=1S/C19H34N4O3/c20-9-3-12-21-10-1-2-11-22-13-4-14-23-19(26)18(25)15-16-5-7-17(24)8-6-16/h5-8,18,21-22,24-25H,1-4,9-15,20H2,(H,23,26)`  |
 |                             |             |
 | Precursor 1 [M+H]⁺          | 367.27037   |
 | Precursor 2 [M+2H]²⁺        | 184.13882   |

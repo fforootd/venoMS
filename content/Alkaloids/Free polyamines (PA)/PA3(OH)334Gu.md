@@ -23,8 +23,8 @@ tags = ["S-3","C-1",
 | Synonym                     | ---                |
 | Molecular formula           | C₁₄H₃₅N₇O          |
 | CAS                         | 864812-14-6        |
-| SMILES | NCCCN(O)CCCNCCCNCCCCNC(N)=N  |
-| InChI  | InChI=1S/C14H35N7O/c15-6-3-12-21(22)13-5-10-19-9-4-8-18-7-1-2-11-20-14(16)17/h18-19,22H,1-13,15H2,(H4,16,17,20)  |
+| SMILES | `NCCCN(O)CCCNCCCNCCCCNC(N)=N`  |
+| InChI  | `InChI=1S/C14H35N7O/c15-6-3-12-21(22)13-5-10-19-9-4-8-18-7-1-2-11-20-14(16)17/h18-19,22H,1-13,15H2,(H4,16,17,20)`  |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 318.29759          |
 | Precursor 2 [M+2H]²⁺        | 159.65243          |

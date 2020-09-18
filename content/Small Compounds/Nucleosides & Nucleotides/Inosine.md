@@ -19,8 +19,8 @@ tags = ["S-1","C-1",
 | Synonym                   |                   |
 | Molecular formula         | C₁₀H₁₂N₄O₅        |
 | CAS                       | 58-63-9           |
-| SMILES | OC1[C@@H](CO)O[C@@H](N2C=NC3=C2N=CNC3=O)C1O  |
-| InChI  | InChI=1S/C10H12N4O5/c15-1-4-6(16)7(17)10(19-4)14-3-13-5-8(14)11-2-12-9(5)18/h2-4,6-7,10,15-17H,1H2,(H,11,12,18)/t4-,6+,7?,10-/m1/s1  |
+| SMILES | `OC1[C@@H](CO)O[C@@H](N2C=NC3=C2N=CNC3=O)C1O`  |
+| InChI  | `InChI=1S/C10H12N4O5/c15-1-4-6(16)7(17)10(19-4)14-3-13-5-8(14)11-2-12-9(5)18/h2-4,6-7,10,15-17H,1H2,(H,11,12,18)/t4-,6+,7?,10-/m1/s1`  |
 |                           |                   |
 | Precursor 1 [M+H]⁺        | 269.08805         |
 | Precursor 2               |                   |

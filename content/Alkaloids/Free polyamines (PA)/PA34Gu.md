@@ -20,8 +20,8 @@ tags = ["S-3","C-1",
 | Synonym                     | ---                |
 | Molecular formula           | C₈H₂₁N₅            |
 | CAS                         | 15271-46-2         |
-| SMILES | NCCCNCCCCNC(N)=N  |
-| InChI  | InChI=1S/C8H21N5/c9-4-3-6-12-5-1-2-7-13-8(10)11/h12H,1-7,9H2,(H4,10,11,13)  |
+| SMILES | `NCCCNCCCCNC(N)=N`  |
+| InChI  | `InChI=1S/C8H21N5/c9-4-3-6-12-5-1-2-7-13-8(10)11/h12H,1-7,9H2,(H4,10,11,13)`  |
 |                             |                    |
 | Precursor 1 [M+H]⁺          | 188.18697          |
 | Precursor 2 [M+2H]²⁺        | 94.59712           |
