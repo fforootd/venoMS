@@ -1,5 +1,5 @@
 +++
-title = "2,4-(OH)₂-PhAcAsn3(Me)43"
+title = "2,4-(OH)₂-PhAcAsn3(Me)43" 
 categories = ["C23H40N6O5","P481","D241","HDX491",
 "2,4-(OH)2-PhAcAsn3(Me)43","Asn3(Me)43",
 "Araneidae"]
